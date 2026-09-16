@@ -1,0 +1,294 @@
+{
+  "source_pdf": "Charge Compensation Modulation of the Thermoelectric Properties in AgSbTe2 via Mn Amphoteric Doping.pdf",
+  "doi": "10.1021/acs.inorgchem.9b00852",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "Pristine AgSbTe2",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "82",
+          "unit": "\u03bcV K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 3, Results and Discussion",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "165",
+          "unit": "\u03bcV K-1",
+          "temperature_value": "550",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 3, Results and Discussion",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "3.84",
+          "unit": "10^4 S m-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 3, Results and Discussion",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.48",
+          "unit": "dimensionless",
+          "temperature_value": "550",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 4, Results and Discussion",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "MnSb monodoped (x=0.07)",
+      "full_formula": "AgSb1-xMnxTe2 (x=0.07)",
+      "dopant_or_codopant": [
+        {
+          "element": "Mn",
+          "ratio_or_percentage": "7 mol %",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "12.17",
+          "unit": "10^4 S m-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 3, Results and Discussion",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "58",
+          "unit": "\u03bcV K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 3, Results and Discussion",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "133",
+          "unit": "\u03bcV K-1",
+          "temperature_value": "550",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 3, Results and Discussion",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.62",
+          "unit": "dimensionless",
+          "temperature_value": "550",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 4, Results and Discussion",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "5 mol % MnAg-MnSb amphoteric doping",
+      "full_formula": "Ag1-ySb1-xMnx+yTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Mn",
+          "ratio_or_percentage": "5 mol %",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        },
+        {
+          "element": "Mn",
+          "ratio_or_percentage": "5 mol %",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "power factor",
+          "value": "1400",
+          "unit": "\u03bcW m-1 K-2",
+          "temperature_value": "550",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 5, Results and Discussion",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.74",
+          "unit": "dimensionless",
+          "temperature_value": "550",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 6, Results and Discussion",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Pristine",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.5",
+          "unit": "dimensionless",
+          "temperature_value": "550",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig 2f",
+          "notes": "Visually estimated from Fig 2f"
+        }
+      ]
+    },
+    {
+      "sample_id": "Mn_sb x=0.01",
+      "full_formula": "AgSb0.99Mn0.01Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Mn",
+          "ratio_or_percentage": "0.01",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.55",
+          "unit": "dimensionless",
+          "temperature_value": "550",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig 2f",
+          "notes": "Visually estimated from Fig 2f"
+        }
+      ]
+    },
+    {
+      "sample_id": "Mn_sb x=0.05",
+      "full_formula": "AgSb0.95Mn0.05Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Mn",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.65",
+          "unit": "dimensionless",
+          "temperature_value": "550",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig 2f",
+          "notes": "Visually estimated from Fig 2f"
+        }
+      ]
+    },
+    {
+      "sample_id": "Mn_sb x=0.07",
+      "full_formula": "AgSb0.93Mn0.07Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Mn",
+          "ratio_or_percentage": "0.07",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.68",
+          "unit": "dimensionless",
+          "temperature_value": "550",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig 2f",
+          "notes": "Visually estimated from Fig 2f"
+        }
+      ]
+    },
+    {
+      "sample_id": "Mn_ag y=0.05",
+      "full_formula": "Ag0.95Mn0.05SbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Mn",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.58",
+          "unit": "dimensionless",
+          "temperature_value": "550",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig 4d",
+          "notes": "Visually estimated from Fig 4d"
+        }
+      ]
+    },
+    {
+      "sample_id": "Mn_ag-Mn_sb x=0.05, y=0.05",
+      "full_formula": "Ag0.95Mn0.05Sb0.95Mn0.05Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Mn",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        },
+        {
+          "element": "Mn",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.74",
+          "unit": "dimensionless",
+          "temperature_value": "550",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig 4d",
+          "notes": "Visually estimated from Fig 4d"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The paper discusses Mn doping on Ag and Sb sites in AgSbTe2. MnSb is identified as a positive dopant (acceptor) and MnAg as a negative dopant (donor). Amphoteric doping refers to the simultaneous substitution of both sites. [figure-pass p6-8] The provided pages contain text discussing thermoelectric properties of Mn-doped AgSbTe2 and references to figures (Fig 4a, 4b, 4c, 4d), but the actual plots/graphs are not included in the provided image files. Therefore, no numerical data could be extracted. ",
+  "status": "ok",
+  "n_pages": 8
+}

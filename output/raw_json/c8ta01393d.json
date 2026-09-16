@@ -1,0 +1,387 @@
+{
+  "source_pdf": "c8ta01393d.pdf",
+  "doi": "10.1039/c8ta01393d",
+  "base_composition": "GeSe-AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "x=0.05",
+      "full_formula": "GeSeAg0.05Sb0.05Te0.1",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "5%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "5%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Te",
+          "ratio_or_percentage": "10%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "61213",
+          "unit": "S m-1",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "94",
+          "unit": "mV K-1",
+          "temperature_value": "301",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "1.39",
+          "unit": "W m-1 K-1",
+          "temperature_value": "301",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "x=0.1",
+      "full_formula": "GeSeAg0.1Sb0.1Te0.2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "10%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "10%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Te",
+          "ratio_or_percentage": "20%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "power factor",
+          "value": "684",
+          "unit": "mW m-1 K-2",
+          "temperature_value": "301",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "x=0.15",
+      "full_formula": "GeSeAg0.15Sb0.15Te0.3",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "15%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "15%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Te",
+          "ratio_or_percentage": "30%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "x=0.2",
+      "full_formula": "GeSeAg0.2Sb0.2Te0.4",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "20%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "20%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Te",
+          "ratio_or_percentage": "40%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.7",
+          "unit": "W m-1 K-1",
+          "temperature_value": "754",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.0",
+          "unit": "dimensionless",
+          "temperature_value": "754",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "16702",
+          "unit": "S m-1",
+          "temperature_value": "301",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "24169",
+          "unit": "S m-1",
+          "temperature_value": "754",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "177",
+          "unit": "mV K-1",
+          "temperature_value": "301",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "261",
+          "unit": "mV K-1",
+          "temperature_value": "608",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "231",
+          "unit": "mV K-1",
+          "temperature_value": "754",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "1440",
+          "unit": "mW m-1 K-2",
+          "temperature_value": "659",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.96",
+          "unit": "dimensionless",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "GeSe-xAgSbTe2 (x=0.05)",
+      "full_formula": "GeSe-0.05AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "x=0.05",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "x=0.05",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Te",
+          "ratio_or_percentage": "x=0.05",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.6",
+          "unit": "dimensionless",
+          "temperature_value": "750",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5a",
+          "notes": "Visually estimated from Fig. 5a"
+        }
+      ]
+    },
+    {
+      "sample_id": "GeSe-xAgSbTe2 (x=0.1)",
+      "full_formula": "GeSe-0.1AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "x=0.1",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "x=0.1",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Te",
+          "ratio_or_percentage": "x=0.1",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.8",
+          "unit": "dimensionless",
+          "temperature_value": "750",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5a",
+          "notes": "Visually estimated from Fig. 5a"
+        }
+      ]
+    },
+    {
+      "sample_id": "GeSe-xAgSbTe2 (x=0.15)",
+      "full_formula": "GeSe-0.15AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "x=0.15",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "x=0.15",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Te",
+          "ratio_or_percentage": "x=0.15",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.9",
+          "unit": "dimensionless",
+          "temperature_value": "750",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5a",
+          "notes": "Visually estimated from Fig. 5a"
+        }
+      ]
+    },
+    {
+      "sample_id": "GeSe-xAgSbTe2 (x=0.2)",
+      "full_formula": "GeSe-0.2AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "x=0.2",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "x=0.2",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Te",
+          "ratio_or_percentage": "x=0.2",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.95",
+          "unit": "dimensionless",
+          "temperature_value": "750",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5a",
+          "notes": "Visually estimated from Fig. 5a"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The samples are GeSe alloyed with AgSbTe2, denoted as GeSeAgxSbxTe2x. The dopant sites are not explicitly stated as Ag, Sb, or Te substitution, so 'unclear' is used. Values were extracted from the body text. [figure-pass p1-5] The paper discusses GeSe alloyed with AgSbTe2. The samples are GeSe-xAgSbTe2. The plots in Fig 3 and Fig 5 show properties for various x values. Values for ZT at 750K were estimated from Fig 5a. [figure-pass p6-6] The provided page contains only a list of references and no thermoelectric property data or plots for AgSbTe2-family compounds. ",
+  "status": "ok",
+  "n_pages": 6
+}

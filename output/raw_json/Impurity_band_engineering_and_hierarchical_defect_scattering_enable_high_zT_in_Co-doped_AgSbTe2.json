@@ -1,0 +1,390 @@
+{
+  "source_pdf": "Impurity band engineering and hierarchical defect scattering enable high zT in Co-doped AgSbTe2.pdf",
+  "doi": "10.1039/d5ta09240j",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "AgSbTe2 (pristine)",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "225",
+          "unit": "S cm-1",
+          "temperature_value": "298",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "200",
+          "unit": "mV K-1",
+          "temperature_value": "298",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "250",
+          "unit": "mV K-1",
+          "temperature_value": "623",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "225",
+          "unit": "mV K-1",
+          "temperature_value": "648",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.7",
+          "unit": "W m-1 K-1",
+          "temperature_value": "298-648",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.59",
+          "unit": "W m-1 K-1",
+          "temperature_value": "289",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.42",
+          "unit": "W m-1 K-1",
+          "temperature_value": "648",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.2",
+          "unit": "dimensionless",
+          "temperature_value": "648",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSb0.97Co0.03Te2",
+      "full_formula": "AgSb0.97Co0.03Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Co",
+          "ratio_or_percentage": "x=0.03",
+          "doped_site": "Sb",
+          "site_evidence": "lattice parameter increase indicates Co substitution of Sb"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "325",
+          "unit": "S cm-1",
+          "temperature_value": "298",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "80",
+          "unit": "mV K-1",
+          "temperature_value": "298",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "220",
+          "unit": "mV K-1",
+          "temperature_value": "648",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.50",
+          "unit": "W m-1 K-1",
+          "temperature_value": "298",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.45",
+          "unit": "W m-1 K-1",
+          "temperature_value": "648",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.30",
+          "unit": "W m-1 K-1",
+          "temperature_value": "289-573",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.10",
+          "unit": "W m-1 K-1",
+          "temperature_value": "648",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.6",
+          "unit": "dimensionless",
+          "temperature_value": "648",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSb1-xCoxTe2 (x=0)",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "AgSb1-xCoxTe2 (x=0.01)",
+      "full_formula": "AgSb0.99Co0.01Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Co",
+          "ratio_or_percentage": "x=0.01",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "AgSb1-xCoxTe2 (x=0.02)",
+      "full_formula": "AgSb0.98Co0.02Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Co",
+          "ratio_or_percentage": "x=0.02",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "AgSb1-xCoxTe2 (x=0.03)",
+      "full_formula": "AgSb0.97Co0.03Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Co",
+          "ratio_or_percentage": "x=0.03",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "AgSb1-xCoxTe2 (x=0.04)",
+      "full_formula": "AgSb0.96Co0.04Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Co",
+          "ratio_or_percentage": "x=0.04",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "AgSb1-xCoxTe2 (x=0)",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "225",
+          "unit": "S cm-1",
+          "temperature_value": "298",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6a",
+          "notes": "Visually estimated from Fig. 6a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "200",
+          "unit": "uV K-1",
+          "temperature_value": "298",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6b",
+          "notes": "Visually estimated from Fig. 6b"
+        },
+        {
+          "property": "power factor",
+          "value": "2",
+          "unit": "uW cm-1 K-2",
+          "temperature_value": "298",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6c",
+          "notes": "Visually estimated from Fig. 6c"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.7",
+          "unit": "W m-1 K-1",
+          "temperature_value": "298",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6d",
+          "notes": "Visually estimated from Fig. 6d"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.6",
+          "unit": "W m-1 K-1",
+          "temperature_value": "298",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6e",
+          "notes": "Visually estimated from Fig. 6e"
+        },
+        {
+          "property": "ZT",
+          "value": "0.2",
+          "unit": "dimensionless",
+          "temperature_value": "298",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6f",
+          "notes": "Visually estimated from Fig. 6f"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSb1-xCoxTe2 (x=0.03)",
+      "full_formula": "AgSb0.97Co0.03Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Co",
+          "ratio_or_percentage": "x=0.03",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "325",
+          "unit": "S cm-1",
+          "temperature_value": "298",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6a",
+          "notes": "Visually estimated from Fig. 6a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "80",
+          "unit": "uV K-1",
+          "temperature_value": "298",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6b",
+          "notes": "Visually estimated from Fig. 6b"
+        },
+        {
+          "property": "power factor",
+          "value": "4",
+          "unit": "uW cm-1 K-2",
+          "temperature_value": "298",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6c",
+          "notes": "Visually estimated from Fig. 6c"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.5",
+          "unit": "W m-1 K-1",
+          "temperature_value": "298",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6d",
+          "notes": "Visually estimated from Fig. 6d"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.3",
+          "unit": "W m-1 K-1",
+          "temperature_value": "298",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6e",
+          "notes": "Visually estimated from Fig. 6e"
+        },
+        {
+          "property": "ZT",
+          "value": "1.6",
+          "unit": "dimensionless",
+          "temperature_value": "648",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6f",
+          "notes": "Visually estimated from Fig. 6f"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The paper reports a series of AgSb1-xCoxTe2 samples (x=0, 0.01, 0.02, 0.03, 0.04). Data for the pristine sample (x=0) and the optimized sample (x=0.03) were extracted from the text. Other compositions were mentioned but specific numerical values were not explicitly provided in the text for all properties. [figure-pass p1-5] The provided pages contain information about the synthesis and characterization of Co-doped AgSbTe2, but do not contain any plots or tables showing thermoelectric properties (Seebeck coefficient, electrical conductivity, thermal conductivity, power factor, or ZT) as a function of temperature. Therefore, no thermoelectric property data could be extracted. [figure-pass p6-9] Data extracted from Fig. 6 and associated text descriptions. Values are visual estimates from the plots. ",
+  "status": "ok",
+  "n_pages": 9
+}

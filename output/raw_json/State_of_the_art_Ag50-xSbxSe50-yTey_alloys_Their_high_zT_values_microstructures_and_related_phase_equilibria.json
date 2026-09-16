@@ -1,0 +1,905 @@
+{
+  "source_pdf": "State of the art Ag50-xSbxSe50-yTey alloys Their high zT values, microstructures and related phase equilibria.pdf",
+  "doi": "10.1016/j.actamat.2015.04.011",
+  "base_composition": "AgSbTe2-family",
+  "materials": [
+    {
+      "sample_id": "25Te(S)",
+      "full_formula": "Ag25Sb25Se25Te25",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "180",
+          "unit": "lV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "15.625",
+          "unit": "S/cm",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": "Calculated from resistivity 64 mOhm cm"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.37",
+          "unit": "W/mK",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.36",
+          "unit": "W/mK",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "30Te(S)",
+      "full_formula": "Ag25Sb25Se20Te30",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "161",
+          "unit": "lV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "35.714",
+          "unit": "S/cm",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": "Calculated from resistivity 28 mOhm cm"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.41",
+          "unit": "W/mK",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.39",
+          "unit": "W/mK",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "35Te(S)",
+      "full_formula": "Ag25Sb25Se15Te35",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "226",
+          "unit": "lV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "50",
+          "unit": "S/cm",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": "Calculated from resistivity 20 mOhm cm"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.46",
+          "unit": "W/mK",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.44",
+          "unit": "W/mK",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "40Te(S)",
+      "full_formula": "Ag25Sb25Se10Te40",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "206",
+          "unit": "lV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "76.923",
+          "unit": "S/cm",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": "Calculated from resistivity 13 mOhm cm"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.53",
+          "unit": "W/mK",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.48",
+          "unit": "W/mK",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.4",
+          "unit": "dimensionless",
+          "temperature_value": "680",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "45Te(S)",
+      "full_formula": "Ag25Sb25Se5Te45",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "216",
+          "unit": "lV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "90.909",
+          "unit": "S/cm",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": "Calculated from resistivity 11 mOhm cm"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.41",
+          "unit": "W/mK",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.36",
+          "unit": "W/mK",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.4",
+          "unit": "dimensionless",
+          "temperature_value": "680",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "25Te",
+      "full_formula": "Ag20Sb30Se25Te25",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "5",
+          "unit": "lV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "40",
+          "unit": "S/cm",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": "Calculated from resistivity 25 mOhm cm"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.68",
+          "unit": "W/mK",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.45",
+          "unit": "W/mK",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "30Te",
+      "full_formula": "Ag20Sb30Se20Te30",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "19",
+          "unit": "lV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "58.824",
+          "unit": "S/cm",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": "Calculated from resistivity 17 mOhm cm"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.50",
+          "unit": "W/mK",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.45",
+          "unit": "W/mK",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "35Te",
+      "full_formula": "Ag20Sb30Se15Te35",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "41",
+          "unit": "lV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "83.333",
+          "unit": "S/cm",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": "Calculated from resistivity 12 mOhm cm"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.63",
+          "unit": "W/mK",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.56",
+          "unit": "W/mK",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "40Te",
+      "full_formula": "Ag20Sb30Se10Te40",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "44",
+          "unit": "lV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "100",
+          "unit": "S/cm",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": "Calculated from resistivity 10 mOhm cm"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.68",
+          "unit": "W/mK",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.61",
+          "unit": "W/mK",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "45Te",
+      "full_formula": "Ag20Sb30Se5Te45",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "70",
+          "unit": "lV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "166.667",
+          "unit": "S/cm",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": "Calculated from resistivity 6 mOhm cm"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.75",
+          "unit": "W/mK",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.64",
+          "unit": "W/mK",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "25Te(S)",
+      "full_formula": "Ag25Sb25Se25Te25",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.1",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 1",
+          "notes": "Visually estimated from Fig. 1"
+        },
+        {
+          "property": "ZT",
+          "value": "0.6",
+          "unit": "dimensionless",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 1",
+          "notes": "Visually estimated from Fig. 1"
+        },
+        {
+          "property": "ZT",
+          "value": "0.8",
+          "unit": "dimensionless",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 1",
+          "notes": "Visually estimated from Fig. 1"
+        }
+      ]
+    },
+    {
+      "sample_id": "30Te(S)",
+      "full_formula": "Ag25Sb25Se20Te30",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.2",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 1",
+          "notes": "Visually estimated from Fig. 1"
+        },
+        {
+          "property": "ZT",
+          "value": "0.8",
+          "unit": "dimensionless",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 1",
+          "notes": "Visually estimated from Fig. 1"
+        },
+        {
+          "property": "ZT",
+          "value": "1.2",
+          "unit": "dimensionless",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 1",
+          "notes": "Visually estimated from Fig. 1"
+        }
+      ]
+    },
+    {
+      "sample_id": "35Te(S)",
+      "full_formula": "Ag25Sb25Se15Te35",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.2",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 1",
+          "notes": "Visually estimated from Fig. 1"
+        },
+        {
+          "property": "ZT",
+          "value": "0.7",
+          "unit": "dimensionless",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 1",
+          "notes": "Visually estimated from Fig. 1"
+        },
+        {
+          "property": "ZT",
+          "value": "0.9",
+          "unit": "dimensionless",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 1",
+          "notes": "Visually estimated from Fig. 1"
+        }
+      ]
+    },
+    {
+      "sample_id": "40Te(S)",
+      "full_formula": "Ag25Sb25Se10Te40",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.3",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 1",
+          "notes": "Visually estimated from Fig. 1"
+        },
+        {
+          "property": "ZT",
+          "value": "0.9",
+          "unit": "dimensionless",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 1",
+          "notes": "Visually estimated from Fig. 1"
+        },
+        {
+          "property": "ZT",
+          "value": "1.4",
+          "unit": "dimensionless",
+          "temperature_value": "680",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 1",
+          "notes": "Visually estimated from Fig. 1"
+        }
+      ]
+    },
+    {
+      "sample_id": "45Te(S)",
+      "full_formula": "Ag25Sb25Se5Te45",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.3",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 1",
+          "notes": "Visually estimated from Fig. 1"
+        },
+        {
+          "property": "ZT",
+          "value": "0.9",
+          "unit": "dimensionless",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 1",
+          "notes": "Visually estimated from Fig. 1"
+        },
+        {
+          "property": "ZT",
+          "value": "1.4",
+          "unit": "dimensionless",
+          "temperature_value": "680",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 1",
+          "notes": "Visually estimated from Fig. 1"
+        }
+      ]
+    },
+    {
+      "sample_id": "25Te(S)",
+      "full_formula": "Ag0.25SbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.25",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "65",
+          "unit": "mOhm cm",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4a",
+          "notes": "Visually estimated from Fig. 4a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "180",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4b",
+          "notes": "Visually estimated from Fig. 4b"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.55",
+          "unit": "W/mK",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4f",
+          "notes": "Visually estimated from Fig. 4f"
+        }
+      ]
+    },
+    {
+      "sample_id": "30Te(S)",
+      "full_formula": "Ag0.30SbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.30",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "22",
+          "unit": "mOhm cm",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4a",
+          "notes": "Visually estimated from Fig. 4a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "200",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4b",
+          "notes": "Visually estimated from Fig. 4b"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.50",
+          "unit": "W/mK",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4f",
+          "notes": "Visually estimated from Fig. 4f"
+        }
+      ]
+    },
+    {
+      "sample_id": "35Te(S)",
+      "full_formula": "Ag0.35SbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.35",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "18",
+          "unit": "mOhm cm",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4a",
+          "notes": "Visually estimated from Fig. 4a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "220",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4b",
+          "notes": "Visually estimated from Fig. 4b"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.45",
+          "unit": "W/mK",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4f",
+          "notes": "Visually estimated from Fig. 4f"
+        }
+      ]
+    },
+    {
+      "sample_id": "40Te(S)",
+      "full_formula": "Ag0.40SbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.40",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "12",
+          "unit": "mOhm cm",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4a",
+          "notes": "Visually estimated from Fig. 4a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "240",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4b",
+          "notes": "Visually estimated from Fig. 4b"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.40",
+          "unit": "W/mK",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4f",
+          "notes": "Visually estimated from Fig. 4f"
+        }
+      ]
+    },
+    {
+      "sample_id": "45Te(S)",
+      "full_formula": "Ag0.45SbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.45",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "10",
+          "unit": "mOhm cm",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4a",
+          "notes": "Visually estimated from Fig. 4a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "250",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4b",
+          "notes": "Visually estimated from Fig. 4b"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.35",
+          "unit": "W/mK",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4f",
+          "notes": "Visually estimated from Fig. 4f"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The paper investigates Ag50-xSbxSe50-yTey alloys. Stoichiometric (x=25) and non-stoichiometric (x=30) samples are treated as alloys of AgSbTe2 and AgSbSe2. Electrical conductivity values were calculated from the provided electrical resistivity (q) values in Table 1. [figure-pass p1-5] Only ZT vs Temperature data from Fig. 1 was extracted as it was the only property-vs-temperature plot provided. Table 1 provides room temperature data only. [figure-pass p6-8] Data extracted from Fig. 4a, 4b, and 4f. Samples are labeled as 25Te(S), 30Te(S), 35Te(S), 40Te(S), and 45Te(S) in the figures, corresponding to Ag-deficient AgSbTe2 alloys. ",
+  "status": "ok",
+  "n_pages": 8
+}

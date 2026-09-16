@@ -1,0 +1,203 @@
+{
+  "source_pdf": "Advanced Materials - 2006 - Androulakis - Nanostructuring and High Thermoelectric Efficiency in p\u2010Type Ag Pb1   ySny mSbTe2.pdf",
+  "doi": "10.1002/adma.200502770",
+  "base_composition": "Ag(Pb1-ySny)mSbTe2+m",
+  "materials": [
+    {
+      "sample_id": "Ag0.5Pb6Sn2Sb0.2Te10",
+      "full_formula": "Ag0.5Pb6Sn2Sb0.2Te10",
+      "dopant_or_codopant": [
+        {
+          "element": "Pb",
+          "ratio_or_percentage": "1-y",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sn",
+          "ratio_or_percentage": "y",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "0.2",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "1000",
+          "unit": "S cm-1",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "text",
+          "source_detail": "Page 2, body text",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "200",
+          "unit": "S cm-1",
+          "temperature_value": "700",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Page 2, body text",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.45",
+          "unit": "dimensionless",
+          "temperature_value": "627",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Page 3, body text",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgPb12Sn4Sb0.4Te20",
+      "full_formula": "AgPb12Sn4Sb0.4Te20",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.70",
+          "unit": "W m-1 K-1",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "text",
+          "source_detail": "Page 3, body text",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.43",
+          "unit": "W m-1 K-1",
+          "temperature_value": "620",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Page 3, body text",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgPb14Sn6Sb0.4Te24",
+      "full_formula": "AgPb14Sn6Sb0.4Te24",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "AgPb10Sn10Sb0.67Te22",
+      "full_formula": "AgPb10Sn10Sb0.67Te22",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "Ag0.9Pb5Sn3Sb0.7Te12",
+      "full_formula": "Ag0.9Pb5Sn3Sb0.7Te12",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "Ag0.5Pb6Sn2Sb0.2Te10",
+      "full_formula": "Ag0.5Pb6Sn2Sb0.2Te10",
+      "dopant_or_codopant": [
+        {
+          "element": "Pb",
+          "ratio_or_percentage": "6",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sn",
+          "ratio_or_percentage": "2",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "0.2",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "1000",
+          "unit": "S/cm",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 1a",
+          "notes": "Visually estimated from Fig. 1a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "50",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 1a",
+          "notes": "Visually estimated from Fig. 1a"
+        },
+        {
+          "property": "ZT",
+          "value": "1.45",
+          "unit": "dimensionless",
+          "temperature_value": "627",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3a",
+          "notes": "Visually estimated from Fig. 3a"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgPb12Sn4Sb0.4Te20",
+      "full_formula": "AgPb12Sn4Sb0.4Te20",
+      "dopant_or_codopant": [
+        {
+          "element": "Pb",
+          "ratio_or_percentage": "12",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sn",
+          "ratio_or_percentage": "4",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "0.4",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.7",
+          "unit": "W/mK",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 1d",
+          "notes": "Visually estimated from Fig. 1d"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The Ag(Pb1-ySny)mSbTe2+m series is described as a bulk nanocomposite. Doping sites are inferred based on the formula structure where Pb/Sn/Sb are substituted into the AgSbTe2 parent lattice. Specific property values were extracted from the text and Figure 1d/3a. [figure-pass p1-4] Data extracted from figures 1 and 3. Only representative samples with clear data points were included. ",
+  "status": "ok",
+  "n_pages": 4
+}

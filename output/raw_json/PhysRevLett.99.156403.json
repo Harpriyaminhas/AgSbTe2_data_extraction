@@ -1,0 +1,64 @@
+{
+  "source_pdf": "PhysRevLett.99.156403.pdf",
+  "doi": "10.1103/PhysRevLett.99.156403",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "AgSbTe2",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "38",
+          "unit": "S/cm",
+          "temperature_value": "170",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 4, column 1",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "19",
+          "unit": "S/cm",
+          "temperature_value": "473",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 4, column 1",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbTe2",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "38",
+          "unit": "S cm^-1",
+          "temperature_value": "170",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3b",
+          "notes": "Visually estimated from Fig. 3b"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "19",
+          "unit": "S cm^-1",
+          "temperature_value": "473",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3b",
+          "notes": "Visually estimated from Fig. 3b"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The article focuses on theoretical electronic structure calculations of AgSbTe2 and related compounds. Experimental electrical conductivity data for AgSbTe2 was extracted from the body text on page 4. No doping data was reported for the samples discussed. [figure-pass p1-4] The paper focuses on theoretical calculations of AgSbTe2 and related compounds. Experimental electrical conductivity data for AgSbTe2 is provided in Fig. 3b and discussed in the text. No doping data is provided for the samples mentioned. ",
+  "status": "ok",
+  "n_pages": 4
+}

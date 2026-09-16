@@ -1,0 +1,344 @@
+{
+  "source_pdf": "1-s2.0-S1359645412005150-main.pdf",
+  "doi": "10.1016/j.actamat.2012.07.057",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "3 at.% Pb",
+      "full_formula": "Ag20Sb27Te50Pb3",
+      "dopant_or_codopant": [
+        {
+          "element": "Pb",
+          "ratio_or_percentage": "3 at.%",
+          "doped_site": "Sb",
+          "site_evidence": "The increase in lattice parameters is expected as a result of the substitution of Sb3+ by Pb2+."
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.7-0.8",
+          "unit": "dimensionless",
+          "temperature_value": "425",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Abstract",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "4 at.% Pb",
+      "full_formula": "Ag20Sb26Te50Pb4",
+      "dopant_or_codopant": [
+        {
+          "element": "Pb",
+          "ratio_or_percentage": "4 at.%",
+          "doped_site": "Sb",
+          "site_evidence": "The increase in lattice parameters is expected as a result of the substitution of Sb3+ by Pb2+."
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.7-0.8",
+          "unit": "dimensionless",
+          "temperature_value": "425",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Abstract",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "5 at.% Pb",
+      "full_formula": "Ag20Sb25Te50Pb5",
+      "dopant_or_codopant": [
+        {
+          "element": "Pb",
+          "ratio_or_percentage": "5 at.%",
+          "doped_site": "Sb",
+          "site_evidence": "The increase in lattice parameters is expected as a result of the substitution of Sb3+ by Pb2+."
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "thermal conductivity",
+          "value": "0.3-0.4",
+          "unit": "W m-1 K-1",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "body text",
+          "source_detail": "Abstract",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.7-0.8",
+          "unit": "dimensionless",
+          "temperature_value": "425",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Abstract",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "6 at.% Pb",
+      "full_formula": "Ag20Sb24Te50Pb6",
+      "dopant_or_codopant": [
+        {
+          "element": "Pb",
+          "ratio_or_percentage": "6 at.%",
+          "doped_site": "Sb",
+          "site_evidence": "The increase in lattice parameters is expected as a result of the substitution of Sb3+ by Pb2+."
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "thermal conductivity",
+          "value": "0.3-0.4",
+          "unit": "W m-1 K-1",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "body text",
+          "source_detail": "Abstract",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.7-0.8",
+          "unit": "dimensionless",
+          "temperature_value": "425",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Abstract",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "5 at.% Pb (annealed)",
+      "full_formula": "Ag20Sb25Te50Pb5",
+      "dopant_or_codopant": [
+        {
+          "element": "Pb",
+          "ratio_or_percentage": "5 at.%",
+          "doped_site": "Sb",
+          "site_evidence": "The increase in lattice parameters is expected as a result of the substitution of Sb3+ by Pb2+."
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.4",
+          "unit": "dimensionless",
+          "temperature_value": "425",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Abstract",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Pb-alloyed AgSbTe2 (x=3)",
+      "full_formula": "Pb3Ag20Sb27Te50",
+      "dopant_or_codopant": [
+        {
+          "element": "Pb",
+          "ratio_or_percentage": "3 at.%",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "Pb-alloyed AgSbTe2 (x=4)",
+      "full_formula": "Pb4Ag20Sb26Te50",
+      "dopant_or_codopant": [
+        {
+          "element": "Pb",
+          "ratio_or_percentage": "4 at.%",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "Pb-alloyed AgSbTe2 (x=5)",
+      "full_formula": "Pb5Ag20Sb25Te50",
+      "dopant_or_codopant": [
+        {
+          "element": "Pb",
+          "ratio_or_percentage": "5 at.%",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "Pb-alloyed AgSbTe2 (x=6)",
+      "full_formula": "Pb6Ag20Sb24Te50",
+      "dopant_or_codopant": [
+        {
+          "element": "Pb",
+          "ratio_or_percentage": "6 at.%",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "Pb-doped AgSbTe2 (3 at.%)",
+      "full_formula": "PbxAgSbTe2 (x=0.03)",
+      "dopant_or_codopant": [
+        {
+          "element": "Pb",
+          "ratio_or_percentage": "3 at.%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "300",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "150",
+          "unit": "uV/K",
+          "temperature_value": "650",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5a"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "60",
+          "unit": "m ohm cm",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5b (Resistivity)"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "15",
+          "unit": "m ohm cm",
+          "temperature_value": "650",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5b (Resistivity)"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.6",
+          "unit": "W/mK",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5c"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.8",
+          "unit": "W/mK",
+          "temperature_value": "650",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5c"
+        },
+        {
+          "property": "ZT",
+          "value": "0.3",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5d"
+        },
+        {
+          "property": "ZT",
+          "value": "0.2",
+          "unit": "dimensionless",
+          "temperature_value": "650",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5d"
+        }
+      ]
+    },
+    {
+      "sample_id": "Pb-doped AgSbTe2 (5 at.%)",
+      "full_formula": "PbxAgSbTe2 (x=0.05)",
+      "dopant_or_codopant": [
+        {
+          "element": "Pb",
+          "ratio_or_percentage": "5 at.%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.8",
+          "unit": "dimensionless",
+          "temperature_value": "425",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5d; peak value"
+        }
+      ]
+    },
+    {
+      "sample_id": "Pb-doped AgSbTe2 (5 at.%, annealed)",
+      "full_formula": "PbxAgSbTe2 (x=0.05)",
+      "dopant_or_codopant": [
+        {
+          "element": "Pb",
+          "ratio_or_percentage": "5 at.%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.4",
+          "unit": "dimensionless",
+          "temperature_value": "425",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5d"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[figure-pass p1-5] The provided pages contain XRD and microstructure images, but do not contain the property-vs-temperature plots (Fig 5a, 5b, 5c mentioned in text are not present in the provided images). Therefore, no thermoelectric property values could be extracted. [figure-pass p6-8] Data extracted from Fig. 5. Resistivity is plotted in Fig 5b, which is the inverse of electrical conductivity. Values for 3 at.% Pb were estimated from the red curves in Fig 5a-d. Peak ZT for 5 at.% Pb and annealed 5 at.% Pb were extracted from Fig 5d and text. ",
+  "status": "ok",
+  "n_pages": 8
+}

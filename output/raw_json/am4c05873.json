@@ -1,0 +1,515 @@
+{
+  "source_pdf": "am4c05873.pdf",
+  "doi": "10.1021/acsami.4c05873",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "AgSbTe2",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "15000",
+          "unit": "S/m",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "body text",
+          "source_detail": "Page 3",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "29000",
+          "unit": "S/m",
+          "temperature_value": "573",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 3",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSb0.98Mg0.02Te2",
+      "full_formula": "AgSb0.98Mg0.02Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Mg",
+          "ratio_or_percentage": "0.02",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "carrier mobility",
+          "value": "45.5",
+          "unit": "cm2 V-1 S-1",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "body text",
+          "source_detail": "Page 4",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSb0.96Mg0.02Ti0.02Te2",
+      "full_formula": "AgSb0.96Mg0.02Ti0.02Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Mg",
+          "ratio_or_percentage": "0.02",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        },
+        {
+          "element": "Ti",
+          "ratio_or_percentage": "0.02",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "power factor",
+          "value": "15",
+          "unit": "\u03bcW/(cm K2)",
+          "temperature_value": "523",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 2",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.33",
+          "unit": "W/(m K)",
+          "temperature_value": "523",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 2",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.45",
+          "unit": "dimensionless",
+          "temperature_value": "573",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 2",
+          "notes": ""
+        },
+        {
+          "property": "total thermal conductivity",
+          "value": "0.58",
+          "unit": "W/(m K)",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "body text",
+          "source_detail": "Page 6",
+          "notes": ""
+        },
+        {
+          "property": "total thermal conductivity",
+          "value": "0.76",
+          "unit": "W/(m K)",
+          "temperature_value": "573",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 6",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSb0.94Mg0.02Ti0.04Te2",
+      "full_formula": "AgSb0.94Mg0.02Ti0.04Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Mg",
+          "ratio_or_percentage": "0.02",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        },
+        {
+          "element": "Ti",
+          "ratio_or_percentage": "0.04",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "carrier mobility",
+          "value": "45.5",
+          "unit": "cm2 V-1 S-1",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "body text",
+          "source_detail": "Page 4",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbTe2 (AST)",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "15000",
+          "unit": "S/m",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "29000",
+          "unit": "S/m",
+          "temperature_value": "573",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag0.98-xMg0.02TixTe2 (x=0.03)",
+      "full_formula": "Ag0.95Mg0.02Ti0.03Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Mg",
+          "ratio_or_percentage": "0.02",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Ti",
+          "ratio_or_percentage": "0.03",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "25000",
+          "unit": "S/m",
+          "temperature_value": "523",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "32000",
+          "unit": "S/m",
+          "temperature_value": "573",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag0.96Mg0.02Ti0.02Te2",
+      "full_formula": "Ag0.96Mg0.02Ti0.02Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Mg",
+          "ratio_or_percentage": "0.02",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Ti",
+          "ratio_or_percentage": "0.02",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "power factor",
+          "value": "15",
+          "unit": "uW/(cm K^2)",
+          "temperature_value": "523",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.33",
+          "unit": "W/(m K)",
+          "temperature_value": "523",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.45",
+          "unit": "dimensionless",
+          "temperature_value": "573",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbTe2",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.6",
+          "unit": "dimensionless",
+          "temperature_value": "323",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7",
+          "notes": "Visually estimated from Fig. 7"
+        },
+        {
+          "property": "ZT",
+          "value": "0.8",
+          "unit": "dimensionless",
+          "temperature_value": "423",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7",
+          "notes": "Visually estimated from Fig. 7"
+        },
+        {
+          "property": "ZT",
+          "value": "0.9",
+          "unit": "dimensionless",
+          "temperature_value": "523",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7",
+          "notes": "Visually estimated from Fig. 7"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag0.98-xMg0.02TixTe2 (x=0.01)",
+      "full_formula": "Ag0.97Mg0.02Ti0.01Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Mg",
+          "ratio_or_percentage": "0.02",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Ti",
+          "ratio_or_percentage": "0.01",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.7",
+          "unit": "dimensionless",
+          "temperature_value": "323",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7",
+          "notes": "Visually estimated from Fig. 7"
+        },
+        {
+          "property": "ZT",
+          "value": "1.1",
+          "unit": "dimensionless",
+          "temperature_value": "423",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7",
+          "notes": "Visually estimated from Fig. 7"
+        },
+        {
+          "property": "ZT",
+          "value": "1.2",
+          "unit": "dimensionless",
+          "temperature_value": "523",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7",
+          "notes": "Visually estimated from Fig. 7"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag0.98-xMg0.02TixTe2 (x=0.02)",
+      "full_formula": "Ag0.96Mg0.02Ti0.02Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Mg",
+          "ratio_or_percentage": "0.02",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Ti",
+          "ratio_or_percentage": "0.02",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.75",
+          "unit": "dimensionless",
+          "temperature_value": "323",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7",
+          "notes": "Visually estimated from Fig. 7"
+        },
+        {
+          "property": "ZT",
+          "value": "1.2",
+          "unit": "dimensionless",
+          "temperature_value": "423",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7",
+          "notes": "Visually estimated from Fig. 7"
+        },
+        {
+          "property": "ZT",
+          "value": "1.45",
+          "unit": "dimensionless",
+          "temperature_value": "523",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7",
+          "notes": "Visually estimated from Fig. 7"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag0.98-xMg0.02TixTe2 (x=0.03)",
+      "full_formula": "Ag0.95Mg0.02Ti0.03Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Mg",
+          "ratio_or_percentage": "0.02",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Ti",
+          "ratio_or_percentage": "0.03",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.7",
+          "unit": "dimensionless",
+          "temperature_value": "323",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7",
+          "notes": "Visually estimated from Fig. 7"
+        },
+        {
+          "property": "ZT",
+          "value": "1.1",
+          "unit": "dimensionless",
+          "temperature_value": "423",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7",
+          "notes": "Visually estimated from Fig. 7"
+        },
+        {
+          "property": "ZT",
+          "value": "1.3",
+          "unit": "dimensionless",
+          "temperature_value": "523",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7",
+          "notes": "Visually estimated from Fig. 7"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag0.98-xMg0.02TixTe2 (x=0.04)",
+      "full_formula": "Ag0.94Mg0.02Ti0.04Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Mg",
+          "ratio_or_percentage": "0.02",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Ti",
+          "ratio_or_percentage": "0.04",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.65",
+          "unit": "dimensionless",
+          "temperature_value": "323",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7",
+          "notes": "Visually estimated from Fig. 7"
+        },
+        {
+          "property": "ZT",
+          "value": "1.0",
+          "unit": "dimensionless",
+          "temperature_value": "423",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7",
+          "notes": "Visually estimated from Fig. 7"
+        },
+        {
+          "property": "ZT",
+          "value": "1.15",
+          "unit": "dimensionless",
+          "temperature_value": "523",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7",
+          "notes": "Visually estimated from Fig. 7"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The doping site for Mg and Ti is inferred as Sb based on the stoichiometric formula AgSb0.98-xMg0.02TixTe2 and the text stating 'substitution of two Sb atoms in the structure with one Mg atom and one Ti atom each'. [figure-pass p1-5] Data extracted from body text and figures. Electrical conductivity values for x=0 and x=0.03 samples were explicitly mentioned in the text. Power factor, thermal conductivity, and ZT values for the Ag0.96Mg0.02Ti0.02Te2 sample were also explicitly mentioned in the text. ",
+  "status": "ok",
+  "n_pages": 9
+}

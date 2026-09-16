@@ -1,0 +1,9 @@
+{
+  "source_pdf": "ChemNanoMat - 2022 - Cui - Advances and Challenges of AgSbSe2\u2010based Thermoelectric Materials.pdf",
+  "doi": "10.1002/cnma.202200301",
+  "base_composition": "AgSbSe2",
+  "materials": [],
+  "extraction_notes": "[text-pass] The provided article is a review paper focused on AgSbSe2-based thermoelectric materials. While it mentions AgSbTe2 as a reference compound and cites specific high-performance values for AgSbTe2-based alloys (e.g., ZT of 1.53 at 720 K for TAGS, ZT of 2.2 at 800 K for LAST, and ZT of 2.6 at 573 K for Cd-doped AgSbTe2), it does not provide the detailed, sample-specific doping and thermoelectric property data tables required for extraction. The article serves as a review and does not contain primary experimental data tables for AgSbTe2-family compounds. [figure-pass p1-5] The provided pages are from a review article that discusses AgSbTe2 and AgSbSe2, but they do not contain any plots or tables showing thermoelectric properties (Seebeck coefficient, electrical conductivity, thermal conductivity, power factor, or ZT) as a function of temperature for specific AgSbTe2-family samples. [figure-pass p6-8] The provided pages contain review text and plots showing carrier concentration vs. dopant percentage, power factor vs. carrier concentration, and Seebeck coefficient vs. carrier concentration (Pisarenko plots). However, there are no plots showing thermoelectric properties as a function of temperature for any specific AgSbTe2-family compound. Therefore, no thermoelectric property data could be extracted. ",
+  "status": "ok",
+  "n_pages": 8
+}

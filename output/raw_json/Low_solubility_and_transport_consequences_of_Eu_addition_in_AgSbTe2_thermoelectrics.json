@@ -1,0 +1,384 @@
+{
+  "source_pdf": "Low solubility and transport consequences of Eu addition in AgSbTe2 thermoelectrics.pdf",
+  "doi": "10.1016/j.physb.2026.418712",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "0 wt% Eu",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "1.70 \u00d7 10^4",
+          "unit": "\u03a9^-1m^-1",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "2 wt% Eu",
+      "full_formula": "AgSbTe2:Eu (2 wt%)",
+      "dopant_or_codopant": [
+        {
+          "element": "Eu",
+          "ratio_or_percentage": "2 wt%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "0.41 \u00d7 10^4",
+          "unit": "\u03a9^-1m^-1",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "4 wt% Eu",
+      "full_formula": "AgSbTe2:Eu (4 wt%)",
+      "dopant_or_codopant": [
+        {
+          "element": "Eu",
+          "ratio_or_percentage": "4 wt%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "0.37 \u00d7 10^4",
+          "unit": "\u03a9^-1m^-1",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "6 wt% Eu",
+      "full_formula": "AgSbTe2:Eu (6 wt%)",
+      "dopant_or_codopant": [
+        {
+          "element": "Eu",
+          "ratio_or_percentage": "6 wt%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "0.34 \u00d7 10^4",
+          "unit": "\u03a9^-1m^-1",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "8 wt% Eu",
+      "full_formula": "AgSbTe2:Eu (8 wt%)",
+      "dopant_or_codopant": [
+        {
+          "element": "Eu",
+          "ratio_or_percentage": "8 wt%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "0.70 \u00d7 10^4",
+          "unit": "\u03a9^-1m^-1",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "0 wt% Eu",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "250",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3a",
+          "notes": "Visually estimated from Fig. 3a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "350",
+          "unit": "uV/K",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3a",
+          "notes": "Visually estimated from Fig. 3a"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "1.6",
+          "unit": "10^4 S/m",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3b",
+          "notes": "Visually estimated from Fig. 3b"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "0.6",
+          "unit": "10^4 S/m",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3b",
+          "notes": "Visually estimated from Fig. 3b"
+        },
+        {
+          "property": "power factor",
+          "value": "0.8",
+          "unit": "Wm^-1K^-2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3c",
+          "notes": "Visually estimated from Fig. 3c"
+        },
+        {
+          "property": "power factor",
+          "value": "0.9",
+          "unit": "Wm^-1K^-2",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3c",
+          "notes": "Visually estimated from Fig. 3c"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.6",
+          "unit": "Wm^-1K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3d",
+          "notes": "Visually estimated from Fig. 3d"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.8",
+          "unit": "Wm^-1K^-1",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3d",
+          "notes": "Visually estimated from Fig. 3d"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.6",
+          "unit": "Wm^-1K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3e",
+          "notes": "Visually estimated from Fig. 3e"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.8",
+          "unit": "Wm^-1K^-1",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3e",
+          "notes": "Visually estimated from Fig. 3e"
+        },
+        {
+          "property": "ZT",
+          "value": "0.6",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3f",
+          "notes": "Visually estimated from Fig. 3f"
+        },
+        {
+          "property": "ZT",
+          "value": "1.2",
+          "unit": "dimensionless",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3f",
+          "notes": "Visually estimated from Fig. 3f"
+        }
+      ]
+    },
+    {
+      "sample_id": "4 wt% Eu",
+      "full_formula": "AgSbTe2:Eu",
+      "dopant_or_codopant": [
+        {
+          "element": "Eu",
+          "ratio_or_percentage": "4 wt%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "200",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3a",
+          "notes": "Visually estimated from Fig. 3a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "350",
+          "unit": "uV/K",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3a",
+          "notes": "Visually estimated from Fig. 3a"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "0.4",
+          "unit": "10^4 S/m",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3b",
+          "notes": "Visually estimated from Fig. 3b"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "0.6",
+          "unit": "10^4 S/m",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3b",
+          "notes": "Visually estimated from Fig. 3b"
+        },
+        {
+          "property": "power factor",
+          "value": "0.2",
+          "unit": "Wm^-1K^-2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3c",
+          "notes": "Visually estimated from Fig. 3c"
+        },
+        {
+          "property": "power factor",
+          "value": "0.3",
+          "unit": "Wm^-1K^-2",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3c",
+          "notes": "Visually estimated from Fig. 3c"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.6",
+          "unit": "Wm^-1K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3d",
+          "notes": "Visually estimated from Fig. 3d"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.9",
+          "unit": "Wm^-1K^-1",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3d",
+          "notes": "Visually estimated from Fig. 3d"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.6",
+          "unit": "Wm^-1K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3e",
+          "notes": "Visually estimated from Fig. 3e"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.9",
+          "unit": "Wm^-1K^-1",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3e",
+          "notes": "Visually estimated from Fig. 3e"
+        },
+        {
+          "property": "ZT",
+          "value": "0.1",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3f",
+          "notes": "Visually estimated from Fig. 3f"
+        },
+        {
+          "property": "ZT",
+          "value": "0.2",
+          "unit": "dimensionless",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3f",
+          "notes": "Visually estimated from Fig. 3f"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The paper reports nominal Eu doping levels (0-8 wt%) in AgSbTe2. XRD and SEM/EDX analysis indicate that Eu has very limited solubility and primarily forms secondary phases (Ag2Te and EuTe), so the doped_site is marked as 'unclear' as it does not substitute into the lattice in a standard way. Electrical conductivity values at room temperature were extracted from Table 1. [figure-pass p1-5] Data for 0 wt% and 4 wt% Eu samples were extracted from Fig. 3. Other compositions (2, 6, 8 wt%) were omitted for brevity as they follow similar trends. Values are visual estimates from the plots. ",
+  "status": "ok",
+  "n_pages": 5
+}

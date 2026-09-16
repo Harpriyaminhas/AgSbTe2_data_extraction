@@ -1,0 +1,214 @@
+{
+  "source_pdf": "Advanced Science - 2022 - Tee - Thermoelectric Silver\u2010Based Chalcogenides.pdf",
+  "doi": "10.1002/advs.202204624",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "AgSb0.94Cd0.06Te2",
+      "full_formula": "AgSb0.94Cd0.06Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Cd",
+          "ratio_or_percentage": "0.06",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "2.6",
+          "unit": "dimensionless",
+          "temperature_value": "573",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSb0.96Zn0.04Te2",
+      "full_formula": "AgSb0.96Zn0.04Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Zn",
+          "ratio_or_percentage": "0.04",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.9",
+          "unit": "dimensionless",
+          "temperature_value": "584",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSb0.96Cd0.06Te2",
+      "full_formula": "AgSb0.96Cd0.06Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Cd",
+          "ratio_or_percentage": "0.06",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "2.6",
+          "unit": "dimensionless",
+          "temperature_value": "573",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSb0.96Zn0.04Te2",
+      "full_formula": "AgSb0.96Zn0.04Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Zn",
+          "ratio_or_percentage": "0.04",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.9",
+          "unit": "dimensionless",
+          "temperature_value": "584",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag0.2Cu0.89In0.09Te1.05",
+      "full_formula": "Ag0.2Cu0.89In0.09Te1.05",
+      "dopant_or_codopant": [
+        {
+          "element": "Cu",
+          "ratio_or_percentage": "0.89",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        },
+        {
+          "element": "In",
+          "ratio_or_percentage": "0.09",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.6",
+          "unit": "dimensionless",
+          "temperature_value": "850",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgMnSbTe3",
+      "full_formula": "AgMnSbTe3",
+      "dopant_or_codopant": [
+        {
+          "element": "Mn",
+          "ratio_or_percentage": "not specified",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.46",
+          "unit": "dimensionless",
+          "temperature_value": "823",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag0.025In0.025SnTe1.05",
+      "full_formula": "Ag0.025In0.025SnTe1.05",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.025",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "In",
+          "ratio_or_percentage": "0.025",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.8",
+          "unit": "dimensionless",
+          "temperature_value": "856",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSnSbSe1.5Te1.5",
+      "full_formula": "AgSnSbSe1.5Te1.5",
+      "dopant_or_codopant": [
+        {
+          "element": "Sn",
+          "ratio_or_percentage": "not specified",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.14",
+          "unit": "dimensionless",
+          "temperature_value": "723",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] Data extracted from Table 1 of the provided article. Only AgSbTe2-family compounds with explicit doping/alloying and thermoelectric properties were included. [figure-pass p1-5] Data extracted from Table 1. Only AgSbTe2-family compounds with explicit doping/alloying were included. Other entries in the table were excluded if they did not fit the AgSbTe2-family criteria. [figure-pass p6-10] The provided pages discuss AgSbTe2-family compounds in the context of general thermoelectric materials research (e.g., Figure 2b mentions AgSbTe2), but no specific thermoelectric property-vs-temperature data (Seebeck, conductivity, etc.) for AgSbTe2-family samples are provided in the tables or plots. The tables focus on Ag2Se, Ag2Te, and Ag2S composites. [figure-pass p11-14] The provided pages discuss Ag2Se, Ag2Te, and various ternary silver-based chalcogenides, but do not contain any thermoelectric property data for the AgSbTe2-family of compounds. ",
+  "status": "ok",
+  "n_pages": 35
+}

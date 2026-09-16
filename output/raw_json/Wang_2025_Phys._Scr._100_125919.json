@@ -1,0 +1,550 @@
+{
+  "source_pdf": "Wang_2025_Phys._Scr._100_125919.pdf",
+  "doi": "10.1088/1402-4896/ae26ec",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "Ag16Sb16Te32",
+      "full_formula": "Ag16Sb16Te32",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.512",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Section 3.2",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "444",
+          "unit": "\u03bcV K-1",
+          "temperature_value": "450",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Section 3.3.3",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "83.7",
+          "unit": "S cm-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Section 3.3.3",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "12.21",
+          "unit": "\u03bcW cm-1 K-2",
+          "temperature_value": "450",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Section 3.3.4",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.2",
+          "unit": "dimensionless",
+          "temperature_value": "530",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Section 3.4",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag16Sb15V1Te32",
+      "full_formula": "Ag16Sb15V1Te32",
+      "dopant_or_codopant": [
+        {
+          "element": "V",
+          "ratio_or_percentage": "1",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.444",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Section 3.2",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "425",
+          "unit": "\u03bcV K-1",
+          "temperature_value": "700",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Section 3.3.3",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.49",
+          "unit": "dimensionless",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Section 3.4",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag16Sb15Cr1Te32",
+      "full_formula": "Ag16Sb15Cr1Te32",
+      "dopant_or_codopant": [
+        {
+          "element": "Cr",
+          "ratio_or_percentage": "1",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.415",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Section 3.2",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "637",
+          "unit": "\u03bcV K-1",
+          "temperature_value": "400",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Section 3.3.3",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "19.08",
+          "unit": "\u03bcW cm-1 K-2",
+          "temperature_value": "450",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Section 3.3.4",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.78",
+          "unit": "dimensionless",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Section 3.4",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag16Sb14V1Cr1Te32",
+      "full_formula": "Ag16Sb14V1Cr1Te32",
+      "dopant_or_codopant": [
+        {
+          "element": "V",
+          "ratio_or_percentage": "1",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        },
+        {
+          "element": "Cr",
+          "ratio_or_percentage": "1",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.391",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Section 3.2",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "615",
+          "unit": "\u03bcV K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Section 3.3.3",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "10.33",
+          "unit": "\u03bcW cm-1 K-2",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Section 3.3.4",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "2.09",
+          "unit": "dimensionless",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Section 3.4",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag16Sb16Te32",
+      "full_formula": "Ag16Sb16Te32",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.512",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "page 4, section 3.2",
+          "notes": "Value for intrinsic Ag16Sb16Te32 at 300 K"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag16Sb15V1Te32",
+      "full_formula": "Ag16Sb15V1Te32",
+      "dopant_or_codopant": [
+        {
+          "element": "V",
+          "ratio_or_percentage": "1",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.444",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "page 4, section 3.2",
+          "notes": "Value for Ag16Sb15V1Te32 at 300 K"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag16Sb15Cr1Te32",
+      "full_formula": "Ag16Sb15Cr1Te32",
+      "dopant_or_codopant": [
+        {
+          "element": "Cr",
+          "ratio_or_percentage": "1",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.415",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "page 4, section 3.2",
+          "notes": "Value for Ag16Sb15Cr1Te32 at 300 K"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag16Sb14V1Cr1Te32",
+      "full_formula": "Ag16Sb14V1Cr1Te32",
+      "dopant_or_codopant": [
+        {
+          "element": "V",
+          "ratio_or_percentage": "1",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        },
+        {
+          "element": "Cr",
+          "ratio_or_percentage": "1",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.391",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "page 4, section 3.2",
+          "notes": "Value for Ag16Sb14V1Cr1Te32 at 300 K"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag16Sb16Te32",
+      "full_formula": "Ag16Sb16Te32",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "power factor",
+          "value": "12.21",
+          "unit": "uW cm^-1 K^-2",
+          "temperature_value": "450",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 9",
+          "notes": "Visually estimated from Fig. 9"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag16Sb15V1Te32",
+      "full_formula": "Ag16Sb15V1Te32",
+      "dopant_or_codopant": [
+        {
+          "element": "V",
+          "ratio_or_percentage": "1",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "power factor",
+          "value": "10.33",
+          "unit": "uW cm^-1 K^-2",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 9",
+          "notes": "Visually estimated from Fig. 9"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag16Sb15Cr1Te32",
+      "full_formula": "Ag16Sb15Cr1Te32",
+      "dopant_or_codopant": [
+        {
+          "element": "Cr",
+          "ratio_or_percentage": "1",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "power factor",
+          "value": "19.08",
+          "unit": "uW cm^-1 K^-2",
+          "temperature_value": "450",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 9",
+          "notes": "Visually estimated from Fig. 9"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag16Sb14V1Cr1Te32",
+      "full_formula": "Ag16Sb14V1Cr1Te32",
+      "dopant_or_codopant": [
+        {
+          "element": "V",
+          "ratio_or_percentage": "1",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        },
+        {
+          "element": "Cr",
+          "ratio_or_percentage": "1",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "power factor",
+          "value": "10.33",
+          "unit": "uW cm^-1 K^-2",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 9",
+          "notes": "Visually estimated from Fig. 9"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag16Sb16Te32",
+      "full_formula": "Ag16Sb16Te32",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.4",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Figure 10"
+        },
+        {
+          "property": "ZT",
+          "value": "1.2",
+          "unit": "dimensionless",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Figure 10"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag16Sb15V1Te32",
+      "full_formula": "Ag16Sb15V1Te32",
+      "dopant_or_codopant": [
+        {
+          "element": "V",
+          "ratio_or_percentage": "1",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.1",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Figure 10"
+        },
+        {
+          "property": "ZT",
+          "value": "1.5",
+          "unit": "dimensionless",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Figure 10"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag16Sb15Cr1Te32",
+      "full_formula": "Ag16Sb15Cr1Te32",
+      "dopant_or_codopant": [
+        {
+          "element": "Cr",
+          "ratio_or_percentage": "1",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.1",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Figure 10"
+        },
+        {
+          "property": "ZT",
+          "value": "1.5",
+          "unit": "dimensionless",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Figure 10"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag16Sb14V1Cr1Te32",
+      "full_formula": "Ag16Sb14V1Cr1Te32",
+      "dopant_or_codopant": [
+        {
+          "element": "V",
+          "ratio_or_percentage": "1",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        },
+        {
+          "element": "Cr",
+          "ratio_or_percentage": "1",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.1",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Figure 10"
+        },
+        {
+          "property": "ZT",
+          "value": "2.1",
+          "unit": "dimensionless",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Figure 10"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[figure-pass p1-5] The paper provides calculated lattice thermal conductivity values at 300 K for the intrinsic and doped systems in the text. No temperature-dependent plots for thermoelectric properties were provided in the images. [figure-pass p6-10] Thermoelectric properties extracted from Fig. 9 (Power Factor vs Temperature). Other figures (Fig. 4, 7) show trends but specific values were not extracted due to the density of overlapping curves or lack of explicit data points. ",
+  "status": "ok",
+  "n_pages": 13
+}

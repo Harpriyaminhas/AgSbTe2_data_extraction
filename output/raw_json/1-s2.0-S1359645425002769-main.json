@@ -1,0 +1,481 @@
+{
+  "source_pdf": "1-s2.0-S1359645425002769-main.pdf",
+  "doi": "10.1016/j.actamat.2025.120985",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "QA-AgSbTe2 (A = 0 h)",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "1.21e4",
+          "unit": "S m-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "8.24e3",
+          "unit": "S m-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Value for A = 48 h"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "1.40e4",
+          "unit": "S m-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Value for A = 24 h"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "298.37",
+          "unit": "uV K-1",
+          "temperature_value": "548",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Value for A = 24 h"
+        },
+        {
+          "property": "power factor",
+          "value": "8.22",
+          "unit": "uW cm-1 K-2",
+          "temperature_value": "548",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Value for A = 24 h"
+        },
+        {
+          "property": "power factor",
+          "value": "7.11",
+          "unit": "uW cm-1 K-2",
+          "temperature_value": "548",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Value for A = 0 h"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.38",
+          "unit": "W m-1 K-1",
+          "temperature_value": "548",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Value for A = 24 h"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.4",
+          "unit": "W m-1 K-1",
+          "temperature_value": "548",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Value for A = 0 h"
+        },
+        {
+          "property": "ZT",
+          "value": "1.18",
+          "unit": "dimensionless",
+          "temperature_value": "548",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Value for A = 24 h"
+        },
+        {
+          "property": "ZT",
+          "value": "0.94",
+          "unit": "dimensionless",
+          "temperature_value": "300-633",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Average ZT for A = 24 h"
+        }
+      ]
+    },
+    {
+      "sample_id": "QA-AgSbTe2 (A = 0 h)",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "1.2",
+          "unit": "10^4 S m^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3a",
+          "notes": "Visually estimated from Fig. 3a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "240",
+          "unit": "uV K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3b",
+          "notes": "Visually estimated from Fig. 3b"
+        },
+        {
+          "property": "power factor",
+          "value": "7.11",
+          "unit": "uW cm^-1 K^-2",
+          "temperature_value": "548",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3c",
+          "notes": "Visually estimated from Fig. 3c"
+        }
+      ]
+    },
+    {
+      "sample_id": "QA-AgSbTe2 (A = 24 h)",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "1.4",
+          "unit": "10^4 S m^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3a",
+          "notes": "Visually estimated from Fig. 3a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "298.37",
+          "unit": "uV K^-1",
+          "temperature_value": "548",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3b",
+          "notes": "Visually estimated from Fig. 3b"
+        },
+        {
+          "property": "power factor",
+          "value": "8.22",
+          "unit": "uW cm^-1 K^-2",
+          "temperature_value": "548",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3c",
+          "notes": "Visually estimated from Fig. 3c"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.38",
+          "unit": "W m^-1 K^-1",
+          "temperature_value": "548",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4a",
+          "notes": "Visually estimated from Fig. 4a"
+        },
+        {
+          "property": "ZT",
+          "value": "1.18",
+          "unit": "dimensionless",
+          "temperature_value": "548",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5b",
+          "notes": "Visually estimated from Fig. 5b"
+        }
+      ]
+    },
+    {
+      "sample_id": "QA-AgSbTe2 (A = 0 h)",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag vacancy",
+          "ratio_or_percentage": "0 h annealing",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.6",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5a"
+        },
+        {
+          "property": "ZT",
+          "value": "0.8",
+          "unit": "dimensionless",
+          "temperature_value": "400",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5a"
+        },
+        {
+          "property": "ZT",
+          "value": "0.9",
+          "unit": "dimensionless",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5a"
+        },
+        {
+          "property": "ZT",
+          "value": "0.9",
+          "unit": "dimensionless",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5a"
+        }
+      ]
+    },
+    {
+      "sample_id": "QA-AgSbTe2 (A = 12 h)",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag vacancy",
+          "ratio_or_percentage": "12 h annealing",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.5",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5a"
+        },
+        {
+          "property": "ZT",
+          "value": "0.8",
+          "unit": "dimensionless",
+          "temperature_value": "400",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5a"
+        },
+        {
+          "property": "ZT",
+          "value": "1.0",
+          "unit": "dimensionless",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5a"
+        },
+        {
+          "property": "ZT",
+          "value": "1.1",
+          "unit": "dimensionless",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5a"
+        }
+      ]
+    },
+    {
+      "sample_id": "QA-AgSbTe2 (A = 24 h)",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag vacancy",
+          "ratio_or_percentage": "24 h annealing",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.6",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5a"
+        },
+        {
+          "property": "ZT",
+          "value": "0.9",
+          "unit": "dimensionless",
+          "temperature_value": "400",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5a"
+        },
+        {
+          "property": "ZT",
+          "value": "1.1",
+          "unit": "dimensionless",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5a"
+        },
+        {
+          "property": "ZT",
+          "value": "1.2",
+          "unit": "dimensionless",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5a"
+        }
+      ]
+    },
+    {
+      "sample_id": "QA-AgSbTe2 (A = 36 h)",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag vacancy",
+          "ratio_or_percentage": "36 h annealing",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.5",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5a"
+        },
+        {
+          "property": "ZT",
+          "value": "0.7",
+          "unit": "dimensionless",
+          "temperature_value": "400",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5a"
+        },
+        {
+          "property": "ZT",
+          "value": "0.8",
+          "unit": "dimensionless",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5a"
+        },
+        {
+          "property": "ZT",
+          "value": "0.8",
+          "unit": "dimensionless",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5a"
+        }
+      ]
+    },
+    {
+      "sample_id": "QA-AgSbTe2 (A = 48 h)",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag vacancy",
+          "ratio_or_percentage": "48 h annealing",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.4",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5a"
+        },
+        {
+          "property": "ZT",
+          "value": "0.6",
+          "unit": "dimensionless",
+          "temperature_value": "400",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5a"
+        },
+        {
+          "property": "ZT",
+          "value": "0.7",
+          "unit": "dimensionless",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5a"
+        },
+        {
+          "property": "ZT",
+          "value": "0.7",
+          "unit": "dimensionless",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5a"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The paper focuses on pristine AgSbTe2 with Ag2Te nanoprecipitates controlled by quenching and annealing. No extrinsic dopants were added; the study focuses on Ag vacancy concentration and Ag2Te mass percentage. [figure-pass p1-5] The samples are pristine AgSbTe2 processed with different annealing times (A) to control Ag2Te nanoprecipitate content. No extrinsic dopants were added. [figure-pass p6-7] The paper discusses AgSbTe2 compounds with varying Ag vacancy content controlled by annealing time (A = 0, 12, 24, 36, 48 h). ZT values were extracted from Fig. 5a. ",
+  "status": "ok",
+  "n_pages": 7
+}

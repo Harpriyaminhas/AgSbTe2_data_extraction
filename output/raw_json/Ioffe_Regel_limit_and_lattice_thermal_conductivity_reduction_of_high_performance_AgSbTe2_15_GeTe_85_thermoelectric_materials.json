@@ -1,0 +1,438 @@
+{
+  "source_pdf": "Ioffe\u2013Regel limit and lattice thermal conductivity reduction of high performance (AgSbTe2)15(GeTe)85 thermoelectric materials.pdf",
+  "doi": "10.1039/c3ta15147f",
+  "base_composition": "(AgSbTe2)15(GeTe)85",
+  "materials": [
+    {
+      "sample_id": "0.4 AQ",
+      "full_formula": "(Ag0.4SbTe0.2+1.5)15(GeTe)85",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.4",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "1",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "6.3",
+          "unit": "cm2 V-1 s-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "0.6 AQ",
+      "full_formula": "(Ag0.6SbTe0.3+1.5)15(GeTe)85",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.6",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "1",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "7.7",
+          "unit": "cm2 V-1 s-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "0.8 AQ",
+      "full_formula": "(Ag0.8SbTe0.4+1.5)15(GeTe)85",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.8",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "1",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "7.1",
+          "unit": "cm2 V-1 s-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "1.0 AQ",
+      "full_formula": "(Ag1.0SbTe0.5+1.5)15(GeTe)85",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "1.0",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "1",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "5.0",
+          "unit": "cm2 V-1 s-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "1.2 AQ",
+      "full_formula": "(Ag1.2SbTe0.6+1.5)15(GeTe)85",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "1.2",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "1",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "5.3",
+          "unit": "cm2 V-1 s-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "0.4 MS",
+      "full_formula": "(Ag0.4SbTe0.2+1.5)15(GeTe)85",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.4",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "1",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "6.4",
+          "unit": "cm2 V-1 s-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 2",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "0.6 MS",
+      "full_formula": "(Ag0.6SbTe0.3+1.5)15(GeTe)85",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.6",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "1",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "7.0",
+          "unit": "cm2 V-1 s-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 2",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "0.8 MS",
+      "full_formula": "(Ag0.8SbTe0.4+1.5)15(GeTe)85",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.8",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "1",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "6.7",
+          "unit": "cm2 V-1 s-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 2",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "1.0 MS",
+      "full_formula": "(Ag1.0SbTe0.5+1.5)15(GeTe)85",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "1.0",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "1",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "6.5",
+          "unit": "cm2 V-1 s-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 2",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "1.2 MS",
+      "full_formula": "(Ag1.2SbTe0.6+1.5)15(GeTe)85",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "1.2",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "1",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "5.5",
+          "unit": "cm2 V-1 s-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 2",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "0.4 AQ",
+      "full_formula": "(Ag0.4SbTe2/2+1.5)15(GeTe)85",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.4",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "14",
+          "unit": "10^4 Sm^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 1a",
+          "notes": "Visually estimated from Fig. 1a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "120",
+          "unit": "uV K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 1b",
+          "notes": "Visually estimated from Fig. 1b"
+        },
+        {
+          "property": "power factor",
+          "value": "16",
+          "unit": "uW cm^-1 K^-2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 1c",
+          "notes": "Visually estimated from Fig. 1c"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "2.1",
+          "unit": "Wm^-1 K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 1d",
+          "notes": "Visually estimated from Fig. 1d"
+        },
+        {
+          "property": "ZT",
+          "value": "0.3",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5a",
+          "notes": "Visually estimated from Fig. 5a"
+        }
+      ]
+    },
+    {
+      "sample_id": "0.4 MS",
+      "full_formula": "(Ag0.4SbTe2/2+1.5)15(GeTe)85",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.4",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "4",
+          "unit": "10^4 Sm^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3a",
+          "notes": "Visually estimated from Fig. 3a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "140",
+          "unit": "uV K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3b",
+          "notes": "Visually estimated from Fig. 3b"
+        },
+        {
+          "property": "power factor",
+          "value": "12",
+          "unit": "uW cm^-1 K^-2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3c",
+          "notes": "Visually estimated from Fig. 3c"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "1.4",
+          "unit": "Wm^-1 K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3d",
+          "notes": "Visually estimated from Fig. 3d"
+        },
+        {
+          "property": "ZT",
+          "value": "0.3",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5b",
+          "notes": "Visually estimated from Fig. 5b"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The paper investigates (AgxSbTex/2+1.5)15(GeTe)85 alloys. The Ag/Sb ratio is defined as x. The dopant sites are not explicitly stated as Ag or Sb substituting for Ge, so 'unclear' is used. Electrical conductivity values in Tables 1 and 2 are reported as mobility (cm2 V-1 s-1). [figure-pass p1-5] Data extracted for Ag/Sb ratio 0.4 samples (AQ and MS) as representative examples from the provided figures. Values are visual estimates from the plots. [figure-pass p6-6] The provided page contains only a list of references and acknowledgments. No thermoelectric property data or plots for AgSbTe2-family compounds are present. ",
+  "status": "ok",
+  "n_pages": 6
+}

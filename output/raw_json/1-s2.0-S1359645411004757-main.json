@@ -1,0 +1,9 @@
+{
+  "source_pdf": "1-s2.0-S1359645411004757-main.pdf",
+  "doi": "10.1016/j.actamat.2011.07.010",
+  "base_composition": "Ag-Sb-Te",
+  "materials": [],
+  "extraction_notes": "[text-pass] The provided article focuses on the phase equilibria and crystal structure of the Ag-Sb-Te system. While it mentions that AgSbTe2 is a promising thermoelectric material, it does not report any experimental thermoelectric property data (such as Seebeck coefficient, electrical conductivity, thermal conductivity, power factor, or ZT) for any of the samples prepared. [figure-pass p1-5] The provided pages focus on the phase equilibria and microstructural characterization of the Ag-Sb-Te system. No thermoelectric property data (Seebeck coefficient, electrical conductivity, thermal conductivity, power factor, or ZT) as a function of temperature are reported in the text, tables, or figures. [figure-pass p6-10] The provided pages contain phase equilibrium and structural analysis (XRD, TEM, BEI micrographs) of Ag-Sb-Te alloys. There are no plots or tables showing thermoelectric properties (Seebeck coefficient, electrical conductivity, thermal conductivity, power factor, or ZT) as a function of temperature for any of the samples. ",
+  "status": "ok",
+  "n_pages": 10
+}

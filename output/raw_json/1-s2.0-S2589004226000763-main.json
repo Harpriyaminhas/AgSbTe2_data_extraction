@@ -1,0 +1,9 @@
+{
+  "source_pdf": "1-s2.0-S2589004226000763-main.pdf",
+  "doi": "10.1016/j.isci.2026.114701",
+  "base_composition": "AgSbTe2",
+  "materials": [],
+  "extraction_notes": "[text-pass] The provided article is a review on self-healing thermoelectric devices and materials. While it mentions AgSbTe2-based thermoelectric materials in reference 14, it does not provide specific doping or thermoelectric property data for AgSbTe2-family compounds in the text or tables. The tables provided in the article focus on self-healing encapsulation materials and general device architectures, not AgSbTe2-family doping data. [figure-pass p1-5] The provided document is a review article on flexible self-healing thermoelectric devices. It discusses general architectures (pi-type, Y-type, etc.) and self-healing principles but does not contain any specific thermoelectric property data (Seebeck coefficient, electrical conductivity, etc.) or doping information for AgSbTe2-family compounds. [figure-pass p6-10] The provided pages discuss self-healing materials and thermoelectric devices, mentioning Ag2Se and Bi2Te3/Sb2Te3-based systems. No thermoelectric property-vs-temperature data (Seebeck, conductivity, etc.) for AgSbTe2-family compounds is present in the provided figures or tables. [figure-pass p11-14] The provided pages discuss self-healing thermoelectric materials (hydrogels, ionogels, and composites) and contain a reference (Reference 14) to AgSbTe2-based materials, but the actual thermoelectric property data for AgSbTe2-family compounds is not present in the figures or tables of the provided pages. ",
+  "status": "ok",
+  "n_pages": 17
+}

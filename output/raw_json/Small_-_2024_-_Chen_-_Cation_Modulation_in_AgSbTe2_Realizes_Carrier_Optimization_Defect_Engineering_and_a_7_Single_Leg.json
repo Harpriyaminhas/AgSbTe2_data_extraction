@@ -1,0 +1,489 @@
+{
+  "source_pdf": "Small - 2024 - Chen - Cation Modulation in AgSbTe2 Realizes Carrier Optimization  Defect Engineering  and a 7  Single\u2010Leg.pdf",
+  "doi": "10.1002/smll.202401723",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "Ag0.96Sb1.04Te2",
+      "full_formula": "Ag0.96Sb1.04Te2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "71.0",
+          "unit": "S cm-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "238.2",
+          "unit": "\u03bcV K-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.58",
+          "unit": "Wm-1 K-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.35",
+          "unit": "dimensionless",
+          "temperature_value": "303-623",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": "zTave"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag1.00Sb1.00Te2",
+      "full_formula": "Ag1.00Sb1.00Te2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "219.2",
+          "unit": "S cm-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "210.3",
+          "unit": "\u03bcV K-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.65",
+          "unit": "Wm-1 K-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.94",
+          "unit": "dimensionless",
+          "temperature_value": "303-623",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": "zTave"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag1.04Sb0.96Te2",
+      "full_formula": "Ag1.04Sb0.96Te2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "245.4",
+          "unit": "S cm-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "193.1",
+          "unit": "\u03bcV K-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.68",
+          "unit": "Wm-1 K-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.00",
+          "unit": "dimensionless",
+          "temperature_value": "303-623",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": "zTave"
+        },
+        {
+          "property": "ZT",
+          "value": "1.5",
+          "unit": "dimensionless",
+          "temperature_value": "583",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag1.02Ge0.02Sb0.96Te2",
+      "full_formula": "Ag1.02Ge0.02Sb0.96Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ge",
+          "ratio_or_percentage": "0.02",
+          "doped_site": "Ag",
+          "site_evidence": "The introduction of Ge in place of Ag"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "270.7",
+          "unit": "S cm-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "179.9",
+          "unit": "\u03bcV K-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.62",
+          "unit": "Wm-1 K-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.15",
+          "unit": "dimensionless",
+          "temperature_value": "303-623",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": "zTave"
+        },
+        {
+          "property": "ZT",
+          "value": "1.77",
+          "unit": "dimensionless",
+          "temperature_value": "623",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag0.96Sb1.04Te2",
+      "full_formula": "Ag0.96Sb1.04Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.96",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "71.0",
+          "unit": "S cm-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "238.2",
+          "unit": "uV K-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.58",
+          "unit": "Wm-1 K-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.35",
+          "unit": "dimensionless",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag1.00Sb1.00Te2",
+      "full_formula": "Ag1.00Sb1.00Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "1.00",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "219.2",
+          "unit": "S cm-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "210.3",
+          "unit": "uV K-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.65",
+          "unit": "Wm-1 K-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.94",
+          "unit": "dimensionless",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag1.04Sb0.96Te2",
+      "full_formula": "Ag1.04Sb0.96Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "1.04",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "245.4",
+          "unit": "S cm-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "193.1",
+          "unit": "uV K-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.68",
+          "unit": "Wm-1 K-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.00",
+          "unit": "dimensionless",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag1.02Ge0.02Sb0.96Te2",
+      "full_formula": "Ag1.02Ge0.02Sb0.96Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ge",
+          "ratio_or_percentage": "0.02",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "270.7",
+          "unit": "S cm-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "179.9",
+          "unit": "uV K-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.62",
+          "unit": "Wm-1 K-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.15",
+          "unit": "dimensionless",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Ge0.02",
+      "full_formula": "AgSb1-xGexTe2 (nominal Ge0.02)",
+      "dopant_or_codopant": [
+        {
+          "element": "Ge",
+          "ratio_or_percentage": "0.02",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.7",
+          "unit": "dimensionless",
+          "temperature_value": "623",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag1.04",
+      "full_formula": "Ag1.04SbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "1.04",
+          "doped_site": "interstitial",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.5",
+          "unit": "dimensionless",
+          "temperature_value": "583",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[figure-pass p6-10] The provided pages contain plots of device-level performance (voltage, power, heat flow, conversion efficiency) as a function of temperature difference (delta T), but do not contain plots of material-level thermoelectric properties (Seebeck, conductivity, etc.) as a function of absolute temperature. Material-level ZT values were extracted from the body text. ",
+  "status": "ok",
+  "n_pages": 10
+}

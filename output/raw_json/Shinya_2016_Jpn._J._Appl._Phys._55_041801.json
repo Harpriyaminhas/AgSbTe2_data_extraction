@@ -1,0 +1,9 @@
+{
+  "source_pdf": "Shinya_2016_Jpn._J._Appl._Phys._55_041801.pdf",
+  "doi": "10.7567/JJAP.55.041801",
+  "base_composition": "AgSbTe2",
+  "materials": [],
+  "extraction_notes": "[text-pass] The provided article is a theoretical study focusing on the structural stability, electronic structure, and chemical bonding of AgSbTe2 using DFT calculations. It does not report experimental thermoelectric property measurements (Seebeck coefficient, electrical conductivity, thermal conductivity, etc.) for any specific doped or alloyed samples. While it mentions (GeTe)x(AgSbTe2)1-x and AgSbTe2 mutations in the context of literature, no quantitative thermoelectric data for these materials is provided in the text or tables. [figure-pass p1-5] The provided pages contain theoretical calculations regarding the crystal structure, electronic structure, and chemical bonding of AgSbTe2. There are no experimental thermoelectric property-vs-temperature plots or tables provided in the content. [figure-pass p6-7] The provided pages contain theoretical calculations (DFT band structure, Wannier functions) and a table of predicted AgSbTe2 mutation compositions. There are no plots or tables showing thermoelectric properties (Seebeck coefficient, electrical conductivity, thermal conductivity, power factor, or ZT) as a function of temperature for any samples. ",
+  "status": "ok",
+  "n_pages": 7
+}

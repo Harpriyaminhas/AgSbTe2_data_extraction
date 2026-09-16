@@ -1,0 +1,393 @@
+{
+  "source_pdf": "am7b00689.pdf",
+  "doi": "10.1021/acsami.7b00689",
+  "base_composition": "Ag16.7Sb30Te53.3",
+  "materials": [
+    {
+      "sample_id": "AQ",
+      "full_formula": "Ag16.7Sb30Te53.3",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "thermal conductivity",
+          "value": "0.5",
+          "unit": "W\u00b7m\u22121\u00b7K\u22121",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "text",
+          "source_detail": "Section 3.1",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "260",
+          "unit": "\u03bcV K\u22121",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "text",
+          "source_detail": "Section 3.1",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "380 \u00b0C/8 h",
+      "full_formula": "Ag16.7Sb30Te53.3",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "thermal conductivity",
+          "value": "0.7",
+          "unit": "W\u00b7m\u22121\u00b7K\u22121",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "text",
+          "source_detail": "Section 3.1",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "150",
+          "unit": "\u03bcV K\u22121",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "text",
+          "source_detail": "Section 3.1",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "380 \u00b0C/192 h",
+      "full_formula": "Ag16.7Sb30Te53.3",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "thermal conductivity",
+          "value": "0.6",
+          "unit": "W\u00b7m\u22121\u00b7K\u22121",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "text",
+          "source_detail": "Section 3.1",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "150",
+          "unit": "\u03bcV K\u22121",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "text",
+          "source_detail": "Section 3.1",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AQ",
+      "full_formula": "Ag16.7Sb30Te53.3",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "thermal conductivity",
+          "value": "0.5",
+          "unit": "W m-1 K-1",
+          "temperature_value": "25",
+          "temperature_unit": "C",
+          "source_type": "figure",
+          "source_detail": "Figure 1a",
+          "notes": "Visually estimated from Figure 1a"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "50",
+          "unit": "S/cm",
+          "temperature_value": "25",
+          "temperature_unit": "C",
+          "source_type": "figure",
+          "source_detail": "Figure 1b",
+          "notes": "Visually estimated from Figure 1b"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "260",
+          "unit": "uV/K",
+          "temperature_value": "25",
+          "temperature_unit": "C",
+          "source_type": "figure",
+          "source_detail": "Figure 1c",
+          "notes": "Visually estimated from Figure 1c"
+        }
+      ]
+    },
+    {
+      "sample_id": "380 C/8 h",
+      "full_formula": "Ag16.7Sb30Te53.3",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "thermal conductivity",
+          "value": "0.7",
+          "unit": "W m-1 K-1",
+          "temperature_value": "25",
+          "temperature_unit": "C",
+          "source_type": "figure",
+          "source_detail": "Figure 1a",
+          "notes": "Visually estimated from Figure 1a"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "220",
+          "unit": "S/cm",
+          "temperature_value": "25",
+          "temperature_unit": "C",
+          "source_type": "figure",
+          "source_detail": "Figure 1b",
+          "notes": "Visually estimated from Figure 1b"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "150",
+          "unit": "uV/K",
+          "temperature_value": "25",
+          "temperature_unit": "C",
+          "source_type": "figure",
+          "source_detail": "Figure 1c",
+          "notes": "Visually estimated from Figure 1c"
+        }
+      ]
+    },
+    {
+      "sample_id": "380 C/192 h",
+      "full_formula": "Ag16.7Sb30Te53.3",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "thermal conductivity",
+          "value": "0.6",
+          "unit": "W m-1 K-1",
+          "temperature_value": "25",
+          "temperature_unit": "C",
+          "source_type": "figure",
+          "source_detail": "Figure 1a",
+          "notes": "Visually estimated from Figure 1a"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "80",
+          "unit": "S/cm",
+          "temperature_value": "25",
+          "temperature_unit": "C",
+          "source_type": "figure",
+          "source_detail": "Figure 1b",
+          "notes": "Visually estimated from Figure 1b"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "150",
+          "unit": "uV/K",
+          "temperature_value": "25",
+          "temperature_unit": "C",
+          "source_type": "figure",
+          "source_detail": "Figure 1c",
+          "notes": "Visually estimated from Figure 1c"
+        }
+      ]
+    },
+    {
+      "sample_id": "AQ",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.22",
+          "unit": "dimensionless",
+          "temperature_value": "50",
+          "temperature_unit": "\u00b0C",
+          "source_type": "figure",
+          "source_detail": "Figure 10",
+          "notes": "Visually estimated from Figure 10"
+        },
+        {
+          "property": "ZT",
+          "value": "0.28",
+          "unit": "dimensionless",
+          "temperature_value": "100",
+          "temperature_unit": "\u00b0C",
+          "source_type": "figure",
+          "source_detail": "Figure 10",
+          "notes": "Visually estimated from Figure 10"
+        },
+        {
+          "property": "ZT",
+          "value": "0.33",
+          "unit": "dimensionless",
+          "temperature_value": "150",
+          "temperature_unit": "\u00b0C",
+          "source_type": "figure",
+          "source_detail": "Figure 10",
+          "notes": "Visually estimated from Figure 10"
+        },
+        {
+          "property": "ZT",
+          "value": "0.38",
+          "unit": "dimensionless",
+          "temperature_value": "200",
+          "temperature_unit": "\u00b0C",
+          "source_type": "figure",
+          "source_detail": "Figure 10",
+          "notes": "Visually estimated from Figure 10"
+        },
+        {
+          "property": "ZT",
+          "value": "0.39",
+          "unit": "dimensionless",
+          "temperature_value": "250",
+          "temperature_unit": "\u00b0C",
+          "source_type": "figure",
+          "source_detail": "Figure 10",
+          "notes": "Visually estimated from Figure 10"
+        }
+      ]
+    },
+    {
+      "sample_id": "380 \u00b0C/8 h",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.19",
+          "unit": "dimensionless",
+          "temperature_value": "50",
+          "temperature_unit": "\u00b0C",
+          "source_type": "figure",
+          "source_detail": "Figure 10",
+          "notes": "Visually estimated from Figure 10"
+        },
+        {
+          "property": "ZT",
+          "value": "0.24",
+          "unit": "dimensionless",
+          "temperature_value": "100",
+          "temperature_unit": "\u00b0C",
+          "source_type": "figure",
+          "source_detail": "Figure 10",
+          "notes": "Visually estimated from Figure 10"
+        },
+        {
+          "property": "ZT",
+          "value": "0.31",
+          "unit": "dimensionless",
+          "temperature_value": "150",
+          "temperature_unit": "\u00b0C",
+          "source_type": "figure",
+          "source_detail": "Figure 10",
+          "notes": "Visually estimated from Figure 10"
+        },
+        {
+          "property": "ZT",
+          "value": "0.37",
+          "unit": "dimensionless",
+          "temperature_value": "200",
+          "temperature_unit": "\u00b0C",
+          "source_type": "figure",
+          "source_detail": "Figure 10",
+          "notes": "Visually estimated from Figure 10"
+        },
+        {
+          "property": "ZT",
+          "value": "0.46",
+          "unit": "dimensionless",
+          "temperature_value": "250",
+          "temperature_unit": "\u00b0C",
+          "source_type": "figure",
+          "source_detail": "Figure 10",
+          "notes": "Visually estimated from Figure 10"
+        },
+        {
+          "property": "ZT",
+          "value": "0.47",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "\u00b0C",
+          "source_type": "figure",
+          "source_detail": "Figure 10",
+          "notes": "Visually estimated from Figure 10"
+        }
+      ]
+    },
+    {
+      "sample_id": "380 \u00b0C/192 h",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.09",
+          "unit": "dimensionless",
+          "temperature_value": "50",
+          "temperature_unit": "\u00b0C",
+          "source_type": "figure",
+          "source_detail": "Figure 10",
+          "notes": "Visually estimated from Figure 10"
+        },
+        {
+          "property": "ZT",
+          "value": "0.12",
+          "unit": "dimensionless",
+          "temperature_value": "100",
+          "temperature_unit": "\u00b0C",
+          "source_type": "figure",
+          "source_detail": "Figure 10",
+          "notes": "Visually estimated from Figure 10"
+        },
+        {
+          "property": "ZT",
+          "value": "0.15",
+          "unit": "dimensionless",
+          "temperature_value": "150",
+          "temperature_unit": "\u00b0C",
+          "source_type": "figure",
+          "source_detail": "Figure 10",
+          "notes": "Visually estimated from Figure 10"
+        },
+        {
+          "property": "ZT",
+          "value": "0.19",
+          "unit": "dimensionless",
+          "temperature_value": "200",
+          "temperature_unit": "\u00b0C",
+          "source_type": "figure",
+          "source_detail": "Figure 10",
+          "notes": "Visually estimated from Figure 10"
+        },
+        {
+          "property": "ZT",
+          "value": "0.28",
+          "unit": "dimensionless",
+          "temperature_value": "250",
+          "temperature_unit": "\u00b0C",
+          "source_type": "figure",
+          "source_detail": "Figure 10",
+          "notes": "Visually estimated from Figure 10"
+        },
+        {
+          "property": "ZT",
+          "value": "0.35",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "\u00b0C",
+          "source_type": "figure",
+          "source_detail": "Figure 10",
+          "notes": "Visually estimated from Figure 10"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The samples are Ag16.7Sb30Te53.3 alloys subjected to different heat treatments. No external dopants were added; the study focuses on the evolution of the microstructure and matrix composition due to heat treatment. [figure-pass p1-5] The samples are Ag16.7Sb30Te53.3 alloys subjected to different heat treatments. No specific dopants were added; the composition is non-stoichiometric relative to AgSbTe2. [figure-pass p6-10] The samples are AgSbTe2-family compounds subjected to different heat treatments. ZT values were visually estimated from Figure 10. [figure-pass p11-12] The provided pages contain only a list of references and no data tables or plots showing thermoelectric properties as a function of temperature for AgSbTe2-family compounds. ",
+  "status": "ok",
+  "n_pages": 12
+}

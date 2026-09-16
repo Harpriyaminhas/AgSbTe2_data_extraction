@@ -1,0 +1,427 @@
+{
+  "source_pdf": "Preparation and characterization of nanostructured (GeTe)75(AgSbTe2)x(AgSbSe2)y thermoelectric materials.pdf",
+  "doi": "10.1016/j.synthmet.2020.116606",
+  "base_composition": "(GeTe)75(AgSbTe2)x(AgSbSe2)y",
+  "materials": [
+    {
+      "sample_id": "TAGSS[000]",
+      "full_formula": "(GeTe)75(AgSbTe2)25(AgSbSe2)0",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "50",
+          "unit": "\u03bcVK\u22121",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "100",
+          "unit": "\u03bcVK\u22121",
+          "temperature_value": "625",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "1.8 \u00d7 10^5",
+          "unit": "Sm\u22121",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "1.2 \u00d7 10^5",
+          "unit": "Sm\u22121",
+          "temperature_value": "625",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.1",
+          "unit": "dimensionless",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.7",
+          "unit": "dimensionless",
+          "temperature_value": "625",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "TAGSS[026]",
+      "full_formula": "(GeTe)75(AgSbTe2)24.74(AgSbSe2)0.26",
+      "dopant_or_codopant": [
+        {
+          "element": "Se",
+          "ratio_or_percentage": "0.26",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "TAGSS[051]",
+      "full_formula": "(GeTe)75(AgSbTe2)24.49(AgSbSe2)0.51",
+      "dopant_or_codopant": [
+        {
+          "element": "Se",
+          "ratio_or_percentage": "0.51",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "100",
+          "unit": "\u03bcVK\u22121",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "160",
+          "unit": "\u03bcVK\u22121",
+          "temperature_value": "625",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "TAGSS[125]",
+      "full_formula": "(GeTe)75(AgSbTe2)23.75(AgSbSe2)1.25",
+      "dopant_or_codopant": [
+        {
+          "element": "Se",
+          "ratio_or_percentage": "1.25",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "100",
+          "unit": "\u03bcVK\u22121",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.95",
+          "unit": "Wm\u22121K\u22121",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "9 \u00d7 10^4",
+          "unit": "Sm\u22121",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.25",
+          "unit": "dimensionless",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.2",
+          "unit": "dimensionless",
+          "temperature_value": "625",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "TAGSS[625]",
+      "full_formula": "(GeTe)75(AgSbTe2)18.75(AgSbSe2)6.25",
+      "dopant_or_codopant": [
+        {
+          "element": "Se",
+          "ratio_or_percentage": "6.25",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "TAGSS[000]",
+      "full_formula": "(GeTe)75(AgSbTe2)25",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "50",
+          "unit": "uVK-1",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "100",
+          "unit": "uVK-1",
+          "temperature_value": "625",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "TAGSS[051]",
+      "full_formula": "(GeTe)75(AgSbTe2)25 doped with Se",
+      "dopant_or_codopant": [
+        {
+          "element": "Se",
+          "ratio_or_percentage": "0.51",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "TAGSS[125]",
+      "full_formula": "(GeTe)75(AgSbTe2)25 doped with Se",
+      "dopant_or_codopant": [
+        {
+          "element": "Se",
+          "ratio_or_percentage": "1.25",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "TAGSS[625]",
+      "full_formula": "(GeTe)75(AgSbTe2)25 doped with Se",
+      "dopant_or_codopant": [
+        {
+          "element": "Se",
+          "ratio_or_percentage": "6.25",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "TAGSS[000]",
+      "full_formula": "(GeTe)75(AgSbTe2)25",
+      "dopant_or_codopant": [
+        {
+          "element": "Ge",
+          "ratio_or_percentage": "75 mol%",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "50",
+          "unit": "uV/K",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 7b"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "1.8e5",
+          "unit": "Sm^-1",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Explicitly stated in text"
+        },
+        {
+          "property": "ZT",
+          "value": "0.1",
+          "unit": "dimensionless",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Explicitly stated in text"
+        },
+        {
+          "property": "ZT",
+          "value": "0.7",
+          "unit": "dimensionless",
+          "temperature_value": "625",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Explicitly stated in text"
+        }
+      ]
+    },
+    {
+      "sample_id": "TAGSS[026]",
+      "full_formula": "(GeTe)75(AgSbTe2)24.74(AgSbSe2)0.26",
+      "dopant_or_codopant": [
+        {
+          "element": "Se",
+          "ratio_or_percentage": "0.26",
+          "doped_site": "Te",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "60",
+          "unit": "uV/K",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 7b"
+        }
+      ]
+    },
+    {
+      "sample_id": "TAGSS[051]",
+      "full_formula": "(GeTe)75(AgSbTe2)24.49(AgSbSe2)0.51",
+      "dopant_or_codopant": [
+        {
+          "element": "Se",
+          "ratio_or_percentage": "0.51",
+          "doped_site": "Te",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "75",
+          "unit": "uV/K",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 7b"
+        }
+      ]
+    },
+    {
+      "sample_id": "TAGSS[125]",
+      "full_formula": "(GeTe)75(AgSbTe2)23.75(AgSbSe2)1.25",
+      "dopant_or_codopant": [
+        {
+          "element": "Se",
+          "ratio_or_percentage": "1.25",
+          "doped_site": "Te",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "85",
+          "unit": "uV/K",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 7b"
+        },
+        {
+          "property": "ZT",
+          "value": "1.2",
+          "unit": "dimensionless",
+          "temperature_value": "625",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Explicitly stated in text"
+        }
+      ]
+    },
+    {
+      "sample_id": "TAGSS[625]",
+      "full_formula": "(GeTe)75(AgSbTe2)18.75(AgSbSe2)6.25",
+      "dopant_or_codopant": [
+        {
+          "element": "Se",
+          "ratio_or_percentage": "6.25",
+          "doped_site": "Te",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "80",
+          "unit": "uV/K",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 7b"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The paper describes a series of (GeTe)75(AgSbTe2)x(AgSbSe2)y samples where x+y=25. Se doping is introduced via AgSbSe2 addition. Doped site is marked as unclear as the paper states Se is located in the main phase but does not specify the sublattice (Ag, Sb, or Te). [figure-pass p1-5] The paper discusses TAGSS materials which are (GeTe)75(AgSbTe2)x(AgSbSe2)y. The abstract and text provide specific Seebeck coefficient values for the base TAGSS-75 material. While plots for Seebeck coefficient and electrical conductivity are mentioned (Fig 7a, 7b, 8a, 8b), they were not provided in the image set. Therefore, only values explicitly stated in the body text were extracted. [figure-pass p6-10] Data extracted for AgSbTe2-family compounds (TAGSS series) from figures and text. TAGSS samples are solid solutions of GeTe and AgSbTe2/AgSbSe2. ",
+  "status": "ok",
+  "n_pages": 10
+}

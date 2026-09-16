@@ -1,0 +1,238 @@
+{
+  "source_pdf": "Low lattice thermal conductivity by alloying SnTe with AgSbTe2 and CaTe-MnTe.pdf",
+  "doi": "10.1063/1.5109465",
+  "base_composition": "SnTe-AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "(Sn0.95Ca0.05Te)0.75(AgSbTe2)0.125 with 3% excess of Sn",
+      "full_formula": "(Sn0.95Ca0.05Te)0.75(AgSbTe2)0.125",
+      "dopant_or_codopant": [
+        {
+          "element": "Ca",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sn",
+          "ratio_or_percentage": "3%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.4",
+          "unit": "W/m K",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "at elevated temperatures"
+        }
+      ]
+    },
+    {
+      "sample_id": "(Sn0.85Mn0.15Te)0.85(AgSbTe2)0.075",
+      "full_formula": "(Sn0.85Mn0.15Te)0.85(AgSbTe2)0.075",
+      "dopant_or_codopant": [
+        {
+          "element": "Mn",
+          "ratio_or_percentage": "0.15",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "(Sn1-yCayTe)0.75(AgSbTe2)0.125 (y=0.05) with 6% Sn",
+      "full_formula": "(Sn0.95Ca0.05Te)0.75(AgSbTe2)0.125",
+      "dopant_or_codopant": [
+        {
+          "element": "Ca",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sn",
+          "ratio_or_percentage": "6%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "(Sn1-yCayTe)0.75(AgSbTe2)0.125 (y=0.12) with 2% I",
+      "full_formula": "(Sn0.88Ca0.12Te)0.75(AgSbTe2)0.125",
+      "dopant_or_codopant": [
+        {
+          "element": "Ca",
+          "ratio_or_percentage": "0.12",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        },
+        {
+          "element": "I",
+          "ratio_or_percentage": "2%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "(Sn1-yCayTe)0.75(AgSbTe2)0.125 (y=0.12) with 6% Sn",
+      "full_formula": "(Sn0.88Ca0.12Te)0.75(AgSbTe2)0.125",
+      "dopant_or_codopant": [
+        {
+          "element": "Ca",
+          "ratio_or_percentage": "0.12",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sn",
+          "ratio_or_percentage": "6%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "(Sn0.95Ca0.05)0.75(AgSbTe2)0.125",
+      "full_formula": "(Sn0.95Ca0.05)0.75(AgSbTe2)0.125",
+      "dopant_or_codopant": [
+        {
+          "element": "Ca",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "140",
+          "unit": "uV/K",
+          "temperature_value": "723",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 2c"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "130",
+          "unit": "uV/K",
+          "temperature_value": "800",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3a"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "1.0",
+          "unit": "mOhm-cm",
+          "temperature_value": "800",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3b (resistivity)"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "1.5",
+          "unit": "W/m-K",
+          "temperature_value": "800",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3c"
+        },
+        {
+          "property": "ZT",
+          "value": "0.7",
+          "unit": "dimensionless",
+          "temperature_value": "800",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3d"
+        }
+      ]
+    },
+    {
+      "sample_id": "(Sn0.85Mn0.15)0.85(AgSbTe2)0.075",
+      "full_formula": "(Sn0.85Mn0.15)0.85(AgSbTe2)0.075",
+      "dopant_or_codopant": [
+        {
+          "element": "Mn",
+          "ratio_or_percentage": "0.15",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "150",
+          "unit": "uV/K",
+          "temperature_value": "723",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 2c"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "145",
+          "unit": "uV/K",
+          "temperature_value": "800",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3a"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "0.9",
+          "unit": "mOhm-cm",
+          "temperature_value": "800",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3b (resistivity)"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "1.2",
+          "unit": "W/m-K",
+          "temperature_value": "800",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3c"
+        },
+        {
+          "property": "ZT",
+          "value": "0.8",
+          "unit": "dimensionless",
+          "temperature_value": "800",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3d"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The article discusses SnTe-AgSbTe2 alloys doped with Ca, Mn, Sn, and I. Specific numerical values for properties like Seebeck coefficient, electrical conductivity, etc., are presented in figures (Fig 1-5) but not in tabular format, making precise extraction of data points at specific temperatures difficult without raw data. Only explicitly stated values (e.g., lattice thermal conductivity 0.4 W/m K) were extracted. [figure-pass p1-5] Data extracted from figures 2 and 3. The samples are alloys of SnTe with AgSbTe2 and CaTe/MnTe. Doping sites are not explicitly stated in the text, so marked as unclear. [figure-pass p6-6] The provided page contains only the conclusion and references section of an article. There are no plots, tables, or data points for thermoelectric properties of AgSbTe2-family compounds. ",
+  "status": "ok",
+  "n_pages": 6
+}

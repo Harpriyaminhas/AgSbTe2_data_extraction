@@ -1,0 +1,382 @@
+{
+  "source_pdf": "2305.19217v1.pdf",
+  "doi": "",
+  "base_composition": "Sb2Te3",
+  "materials": [
+    {
+      "sample_id": "ST",
+      "full_formula": "Sb2Te3",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "power factor",
+          "value": "4.91",
+          "unit": "mW m-1 K-2",
+          "temperature_value": "385",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "body text",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AST1",
+      "full_formula": "Sb2Te3-AgSbTe2 (x=0.9)",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.9 atomic percentage",
+          "doped_site": "multiple sites",
+          "site_evidence": "Ag atoms replace some Sb/Te atoms and trigger formation of AgSbTe2 phase"
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "AST2",
+      "full_formula": "Sb2Te3-AgSbTe2 (x=1.70)",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "1.70 atomic percentage",
+          "doped_site": "multiple sites",
+          "site_evidence": "Ag atoms replace some Sb/Te atoms and trigger formation of AgSbTe2 phase"
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "AST3",
+      "full_formula": "Sb2Te3-AgSbTe2 (x=5.90)",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "5.90 atomic percentage",
+          "doped_site": "multiple sites",
+          "site_evidence": "Ag atoms replace some Sb/Te atoms and trigger formation of AgSbTe2 phase"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "2.26",
+          "unit": "dimensionless",
+          "temperature_value": "375",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "body text",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AST4",
+      "full_formula": "Sb2Te3-AgSbTe2 (x=7.00)",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "7.00 atomic percentage",
+          "doped_site": "multiple sites",
+          "site_evidence": "Ag atoms replace some Sb/Te atoms and trigger formation of AgSbTe2 phase"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "power factor",
+          "value": "7.17",
+          "unit": "mW m-1 K-2",
+          "temperature_value": "435",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "body text",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.85",
+          "unit": "dimensionless",
+          "temperature_value": "375",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "body text",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "ST",
+      "full_formula": "Sb2Te3",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "AST1",
+      "full_formula": "Sb2Te3-AgSbTe2 (x=0.9)",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.9 atomic percentage",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "AST2",
+      "full_formula": "Sb2Te3-AgSbTe2 (x=1.70)",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "1.70 atomic percentage",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "AST3",
+      "full_formula": "Sb2Te3-AgSbTe2 (x=5.90)",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "5.90 atomic percentage",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "AST4",
+      "full_formula": "Sb2Te3-AgSbTe2 (x=7.00)",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "7.00 atomic percentage",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "ST",
+      "full_formula": "Sb2Te3",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "165.33",
+          "unit": "uV/K",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": "Room temperature value"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "1083.65",
+          "unit": "S/cm",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": "Room temperature value"
+        },
+        {
+          "property": "power factor",
+          "value": "2.96",
+          "unit": "mW m^-1 K^-2",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": "Room temperature value"
+        }
+      ]
+    },
+    {
+      "sample_id": "AST1",
+      "full_formula": "Sb2Te3-Ag0.9",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.9 atomic %",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "120.59",
+          "unit": "uV/K",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": "Room temperature value"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "1378.69",
+          "unit": "S/cm",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": "Room temperature value"
+        },
+        {
+          "property": "power factor",
+          "value": "2.00",
+          "unit": "mW m^-1 K^-2",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": "Room temperature value"
+        }
+      ]
+    },
+    {
+      "sample_id": "AST2",
+      "full_formula": "Sb2Te3-Ag1.7",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "1.7 atomic %",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "101.02",
+          "unit": "uV/K",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": "Room temperature value"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "1932.79",
+          "unit": "S/cm",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": "Room temperature value"
+        },
+        {
+          "property": "power factor",
+          "value": "1.97",
+          "unit": "mW m^-1 K^-2",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": "Room temperature value"
+        }
+      ]
+    },
+    {
+      "sample_id": "AST3",
+      "full_formula": "Sb2Te3-Ag5.9",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "5.9 atomic %",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "291.65",
+          "unit": "uV/K",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": "Room temperature value"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "242.97",
+          "unit": "S/cm",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": "Room temperature value"
+        },
+        {
+          "property": "power factor",
+          "value": "2.06",
+          "unit": "mW m^-1 K^-2",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": "Room temperature value"
+        }
+      ]
+    },
+    {
+      "sample_id": "AST4",
+      "full_formula": "Sb2Te3-Ag7.0",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "7.0 atomic %",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "310.80",
+          "unit": "uV/K",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": "Room temperature value"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "135.77",
+          "unit": "S/cm",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": "Room temperature value"
+        },
+        {
+          "property": "power factor",
+          "value": "1.31",
+          "unit": "mW m^-1 K^-2",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": "Room temperature value"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The samples are nanocomposites of Sb2Te3 and AgSbTe2. The atomic percentage of Ag is denoted by x. The pristine sample is ST (x=0). AST1, AST2, AST3, and AST4 correspond to x=0.9, 1.70, 5.90, and 7.00 respectively. ZT values for AST3 and AST4 are reported at 375 K. [figure-pass p1-5] The provided pages describe a study of Sb2Te3-AgSbTe2 nanocomposite thin films. While the text mentions ZT values and power factor values, there are no property-vs-temperature plots provided in the images. Therefore, no thermoelectric property data points could be extracted. [figure-pass p6-10] The samples are Ag-doped Sb2Te3 nanocomposites where Ag incorporation leads to the formation of AgSbTe2 secondary phase. Doping site is identified as Sb based on the text. Thermoelectric properties were extracted from Table 1 and Figure 2. [figure-pass p11-14] The provided pages contain theoretical discussions, band structure calculations, and density of states plots (Figure 3) for AgSbTe2/Sb2Te3 heterostructures. However, there are no plots or tables showing thermoelectric properties (Seebeck coefficient, electrical conductivity, thermal conductivity, power factor, or ZT) as a function of temperature for any AgSbTe2-family compounds. ",
+  "status": "ok",
+  "n_pages": 31
+}

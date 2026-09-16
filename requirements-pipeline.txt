@@ -1,0 +1,11 @@
+google-genai
+python-dotenv
+pymupdf
+pdfplumber
+pandas
+openpyxl
+tqdm
+tenacity
+pydantic
+streamlit
+plotly

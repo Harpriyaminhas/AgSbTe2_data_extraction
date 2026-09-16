@@ -1,0 +1,328 @@
+{
+  "source_pdf": "Rational design of entropy-driven AgSnSbTe3 with enhanced thermoelectric efficiency index for sustainable waste heat recovery.pdf",
+  "doi": "10.1039/d5se00534e",
+  "base_composition": "AgSnSbTe3",
+  "materials": [
+    {
+      "sample_id": "AgSnSbTe3 (This work)",
+      "full_formula": "AgSnSbTe3",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "871.7",
+          "unit": "S m-1",
+          "temperature_value": "323",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "598.3",
+          "unit": "S m-1",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "96.6",
+          "unit": "mV K-1",
+          "temperature_value": "323",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "151.4",
+          "unit": "mV K-1",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.8",
+          "unit": "dimensionless",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "1.14",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.60",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.48",
+          "unit": "W m-1 K-1",
+          "temperature_value": "573",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSnSbTe3",
+      "full_formula": "AgSnSbTe3",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "871.7",
+          "unit": "S m-1",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "572",
+          "unit": "S m-1",
+          "temperature_value": "323",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "598.3",
+          "unit": "S m-1",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "96.6",
+          "unit": "uV K-1",
+          "temperature_value": "323",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "155.3",
+          "unit": "uV K-1",
+          "temperature_value": "593.5",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "151.4",
+          "unit": "uV K-1",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSnSbTe3 (This work)",
+      "full_formula": "AgSnSbTe3",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "850",
+          "unit": "S cm-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3a"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "580",
+          "unit": "S cm-1",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "98",
+          "unit": "\u00b5V K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3b"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "150",
+          "unit": "\u00b5V K-1",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3b"
+        },
+        {
+          "property": "power factor",
+          "value": "8.2",
+          "unit": "\u00b5W cm-1 K-2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3c"
+        },
+        {
+          "property": "power factor",
+          "value": "13.8",
+          "unit": "\u00b5W cm-1 K-2",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3c"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "1.14",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5a"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "1.05",
+          "unit": "W m-1 K-1",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5a"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.48",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5b"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.42",
+          "unit": "W m-1 K-1",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5b"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSnSbTe3 (This work)",
+      "full_formula": "AgSnSbTe3",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.05",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 9a",
+          "notes": "Visually estimated from Fig. 9a"
+        },
+        {
+          "property": "ZT",
+          "value": "0.2",
+          "unit": "dimensionless",
+          "temperature_value": "400",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 9a",
+          "notes": "Visually estimated from Fig. 9a"
+        },
+        {
+          "property": "ZT",
+          "value": "0.35",
+          "unit": "dimensionless",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 9a",
+          "notes": "Visually estimated from Fig. 9a"
+        },
+        {
+          "property": "ZT",
+          "value": "0.55",
+          "unit": "dimensionless",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 9a",
+          "notes": "Visually estimated from Fig. 9a"
+        },
+        {
+          "property": "ZT",
+          "value": "0.8",
+          "unit": "dimensionless",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 9a",
+          "notes": "Visually estimated from Fig. 9a"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The paper reports AgSnSbTe3 as an entropy-stabilized alloy of AgSbTe2 and SnTe. No specific dopants were added; the composition is stoichiometric AgSnSbTe3. Comparison data for Sarkar et al. and Luo et al. are mentioned in the text and tables but are not treated as separate samples for extraction as they are literature references. [figure-pass p1-5] The paper discusses AgSnSbTe3 as an entropy-stabilized alloy of AgSbTe2 and SnTe. No property-vs-temperature plots were provided in the images, so data was extracted from the body text. [figure-pass p6-10] The material AgSnSbTe3 is treated as an AgSbTe2-family compound. Data points were visually estimated from the provided figures (Fig. 3 and Fig. 5). [figure-pass p11-14] The material AgSnSbTe3 is described as an entropy-stabilized alloy of AgSbTe2 and SnTe. Only ZT vs T data was extracted from Fig. 9a for the sample 'AgSnSbTe3 (This work)' as it was the only relevant thermoelectric property-vs-temperature plot provided for the AgSbTe2-family compound. ",
+  "status": "ok",
+  "n_pages": 16
+}

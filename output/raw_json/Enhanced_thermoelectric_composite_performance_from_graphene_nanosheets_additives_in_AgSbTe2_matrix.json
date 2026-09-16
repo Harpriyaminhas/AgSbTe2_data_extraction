@@ -1,0 +1,495 @@
+{
+  "source_pdf": "Enhanced thermoelectric composite performance from graphene nanosheets additives in AgSbTe2 matrix.pdf",
+  "doi": "10.1016/j.ceramint.2022.06.092",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "0 vol% graphene/AgSbTe2",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "1.6",
+          "unit": "10^4 S/m",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "body text",
+          "source_detail": "Page 1",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.74",
+          "unit": "dimensionless",
+          "temperature_value": "500K",
+          "temperature_unit": "",
+          "source_type": "body text",
+          "source_detail": "Page 2, calculated from 1.25/1.69",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "0.6 vol% graphene/AgSbTe2",
+      "full_formula": "0.6 vol% graphene/AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "graphene",
+          "ratio_or_percentage": "0.6 vol%",
+          "doped_site": "interstitial",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "0.9 vol% graphene/AgSbTe2",
+      "full_formula": "0.9 vol% graphene/AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "graphene",
+          "ratio_or_percentage": "0.9 vol%",
+          "doped_site": "interstitial",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "2.5",
+          "unit": "10^4 S/m",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "body text",
+          "source_detail": "Page 1",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.25",
+          "unit": "dimensionless",
+          "temperature_value": "500K",
+          "temperature_unit": "",
+          "source_type": "body text",
+          "source_detail": "Page 1",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "13",
+          "unit": "\u03bcW cm^-1 K^-2",
+          "temperature_value": "500K",
+          "temperature_unit": "",
+          "source_type": "body text",
+          "source_detail": "Page 6",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.4",
+          "unit": "Wm^-1K^-1",
+          "temperature_value": "300K",
+          "temperature_unit": "",
+          "source_type": "body text",
+          "source_detail": "Page 6",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "1.2 vol% graphene/AgSbTe2",
+      "full_formula": "1.2 vol% graphene/AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "graphene",
+          "ratio_or_percentage": "1.2 vol%",
+          "doped_site": "interstitial",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "0 vol% graphene",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "1.5",
+          "unit": "10^4 S/m",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7a",
+          "notes": "Visually estimated from Fig. 7a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "210",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7c",
+          "notes": "Visually estimated from Fig. 7c"
+        },
+        {
+          "property": "power factor",
+          "value": "6",
+          "unit": "uWcm^-1K^-2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7d",
+          "notes": "Visually estimated from Fig. 7d"
+        }
+      ]
+    },
+    {
+      "sample_id": "0.6 vol% graphene",
+      "full_formula": "AgSbTe2 + 0.6 vol% graphene",
+      "dopant_or_codopant": [
+        {
+          "element": "graphene",
+          "ratio_or_percentage": "0.6 vol%",
+          "doped_site": "interstitial",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "1.8",
+          "unit": "10^4 S/m",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7a",
+          "notes": "Visually estimated from Fig. 7a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "185",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7c",
+          "notes": "Visually estimated from Fig. 7c"
+        },
+        {
+          "property": "power factor",
+          "value": "7",
+          "unit": "uWcm^-1K^-2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7d",
+          "notes": "Visually estimated from Fig. 7d"
+        }
+      ]
+    },
+    {
+      "sample_id": "0.9 vol% graphene",
+      "full_formula": "AgSbTe2 + 0.9 vol% graphene",
+      "dopant_or_codopant": [
+        {
+          "element": "graphene",
+          "ratio_or_percentage": "0.9 vol%",
+          "doped_site": "interstitial",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "2.4",
+          "unit": "10^4 S/m",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7a",
+          "notes": "Visually estimated from Fig. 7a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "205",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7c",
+          "notes": "Visually estimated from Fig. 7c"
+        },
+        {
+          "property": "power factor",
+          "value": "8",
+          "unit": "uWcm^-1K^-2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7d",
+          "notes": "Visually estimated from Fig. 7d"
+        }
+      ]
+    },
+    {
+      "sample_id": "1.2 vol% graphene",
+      "full_formula": "AgSbTe2 + 1.2 vol% graphene",
+      "dopant_or_codopant": [
+        {
+          "element": "graphene",
+          "ratio_or_percentage": "1.2 vol%",
+          "doped_site": "interstitial",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "1.9",
+          "unit": "10^4 S/m",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7a",
+          "notes": "Visually estimated from Fig. 7a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "200",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7c",
+          "notes": "Visually estimated from Fig. 7c"
+        },
+        {
+          "property": "power factor",
+          "value": "7.5",
+          "unit": "uWcm^-1K^-2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7d",
+          "notes": "Visually estimated from Fig. 7d"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbTe2",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "thermal conductivity",
+          "value": "0.55",
+          "unit": "Wm^-1K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 8a",
+          "notes": "Visually estimated from Fig. 8a"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.44",
+          "unit": "Wm^-1K^-1",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 8a",
+          "notes": "Visually estimated from Fig. 8a"
+        },
+        {
+          "property": "ZT",
+          "value": "0.35",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 8b",
+          "notes": "Visually estimated from Fig. 8b"
+        },
+        {
+          "property": "ZT",
+          "value": "0.85",
+          "unit": "dimensionless",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 8b",
+          "notes": "Visually estimated from Fig. 8b"
+        }
+      ]
+    },
+    {
+      "sample_id": "0.6 vol% graphene/AgSbTe2",
+      "full_formula": "AgSbTe2 + 0.6 vol% graphene",
+      "dopant_or_codopant": [
+        {
+          "element": "graphene",
+          "ratio_or_percentage": "0.6 vol%",
+          "doped_site": "interstitial",
+          "site_evidence": "composite material"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "thermal conductivity",
+          "value": "0.50",
+          "unit": "Wm^-1K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 8a",
+          "notes": "Visually estimated from Fig. 8a"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.42",
+          "unit": "Wm^-1K^-1",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 8a",
+          "notes": "Visually estimated from Fig. 8a"
+        },
+        {
+          "property": "ZT",
+          "value": "0.40",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 8b",
+          "notes": "Visually estimated from Fig. 8b"
+        },
+        {
+          "property": "ZT",
+          "value": "1.05",
+          "unit": "dimensionless",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 8b",
+          "notes": "Visually estimated from Fig. 8b"
+        }
+      ]
+    },
+    {
+      "sample_id": "0.9 vol% graphene/AgSbTe2",
+      "full_formula": "AgSbTe2 + 0.9 vol% graphene",
+      "dopant_or_codopant": [
+        {
+          "element": "graphene",
+          "ratio_or_percentage": "0.9 vol%",
+          "doped_site": "interstitial",
+          "site_evidence": "composite material"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "thermal conductivity",
+          "value": "0.48",
+          "unit": "Wm^-1K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 8a",
+          "notes": "Visually estimated from Fig. 8a"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.38",
+          "unit": "Wm^-1K^-1",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 8a",
+          "notes": "Visually estimated from Fig. 8a"
+        },
+        {
+          "property": "ZT",
+          "value": "0.45",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 8b",
+          "notes": "Visually estimated from Fig. 8b"
+        },
+        {
+          "property": "ZT",
+          "value": "1.25",
+          "unit": "dimensionless",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 8b",
+          "notes": "Visually estimated from Fig. 8b"
+        }
+      ]
+    },
+    {
+      "sample_id": "1.2 vol% graphene/AgSbTe2",
+      "full_formula": "AgSbTe2 + 1.2 vol% graphene",
+      "dopant_or_codopant": [
+        {
+          "element": "graphene",
+          "ratio_or_percentage": "1.2 vol%",
+          "doped_site": "interstitial",
+          "site_evidence": "composite material"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "thermal conductivity",
+          "value": "0.45",
+          "unit": "Wm^-1K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 8a",
+          "notes": "Visually estimated from Fig. 8a"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.40",
+          "unit": "Wm^-1K^-1",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 8a",
+          "notes": "Visually estimated from Fig. 8a"
+        },
+        {
+          "property": "ZT",
+          "value": "0.42",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 8b",
+          "notes": "Visually estimated from Fig. 8b"
+        },
+        {
+          "property": "ZT",
+          "value": "1.15",
+          "unit": "dimensionless",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 8b",
+          "notes": "Visually estimated from Fig. 8b"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The paper reports graphene/AgSbTe2 composites. The pristine AgSbTe2 matrix is noted as non-stoichiometric (Ag0.83Sb1.09Te2). Electrical conductivity values at room temperature are provided in text. ZT values at 500K are provided in text. Lattice thermal conductivity at 300K is provided in text. ",
+  "status": "ok",
+  "n_pages": 8
+}

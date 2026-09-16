@@ -1,0 +1,365 @@
+{
+  "source_pdf": "Transport and mechanical property evaluation of (AgSbTe)1 x(GeTe)x (x \u00bc 0.80, 0.82, 0.85, 0.87, 0.90).pdf",
+  "doi": "10.1016/j.jssc.2009.05.024",
+  "base_composition": "AgSbTe2-GeTe",
+  "materials": [
+    {
+      "sample_id": "(AgSbTe2)0.20(GeTe)0.80",
+      "full_formula": "(Ag0.80SbTe1.90)0.20(GeTe)0.80",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "thermal conductivity",
+          "value": "1.7",
+          "unit": "W/m K",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "80",
+          "unit": "mV/K",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "0.561",
+          "unit": "mO-cm",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": "Reported as electrical resistivity"
+        },
+        {
+          "property": "ZT",
+          "value": "1.0",
+          "unit": "dimensionless",
+          "temperature_value": "750",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "(AgSbTe2)0.17(GeTe)0.83",
+      "full_formula": "(Ag0.84Sb0.99Te2.01)0.17(GeTe)0.83",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "thermal conductivity",
+          "value": "1.8",
+          "unit": "W/m K",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "73",
+          "unit": "mV/K",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "0.630",
+          "unit": "mO-cm",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": "Reported as electrical resistivity"
+        },
+        {
+          "property": "ZT",
+          "value": "0.8",
+          "unit": "dimensionless",
+          "temperature_value": "750",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "(AgSbTe2)0.15(GeTe)0.85",
+      "full_formula": "(Ag0.85Sb1.01Te1.95)0.15(GeTe)0.85",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "thermal conductivity",
+          "value": "1.6",
+          "unit": "W/m K",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "100",
+          "unit": "mV/K",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "0.50",
+          "unit": "mO-cm",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": "Reported as electrical resistivity"
+        },
+        {
+          "property": "ZT",
+          "value": "1.36",
+          "unit": "dimensionless",
+          "temperature_value": "700",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "(AgSbTe2)0.13(GeTe)0.87",
+      "full_formula": "(Ag0.75SbTe2.20)0.13(GeTe)0.88",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "thermal conductivity",
+          "value": "2.0",
+          "unit": "W/m K",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "62",
+          "unit": "mV/K",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "0.439",
+          "unit": "mO-cm",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": "Reported as electrical resistivity"
+        },
+        {
+          "property": "ZT",
+          "value": "0.8",
+          "unit": "dimensionless",
+          "temperature_value": "750",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "(AgSbTe2)0.10(GeTe)0.90",
+      "full_formula": "(AgSb1.04Te2.32)0.10(GeTe)0.90",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "thermal conductivity",
+          "value": "2.2",
+          "unit": "W/m K",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "61",
+          "unit": "mV/K",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "0.343",
+          "unit": "mO-cm",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": "Reported as electrical resistivity"
+        },
+        {
+          "property": "ZT",
+          "value": "0.8",
+          "unit": "dimensionless",
+          "temperature_value": "750",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "TAGS-80",
+      "full_formula": "(AgSbTe2)0.20(GeTe)0.80",
+      "dopant_or_codopant": [
+        {
+          "element": "Ge",
+          "ratio_or_percentage": "0.80",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.36",
+          "unit": "dimensionless",
+          "temperature_value": "700",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "TAGS-82",
+      "full_formula": "(AgSbTe2)0.17(GeTe)0.83",
+      "dopant_or_codopant": [
+        {
+          "element": "Ge",
+          "ratio_or_percentage": "0.83",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.8",
+          "unit": "dimensionless",
+          "temperature_value": "750",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "TAGS-85",
+      "full_formula": "(AgSbTe2)0.15(GeTe)0.85",
+      "dopant_or_codopant": [
+        {
+          "element": "Ge",
+          "ratio_or_percentage": "0.85",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.36",
+          "unit": "dimensionless",
+          "temperature_value": "700",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "TAGS-87",
+      "full_formula": "(AgSbTe2)0.13(GeTe)0.87",
+      "dopant_or_codopant": [
+        {
+          "element": "Ge",
+          "ratio_or_percentage": "0.87",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.8",
+          "unit": "dimensionless",
+          "temperature_value": "750",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "TAGS-90",
+      "full_formula": "(AgSbTe2)0.10(GeTe)0.90",
+      "dopant_or_codopant": [
+        {
+          "element": "Ge",
+          "ratio_or_percentage": "0.90",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.8",
+          "unit": "dimensionless",
+          "temperature_value": "750",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The samples are solid solutions of AgSbTe2 and GeTe (TAGS-x). The 'dopant' in this context is the GeTe mole fraction variation. The electrical resistivity values were extracted as electrical conductivity properties per the schema requirements. [figure-pass p1-5] The materials are solid solutions of AgSbTe2 and GeTe, referred to as TAGS-x. Doping site is considered 'multiple sites' as GeTe substitutes into the AgSbTe2 lattice. ZT values were extracted from the body text. [figure-pass p6-8] The provided pages contain information about TAGS-x (AgSbTe2-GeTe alloys) samples, including Hall coefficient and Hall mobility data in Figure 7. However, there are no plots or tables provided in these pages that show Seebeck coefficient, electrical conductivity, thermal conductivity, lattice thermal conductivity, power factor, or ZT as a function of temperature. Therefore, no thermoelectric property data could be extracted. ",
+  "status": "ok",
+  "n_pages": 8
+}

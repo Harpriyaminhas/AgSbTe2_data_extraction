@@ -1,0 +1,187 @@
+{
+  "source_pdf": "Transport properties of (AgSb\u0422e2 )0.7 (PbTe)0.3 thermoelectric compound.pdf",
+  "doi": "10.1063/10.0014020",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "(AgSbTe2)0.7(PbTe)0.3",
+      "full_formula": "(AgSbTe2)0.7(PbTe)0.3",
+      "dopant_or_codopant": [
+        {
+          "element": "Pb",
+          "ratio_or_percentage": "0.3",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "(AgSbTe2)0.7(PbTe)0.3",
+      "full_formula": "(AgSbTe2)0.7(PbTe)0.3",
+      "dopant_or_codopant": [
+        {
+          "element": "Pb",
+          "ratio_or_percentage": "0.3",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "200",
+          "unit": "uV/K",
+          "temperature_value": "100",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "250",
+          "unit": "uV/K",
+          "temperature_value": "200",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "300",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "400",
+          "unit": "uV/K",
+          "temperature_value": "400",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "300",
+          "unit": "uV/K",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "10",
+          "unit": "Ohm^-1 cm^-1",
+          "temperature_value": "100",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 2"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "15",
+          "unit": "Ohm^-1 cm^-1",
+          "temperature_value": "200",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 2"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "18",
+          "unit": "Ohm^-1 cm^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 2"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "15",
+          "unit": "Ohm^-1 cm^-1",
+          "temperature_value": "400",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 2"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "15",
+          "unit": "Ohm^-1 cm^-1",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 2"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "8",
+          "unit": "10^-3 W/cm K",
+          "temperature_value": "100",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "8.2",
+          "unit": "10^-3 W/cm K",
+          "temperature_value": "200",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "8.4",
+          "unit": "10^-3 W/cm K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "8.6",
+          "unit": "10^-3 W/cm K",
+          "temperature_value": "400",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "8.8",
+          "unit": "10^-3 W/cm K",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The article reports on the transport properties of (AgSbTe2)0.7(PbTe)0.3. While the paper includes figures (Fig 2, 3, 4, 5) showing temperature-dependent trends for electrical conductivity, Seebeck coefficient, Hall coefficient, and thermal conductivity, no specific numerical values are provided in the text or tables for these properties at any given temperature. Therefore, no thermoelectric property values were extracted. ",
+  "status": "ok",
+  "n_pages": 5
+}

@@ -1,0 +1,142 @@
+{
+  "source_pdf": "Irie_1963_Jpn._J._Appl._Phys._2_72.pdf",
+  "doi": "",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "AgSbTe2-AgBiTe2 system",
+      "full_formula": "AgSbTe2-AgBiTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Bi",
+          "ratio_or_percentage": "0-50 mol%",
+          "doped_site": "Sb",
+          "site_evidence": "The system is described as AgSbTe2-AgBiTe2 solid solutions, implying Bi substitutes for Sb."
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "180",
+          "unit": "ohm^-1 cm^-1",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 14 at 0 mol% AgBiTe2."
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "250",
+          "unit": "uV/C",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 13 at 30 mol% AgBiTe2."
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.008",
+          "unit": "W/deg-cm",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 16 at 0 mol% AgBiTe2."
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbTe2-PbTe system",
+      "full_formula": "AgSbTe2-PbTe",
+      "dopant_or_codopant": [
+        {
+          "element": "Pb",
+          "ratio_or_percentage": "0-100 mol%",
+          "doped_site": "multiple sites",
+          "site_evidence": "Described as solid solutions of AgSbTe2 and PbTe."
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "300",
+          "unit": "uV/C",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 21 at 20 mol% PbTe."
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "10",
+          "unit": "ohm^-1 cm^-1",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 20 at 90 mol% PbTe."
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.004",
+          "unit": "W/deg-cm",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 22 at 40 mol% PbTe."
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbTe2-SnTe system",
+      "full_formula": "AgSbTe2-SnTe",
+      "dopant_or_codopant": [
+        {
+          "element": "Sn",
+          "ratio_or_percentage": "0-100 mol%",
+          "doped_site": "multiple sites",
+          "site_evidence": "Described as solid solutions of AgSbTe2 and SnTe."
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "250",
+          "unit": "uV/C",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 27 at 0 mol% SnTe."
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "1200",
+          "unit": "ohm^-1 cm^-1",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 26 at 40 mol% SnTe."
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.028",
+          "unit": "W/deg-cm",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 28 at 80 mol% SnTe."
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The provided article text contains only the title, citation information, and references to other papers. No experimental data, tables, or figures containing thermoelectric properties or doping information for AgSbTe2-family compounds were present in the provided content. [figure-pass p1-5] The provided pages contain plots of electrical conductivity and thermoelectric power as a function of distance along a bar (L), not as a function of temperature. Figure 5 and Figure 6 show electrical resistivity, Hall coefficient, and Hall mobility as a function of temperature (or reciprocal temperature), but these are not the specific thermoelectric properties requested (Seebeck coefficient, electrical conductivity, thermal conductivity, lattice thermal conductivity, power factor, or ZT). Therefore, no relevant thermoelectric property-vs-temperature data was extracted. [figure-pass p6-10] The provided pages contain plots of thermoelectric properties (Seebeck coefficient, electrical conductivity, thermal conductivity) as a function of composition for AgSbTe2-based solid solutions (AgBiTe2, PbTe, SnTe). No temperature-dependent plots were provided, so values were extracted from composition-dependent plots. [figure-pass p11-12] The provided pages contain tables of thermoelectric parameters (Fermi level, mobility, thermal conductivity) for AgSbTe2-AgBiTe2, AgSbTe2-SnTe, and AgSbTe2-PbTe systems. However, these tables do not provide temperature-dependent thermoelectric properties (Seebeck coefficient, electrical conductivity, thermal conductivity, power factor, or ZT) as a function of temperature. There are no plots showing these properties versus temperature. Therefore, no data can be extracted according to the specified requirements. ",
+  "status": "ok",
+  "n_pages": 12
+}

@@ -1,0 +1,537 @@
+{
+  "source_pdf": "PhysRevB.79.184202.pdf",
+  "doi": "10.1103/PhysRevB.79.184202",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "AgSbSexTe2-x (x=0.00)",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Se",
+          "ratio_or_percentage": "0",
+          "doped_site": "Te",
+          "site_evidence": "substitution of Te by Se atoms"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.65",
+          "unit": "dimensionless",
+          "temperature_value": "520",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "body text",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbSexTe2-x (x=0.25)",
+      "full_formula": "AgSbSe0.25Te1.75",
+      "dopant_or_codopant": [
+        {
+          "element": "Se",
+          "ratio_or_percentage": "0.25",
+          "doped_site": "Te",
+          "site_evidence": "substitution of Te by Se atoms"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.65",
+          "unit": "dimensionless",
+          "temperature_value": "520",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "body text",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbSe_xTe_2-x (x=0.00)",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Se",
+          "ratio_or_percentage": "x=0.00",
+          "doped_site": "Te",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "100",
+          "unit": "uV K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5",
+          "notes": "Visually estimated from Fig. 5"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "150",
+          "unit": "uV K^-1",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5",
+          "notes": "Visually estimated from Fig. 5"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "3.3e4",
+          "unit": "S m^-1",
+          "temperature_value": "336",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4",
+          "notes": "Visually estimated from Fig. 4"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbSe_xTe_2-x (x=0.25)",
+      "full_formula": "AgSbSe0.25Te1.75",
+      "dopant_or_codopant": [
+        {
+          "element": "Se",
+          "ratio_or_percentage": "x=0.25",
+          "doped_site": "Te",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "180",
+          "unit": "uV K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5",
+          "notes": "Visually estimated from Fig. 5"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "200",
+          "unit": "uV K^-1",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5",
+          "notes": "Visually estimated from Fig. 5"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbSe_xTe_2-x (x=0.50)",
+      "full_formula": "AgSbSe0.5Te1.5",
+      "dopant_or_codopant": [
+        {
+          "element": "Se",
+          "ratio_or_percentage": "x=0.50",
+          "doped_site": "Te",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "180",
+          "unit": "uV K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5",
+          "notes": "Visually estimated from Fig. 5"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "200",
+          "unit": "uV K^-1",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5",
+          "notes": "Visually estimated from Fig. 5"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbSe_xTe_2-x (x=0.75)",
+      "full_formula": "AgSbSe0.75Te1.25",
+      "dopant_or_codopant": [
+        {
+          "element": "Se",
+          "ratio_or_percentage": "x=0.75",
+          "doped_site": "Te",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "150",
+          "unit": "uV K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5",
+          "notes": "Visually estimated from Fig. 5"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "180",
+          "unit": "uV K^-1",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5",
+          "notes": "Visually estimated from Fig. 5"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbSe_xTe_2-x (x=1.00)",
+      "full_formula": "AgSbSeTe",
+      "dopant_or_codopant": [
+        {
+          "element": "Se",
+          "ratio_or_percentage": "x=1.00",
+          "doped_site": "Te",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "250",
+          "unit": "uV K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5",
+          "notes": "Visually estimated from Fig. 5"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "300",
+          "unit": "uV K^-1",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5",
+          "notes": "Visually estimated from Fig. 5"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbSe_xTe_2-x (x=1.25)",
+      "full_formula": "AgSbSe1.25Te0.75",
+      "dopant_or_codopant": [
+        {
+          "element": "Se",
+          "ratio_or_percentage": "x=1.25",
+          "doped_site": "Te",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "350",
+          "unit": "uV K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5",
+          "notes": "Visually estimated from Fig. 5"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "400",
+          "unit": "uV K^-1",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5",
+          "notes": "Visually estimated from Fig. 5"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbSe_xTe_2-x (x=1.50)",
+      "full_formula": "AgSbSe1.5Te0.5",
+      "dopant_or_codopant": [
+        {
+          "element": "Se",
+          "ratio_or_percentage": "x=1.50",
+          "doped_site": "Te",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "450",
+          "unit": "uV K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5",
+          "notes": "Visually estimated from Fig. 5"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "500",
+          "unit": "uV K^-1",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5",
+          "notes": "Visually estimated from Fig. 5"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbSe_xTe_2-x (x=1.75)",
+      "full_formula": "AgSbSe1.75Te0.25",
+      "dopant_or_codopant": [
+        {
+          "element": "Se",
+          "ratio_or_percentage": "x=1.75",
+          "doped_site": "Te",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "500",
+          "unit": "uV K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5",
+          "notes": "Visually estimated from Fig. 5"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "550",
+          "unit": "uV K^-1",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5",
+          "notes": "Visually estimated from Fig. 5"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbSe_xTe_2-x (x=2.00)",
+      "full_formula": "AgSbSe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Se",
+          "ratio_or_percentage": "x=2.00",
+          "doped_site": "Te",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "250",
+          "unit": "uV K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5",
+          "notes": "Visually estimated from Fig. 5"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "300",
+          "unit": "uV K^-1",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5",
+          "notes": "Visually estimated from Fig. 5"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbSe0.25Te1.75",
+      "full_formula": "AgSbSe0.25Te1.75",
+      "dopant_or_codopant": [
+        {
+          "element": "Se",
+          "ratio_or_percentage": "0.25",
+          "doped_site": "Te",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.22",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 8"
+        },
+        {
+          "property": "ZT",
+          "value": "0.65",
+          "unit": "dimensionless",
+          "temperature_value": "520",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 8"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbTe2",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.12",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 8"
+        },
+        {
+          "property": "ZT",
+          "value": "0.52",
+          "unit": "dimensionless",
+          "temperature_value": "520",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 8"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbSeTe",
+      "full_formula": "AgSbSeTe",
+      "dopant_or_codopant": [
+        {
+          "element": "Se",
+          "ratio_or_percentage": "1",
+          "doped_site": "Te",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.08",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 8"
+        },
+        {
+          "property": "ZT",
+          "value": "0.42",
+          "unit": "dimensionless",
+          "temperature_value": "520",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 8"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbSe2",
+      "full_formula": "AgSbSe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Se",
+          "ratio_or_percentage": "2",
+          "doped_site": "Te",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.06",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 8"
+        },
+        {
+          "property": "ZT",
+          "value": "0.15",
+          "unit": "dimensionless",
+          "temperature_value": "520",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 8"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbSe1.75Te0.25",
+      "full_formula": "AgSbSe1.75Te0.25",
+      "dopant_or_codopant": [
+        {
+          "element": "Se",
+          "ratio_or_percentage": "1.75",
+          "doped_site": "Te",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.01",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 8"
+        },
+        {
+          "property": "ZT",
+          "value": "0.05",
+          "unit": "dimensionless",
+          "temperature_value": "520",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 8"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The article discusses the AgSbTe2-AgSbSe2 pseudobinary system. While the paper mentions various compositions (x=0.00 to 2.00), it explicitly provides a ZT value only for the x=0.25 sample. The base compound AgSbTe2 (x=0) is also mentioned as having a ZT value, but the text specifically highlights the x=0.25 sample for the highest experimental ZT of 0.65 at 520 K. [figure-pass p1-5] Data extracted from figures 4, 5, and 6. Seebeck coefficient values were visually estimated from Fig. 5. Electrical conductivity values were visually estimated from Fig. 4. [figure-pass p6-7] Data extracted from Figure 8 showing ZT vs Temperature for various AgSbSe_xTe_2-x compositions. Values are visual estimates. ",
+  "status": "ok",
+  "n_pages": 7
+}

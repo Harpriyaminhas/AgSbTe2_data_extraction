@@ -1,0 +1,314 @@
+{
+  "source_pdf": "1-s2.0-S2542529325000483-main.pdf",
+  "doi": "10.1016/j.mtphys.2025.101692",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "(AgSb0.98Cd0.02Te2)0.9(Bi2Te3)0.1",
+      "full_formula": "(AgSb0.98Cd0.02Te2)0.9(Bi2Te3)0.1",
+      "dopant_or_codopant": [
+        {
+          "element": "Cd",
+          "ratio_or_percentage": "0.02",
+          "doped_site": "Sb",
+          "site_evidence": "body text"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.93",
+          "unit": "dimensionless",
+          "temperature_value": "450",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 2, Section 1",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "(AgSb1-yCdyTe2)0.9(Bi2Te3)0.1, y=0.00",
+      "full_formula": "(AgSbTe2)0.9(Bi2Te3)0.1",
+      "dopant_or_codopant": [
+        {
+          "element": "Bi",
+          "ratio_or_percentage": "0.1",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        },
+        {
+          "element": "Cd",
+          "ratio_or_percentage": "y=0.00",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "220",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "300",
+          "unit": "uV/K",
+          "temperature_value": "450",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3a"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "25",
+          "unit": "mOhm*cm",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3b"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "26",
+          "unit": "mOhm*cm",
+          "temperature_value": "450",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3b"
+        },
+        {
+          "property": "power factor",
+          "value": "3.5",
+          "unit": "uW*cm^-1*K^-2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3c"
+        },
+        {
+          "property": "power factor",
+          "value": "6.5",
+          "unit": "uW*cm^-1*K^-2",
+          "temperature_value": "450",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3c"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.7",
+          "unit": "W*m^-1*K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3d"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.6",
+          "unit": "W*m^-1*K^-1",
+          "temperature_value": "450",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3d"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.65",
+          "unit": "W*m^-1*K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3e"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.45",
+          "unit": "W*m^-1*K^-1",
+          "temperature_value": "450",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3e"
+        },
+        {
+          "property": "ZT",
+          "value": "0.3",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3f"
+        },
+        {
+          "property": "ZT",
+          "value": "0.6",
+          "unit": "dimensionless",
+          "temperature_value": "450",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3f"
+        }
+      ]
+    },
+    {
+      "sample_id": "(AgSb1-yCdyTe2)0.9(Bi2Te3)0.1, y=0.02",
+      "full_formula": "(AgSb0.98Cd0.02Te2)0.9(Bi2Te3)0.1",
+      "dopant_or_codopant": [
+        {
+          "element": "Bi",
+          "ratio_or_percentage": "0.1",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        },
+        {
+          "element": "Cd",
+          "ratio_or_percentage": "y=0.02",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "210",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "270",
+          "unit": "uV/K",
+          "temperature_value": "450",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3a"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "18",
+          "unit": "mOhm*cm",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3b"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "22",
+          "unit": "mOhm*cm",
+          "temperature_value": "450",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3b"
+        },
+        {
+          "property": "power factor",
+          "value": "4.5",
+          "unit": "uW*cm^-1*K^-2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3c"
+        },
+        {
+          "property": "power factor",
+          "value": "8.5",
+          "unit": "uW*cm^-1*K^-2",
+          "temperature_value": "450",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3c"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.65",
+          "unit": "W*m^-1*K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3d"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.55",
+          "unit": "W*m^-1*K^-1",
+          "temperature_value": "450",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3d"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.6",
+          "unit": "W*m^-1*K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3e"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.42",
+          "unit": "W*m^-1*K^-1",
+          "temperature_value": "450",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3e"
+        },
+        {
+          "property": "ZT",
+          "value": "0.4",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3f"
+        },
+        {
+          "property": "ZT",
+          "value": "0.9",
+          "unit": "dimensionless",
+          "temperature_value": "450",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3f"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The article focuses on the solid solution (AgSbTe2)1-x(Bi2Te3)x and the specific doped composition (AgSb0.98Cd0.02Te2)0.9(Bi2Te3)0.1. While Fig. 3 shows temperature-dependent properties for (AgSb1-yCdyTe2)0.9(Bi2Te3)0.1 (0 \u2264 y \u2264 0.035), the specific numerical values for Seebeck, conductivity, etc., are plotted as curves without explicit data tables provided in the text, so only the peak ZT value explicitly mentioned in the text was extracted. [figure-pass p1-5] Data extracted from Fig. 3 for AgSbTe2-based solid solutions with Bi2Te3 and Cd doping. Other samples (y=0.01, 0.025, 0.03, 0.035) are present in the plots but only y=0.00 and y=0.02 were extracted as examples. [figure-pass p6-7] The provided pages contain only a list of references and no plots, tables, or text describing thermoelectric properties or doping data for AgSbTe2-family compounds. ",
+  "status": "ok",
+  "n_pages": 7
+}

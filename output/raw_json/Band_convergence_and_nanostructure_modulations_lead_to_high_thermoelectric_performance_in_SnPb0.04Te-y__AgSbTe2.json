@@ -1,0 +1,463 @@
+{
+  "source_pdf": "Band convergence and nanostructure modulations lead to high thermoelectric performance in SnPb0.04Te-y_ AgSbTe2.pdf",
+  "doi": "10.1016/j.mtphys.2021.100505",
+  "base_composition": "SnPb0.04Te-y%AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "SnPb0.04Te-12%AgSbTe2",
+      "full_formula": "SnPb0.04Te-12%AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "12%",
+          "doped_site": "Sn",
+          "site_evidence": "The decreasing lattice parameters with the increasing AgSbTe2 concentration demonstrate that smaller-size Ag+ and the Sb3+ effectively incorporate in the Sn2+ sites."
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "12%",
+          "doped_site": "Sn",
+          "site_evidence": "The decreasing lattice parameters with the increasing AgSbTe2 concentration demonstrate that smaller-size Ag+ and the Sb3+ effectively incorporate in the Sn2+ sites."
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.1",
+          "unit": "dimensionless",
+          "temperature_value": "823",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 1, Abstract",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.47",
+          "unit": "W m-1 K-1",
+          "temperature_value": "823",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 6, Conclusion",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "25.5",
+          "unit": "mW cm-1 K-2",
+          "temperature_value": "823",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 2, Section 2",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "SnPb0.04Te-25%AgSbTe2",
+      "full_formula": "SnPb0.04Te-25%AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "25%",
+          "doped_site": "Sn",
+          "site_evidence": "The decreasing lattice parameters with the increasing AgSbTe2 concentration demonstrate that smaller-size Ag+ and the Sb3+ effectively incorporate in the Sn2+ sites."
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "25%",
+          "doped_site": "Sn",
+          "site_evidence": "The decreasing lattice parameters with the increasing AgSbTe2 concentration demonstrate that smaller-size Ag+ and the Sb3+ effectively incorporate in the Sn2+ sites."
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "1736",
+          "unit": "S cm-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 2, Section 2",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "70.9",
+          "unit": "mV K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 2, Section 2",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "2.04",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 3, Section 2",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "SnPb0.04Te-y%AgSbTe2 (y=0 to 25)",
+      "full_formula": "SnPb0.04Te-y%AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "y%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "y%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "7180",
+          "unit": "S cm-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "page 2",
+          "notes": "Value for y=0 sample at 300 K"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "1736",
+          "unit": "S cm-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "page 2",
+          "notes": "Value for y=25 sample at 300 K"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "-24.4",
+          "unit": "uV K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "page 2",
+          "notes": "Value for y=0 sample at 300 K"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "-70.9",
+          "unit": "uV K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "page 2",
+          "notes": "Value for y=25 sample at 300 K"
+        },
+        {
+          "property": "power factor",
+          "value": "10.5",
+          "unit": "uW cm-1 K-2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "page 2",
+          "notes": "Value for y=12 sample at 300 K"
+        },
+        {
+          "property": "power factor",
+          "value": "25.5",
+          "unit": "uW cm-1 K-2",
+          "temperature_value": "823",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "page 2",
+          "notes": "Value for y=12 sample at 823 K"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "6.57",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "page 3",
+          "notes": "Value for y=0 sample at 300 K"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "1.84",
+          "unit": "W m-1 K-1",
+          "temperature_value": "823",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "page 3",
+          "notes": "Value for y=12 sample at 823 K"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.47",
+          "unit": "W m-1 K-1",
+          "temperature_value": "823",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "page 4",
+          "notes": "Value for y=12 sample at 823 K"
+        }
+      ]
+    },
+    {
+      "sample_id": "SnPb0.04Te-0%AgSbTe2",
+      "full_formula": "SnPb0.04Te",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.2",
+          "unit": "dimensionless",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 7a at 300 K"
+        },
+        {
+          "property": "ZT",
+          "value": "0.4",
+          "unit": "dimensionless",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 7a at 823 K"
+        }
+      ]
+    },
+    {
+      "sample_id": "SnPb0.04Te-3%AgSbTe2",
+      "full_formula": "SnPb0.04Te-3%AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.25",
+          "unit": "dimensionless",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 7a at 300 K"
+        },
+        {
+          "property": "ZT",
+          "value": "0.6",
+          "unit": "dimensionless",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 7a at 823 K"
+        }
+      ]
+    },
+    {
+      "sample_id": "SnPb0.04Te-6%AgSbTe2",
+      "full_formula": "SnPb0.04Te-6%AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.3",
+          "unit": "dimensionless",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 7a at 300 K"
+        },
+        {
+          "property": "ZT",
+          "value": "0.75",
+          "unit": "dimensionless",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 7a at 823 K"
+        }
+      ]
+    },
+    {
+      "sample_id": "SnPb0.04Te-9%AgSbTe2",
+      "full_formula": "SnPb0.04Te-9%AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.35",
+          "unit": "dimensionless",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 7a at 300 K"
+        },
+        {
+          "property": "ZT",
+          "value": "0.9",
+          "unit": "dimensionless",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 7a at 823 K"
+        }
+      ]
+    },
+    {
+      "sample_id": "SnPb0.04Te-12%AgSbTe2",
+      "full_formula": "SnPb0.04Te-12%AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.4",
+          "unit": "dimensionless",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 7a at 300 K"
+        },
+        {
+          "property": "ZT",
+          "value": "1.1",
+          "unit": "dimensionless",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 7a at 823 K"
+        }
+      ]
+    },
+    {
+      "sample_id": "SnPb0.04Te-15%AgSbTe2",
+      "full_formula": "SnPb0.04Te-15%AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.35",
+          "unit": "dimensionless",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 7a at 300 K"
+        },
+        {
+          "property": "ZT",
+          "value": "0.95",
+          "unit": "dimensionless",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 7a at 823 K"
+        }
+      ]
+    },
+    {
+      "sample_id": "SnPb0.04Te-18%AgSbTe2",
+      "full_formula": "SnPb0.04Te-18%AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.3",
+          "unit": "dimensionless",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 7a at 300 K"
+        },
+        {
+          "property": "ZT",
+          "value": "0.85",
+          "unit": "dimensionless",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 7a at 823 K"
+        }
+      ]
+    },
+    {
+      "sample_id": "SnPb0.04Te-21%AgSbTe2",
+      "full_formula": "SnPb0.04Te-21%AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.25",
+          "unit": "dimensionless",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 7a at 300 K"
+        },
+        {
+          "property": "ZT",
+          "value": "0.8",
+          "unit": "dimensionless",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 7a at 823 K"
+        }
+      ]
+    },
+    {
+      "sample_id": "SnPb0.04Te-25%AgSbTe2",
+      "full_formula": "SnPb0.04Te-25%AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.2",
+          "unit": "dimensionless",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 7a at 300 K"
+        },
+        {
+          "property": "ZT",
+          "value": "0.7",
+          "unit": "dimensionless",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 7a at 823 K"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The paper reports a series of SnPb0.04Te-y%AgSbTe2 samples. Data for y=12% and y=25% were extracted as representative samples. Note: The Seebeck coefficient units in the text are reported as mV K-1, which appears to be a typo in the source text (likely should be \u00b5V K-1), but the values were extracted exactly as written. [figure-pass p1-5] Data extracted from body text and figures. Property values for y=0 to 25 are plotted in Fig 3 and Fig 5. [figure-pass p6-7] Data extracted from Fig. 7a showing ZT vs Temperature for SnPb0.04Te-y%AgSbTe2 samples. Doping sites are not explicitly specified for the AgSbTe2 alloy addition, so they are marked as unclear. ",
+  "status": "ok",
+  "n_pages": 7
+}

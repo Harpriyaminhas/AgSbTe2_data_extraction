@@ -1,0 +1,124 @@
+{
+  "source_pdf": "Effects_of_nano-domains_on_thermoelectric_properties_in_telluride_system.pdf",
+  "doi": "10.1109/NMDC.2011.6155313",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "AgSbTe2",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "253",
+          "unit": "uV/K",
+          "temperature_value": "623",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table I",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "19230.77",
+          "unit": "S/m",
+          "temperature_value": "623",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table I",
+          "notes": "Calculated from resistivity 52 uOhm m"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.56",
+          "unit": "W/K m",
+          "temperature_value": "623",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table I",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "1.23",
+          "unit": "mW/m K^2",
+          "temperature_value": "623",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table I",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.47",
+          "unit": "dimensionless",
+          "temperature_value": "623",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table I",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbTe2",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "thermal conductivity",
+          "value": "0.56",
+          "unit": "W/m\u00b7K",
+          "temperature_value": "623",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table I",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "253",
+          "unit": "\u03bcV/K",
+          "temperature_value": "623",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table I",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "19.23",
+          "unit": "S/cm",
+          "temperature_value": "623",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Calculated from resistivity 52 \u03bcOhm\u00b7m in Table I",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "1.23",
+          "unit": "mW/m\u00b7K^2",
+          "temperature_value": "623",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table I",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.47",
+          "unit": "dimensionless",
+          "temperature_value": "623",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table I",
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The paper discusses AgSbTe2 and Ag-doped Bi0.5Sb1.5Te3. Only AgSbTe2 data was extracted as requested for the AgSbTe2-family. The Bi-Sb-Te samples were excluded as they are not AgSbTe2-family compounds. No explicit doping ratio was provided for the AgSbTe2 sample in the text, it is treated as the base compound. [figure-pass p1-4] The paper focuses on AgSbTe2 and Ag-doped Bi0.5Sb1.5Te3. Only AgSbTe2 data was extracted as it is the only AgSbTe2-family compound reported with thermoelectric properties. Figure 4 shows lattice thermal conductivity for AgSbTe2, but values are not extracted as they are redundant with the table data. ",
+  "status": "ok",
+  "n_pages": 4
+}

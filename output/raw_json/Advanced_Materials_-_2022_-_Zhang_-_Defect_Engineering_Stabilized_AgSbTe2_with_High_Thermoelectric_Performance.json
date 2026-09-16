@@ -1,0 +1,431 @@
+{
+  "source_pdf": "Advanced Materials - 2022 - Zhang - Defect\u2010Engineering\u2010Stabilized AgSbTe2 with High Thermoelectric Performance.pdf",
+  "doi": "10.1002/adma.202208994",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "Pristine AgSbTe2",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "89",
+          "unit": "S cm-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Page 4, Results and Discussion",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.6",
+          "unit": "dimensionless",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Page 2, Results and Discussion",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbTe1.85Se0.1S0.05",
+      "full_formula": "AgSbTe1.85Se0.1S0.05",
+      "dopant_or_codopant": [
+        {
+          "element": "Se",
+          "ratio_or_percentage": "0.1",
+          "doped_site": "Te",
+          "site_evidence": ""
+        },
+        {
+          "element": "S",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "Te",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "244",
+          "unit": "S cm-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Page 4, Results and Discussion",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "2.1",
+          "unit": "mW m-1 K-2",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Page 5, Results and Discussion",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.31",
+          "unit": "W m-1 K-1",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "text",
+          "source_detail": "Page 8, Conclusion",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "2.3",
+          "unit": "dimensionless",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Page 7, Results and Discussion",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbTe2",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.6",
+          "unit": "dimensionless",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Figure 1A",
+          "notes": "Visually estimated from Figure 1A"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbTe1.9Se0.05S0.05",
+      "full_formula": "AgSbTe1.9Se0.05S0.05",
+      "dopant_or_codopant": [
+        {
+          "element": "Se",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "Te",
+          "site_evidence": ""
+        },
+        {
+          "element": "S",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "Te",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.8",
+          "unit": "dimensionless",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Figure 1A",
+          "notes": "Visually estimated from Figure 1A"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbTe1.85Se0.1S0.05",
+      "full_formula": "AgSbTe1.85Se0.1S0.05",
+      "dopant_or_codopant": [
+        {
+          "element": "Se",
+          "ratio_or_percentage": "0.1",
+          "doped_site": "Te",
+          "site_evidence": ""
+        },
+        {
+          "element": "S",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "Te",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "2.3",
+          "unit": "dimensionless",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Figure 1A",
+          "notes": "Visually estimated from Figure 1A"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbTe1.8Se0.1S0.1",
+      "full_formula": "AgSbTe1.8Se0.1S0.1",
+      "dopant_or_codopant": [
+        {
+          "element": "Se",
+          "ratio_or_percentage": "0.1",
+          "doped_site": "Te",
+          "site_evidence": ""
+        },
+        {
+          "element": "S",
+          "ratio_or_percentage": "0.1",
+          "doped_site": "Te",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "2.1",
+          "unit": "dimensionless",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Figure 1A",
+          "notes": "Visually estimated from Figure 1A"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbTe2",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "0.8",
+          "unit": "x10^4 S/m",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4A",
+          "notes": "Visually estimated from Fig. 4A"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "240",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4B",
+          "notes": "Visually estimated from Fig. 4B"
+        },
+        {
+          "property": "power factor",
+          "value": "0.6",
+          "unit": "mWm^-1K^-2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4E",
+          "notes": "Visually estimated from Fig. 4E"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.55",
+          "unit": "Wm^-1K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4F",
+          "notes": "Visually estimated from Fig. 4F"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbTe1.9Se0.05S0.05",
+      "full_formula": "AgSbTe1.9Se0.05S0.05",
+      "dopant_or_codopant": [
+        {
+          "element": "Se",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "Te",
+          "site_evidence": ""
+        },
+        {
+          "element": "S",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "Te",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "1.1",
+          "unit": "x10^4 S/m",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4A",
+          "notes": "Visually estimated from Fig. 4A"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "230",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4B",
+          "notes": "Visually estimated from Fig. 4B"
+        },
+        {
+          "property": "power factor",
+          "value": "0.65",
+          "unit": "mWm^-1K^-2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4E",
+          "notes": "Visually estimated from Fig. 4E"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.52",
+          "unit": "Wm^-1K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4F",
+          "notes": "Visually estimated from Fig. 4F"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbTe1.85Se0.1S0.05",
+      "full_formula": "AgSbTe1.85Se0.1S0.05",
+      "dopant_or_codopant": [
+        {
+          "element": "Se",
+          "ratio_or_percentage": "0.1",
+          "doped_site": "Te",
+          "site_evidence": ""
+        },
+        {
+          "element": "S",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "Te",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "2.4",
+          "unit": "x10^4 S/m",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4A",
+          "notes": "Visually estimated from Fig. 4A"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "230",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4B",
+          "notes": "Visually estimated from Fig. 4B"
+        },
+        {
+          "property": "power factor",
+          "value": "1.3",
+          "unit": "mWm^-1K^-2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4E",
+          "notes": "Visually estimated from Fig. 4E"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.5",
+          "unit": "Wm^-1K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4F",
+          "notes": "Visually estimated from Fig. 4F"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbTe1.8Se0.1S0.1",
+      "full_formula": "AgSbTe1.8Se0.1S0.1",
+      "dopant_or_codopant": [
+        {
+          "element": "Se",
+          "ratio_or_percentage": "0.1",
+          "doped_site": "Te",
+          "site_evidence": ""
+        },
+        {
+          "element": "S",
+          "ratio_or_percentage": "0.1",
+          "doped_site": "Te",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "1.9",
+          "unit": "x10^4 S/m",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4A",
+          "notes": "Visually estimated from Fig. 4A"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "230",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4B",
+          "notes": "Visually estimated from Fig. 4B"
+        },
+        {
+          "property": "power factor",
+          "value": "1.1",
+          "unit": "mWm^-1K^-2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4E",
+          "notes": "Visually estimated from Fig. 4E"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.48",
+          "unit": "Wm^-1K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4F",
+          "notes": "Visually estimated from Fig. 4F"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The article reports AgSbTe2-family compounds doped with Se and S. The specific composition AgSbTe1.85Se0.1S0.05 is highlighted as the optimized material. Other compositions like AgSbTe1.85Se0.15 and AgSbTe1.82Se0.12S0.06 are mentioned in figures or calculations but the primary experimental data is focused on the co-doped sample. [figure-pass p1-5] Data extracted from Figure 1A for ZT values at 673 K. Doping sites identified as Te based on text description of Se and S substitution on the anion sublattice. [figure-pass p6-9] Data extracted from Figure 4, which shows thermoelectric properties of AgSbTe2-x-ySexSy as a function of temperature. ",
+  "status": "ok",
+  "n_pages": 9
+}

@@ -1,0 +1,134 @@
+{
+  "source_pdf": "Enhanced thermoelectric performance and novel nanopores in AgSbTe2 prepared by melt spinning.pdf",
+  "doi": "10.1016/j.jssc.2010.10.036",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "MS-SPS",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "2.0 * 10^4",
+          "unit": "S m^-1",
+          "temperature_value": "665",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Section 3.2",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "285",
+          "unit": "mV K^-1",
+          "temperature_value": "390",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Section 3.2",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "1.3",
+          "unit": "mW K^-2 m^-1",
+          "temperature_value": "665",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Section 3.2",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.42",
+          "unit": "W m^-1 K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Section 3.3",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.30",
+          "unit": "W m^-1 K^-1",
+          "temperature_value": "570",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Section 3.3",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.65",
+          "unit": "dimensionless",
+          "temperature_value": "570",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Section 3.4",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "MS-SPS",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "2.0",
+          "unit": "10^4 S m^-1",
+          "temperature_value": "665",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 4a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "285",
+          "unit": "uV K^-1",
+          "temperature_value": "390",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 4b"
+        },
+        {
+          "property": "power factor",
+          "value": "1.3",
+          "unit": "mW K^-2 m^-1",
+          "temperature_value": "665",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from inset of Fig. 4b"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.30",
+          "unit": "W m^-1 K^-1",
+          "temperature_value": "570",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from inset of Fig. 5a"
+        },
+        {
+          "property": "ZT",
+          "value": "1.65",
+          "unit": "dimensionless",
+          "temperature_value": "570",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5b"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The sample MS-SPS is a nanostructured AgSbTe2 compound containing 5-10 nm nanopores. No chemical dopants were added; the material is described as single-phase AgSbTe2 with nanopores. [figure-pass p1-5] The paper discusses AgSbTe2 prepared by different methods (MS-SPS, SPS, MA, MC). No dopants were added; the nanostructure/nanopores are the focus. Data extracted for the primary sample MS-SPS from the provided figures. [figure-pass p6-6] The provided page contains only a list of references and no thermoelectric property data or plots for AgSbTe2-family compounds. ",
+  "status": "ok",
+  "n_pages": 6
+}

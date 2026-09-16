@@ -1,0 +1,84 @@
+{
+  "source_pdf": "28.pdf",
+  "doi": "",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "Undoped AgSbTe2",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Electrical conductivity",
+          "value": "332",
+          "unit": "S\u00b7cm-1",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 2",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "68",
+          "unit": "\u00b5V\u00b7K-1",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 2",
+          "notes": ""
+        },
+        {
+          "property": "Thermal conductivity",
+          "value": "1.15",
+          "unit": "W\u00b7m-1\u00b7K-1",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 2",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "undoped AgSbTe2",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "68",
+          "unit": "uV/K",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 2",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "332",
+          "unit": "S/cm",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 2",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "1.15",
+          "unit": "W/mK",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 2",
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The article discusses undoped AgSbTe2 and AgSbSe2. No doped AgSbTe2 samples were synthesized or measured in this study; the text only mentions potential alloying with GeTe, PbTe, and SnTe as a strategy for future stabilization. [figure-pass p1-4] The provided document contains data for undoped AgSbTe2 and AgSbSe2. No doped AgSbTe2 samples were reported in the text or figures. Thermoelectric properties for undoped AgSbTe2 were extracted from Table 2. ",
+  "status": "ok",
+  "n_pages": 4
+}

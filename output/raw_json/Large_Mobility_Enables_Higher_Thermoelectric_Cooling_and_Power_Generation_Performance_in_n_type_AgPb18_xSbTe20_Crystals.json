@@ -1,0 +1,358 @@
+{
+  "source_pdf": "Large Mobility Enables Higher Thermoelectric Cooling and Power Generation Performance in n\u2011type AgPb18+xSbTe20 Crystals.pdf",
+  "doi": "10.1021/jacs.3c09655",
+  "base_composition": "AgPb18+xSbTe20",
+  "materials": [
+    {
+      "sample_id": "AgPb18SbTe20",
+      "full_formula": "AgPb18SbTe20",
+      "dopant_or_codopant": [
+        {
+          "element": "Pb",
+          "ratio_or_percentage": "18",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "520.5",
+          "unit": "S cm-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "-202.4",
+          "unit": "\u03bcV/K",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "1.98",
+          "unit": "W m-1 K-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "1.72",
+          "unit": "W m-1 K-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "21.3",
+          "unit": "\u03bcW cm-1 K-2",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgPb18.4SbTe20",
+      "full_formula": "AgPb18.4SbTe20",
+      "dopant_or_codopant": [
+        {
+          "element": "Pb",
+          "ratio_or_percentage": "18.4",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "power factor",
+          "value": "37.8",
+          "unit": "\u03bcW cm-1 K-2",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.6",
+          "unit": "dimensionless",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "-172.3",
+          "unit": "\u03bcV/K",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "1.29",
+          "unit": "W m-1 K-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.2",
+          "unit": "dimensionless",
+          "temperature_value": "623",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgPb18.5SbTe20",
+      "full_formula": "AgPb18.5SbTe20",
+      "dopant_or_codopant": [
+        {
+          "element": "Pb",
+          "ratio_or_percentage": "18.5",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "1333.6",
+          "unit": "S cm-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "2.08",
+          "unit": "W m-1 K-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "38.2",
+          "unit": "\u03bcW cm-1 K-2",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Polycrystalline AgPb18.4SbTe20",
+      "full_formula": "AgPb18.4SbTe20",
+      "dopant_or_codopant": [
+        {
+          "element": "Pb",
+          "ratio_or_percentage": "18.4",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "power factor",
+          "value": "8.0",
+          "unit": "\u03bcW cm-1 K-2",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "186.0",
+          "unit": "S cm-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.2",
+          "unit": "dimensionless",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgPb18+xSbTe20",
+      "full_formula": "AgPb18+xSbTe20",
+      "dopant_or_codopant": [
+        {
+          "element": "Pb",
+          "ratio_or_percentage": "18+x",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.6",
+          "unit": "dimensionless",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Reported for AgPb18.4SbTe20 crystal"
+        },
+        {
+          "property": "ZT",
+          "value": "1.2",
+          "unit": "dimensionless",
+          "temperature_value": "623",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Figure 3d",
+          "notes": "Visually estimated from Figure 3d for AgPb18.4SbTe20 crystal"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "1.98",
+          "unit": "W m-1 K-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "For AgPb18SbTe20"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "1.62",
+          "unit": "W m-1 K-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "For AgPb18.2SbTe20"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "1.72",
+          "unit": "W m-1 K-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "For AgPb18SbTe20"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "1.29",
+          "unit": "W m-1 K-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "For AgPb18.4SbTe20"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgPb18.4SbTe20 crystal",
+      "full_formula": "AgPb18.4SbTe20",
+      "dopant_or_codopant": [
+        {
+          "element": "Pb",
+          "ratio_or_percentage": "18.4",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.6",
+          "unit": "dimensionless",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.2",
+          "unit": "dimensionless",
+          "temperature_value": "623",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "polycrystalline AgPb18.4SbTe20",
+      "full_formula": "AgPb18.4SbTe20",
+      "dopant_or_codopant": [
+        {
+          "element": "Pb",
+          "ratio_or_percentage": "18.4",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.2",
+          "unit": "dimensionless",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The AgPb18+xSbTe20 compounds are Pb-compensated AgSbTe2-family crystals. The polycrystalline samples were prepared for comparison. Values were extracted from the body text. [figure-pass p1-5] The paper focuses on AgPb18+xSbTe20 crystals, which are alloys/solid solutions of the AgSbTe2-PbTe system. Thermoelectric properties were extracted from both body text and figures as indicated. [figure-pass p6-9] The provided pages discuss AgPb18.4SbTe20 (a member of the AgSbTe2-family) but do not contain any property-vs-temperature plots for the requested thermoelectric properties. The ZT values were extracted from the body text. ",
+  "status": "ok",
+  "n_pages": 9
+}

@@ -1,0 +1,254 @@
+{
+  "source_pdf": "am4c06836.pdf",
+  "doi": "10.1021/acsami.4c06836",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "Ag0.85Sn0.15Sb0.85Ge0.15Te2",
+      "full_formula": "Ag0.85Sn0.15Sb0.85Ge0.15Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Sn",
+          "ratio_or_percentage": "0.15",
+          "doped_site": "Ag",
+          "site_evidence": "cation sublattice"
+        },
+        {
+          "element": "Ge",
+          "ratio_or_percentage": "0.15",
+          "doped_site": "Sb",
+          "site_evidence": "cation sublattice"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "power factor",
+          "value": "10.8",
+          "unit": "\u03bcW cm-1 K-2",
+          "temperature_value": "757",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Abstract and Section 3",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.5",
+          "unit": "dimensionless",
+          "temperature_value": "757",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Abstract and Section 3",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.28",
+          "unit": "W m-1 K-1",
+          "temperature_value": "757",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Section 3",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "x=0, y=0",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "1.5",
+          "unit": "10^4 S m^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5a",
+          "notes": "Visually estimated from Fig. 5a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "100",
+          "unit": "uV K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5b",
+          "notes": "Visually estimated from Fig. 5b"
+        },
+        {
+          "property": "power factor",
+          "value": "1.5",
+          "unit": "10^-4 W m^-1 K^-2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5c",
+          "notes": "Visually estimated from Fig. 5c"
+        }
+      ]
+    },
+    {
+      "sample_id": "x=0.15, y=0.15",
+      "full_formula": "Ag0.85Sn0.15Sb0.85Ge0.15Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Sn",
+          "ratio_or_percentage": "0.15",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        },
+        {
+          "element": "Ge",
+          "ratio_or_percentage": "0.15",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "4.5",
+          "unit": "10^4 S m^-1",
+          "temperature_value": "750",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5a",
+          "notes": "Visually estimated from Fig. 5a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "150",
+          "unit": "uV K^-1",
+          "temperature_value": "750",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5b",
+          "notes": "Visually estimated from Fig. 5b"
+        },
+        {
+          "property": "power factor",
+          "value": "10.8",
+          "unit": "uW cm^-1 K^-2",
+          "temperature_value": "757",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5c",
+          "notes": "Visually estimated from Fig. 5c"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag(1-x)SnxSb(1-y)GeyTe2 (x=0, y=0)",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.65",
+          "unit": "W/mK",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7a",
+          "notes": "Visually estimated from Fig. 7a"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.35",
+          "unit": "W/mK",
+          "temperature_value": "750",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7a",
+          "notes": "Visually estimated from Fig. 7a"
+        },
+        {
+          "property": "ZT",
+          "value": "0.15",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7c",
+          "notes": "Visually estimated from Fig. 7c"
+        },
+        {
+          "property": "ZT",
+          "value": "1.1",
+          "unit": "dimensionless",
+          "temperature_value": "750",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7c",
+          "notes": "Visually estimated from Fig. 7c"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag(1-x)SnxSb(1-y)GeyTe2 (x=0.15, y=0.15)",
+      "full_formula": "Ag0.85Sn0.15Sb0.85Ge0.15Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Sn",
+          "ratio_or_percentage": "0.15",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        },
+        {
+          "element": "Ge",
+          "ratio_or_percentage": "0.15",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.45",
+          "unit": "W/mK",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7a",
+          "notes": "Visually estimated from Fig. 7a"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.28",
+          "unit": "W/mK",
+          "temperature_value": "757",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7a",
+          "notes": "Visually estimated from Fig. 7a"
+        },
+        {
+          "property": "ZT",
+          "value": "0.3",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7c",
+          "notes": "Visually estimated from Fig. 7c"
+        },
+        {
+          "property": "ZT",
+          "value": "1.5",
+          "unit": "dimensionless",
+          "temperature_value": "757",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7c",
+          "notes": "Visually estimated from Fig. 7c"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The paper investigates Ag(1-x)SnxSb(1-y)GeyTe2 compounds. The specific sample Ag0.85Sn0.15Sb0.85Ge0.15Te2 is highlighted as the optimized high-entropy composition. Other compositions (x=0-0.15, y=0-0.25) are mentioned as a series, but specific numerical values for properties other than the optimized sample are not explicitly tabulated in the provided text. [figure-pass p1-5] Data extracted from Fig. 5a, 5b, and 5c. Values are visual estimates from the plots. The sample Ag0.85Sn0.15Sb0.85Ge0.15Te2 corresponds to x=0.15, y=0.15 in the figures. [figure-pass p6-9] Data extracted from Figure 7a and 7c. The sample Ag0.85Sn0.15Sb0.85Ge0.15Te2 is explicitly mentioned in the text as having a lattice thermal conductivity of ~0.28 W/mK and ZT of ~1.5 at 757 K. ",
+  "status": "ok",
+  "n_pages": 9
+}

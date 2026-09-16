@@ -1,0 +1,486 @@
+{
+  "source_pdf": "Phase compositions, nanoscale microstructures and thermoelectric properties in Ag2\u2212ySbyTe1+y alloys with precipitated Sb2Te3 plates.pdf",
+  "doi": "10.1016/j.actamat.2010.04.007",
+  "base_composition": "Ag2-ySbTe1+y",
+  "materials": [
+    {
+      "sample_id": "Ag0.74Sb1.26Te2.26",
+      "full_formula": "Ag0.74Sb1.26Te2.26",
+      "dopant_or_codopant": [
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "1.26",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "Ag0.71Sb1.29Te2.29",
+      "full_formula": "Ag0.71Sb1.29Te2.29",
+      "dopant_or_codopant": [
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "1.29",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "250",
+          "unit": "uV K-1",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Reported as -250 uV K-1, but context indicates positive Seebeck coefficient."
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.6",
+          "unit": "W m-1 K-1",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.37",
+          "unit": "dimensionless",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag0.68Sb1.32Te2.32",
+      "full_formula": "Ag0.68Sb1.32Te2.32",
+      "dopant_or_codopant": [
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "1.32",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "Ag0.65Sb1.35Te2.35",
+      "full_formula": "Ag0.65Sb1.35Te2.35",
+      "dopant_or_codopant": [
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "1.35",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "power factor",
+          "value": "1.70 * 10^-3",
+          "unit": "W m-1 K-2",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag0.62Sb1.38Te2.38",
+      "full_formula": "Ag0.62Sb1.38Te2.38",
+      "dopant_or_codopant": [
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "1.38",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "Ag0.74Sb1.26Te2.26",
+      "full_formula": "Ag0.74Sb1.26Te2.26",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "4",
+          "unit": "10^4 Sm^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4a",
+          "notes": "Visually estimated from Fig. 4a"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "3",
+          "unit": "10^4 Sm^-1",
+          "temperature_value": "670",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4a",
+          "notes": "Visually estimated from Fig. 4a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "100",
+          "unit": "uV K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4b",
+          "notes": "Visually estimated from Fig. 4b"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "260",
+          "unit": "uV K^-1",
+          "temperature_value": "670",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4b",
+          "notes": "Visually estimated from Fig. 4b"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag0.71Sb1.29Te2.29",
+      "full_formula": "Ag0.71Sb1.29Te2.29",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "6",
+          "unit": "10^4 Sm^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4a",
+          "notes": "Visually estimated from Fig. 4a"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "3",
+          "unit": "10^4 Sm^-1",
+          "temperature_value": "670",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4a",
+          "notes": "Visually estimated from Fig. 4a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "90",
+          "unit": "uV K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4b",
+          "notes": "Visually estimated from Fig. 4b"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "240",
+          "unit": "uV K^-1",
+          "temperature_value": "670",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4b",
+          "notes": "Visually estimated from Fig. 4b"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag0.68Sb1.32Te2.32",
+      "full_formula": "Ag0.68Sb1.32Te2.32",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "8",
+          "unit": "10^4 Sm^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4a",
+          "notes": "Visually estimated from Fig. 4a"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "3",
+          "unit": "10^4 Sm^-1",
+          "temperature_value": "670",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4a",
+          "notes": "Visually estimated from Fig. 4a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "80",
+          "unit": "uV K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4b",
+          "notes": "Visually estimated from Fig. 4b"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "210",
+          "unit": "uV K^-1",
+          "temperature_value": "670",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4b",
+          "notes": "Visually estimated from Fig. 4b"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag0.65Sb1.35Te2.35",
+      "full_formula": "Ag0.65Sb1.35Te2.35",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "12",
+          "unit": "10^4 Sm^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4a",
+          "notes": "Visually estimated from Fig. 4a"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "3",
+          "unit": "10^4 Sm^-1",
+          "temperature_value": "670",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4a",
+          "notes": "Visually estimated from Fig. 4a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "70",
+          "unit": "uV K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4b",
+          "notes": "Visually estimated from Fig. 4b"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "180",
+          "unit": "uV K^-1",
+          "temperature_value": "670",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4b",
+          "notes": "Visually estimated from Fig. 4b"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag0.62Sb1.38Te2.38",
+      "full_formula": "Ag0.62Sb1.38Te2.38",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "14",
+          "unit": "10^4 Sm^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4a",
+          "notes": "Visually estimated from Fig. 4a"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "3",
+          "unit": "10^4 Sm^-1",
+          "temperature_value": "670",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4a",
+          "notes": "Visually estimated from Fig. 4a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "60",
+          "unit": "uV K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4b",
+          "notes": "Visually estimated from Fig. 4b"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "170",
+          "unit": "uV K^-1",
+          "temperature_value": "670",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4b",
+          "notes": "Visually estimated from Fig. 4b"
+        }
+      ]
+    },
+    {
+      "sample_id": "y=1.26",
+      "full_formula": "Ag2-ySbTe1+y (y=1.26)",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "thermal conductivity",
+          "value": "1.25",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6a",
+          "notes": "Visually estimated from Fig. 6a"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "1.0",
+          "unit": "W m-1 K-1",
+          "temperature_value": "675",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6a",
+          "notes": "Visually estimated from Fig. 6a"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.85",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6b",
+          "notes": "Visually estimated from Fig. 6b"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.45",
+          "unit": "W m-1 K-1",
+          "temperature_value": "675",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6b",
+          "notes": "Visually estimated from Fig. 6b"
+        },
+        {
+          "property": "ZT",
+          "value": "0.4",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7",
+          "notes": "Visually estimated from Fig. 7"
+        },
+        {
+          "property": "ZT",
+          "value": "1.2",
+          "unit": "dimensionless",
+          "temperature_value": "675",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7",
+          "notes": "Visually estimated from Fig. 7"
+        }
+      ]
+    },
+    {
+      "sample_id": "y=1.29",
+      "full_formula": "Ag2-ySbTe1+y (y=1.29)",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "thermal conductivity",
+          "value": "0.65",
+          "unit": "W m-1 K-1",
+          "temperature_value": "350",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6a",
+          "notes": "Visually estimated from Fig. 6a"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.75",
+          "unit": "W m-1 K-1",
+          "temperature_value": "675",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6a",
+          "notes": "Visually estimated from Fig. 6a"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.35",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6b",
+          "notes": "Visually estimated from Fig. 6b"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.35",
+          "unit": "W m-1 K-1",
+          "temperature_value": "675",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6b",
+          "notes": "Visually estimated from Fig. 6b"
+        },
+        {
+          "property": "ZT",
+          "value": "0.3",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7",
+          "notes": "Visually estimated from Fig. 7"
+        },
+        {
+          "property": "ZT",
+          "value": "1.35",
+          "unit": "dimensionless",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7",
+          "notes": "Visually estimated from Fig. 7"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The samples are nonstoichiometric Ag2-ySbyTe1+y alloys. The 'dopant' is interpreted as the excess Sb content (y) relative to the stoichiometric AgSbTe2. Thermoelectric properties were extracted from the body text where specific values were provided for specific samples. [figure-pass p1-5] The samples are nonstoichiometric Ag2-ySbTe1+y alloys. The dopant/composition variation is represented by the y value. The properties were extracted from the temperature-dependent plots in Fig. 4. ",
+  "status": "ok",
+  "n_pages": 10
+}

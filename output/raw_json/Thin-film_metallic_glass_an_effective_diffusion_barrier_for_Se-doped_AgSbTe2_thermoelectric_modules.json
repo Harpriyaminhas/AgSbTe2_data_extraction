@@ -1,0 +1,58 @@
+{
+  "source_pdf": "Thin-film metallic glass an effective diffusion barrier for Se-doped AgSbTe2 thermoelectric modules.pdf",
+  "doi": "10.1038/srep45177",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "Ag25Sb25Se5Te45",
+      "full_formula": "Ag25Sb25Se5Te45",
+      "dopant_or_codopant": [
+        {
+          "element": "Se",
+          "ratio_or_percentage": "5 at.%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.4",
+          "unit": "dimensionless",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 2, Results and Discussion section",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag25Sb25Se5Te45",
+      "full_formula": "Ag25Sb25Se5Te45",
+      "dopant_or_codopant": [
+        {
+          "element": "Se",
+          "ratio_or_percentage": "5 at.%",
+          "doped_site": "Te",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.4",
+          "unit": "dimensionless",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Methods section",
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The article focuses on the use of a Zr-based thin-film metallic glass as a diffusion barrier for Se-doped AgSbTe2. The specific composition Ag25Sb25Se5Te45 is identified as the TE substrate. No other thermoelectric property data (Seebeck, electrical conductivity, etc.) were provided in the text or tables. [figure-pass p1-5] The provided pages discuss the use of a Zr-based thin-film metallic glass as a diffusion barrier for Se-doped AgSbTe2. While the material is mentioned as a thermoelectric substrate, the content focuses on diffusion studies, interfacial reactions, and thin-film characterization. No thermoelectric property-vs-temperature plots (Seebeck, conductivity, etc.) are provided in the figures, and no thermoelectric property data tables are present. [figure-pass p6-9] The provided pages contain information about AgSbTe2-family compounds, specifically Se-doped AgSbTe2 (Ag25Sb25Se5Te45). No thermoelectric property-vs-temperature plots were found in the provided images; the ZT value was extracted from the text. ",
+  "status": "ok",
+  "n_pages": 9
+}

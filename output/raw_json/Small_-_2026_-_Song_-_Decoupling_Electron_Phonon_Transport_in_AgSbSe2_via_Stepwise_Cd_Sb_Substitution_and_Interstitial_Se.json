@@ -1,0 +1,241 @@
+{
+  "source_pdf": "Small - 2026 - Song - Decoupling Electron\u2010Phonon Transport in AgSbSe2 via Stepwise Cd\u2010Sb Substitution and Interstitial Se.pdf",
+  "doi": "10.1002/smll.202514707",
+  "base_composition": "AgSbSe2",
+  "materials": [
+    {
+      "sample_id": "AgSb0.96Cd0.04Se2.02",
+      "full_formula": "AgSb0.96Cd0.04Se2.02",
+      "dopant_or_codopant": [
+        {
+          "element": "Cd",
+          "ratio_or_percentage": "0.04",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        },
+        {
+          "element": "Se",
+          "ratio_or_percentage": "0.02",
+          "doped_site": "interstitial",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "90",
+          "unit": "S cm-1",
+          "temperature_value": "323",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "7.84",
+          "unit": "\u00b5W cm-1 K-2",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.49",
+          "unit": "W m-1 K-1",
+          "temperature_value": "323",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.35",
+          "unit": "W m-1 K-1",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.23",
+          "unit": "dimensionless",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.73",
+          "unit": "dimensionless",
+          "temperature_value": "323-673",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "average zT"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "240",
+          "unit": "\u00b5V K-1",
+          "temperature_value": "323",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "320",
+          "unit": "\u00b5V K-1",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbSe2",
+      "full_formula": "AgSbSe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.3",
+          "unit": "dimensionless",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Figure 1c",
+          "notes": "Visually estimated from Figure 1c"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSb0.96Cd0.04Se2",
+      "full_formula": "AgSb0.96Cd0.04Se2",
+      "dopant_or_codopant": [
+        {
+          "element": "Cd",
+          "ratio_or_percentage": "0.04",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.9",
+          "unit": "dimensionless",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Figure 1c",
+          "notes": "Visually estimated from Figure 1c"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSb0.96Cd0.04Se2.02",
+      "full_formula": "AgSb0.96Cd0.04Se2.02",
+      "dopant_or_codopant": [
+        {
+          "element": "Cd",
+          "ratio_or_percentage": "0.04",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        },
+        {
+          "element": "Se",
+          "ratio_or_percentage": "0.02",
+          "doped_site": "interstitial",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.23",
+          "unit": "dimensionless",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Figure 1c",
+          "notes": "Visually estimated from Figure 1c"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSb0.96Cd0.04Se2.02",
+      "full_formula": "AgSb0.96Cd0.04Se2.02",
+      "dopant_or_codopant": [
+        {
+          "element": "Cd",
+          "ratio_or_percentage": "0.04",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        },
+        {
+          "element": "Se",
+          "ratio_or_percentage": "2.02",
+          "doped_site": "interstitial",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "power factor",
+          "value": "7.84",
+          "unit": "uW cm-1 K-2",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.49",
+          "unit": "W m-1 K-1",
+          "temperature_value": "323",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.23",
+          "unit": "dimensionless",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.23",
+          "unit": "dimensionless",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig 6c",
+          "notes": "Visually estimated from Fig 6c"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The article focuses on AgSbSe2-based materials. Data for AgSb0.96Cd0.04Se2.02 was extracted from the text. Other compositions (AgSb1-xCdxSe2) were mentioned but specific numerical values for properties were primarily provided for the optimized sample. [figure-pass p1-5] Data extracted from Figure 1c for ZT values of the specified samples. Other properties were mentioned in the text but specific temperature-dependent values were primarily extracted from the provided figures. [figure-pass p6-10] Data extracted from the provided figures and body text. The sample AgSb0.96Cd0.04Se2.02 is explicitly mentioned as having Cd doping on the Sb site and Se interstitial atoms. ",
+  "status": "ok",
+  "n_pages": 10
+}

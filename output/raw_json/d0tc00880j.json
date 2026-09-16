@@ -1,0 +1,9 @@
+{
+  "source_pdf": "d0tc00880j.pdf",
+  "doi": "10.1039/d0tc00880j",
+  "base_composition": "AgSbTe2",
+  "materials": [],
+  "extraction_notes": "[text-pass] The provided article focuses on the synthesis and composition control of AgxSb1-xTe1.5-x nanocrystals. While the introduction mentions the potential of AgSbTe2 for thermoelectric applications, the article does not report any experimental thermoelectric property measurements (such as Seebeck coefficient, electrical conductivity, thermal conductivity, power factor, or ZT) for the synthesized nanocrystals. [figure-pass p1-5] The provided document focuses on the synthesis and structural characterization of AgSbTe2 and AgxSb1-xTe1.5-x nanocrystals. There are no plots or tables reporting thermoelectric properties (Seebeck coefficient, electrical conductivity, thermal conductivity, power factor, or ZT) as a function of temperature for these materials. ",
+  "status": "ok",
+  "n_pages": 5
+}

@@ -1,0 +1,264 @@
+{
+  "source_pdf": "Synergistically optimizing charge and phonon transport properties in n-type PbTe via introducing ternary compound AgSb(Se, Te)2.pdf",
+  "doi": "10.1016/j.jallcom.2019.152463",
+  "base_composition": "PbTe",
+  "materials": [
+    {
+      "sample_id": "PbTe + 2% AgSbTe2",
+      "full_formula": "PbTe + 2% AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "2%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "2%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Te",
+          "ratio_or_percentage": "2%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.62",
+          "unit": "W m-1 K-1",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Minimum lattice thermal conductivity"
+        },
+        {
+          "property": "ZT",
+          "value": "1.2",
+          "unit": "dimensionless",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Maximum ZT value"
+        }
+      ]
+    },
+    {
+      "sample_id": "PbTe + 2% AgSbSe2",
+      "full_formula": "PbTe + 2% AgSbSe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "2%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "2%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Se",
+          "ratio_or_percentage": "2%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.53",
+          "unit": "W m-1 K-1",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Minimum lattice thermal conductivity"
+        },
+        {
+          "property": "ZT",
+          "value": "1.3",
+          "unit": "dimensionless",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Maximum ZT value"
+        }
+      ]
+    },
+    {
+      "sample_id": "PbTe + 1% AgSbTe2",
+      "full_formula": "PbTe + 1% AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "AgSbTe2",
+          "ratio_or_percentage": "1%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "1500",
+          "unit": "Scm-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 8a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "-100",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 8b"
+        },
+        {
+          "property": "power factor",
+          "value": "16",
+          "unit": "uWcm-1K-2",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 8c"
+        },
+        {
+          "property": "ZT",
+          "value": "1.0",
+          "unit": "dimensionless",
+          "temperature_value": "700",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 8f"
+        }
+      ]
+    },
+    {
+      "sample_id": "PbTe + 2% AgSbTe2",
+      "full_formula": "PbTe + 2% AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "AgSbTe2",
+          "ratio_or_percentage": "2%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "1000",
+          "unit": "Scm-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 8a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "-125",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 8b"
+        },
+        {
+          "property": "power factor",
+          "value": "18",
+          "unit": "uWcm-1K-2",
+          "temperature_value": "650",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 8c"
+        },
+        {
+          "property": "ZT",
+          "value": "1.3",
+          "unit": "dimensionless",
+          "temperature_value": "750",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 8f"
+        }
+      ]
+    },
+    {
+      "sample_id": "PbTe + 3% AgSbTe2",
+      "full_formula": "PbTe + 3% AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "AgSbTe2",
+          "ratio_or_percentage": "3%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "700",
+          "unit": "Scm-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 8a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "-150",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 8b"
+        },
+        {
+          "property": "power factor",
+          "value": "14",
+          "unit": "uWcm-1K-2",
+          "temperature_value": "700",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 8c"
+        },
+        {
+          "property": "ZT",
+          "value": "1.1",
+          "unit": "dimensionless",
+          "temperature_value": "750",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 8f"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The article focuses on n-type PbTe doped with Sb and alloyed with AgSbTe2 or AgSbSe2. The AgSbTe2 and AgSbSe2 are introduced as ternary compounds. The dopant sites for Ag, Sb, and Te/Se in the PbTe matrix are not explicitly defined as substituting specific sites (Ag, Sb, Te) in the text, so 'unclear' was used. [figure-pass p1-5] Data extracted from Fig. 8 for PbTe + x% AgSbTe2 samples. The dopant site is not explicitly stated in the text, so it is marked as unclear. [figure-pass p6-6] The provided page contains only a list of references and no thermoelectric property data or plots for AgSbTe2-family compounds. ",
+  "status": "ok",
+  "n_pages": 6
+}

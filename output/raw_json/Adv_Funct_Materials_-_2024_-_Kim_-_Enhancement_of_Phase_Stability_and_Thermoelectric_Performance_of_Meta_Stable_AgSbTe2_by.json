@@ -1,0 +1,199 @@
+{
+  "source_pdf": "Adv Funct Materials - 2024 - Kim - Enhancement of Phase Stability and Thermoelectric Performance of Meta\u2010Stable AgSbTe2 by.pdf",
+  "doi": "10.1002/adfm.202404886",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "initial AgSbTe2",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "280",
+          "unit": "\u03bcV K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 5",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "101.01",
+          "unit": "S cm-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 4, calculated from resistivity 9.9 m\u03a9 cm",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.63",
+          "unit": "Wm-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 6",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.35",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 7",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Thigh T. C. AgSbTe2",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.7",
+          "unit": "dimensionless",
+          "temperature_value": "643",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 1, Page 7",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "195",
+          "unit": "\u03bcV K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 5",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "initial AgSbTe2",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "10",
+          "unit": "m\u03a9 cm",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Figure 4a",
+          "notes": "Visually estimated from Figure 4a, resistivity value at 300 K"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "280",
+          "unit": "\u03bcV K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Figure 4c",
+          "notes": "Visually estimated from Figure 4c, value at 300 K"
+        }
+      ]
+    },
+    {
+      "sample_id": "Tmid T.C. AgSbTe2",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "300",
+          "unit": "\u03bcV K-1",
+          "temperature_value": "450",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Figure 4c",
+          "notes": "Visually estimated from Figure 4c"
+        },
+        {
+          "property": "power factor",
+          "value": "1.2",
+          "unit": "mW/mK2",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Figure 4e",
+          "notes": "Visually estimated from Figure 4e"
+        }
+      ]
+    },
+    {
+      "sample_id": "Thigh T.C. AgSbTe2",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "350",
+          "unit": "\u03bcV K-1",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Figure 4c",
+          "notes": "Visually estimated from Figure 4c"
+        },
+        {
+          "property": "power factor",
+          "value": "1.5",
+          "unit": "mW/mK2",
+          "temperature_value": "550",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Figure 4e",
+          "notes": "Visually estimated from Figure 4e"
+        }
+      ]
+    },
+    {
+      "sample_id": "initial AgSbTe2",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.8",
+          "unit": "dimensionless",
+          "temperature_value": "643",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5c",
+          "notes": "Visually estimated from Fig. 5c"
+        }
+      ]
+    },
+    {
+      "sample_id": "4) Thigh T.C. AgSbTe2",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.7",
+          "unit": "dimensionless",
+          "temperature_value": "643",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5c",
+          "notes": "Visually estimated from Fig. 5c"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The study focuses on thermal cycling of pristine AgSbTe2 rather than chemical doping. The 'initial' and 'Thigh T. C.' (high-temperature thermal cycled) samples are treated as distinct states of the same base material. Electrical conductivity values were derived from reported resistivity values where necessary. [figure-pass p1-5] The paper discusses AgSbTe2 subjected to thermal cycling to manage phase separation. No extrinsic dopants were added; the material is pristine AgSbTe2. Thermoelectric properties were extracted from Figure 4a, 4c, and 4e. [figure-pass p6-9] The paper discusses the effect of thermal cycling on AgSbTe2. The samples are identified as the initial AgSbTe2 and the thermally cycled AgSbTe2 (labeled as 4) Thigh T.C. AgSbTe2). No extrinsic dopants were added; the changes are attributed to phase changes and Ag-nano particles formed during thermal cycling. ",
+  "status": "ok",
+  "n_pages": 9
+}

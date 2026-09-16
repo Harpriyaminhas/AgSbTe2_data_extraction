@@ -1,0 +1,167 @@
+{
+  "source_pdf": "Preparation and transport properties of AgSbTe2 by high-pressure and high-temperature.pdf",
+  "doi": "10.1016/j.jallcom.2006.12.126",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "2.0 GPa",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "power factor",
+          "value": "10.3",
+          "unit": "\u03bcW cm\u22121 K\u22122",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "body text",
+          "source_detail": "Page 1, Abstract",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "3.5 GPa",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "4.5 GPa",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "5.2 GPa",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "power factor",
+          "value": "10.3",
+          "unit": "\u03bcW cm\u22121 K\u22122",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "body text",
+          "source_detail": "Page 3, Section 3",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbTe2 synthesized at 2.0 GPa",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "0.2",
+          "unit": "S/cm",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3, electrical resistivity is ~5 mOhm cm, converted to conductivity."
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "145",
+          "unit": "uV/K",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 4."
+        },
+        {
+          "property": "power factor",
+          "value": "4.2",
+          "unit": "uW cm-1 K-2",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5."
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbTe2 synthesized at 3.5 GPa",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "0.5",
+          "unit": "S/cm",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3, electrical resistivity is ~2 mOhm cm, converted to conductivity."
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "115",
+          "unit": "uV/K",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 4."
+        },
+        {
+          "property": "power factor",
+          "value": "6.5",
+          "unit": "uW cm-1 K-2",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5."
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbTe2 synthesized at 5.2 GPa",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "1.25",
+          "unit": "S/cm",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3, electrical resistivity is ~0.8 mOhm cm, converted to conductivity."
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "95",
+          "unit": "uV/K",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 4."
+        },
+        {
+          "property": "power factor",
+          "value": "10.3",
+          "unit": "uW cm-1 K-2",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5."
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The paper reports AgSbTe2 synthesized at different pressures (2.0, 3.5, 4.5, 5.2 GPa). No specific chemical dopants were added; the variation in properties is attributed to the synthesis pressure. Power factor values were explicitly mentioned in the text for the 5.2 GPa sample. Other properties (Seebeck, electrical resistivity) were plotted in figures but specific numerical values were not provided in the text. [figure-pass p1-4] The paper reports properties as a function of synthetic pressure at room temperature, not as a function of temperature. The plots provided (Fig 3, 4, 5) show properties vs synthetic pressure. No temperature-dependent thermoelectric property plots were provided. ",
+  "status": "ok",
+  "n_pages": 4
+}

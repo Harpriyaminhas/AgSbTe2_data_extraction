@@ -1,0 +1,238 @@
+{
+  "source_pdf": "Improved Thermoelectric Properties in Structure Controlled Ag-Sb-Te System.pdf",
+  "doi": "",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "Ag0.208Sb0.275Te0.517 (A)",
+      "full_formula": "Ag0.208Sb0.275Te0.517",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "6.17",
+          "unit": "10^4 S/m",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": "Calculated from resistivity 16.2e-5 Ohm*m"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "270",
+          "unit": "\u00b5V/K",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.7",
+          "unit": "W/(Km)",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.6",
+          "unit": "W/(Km)",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "4.50",
+          "unit": "10^-4 W/(K^2m)",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.65",
+          "unit": "dimensionless",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "2.0",
+          "unit": "10^-3 /K",
+          "temperature_value": "620",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Reported as Zmax"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag0.208Sb0.275Te0.517 (B)",
+      "full_formula": "Ag0.208Sb0.275Te0.517",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "45.66",
+          "unit": "10^4 S/m",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": "Calculated from resistivity 2.19e-5 Ohm*m"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "123",
+          "unit": "\u00b5V/K",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "1.0",
+          "unit": "W/(Km)",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.6",
+          "unit": "W/(Km)",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "6.91",
+          "unit": "10^-4 W/(K^2m)",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.71",
+          "unit": "dimensionless",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.7",
+          "unit": "10^-3 /K",
+          "temperature_value": "585",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Reported as Zmax"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag0.208Sb0.275Te0.517 (A)",
+      "full_formula": "Ag0.208Sb0.275Te0.517",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "270",
+          "unit": "uV/K",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": "Room temperature"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.7",
+          "unit": "W/(Km)",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": "Room temperature"
+        },
+        {
+          "property": "ZT",
+          "value": "0.65",
+          "unit": "dimensionless",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": "Room temperature"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag0.208Sb0.275Te0.517 (B)",
+      "full_formula": "Ag0.208Sb0.275Te0.517",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "123",
+          "unit": "uV/K",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": "Room temperature"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "1.0",
+          "unit": "W/(Km)",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": "Room temperature"
+        },
+        {
+          "property": "ZT",
+          "value": "0.71",
+          "unit": "dimensionless",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": "Room temperature"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The samples are parts of a single boule of Ag0.208Sb0.275Te0.517. No extrinsic dopants were added; the composition is non-stoichiometric relative to AgSbTe2. Z values are reported as Z [10^-3 /K] in the table and text. [figure-pass p1-5] The paper investigates Ag0.208Sb0.275Te0.517 boules. No specific dopants are mentioned; the composition is treated as a specific Ag-Sb-Te system stoichiometry. Thermoelectric properties were extracted from Table 1 for room temperature. Figures 5-8 show temperature-dependent data, but specific numerical values were not extracted as they are continuous curves. ",
+  "status": "ok",
+  "n_pages": 5
+}

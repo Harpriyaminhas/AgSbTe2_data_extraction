@@ -1,0 +1,266 @@
+{
+  "source_pdf": "1-s2.0-S0925838819316007-main.pdf",
+  "doi": "10.1016/j.jallcom.2019.04.294",
+  "base_composition": "TlSbTe2",
+  "materials": [
+    {
+      "sample_id": "Tl0.98In0.02SbTe2",
+      "full_formula": "Tl0.98In0.02SbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "In",
+          "ratio_or_percentage": "0.02",
+          "doped_site": "Tl",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "490",
+          "unit": "U-1cm-1",
+          "temperature_value": "372",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "118",
+          "unit": "U-1cm-1",
+          "temperature_value": "620",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "141",
+          "unit": "mV K-1",
+          "temperature_value": "372",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "227",
+          "unit": "mV K-1",
+          "temperature_value": "623",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "1.03",
+          "unit": "W m-1K-1",
+          "temperature_value": "371",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.70",
+          "unit": "W m-1K-1",
+          "temperature_value": "575",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.61",
+          "unit": "dimensionless",
+          "temperature_value": "480",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "TlSb0.98In0.02Te2",
+      "full_formula": "TlSb0.98In0.02Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "In",
+          "ratio_or_percentage": "0.02",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "695",
+          "unit": "U-1cm-1",
+          "temperature_value": "379",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "155",
+          "unit": "U-1cm-1",
+          "temperature_value": "675",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "113",
+          "unit": "mV K-1",
+          "temperature_value": "not specified",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "235",
+          "unit": "mV K-1",
+          "temperature_value": "not specified",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.77",
+          "unit": "dimensionless",
+          "temperature_value": "622",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Tl0.98Yb0.02SbTe2",
+      "full_formula": "Tl0.98Yb0.02SbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Yb",
+          "ratio_or_percentage": "0.02",
+          "doped_site": "Tl",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "218",
+          "unit": "U-1cm-1",
+          "temperature_value": "625",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "213",
+          "unit": "mV K-1",
+          "temperature_value": "625",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.68",
+          "unit": "W m-1K-1",
+          "temperature_value": "625",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.85",
+          "unit": "dimensionless",
+          "temperature_value": "625",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Tl0.98Yb0.02SbTe2",
+      "full_formula": "Tl0.98Yb0.02SbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Yb",
+          "ratio_or_percentage": "0.02",
+          "doped_site": "Tl",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "1000",
+          "unit": "\u03a9-1cm-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6a",
+          "notes": "Visually estimated from Fig. 6a"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "200",
+          "unit": "\u03a9-1cm-1",
+          "temperature_value": "625",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6a",
+          "notes": "Visually estimated from Fig. 6a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "100",
+          "unit": "\u03bcV K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6b",
+          "notes": "Visually estimated from Fig. 6b"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "225",
+          "unit": "\u03bcV K-1",
+          "temperature_value": "625",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6b",
+          "notes": "Visually estimated from Fig. 6b"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The article focuses on TlSbTe2-family compounds. AgSbTe2 is mentioned only as a reference material for comparison of thermoelectric properties. No AgSbTe2-family compounds were synthesized or doped in this study. [figure-pass p1-5] The provided document focuses on the thermoelectric properties of TlSbTe2 and its In- and Yb-doped variants. No AgSbTe2-family compounds (AgSbTe2, Ag1-xSbTe2, AgSb1-xMxTe2, etc.) are reported in the provided pages. Therefore, no relevant data could be extracted. [figure-pass p6-7] The provided pages contain data for TlSbTe2-family compounds, specifically Tl0.98Yb0.02SbTe2. While AgSbTe2 is mentioned in the references, the actual data presented in the table and figures pertains to TlSbTe2 derivatives. ",
+  "status": "ok",
+  "n_pages": 7
+}

@@ -1,0 +1,337 @@
+{
+  "source_pdf": "Enhanced thermoelectric properties of AgSbTe2 obtained by controlling heterophases with Ce doping.pdf",
+  "doi": "10.1038/s41598-017-04885-1",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "AgSbTe2",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.92",
+          "unit": "dimensionless",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 7",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "x = 0.001",
+      "full_formula": "AgSb0.999Ce0.001Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ce",
+          "ratio_or_percentage": "x = 0.001",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "x = 0.002",
+      "full_formula": "AgSb0.998Ce0.002Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ce",
+          "ratio_or_percentage": "x = 0.002",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "power factor",
+          "value": "1.55",
+          "unit": "mW/m\u00b7K2",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 4",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.5",
+          "unit": "dimensionless",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 7",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "x = 0.003",
+      "full_formula": "AgSb0.997Ce0.003Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ce",
+          "ratio_or_percentage": "x = 0.003",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "x = 0.004",
+      "full_formula": "AgSb0.996Ce0.004Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ce",
+          "ratio_or_percentage": "x = 0.004",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "AgSbTe2",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "250",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4b",
+          "notes": "Visually estimated from Fig. 4b"
+        },
+        {
+          "property": "ZT",
+          "value": "0.4",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4d",
+          "notes": "Visually estimated from Fig. 4d"
+        },
+        {
+          "property": "ZT",
+          "value": "1.0",
+          "unit": "dimensionless",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4d",
+          "notes": "Visually estimated from Fig. 4d"
+        }
+      ]
+    },
+    {
+      "sample_id": "x=0.001",
+      "full_formula": "Ag0.999Ce0.001SbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ce",
+          "ratio_or_percentage": "x=0.001",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "200",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4b",
+          "notes": "Visually estimated from Fig. 4b"
+        },
+        {
+          "property": "ZT",
+          "value": "0.5",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4d",
+          "notes": "Visually estimated from Fig. 4d"
+        },
+        {
+          "property": "ZT",
+          "value": "1.2",
+          "unit": "dimensionless",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4d",
+          "notes": "Visually estimated from Fig. 4d"
+        }
+      ]
+    },
+    {
+      "sample_id": "x=0.002",
+      "full_formula": "Ag0.998Ce0.002SbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ce",
+          "ratio_or_percentage": "x=0.002",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "180",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4b",
+          "notes": "Visually estimated from Fig. 4b"
+        },
+        {
+          "property": "ZT",
+          "value": "0.6",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4d",
+          "notes": "Visually estimated from Fig. 4d"
+        },
+        {
+          "property": "ZT",
+          "value": "1.5",
+          "unit": "dimensionless",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4d",
+          "notes": "Visually estimated from Fig. 4d"
+        }
+      ]
+    },
+    {
+      "sample_id": "x=0.003",
+      "full_formula": "Ag0.997Ce0.003SbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ce",
+          "ratio_or_percentage": "x=0.003",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "150",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4b",
+          "notes": "Visually estimated from Fig. 4b"
+        },
+        {
+          "property": "ZT",
+          "value": "0.55",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4d",
+          "notes": "Visually estimated from Fig. 4d"
+        },
+        {
+          "property": "ZT",
+          "value": "1.3",
+          "unit": "dimensionless",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4d",
+          "notes": "Visually estimated from Fig. 4d"
+        }
+      ]
+    },
+    {
+      "sample_id": "x=0.004",
+      "full_formula": "Ag0.996Ce0.004SbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ce",
+          "ratio_or_percentage": "x=0.004",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "130",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4b",
+          "notes": "Visually estimated from Fig. 4b"
+        },
+        {
+          "property": "ZT",
+          "value": "0.5",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4d",
+          "notes": "Visually estimated from Fig. 4d"
+        },
+        {
+          "property": "ZT",
+          "value": "1.2",
+          "unit": "dimensionless",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4d",
+          "notes": "Visually estimated from Fig. 4d"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag1-xCexTe2 (x=0.002)",
+      "full_formula": "Ag0.998Ce0.002SbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ce",
+          "ratio_or_percentage": "x=0.002",
+          "doped_site": "Ag",
+          "site_evidence": "The formula is written as Ag1-xCexTe2, implying Ce substitutes for Ag."
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.5",
+          "unit": "dimensionless",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "The value of ZT = 1.5 at 673 K was obtained using the x = 0.002 sample.",
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] Dopant site is assumed to be Sb based on the formula AgSb1-xCexTe2. Only explicit numerical values for ZT and power factor were extracted from the text. [figure-pass p1-5] Thermoelectric properties were visually estimated from the plots in Figure 4. The sample IDs correspond to the Ce doping concentration x in Ag1-xCe_xTe2. [figure-pass p6-8] The paper discusses Ce-doped AgSbTe2. A ZT value of 1.5 at 673 K is explicitly stated in the body text for the x=0.002 sample. Figure 6 shows ZT values for various literature samples but does not provide specific data points for the Ce-doped sample in this study other than the text reference. ",
+  "status": "ok",
+  "n_pages": 8
+}

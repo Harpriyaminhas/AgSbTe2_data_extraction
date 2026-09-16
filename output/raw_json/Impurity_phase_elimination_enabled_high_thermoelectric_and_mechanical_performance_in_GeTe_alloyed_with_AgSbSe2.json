@@ -1,0 +1,176 @@
+{
+  "source_pdf": "Impurity phase elimination enabled high thermoelectric and mechanical performance in GeTe alloyed with AgSbSe2.pdf",
+  "doi": "10.1016/j.tramat.2025.100062",
+  "base_composition": "GeTe-AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "(GeTe)80(AgSbSe2)20",
+      "full_formula": "(GeTe)80(AgSbSe2)20",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "AgSbSe2 alloying",
+          "doped_site": "Ag",
+          "site_evidence": "body text"
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "AgSbSe2 alloying",
+          "doped_site": "Sb",
+          "site_evidence": "body text"
+        },
+        {
+          "element": "Se",
+          "ratio_or_percentage": "AgSbSe2 alloying",
+          "doped_site": "Te",
+          "site_evidence": "body text"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "153.60",
+          "unit": "\u03bcV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "18.8",
+          "unit": "\u03bcW cm\u22121 K\u22121",
+          "temperature_value": "748",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.50",
+          "unit": "W m\u22121 K\u22122",
+          "temperature_value": "473",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.35",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.52",
+          "unit": "dimensionless",
+          "temperature_value": "698",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "(GeTe)80(Ag0.8Sb1.2Se2)20",
+      "full_formula": "(GeTe)80(Ag0.8Sb1.2Se2)20",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.8",
+          "doped_site": "Ag",
+          "site_evidence": "body text"
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "1.2",
+          "doped_site": "Sb",
+          "site_evidence": "body text"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.51",
+          "unit": "W m\u22121 K\u22122",
+          "temperature_value": "473",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.39",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.41",
+          "unit": "dimensionless",
+          "temperature_value": "698",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "(GeTe)80(AgSbTe2)20",
+      "full_formula": "(GeTe)80(AgSbTe2)20",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "20 mol%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "20 mol%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "power factor",
+          "value": "18.8",
+          "unit": "uW cm-1 K-1",
+          "temperature_value": "748",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "page 6",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.41",
+          "unit": "dimensionless",
+          "temperature_value": "698",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "page 7",
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The paper focuses on GeTe alloyed with AgSbSe2. The dopant sites are described as Ag and Sb substituting Ge and Se substituting Te. ZT values and other properties were extracted from the body text. [figure-pass p1-5] The provided pages focus on the mechanical properties (Vickers hardness, compressive strength, fracture toughness, Young's modulus) of GeTe-AgSbTe2 alloys. While the abstract mentions an average ZT of 1.07 for (GeTe)80(Ag0.8Sb1.2Se2)20, there are no plots or tables provided in the images that show thermoelectric properties (Seebeck coefficient, electrical conductivity, thermal conductivity, power factor, or ZT) as a function of temperature. [figure-pass p6-10] The paper focuses on GeTe-based alloys with AgSbSe2 (often written as AgSbTe2-family in context of AgSbSe2/AgSbTe2). Data for (GeTe)80(AgSbTe2)20 is explicitly mentioned in the text. Other samples like (GeTe)1-x(AgSbTe2)x are plotted in figures 4, 5, and 6, but specific numerical values for individual points were not extracted as they are visual estimates from curves. ",
+  "status": "ok",
+  "n_pages": 10
+}

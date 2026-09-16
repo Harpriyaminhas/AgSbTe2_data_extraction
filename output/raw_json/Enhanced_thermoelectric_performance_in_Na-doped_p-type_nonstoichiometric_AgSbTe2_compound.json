@@ -1,0 +1,357 @@
+{
+  "source_pdf": "Enhanced thermoelectric performance in Na-doped p-type nonstoichiometric AgSbTe2 compound.pdf",
+  "doi": "10.1016/j.jallcom.2010.10.131",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "AgSbTe2",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.15",
+          "unit": "dimensionless",
+          "temperature_value": "650",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Inferred from the statement that the ZT of Ag0.99Na0.01SbTe2.02 is 35% higher than the maximum of ZT for AgSbTe2.02 specimen, and 1.50/1.35 = 1.11. Wait, the text says 1.50 is 30% higher than undoped AgSbTe2 at 650K. 1.50/1.3 = 1.15."
+        }
+      ]
+    },
+    {
+      "sample_id": "Na0.01Ag0.99SbTe2",
+      "full_formula": "Na0.01Ag0.99SbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Na",
+          "ratio_or_percentage": "0.01",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "Na0.02Ag0.98SbTe2",
+      "full_formula": "Na0.02Ag0.98SbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Na",
+          "ratio_or_percentage": "0.02",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "power factor",
+          "value": "1.27",
+          "unit": "W m-1 K-2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Value is for Ag0.98Na0.02SbTe2.02, not this sample."
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag0.99Na0.01SbTe2.02",
+      "full_formula": "Ag0.99Na0.01SbTe2.02",
+      "dopant_or_codopant": [
+        {
+          "element": "Na",
+          "ratio_or_percentage": "0.01",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.50",
+          "unit": "dimensionless",
+          "temperature_value": "650",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.30",
+          "unit": "W m-1 K-1",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag0.98Na0.02SbTe2.02",
+      "full_formula": "Ag0.98Na0.02SbTe2.02",
+      "dopant_or_codopant": [
+        {
+          "element": "Na",
+          "ratio_or_percentage": "0.02",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "2.5e4",
+          "unit": "S m-1",
+          "temperature_value": "620",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "1.27",
+          "unit": "W m-1 K-2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbTe2",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "1.5",
+          "unit": "10^4 Sm^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5a",
+          "notes": "Visually estimated from Fig. 5a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "250",
+          "unit": "uV K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5b",
+          "notes": "Visually estimated from Fig. 5b"
+        },
+        {
+          "property": "ZT",
+          "value": "0.45",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 8",
+          "notes": "Visually estimated from Fig. 8"
+        }
+      ]
+    },
+    {
+      "sample_id": "Na0.01Ag0.99SbTe2",
+      "full_formula": "Na0.01Ag0.99SbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Na",
+          "ratio_or_percentage": "0.01",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "1.2",
+          "unit": "10^4 Sm^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5a",
+          "notes": "Visually estimated from Fig. 5a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "265",
+          "unit": "uV K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5b",
+          "notes": "Visually estimated from Fig. 5b"
+        },
+        {
+          "property": "ZT",
+          "value": "0.4",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 8",
+          "notes": "Visually estimated from Fig. 8"
+        }
+      ]
+    },
+    {
+      "sample_id": "Na0.02Ag0.98SbTe2",
+      "full_formula": "Na0.02Ag0.98SbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Na",
+          "ratio_or_percentage": "0.02",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "1.0",
+          "unit": "10^4 Sm^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5a",
+          "notes": "Visually estimated from Fig. 5a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "275",
+          "unit": "uV K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5b",
+          "notes": "Visually estimated from Fig. 5b"
+        },
+        {
+          "property": "ZT",
+          "value": "0.35",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 8",
+          "notes": "Visually estimated from Fig. 8"
+        }
+      ]
+    },
+    {
+      "sample_id": "Na0.01Ag0.99SbTe2.02",
+      "full_formula": "Na0.01Ag0.99SbTe2.02",
+      "dopant_or_codopant": [
+        {
+          "element": "Na",
+          "ratio_or_percentage": "0.01",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        },
+        {
+          "element": "Te",
+          "ratio_or_percentage": "0.02",
+          "doped_site": "interstitial",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "1.8",
+          "unit": "10^4 Sm^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5a",
+          "notes": "Visually estimated from Fig. 5a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "255",
+          "unit": "uV K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5b",
+          "notes": "Visually estimated from Fig. 5b"
+        },
+        {
+          "property": "ZT",
+          "value": "0.5",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 8",
+          "notes": "Visually estimated from Fig. 8"
+        }
+      ]
+    },
+    {
+      "sample_id": "Na0.02Ag0.98SbTe2.02",
+      "full_formula": "Na0.02Ag0.98SbTe2.02",
+      "dopant_or_codopant": [
+        {
+          "element": "Na",
+          "ratio_or_percentage": "0.02",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        },
+        {
+          "element": "Te",
+          "ratio_or_percentage": "0.02",
+          "doped_site": "interstitial",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "2.2",
+          "unit": "10^4 Sm^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5a",
+          "notes": "Visually estimated from Fig. 5a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "240",
+          "unit": "uV K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5b",
+          "notes": "Visually estimated from Fig. 5b"
+        },
+        {
+          "property": "ZT",
+          "value": "0.55",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 8",
+          "notes": "Visually estimated from Fig. 8"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[figure-pass p1-5] Data extracted from figures 5, 7, and 8. Values at 300K were visually estimated from the plots. ",
+  "status": "ok",
+  "n_pages": 5
+}

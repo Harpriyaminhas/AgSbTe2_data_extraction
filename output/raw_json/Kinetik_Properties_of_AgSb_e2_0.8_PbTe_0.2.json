@@ -1,0 +1,138 @@
+{
+  "source_pdf": "Kinetik Properties of (AgSb\u0422e2)0.8(PbTe)0.2.pdf",
+  "doi": "10.1134/S1063782625602201",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "(AgSbTe2)0.8(PbTe)0.2",
+      "full_formula": "(AgSbTe2)0.8(PbTe)0.2",
+      "dopant_or_codopant": [
+        {
+          "element": "Pb",
+          "ratio_or_percentage": "0.2",
+          "doped_site": "multiple sites",
+          "site_evidence": "The paper describes it as a solid solution of AgSbTe2 and PbTe, implying substitution on the Ag/Sb sublattices."
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "30-60",
+          "unit": "Ohm^-1 cm^-1",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "Fig. 3",
+          "notes": "Values estimated from the plot range for 80-550 K."
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "50-150",
+          "unit": "uV/K",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "Fig. 4",
+          "notes": "Values estimated from the plot range for 80-550 K."
+        }
+      ]
+    },
+    {
+      "sample_id": "(AgSbTe2)0.8(PbTe)0.2",
+      "full_formula": "(AgSbTe2)0.8(PbTe)0.2",
+      "dopant_or_codopant": [
+        {
+          "element": "Pb",
+          "ratio_or_percentage": "0.2",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "50",
+          "unit": "Ohm^-1cm^-1",
+          "temperature_value": "80",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3",
+          "notes": "Visually estimated from Fig. 3"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "58",
+          "unit": "Ohm^-1cm^-1",
+          "temperature_value": "200",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3",
+          "notes": "Visually estimated from Fig. 3"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "35",
+          "unit": "Ohm^-1cm^-1",
+          "temperature_value": "410",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3",
+          "notes": "Visually estimated from Fig. 3"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "46",
+          "unit": "Ohm^-1cm^-1",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3",
+          "notes": "Visually estimated from Fig. 3"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "55",
+          "unit": "uV/K",
+          "temperature_value": "80",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4",
+          "notes": "Visually estimated from Fig. 4"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "60",
+          "unit": "uV/K",
+          "temperature_value": "200",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4",
+          "notes": "Visually estimated from Fig. 4"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "125",
+          "unit": "uV/K",
+          "temperature_value": "410",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4",
+          "notes": "Visually estimated from Fig. 4"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "105",
+          "unit": "uV/K",
+          "temperature_value": "550",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4",
+          "notes": "Visually estimated from Fig. 4"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The article focuses on the kinetic properties of (AgSbTe2)0.8(PbTe)0.2. While Hall coefficient data is also presented in Fig. 5, it is not listed as a required thermoelectric property in the schema. No thermal conductivity or ZT values were explicitly provided in the text or figures. [figure-pass p1-5] The compound (AgSbTe2)0.8(PbTe)0.2 is a solid solution. Thermoelectric properties (electrical conductivity and Seebeck coefficient) were extracted from Fig. 3 and Fig. 4 respectively. Values are visual estimates. [figure-pass p6-6] The provided page contains only a list of references and no thermoelectric property plots or data tables for AgSbTe2-family compounds. ",
+  "status": "ok",
+  "n_pages": 6
+}

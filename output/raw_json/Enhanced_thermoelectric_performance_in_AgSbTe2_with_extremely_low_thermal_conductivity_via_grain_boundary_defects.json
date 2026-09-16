@@ -1,0 +1,381 @@
+{
+  "source_pdf": "Enhanced thermoelectric performance in AgSbTe2 with extremely low thermal conductivity via grain boundary defects.pdf",
+  "doi": "10.1063/5.0255308",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "AgSb1-xFexTe2.01 (x=0)",
+      "full_formula": "AgSbTe2.01",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "91",
+          "unit": "S/cm",
+          "temperature_value": "523",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 4",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "8.5",
+          "unit": "uW cm-1 K-2",
+          "temperature_value": "323",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 4",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSb1-xFexTe2.01 (x=0.01)",
+      "full_formula": "AgSb0.99Fe0.01Te2.01",
+      "dopant_or_codopant": [
+        {
+          "element": "Fe",
+          "ratio_or_percentage": "x=0.01",
+          "doped_site": "Sb",
+          "site_evidence": "lattice constant reduction suggests Fe atoms are incorporated into the sublattice"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "285",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 6",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSb1-xFexTe2.01 (x=0.03)",
+      "full_formula": "AgSb0.97Fe0.03Te2.01",
+      "dopant_or_codopant": [
+        {
+          "element": "Fe",
+          "ratio_or_percentage": "x=0.03",
+          "doped_site": "Sb",
+          "site_evidence": "lattice constant reduction suggests Fe atoms are incorporated into the sublattice"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "264",
+          "unit": "S/cm",
+          "temperature_value": "523",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 4",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "12.0",
+          "unit": "uW cm-1 K-2",
+          "temperature_value": "323",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 4",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "16.5",
+          "unit": "uW cm-1 K-2",
+          "temperature_value": "523",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 4",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.30",
+          "unit": "W/mK",
+          "temperature_value": "523",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 6",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.8",
+          "unit": "dimensionless",
+          "temperature_value": "623",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 2, Page 6",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSb1-xFe_xTe2.01 (x=0)",
+      "full_formula": "AgSbTe2.01",
+      "dopant_or_codopant": [
+        {
+          "element": "Fe",
+          "ratio_or_percentage": "0",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "100",
+          "unit": "S/cm",
+          "temperature_value": "323",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 1(a)"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "150",
+          "unit": "S/cm",
+          "temperature_value": "623",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 1(a)"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "280",
+          "unit": "uV/K",
+          "temperature_value": "323",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 1(b)"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "240",
+          "unit": "uV/K",
+          "temperature_value": "623",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 1(b)"
+        },
+        {
+          "property": "power factor",
+          "value": "8",
+          "unit": "uW cm^-1 K^-2",
+          "temperature_value": "323",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 1(c)"
+        },
+        {
+          "property": "power factor",
+          "value": "10",
+          "unit": "uW cm^-1 K^-2",
+          "temperature_value": "623",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 1(c)"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSb1-xFe_xTe2.01 (x=0.01)",
+      "full_formula": "AgSb0.99Fe0.01Te2.01",
+      "dopant_or_codopant": [
+        {
+          "element": "Fe",
+          "ratio_or_percentage": "0.01",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "120",
+          "unit": "S/cm",
+          "temperature_value": "323",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 1(a)"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "200",
+          "unit": "S/cm",
+          "temperature_value": "623",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 1(a)"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "290",
+          "unit": "uV/K",
+          "temperature_value": "323",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 1(b)"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "260",
+          "unit": "uV/K",
+          "temperature_value": "623",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 1(b)"
+        },
+        {
+          "property": "power factor",
+          "value": "10",
+          "unit": "uW cm^-1 K^-2",
+          "temperature_value": "323",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 1(c)"
+        },
+        {
+          "property": "power factor",
+          "value": "14",
+          "unit": "uW cm^-1 K^-2",
+          "temperature_value": "623",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 1(c)"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSb1-xFe_xTe2.01 (x=0.03)",
+      "full_formula": "AgSb0.97Fe0.03Te2.01",
+      "dopant_or_codopant": [
+        {
+          "element": "Fe",
+          "ratio_or_percentage": "0.03",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "150",
+          "unit": "S/cm",
+          "temperature_value": "323",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 1(a)"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "250",
+          "unit": "S/cm",
+          "temperature_value": "623",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 1(a)"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "280",
+          "unit": "uV/K",
+          "temperature_value": "323",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 1(b)"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "270",
+          "unit": "uV/K",
+          "temperature_value": "623",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 1(b)"
+        },
+        {
+          "property": "power factor",
+          "value": "12",
+          "unit": "uW cm^-1 K^-2",
+          "temperature_value": "323",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 1(c)"
+        },
+        {
+          "property": "power factor",
+          "value": "16",
+          "unit": "uW cm^-1 K^-2",
+          "temperature_value": "623",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 1(c)"
+        },
+        {
+          "property": "ZT",
+          "value": "1.8",
+          "unit": "dimensionless",
+          "temperature_value": "623",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Peak ZT value"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSb0.97Fe0.03Te2.01",
+      "full_formula": "AgSb0.97Fe0.03Te2.01",
+      "dopant_or_codopant": [
+        {
+          "element": "Fe",
+          "ratio_or_percentage": "0.03",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.8",
+          "unit": "dimensionless",
+          "temperature_value": "623",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Peak zT value reported in text."
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The paper reports Fe-doped AgSbTe2 with the formula AgSb1-xFexTe2.01. Data for x=0, 0.01, and 0.03 were extracted from the text. The site for Fe doping is inferred as Sb based on the lattice constant reduction mentioned in the text. [figure-pass p1-5] Data extracted from Fig 1 and body text. The samples are Fe-doped AgSbTe2, specifically AgSb1-xFe_xTe2.01. [figure-pass p6-8] The provided pages contain information about Fe-doped AgSbTe2 (AgSb0.97Fe0.03Te2.01) and its thermoelectric performance, specifically mentioning a peak zT of 1.8 at 623 K. No property-vs-temperature plots were provided in the images that allowed for reading off multiple data points. ",
+  "status": "ok",
+  "n_pages": 8
+}

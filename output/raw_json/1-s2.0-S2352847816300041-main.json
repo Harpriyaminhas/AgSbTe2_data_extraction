@@ -1,0 +1,482 @@
+{
+  "source_pdf": "1-s2.0-S2352847816300041-main.pdf",
+  "doi": "10.1016/j.jmat.2016.05.001",
+  "base_composition": "SnCd0.05Te-x%AgSbSe2",
+  "materials": [
+    {
+      "sample_id": "SnCd0.05Te",
+      "full_formula": "SnCd0.05Te",
+      "dopant_or_codopant": [
+        {
+          "element": "Cd",
+          "ratio_or_percentage": "5%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "power factor",
+          "value": "21",
+          "unit": "mW/cm K2",
+          "temperature_value": "700",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Page 4, Section 3",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "4.7",
+          "unit": "W/m K",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "text",
+          "source_detail": "Page 5, Section 3",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "2.2",
+          "unit": "W/m K",
+          "temperature_value": "820",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Page 5, Section 3",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "SnCd0.05Te + 3% AgSbSe2",
+      "full_formula": "SnCd0.05Te-0.03AgSbSe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Cd",
+          "ratio_or_percentage": "5%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "AgSbSe2",
+          "ratio_or_percentage": "3%",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.92",
+          "unit": "dimensionless",
+          "temperature_value": "820",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Page 6, Section 3",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "SnCd0.05Te + 12% AgSbSe2",
+      "full_formula": "SnCd0.05Te-0.12AgSbSe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Cd",
+          "ratio_or_percentage": "5%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "AgSbSe2",
+          "ratio_or_percentage": "12%",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.6",
+          "unit": "W/m K",
+          "temperature_value": "820",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Page 5, Section 3",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "SnCd0.05Te",
+      "full_formula": "SnCd0.05Te",
+      "dopant_or_codopant": [
+        {
+          "element": "Cd",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "2800",
+          "unit": "S/cm",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3a",
+          "notes": "Visually estimated from Fig. 3a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "45",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3c",
+          "notes": "Visually estimated from Fig. 3c"
+        },
+        {
+          "property": "power factor",
+          "value": "4",
+          "unit": "uW/cm*K^2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3d",
+          "notes": "Visually estimated from Fig. 3d"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "4.7",
+          "unit": "W/m*K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5a",
+          "notes": "Visually estimated from Fig. 5a"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "2.7",
+          "unit": "W/m*K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5b",
+          "notes": "Visually estimated from Fig. 5b"
+        }
+      ]
+    },
+    {
+      "sample_id": "SnCd0.05Te-3%AgSbSe2",
+      "full_formula": "SnCd0.05Te-3%AgSbSe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Cd",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "AgSbSe2",
+          "ratio_or_percentage": "3%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "2700",
+          "unit": "S/cm",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3a",
+          "notes": "Visually estimated from Fig. 3a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "50",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3c",
+          "notes": "Visually estimated from Fig. 3c"
+        },
+        {
+          "property": "power factor",
+          "value": "5",
+          "unit": "uW/cm*K^2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3d",
+          "notes": "Visually estimated from Fig. 3d"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "4.2",
+          "unit": "W/m*K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5a",
+          "notes": "Visually estimated from Fig. 5a"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "2.2",
+          "unit": "W/m*K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5b",
+          "notes": "Visually estimated from Fig. 5b"
+        }
+      ]
+    },
+    {
+      "sample_id": "SnCd0.05Te",
+      "full_formula": "SnCd0.05Te",
+      "dopant_or_codopant": [
+        {
+          "element": "Cd",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.08",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 7"
+        },
+        {
+          "property": "ZT",
+          "value": "0.92",
+          "unit": "dimensionless",
+          "temperature_value": "820",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 7"
+        }
+      ]
+    },
+    {
+      "sample_id": "SnCd0.05Te-3%AgSbSe2",
+      "full_formula": "SnCd0.05Te-3%AgSbSe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Cd",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "AgSbSe2",
+          "ratio_or_percentage": "3%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.09",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 7"
+        },
+        {
+          "property": "ZT",
+          "value": "0.93",
+          "unit": "dimensionless",
+          "temperature_value": "820",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 7"
+        }
+      ]
+    },
+    {
+      "sample_id": "SnCd0.05Te-6%AgSbSe2",
+      "full_formula": "SnCd0.05Te-6%AgSbSe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Cd",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "AgSbSe2",
+          "ratio_or_percentage": "6%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.07",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 7"
+        },
+        {
+          "property": "ZT",
+          "value": "0.82",
+          "unit": "dimensionless",
+          "temperature_value": "820",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 7"
+        }
+      ]
+    },
+    {
+      "sample_id": "SnCd0.05Te-9%AgSbSe2",
+      "full_formula": "SnCd0.05Te-9%AgSbSe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Cd",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "AgSbSe2",
+          "ratio_or_percentage": "9%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.06",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 7"
+        },
+        {
+          "property": "ZT",
+          "value": "0.78",
+          "unit": "dimensionless",
+          "temperature_value": "820",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 7"
+        }
+      ]
+    },
+    {
+      "sample_id": "SnCd0.05Te-12%AgSbSe2",
+      "full_formula": "SnCd0.05Te-12%AgSbSe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Cd",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "AgSbSe2",
+          "ratio_or_percentage": "12%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.05",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 7"
+        },
+        {
+          "property": "ZT",
+          "value": "0.72",
+          "unit": "dimensionless",
+          "temperature_value": "820",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 7"
+        }
+      ]
+    },
+    {
+      "sample_id": "SnCd0.05Te-15%AgSbSe2",
+      "full_formula": "SnCd0.05Te-15%AgSbSe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Cd",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "AgSbSe2",
+          "ratio_or_percentage": "15%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.04",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 7"
+        },
+        {
+          "property": "ZT",
+          "value": "0.68",
+          "unit": "dimensionless",
+          "temperature_value": "820",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 7"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The paper focuses on SnTe-AgSbSe2 composites. AgSbSe2 is treated as an alloying component rather than a simple dopant, but it is included as requested. Cd is explicitly mentioned as a dopant for SnTe. Values were extracted from the body text as no tables were provided in the source text. [figure-pass p1-5] Data extracted for SnCd0.05Te and SnCd0.05Te-3%AgSbSe2 from figures 3 and 5. Values are visual estimates. [figure-pass p6-7] Data extracted from Figure 7 showing ZT vs Temperature for SnCd0.05Te-x%AgSbSe2 composites. ",
+  "status": "ok",
+  "n_pages": 7
+}

@@ -1,0 +1,146 @@
+{
+  "source_pdf": "Impact of In Situ Generated Ag2Te Nanoparticles on the Microstructure and Thermoelectric Properties of AgSbTe2 Compounds.pdf",
+  "doi": "10.1007/s11664-011-1620-2",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "x=44",
+      "full_formula": "(Ag2Te)0.44(Sb2Te3)0.56",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag2Te",
+          "ratio_or_percentage": "x=44",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "thermal conductivity",
+          "value": "0.84",
+          "unit": "W/mK",
+          "temperature_value": "591",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "maximum",
+          "unit": "dimensionless",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "lower than x=50 sample"
+        }
+      ]
+    },
+    {
+      "sample_id": "x=50",
+      "full_formula": "(Ag2Te)0.50(Sb2Te3)0.50",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag2Te",
+          "ratio_or_percentage": "x=50",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.22",
+          "unit": "dimensionless",
+          "temperature_value": "593",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "x=44",
+      "full_formula": "(Ag2Te)44(Sb2Te3)56",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag2Te",
+          "ratio_or_percentage": "x=44",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "3.4",
+          "unit": "10^4 S/m",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3a at 300 K"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "180",
+          "unit": "uV/K",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3b at 300 K"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.84",
+          "unit": "W/mK",
+          "temperature_value": "591",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 4"
+        },
+        {
+          "property": "ZT",
+          "value": "0.6",
+          "unit": "dimensionless",
+          "temperature_value": "593",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 6"
+        }
+      ]
+    },
+    {
+      "sample_id": "x=50",
+      "full_formula": "(Ag2Te)50(Sb2Te3)50",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag2Te",
+          "ratio_or_percentage": "x=50",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.22",
+          "unit": "dimensionless",
+          "temperature_value": "593",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 6"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The paper investigates (Ag2Te)x(Sb2Te3)100-x composites. The samples are described as AgSbTe2-family compounds with in situ generated Ag2Te nanoparticles. Specific numerical values for properties at various temperatures were presented in figures (Fig 3, 4, 6) but not in tabular form; only select peak values were explicitly stated in the body text. [figure-pass p1-5] The samples are composites of Ag2Te and Sb2Te3 described by the formula (Ag2Te)x(Sb2Te3)100-x. Properties were extracted from the provided figures. Electrical conductivity and Seebeck coefficient values were estimated from Fig 3, thermal conductivity from Fig 4, and ZT from Fig 6. ",
+  "status": "ok",
+  "n_pages": 5
+}

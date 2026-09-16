@@ -1,0 +1,165 @@
+{
+  "source_pdf": "ae2c03557.pdf",
+  "doi": "10.1021/acsaem.2c03557",
+  "base_composition": "AgSbSe2",
+  "materials": [
+    {
+      "sample_id": "AgSbSe2 (pristine)",
+      "full_formula": "AgSbSe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.74",
+          "unit": "dimensionless",
+          "temperature_value": "723",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Page 2, Section 1",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSb0.94Pb0.06Se2",
+      "full_formula": "AgSb0.94Pb0.06Se2",
+      "dopant_or_codopant": [
+        {
+          "element": "Pb",
+          "ratio_or_percentage": "0.06",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.91",
+          "unit": "dimensionless",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Page 4, Section 3",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSb0.935Pb0.06Se2",
+      "full_formula": "AgSb0.935Pb0.06Se2",
+      "dopant_or_codopant": [
+        {
+          "element": "Pb",
+          "ratio_or_percentage": "0.06",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb vacancy",
+          "ratio_or_percentage": "0.005",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "power factor",
+          "value": "7.5",
+          "unit": "\u03bcW cm\u22121 K\u22122",
+          "temperature_value": "523",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Page 1, Abstract",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.02",
+          "unit": "dimensionless",
+          "temperature_value": "723",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Page 1, Abstract",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.36",
+          "unit": "Wm\u22121 K\u22121",
+          "temperature_value": "723",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Page 5, Section 3",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSb0.94Pb0.06Se2",
+      "full_formula": "AgSb0.94Pb0.06Se2",
+      "dopant_or_codopant": [
+        {
+          "element": "Pb",
+          "ratio_or_percentage": "0.06",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.02",
+          "unit": "dimensionless",
+          "temperature_value": "723",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 1d"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSb0.935Pb0.06Se2",
+      "full_formula": "AgSb0.935Pb0.06Se2",
+      "dopant_or_codopant": [
+        {
+          "element": "Pb",
+          "ratio_or_percentage": "0.06",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb vacancy",
+          "ratio_or_percentage": "0.005",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "power factor",
+          "value": "7.5",
+          "unit": "uW cm-1 K-2",
+          "temperature_value": "523",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5e"
+        },
+        {
+          "property": "ZT",
+          "value": "1.02",
+          "unit": "dimensionless",
+          "temperature_value": "723",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5h"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The article focuses on AgSbSe2, a homologue of AgSbTe2. While the introduction mentions AgSbTe2, the experimental data provided is exclusively for AgSbSe2-based compounds. The extracted data pertains to the AgSbSe2-family as requested. [figure-pass p1-5] The paper focuses on AgSbSe2, which is a homologue of AgSbTe2. Data extracted for Pb-doped and Sb-vacancy co-doped AgSbSe2 samples as requested for AgSbTe2-family compounds. [figure-pass p6-7] The provided pages contain only a list of references and acknowledgments. There are no plots, tables, or data regarding the thermoelectric properties of AgSbTe2-family compounds. ",
+  "status": "ok",
+  "n_pages": 7
+}

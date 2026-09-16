@@ -1,0 +1,121 @@
+{
+  "source_pdf": "Du_2018_Chinese_Phys._B_27_048102.pdf",
+  "doi": "10.1088/1674-1056/27/4/048102",
+  "base_composition": "AgSbTe2-family",
+  "materials": [
+    {
+      "sample_id": "GeTe-AgSbTe2 alloys",
+      "full_formula": "(GeTe)x(AgSbTe2)100-x",
+      "dopant_or_codopant": [
+        {
+          "element": "AgSbTe2",
+          "ratio_or_percentage": "variable",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "(GeTe)80(AgSbSe2)20",
+      "full_formula": "(GeTe)80(AgSbSe2)20",
+      "dopant_or_codopant": [
+        {
+          "element": "AgSbSe2",
+          "ratio_or_percentage": "20%",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "thermal conductivity",
+          "value": "0.4",
+          "unit": "W\u00b7m-1\u00b7K-1",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "text",
+          "source_detail": "page 8, section 4",
+          "notes": "klat"
+        },
+        {
+          "property": "ZT",
+          "value": "1.9",
+          "unit": "dimensionless",
+          "temperature_value": "660",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "page 8, section 4",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.4",
+          "unit": "dimensionless",
+          "temperature_value": "300-700",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "page 8, section 4",
+          "notes": "average zT"
+        }
+      ]
+    },
+    {
+      "sample_id": "(GeTe)80(AgSbSe2)20",
+      "full_formula": "(GeTe)80(AgSbSe2)20",
+      "dopant_or_codopant": [
+        {
+          "element": "AgSbSe2",
+          "ratio_or_percentage": "20 mol%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.2",
+          "unit": "dimensionless",
+          "temperature_value": "700",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5a",
+          "notes": "Visually estimated from Fig. 5a"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "1000",
+          "unit": "S/cm",
+          "temperature_value": "700",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5b",
+          "notes": "Visually estimated from Fig. 5b"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "2.5",
+          "unit": "W/m\u00b7K",
+          "temperature_value": "700",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5c",
+          "notes": "Visually estimated from Fig. 5c"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "150",
+          "unit": "\u03bcV/K",
+          "temperature_value": "700",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5d",
+          "notes": "Visually estimated from Fig. 5d"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The article discusses AgSbTe2-family compounds primarily as components in solid solutions with GeTe (TAGS) or as AgSbSe2 alloys. Specific thermoelectric data points were extracted for the (GeTe)80(AgSbSe2)20 composition mentioned in the text. [figure-pass p1-5] The provided pages discuss Sn-based, Ge-based, and Si-based chalcogenides (SnSe, SnS, SnTe, GeSe, GeS, etc.). While AgSbTe2 is mentioned as a family in the prompt, the provided text and figures do not contain any thermoelectric property-vs-temperature data for AgSbTe2 or its doped derivatives. The figures present are related to SnSe, SnS, and SnTe. [figure-pass p6-10] The paper discusses AgSbTe2-family compounds, specifically mentioning (GeTe)80(AgSbSe2)20 and TAGS-85. Data for (GeTe)80(AgSbSe2)20 was extracted from the plots in Fig. 5. [figure-pass p11-12] The provided pages contain only a list of references and no thermoelectric property data or plots for AgSbTe2-family compounds. ",
+  "status": "ok",
+  "n_pages": 12
+}

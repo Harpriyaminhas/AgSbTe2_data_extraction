@@ -1,0 +1,204 @@
+{
+  "source_pdf": "Thermoelectric Properties of the Pseudobinary Alloy (Ag0.365Sb0.558Te)0.975(GeTe)0.025 Prepared by Spark Plasma Sintering.pdf",
+  "doi": "10.1007/s11664-010-1278-1",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "(Ag0.365Sb0.558Te)0.975(GeTe)0.025",
+      "full_formula": "(Ag0.365Sb0.558Te)0.975(GeTe)0.025",
+      "dopant_or_codopant": [
+        {
+          "element": "Ge",
+          "ratio_or_percentage": "1.3 at.%",
+          "doped_site": "Sb",
+          "site_evidence": "Rietveld analysis"
+        },
+        {
+          "element": "Ge",
+          "ratio_or_percentage": "remaining Ge atoms",
+          "doped_site": "interstitial",
+          "site_evidence": "Rietveld analysis"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.69",
+          "unit": "dimensionless",
+          "temperature_value": "551",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "body text",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "131",
+          "unit": "uV K-1",
+          "temperature_value": "551",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "body text",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.304",
+          "unit": "W m-1 K-1",
+          "temperature_value": "551",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "body text",
+          "notes": ""
+        },
+        {
+          "property": "electronic thermal conductivity",
+          "value": "0.42 to 0.51",
+          "unit": "W m-1 K-1",
+          "temperature_value": "318 to 551",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "body text",
+          "notes": ""
+        },
+        {
+          "property": "total thermal conductivity",
+          "value": "0.77 to 0.87",
+          "unit": "W m-1 K-1",
+          "temperature_value": "318 to 551",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "body text",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "(Ag0.365Sb0.558Te)0.975(GeTe)0.025",
+      "full_formula": "(Ag0.365Sb0.558Te)0.975(GeTe)0.025",
+      "dopant_or_codopant": [
+        {
+          "element": "Ge",
+          "ratio_or_percentage": "0.025",
+          "doped_site": "Sb",
+          "site_evidence": "Rietveld refinement indicates about 1.3 at.% Ge atoms occupy the Sb sites"
+        },
+        {
+          "element": "Ge",
+          "ratio_or_percentage": "0.025",
+          "doped_site": "interstitial",
+          "site_evidence": "remaining Ge atoms possibly interstitially occupy the gaps between the slabs of Sb2Te3"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "60",
+          "unit": "uV K^-1",
+          "temperature_value": "318",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "131",
+          "unit": "uV K^-1",
+          "temperature_value": "551",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 3"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "8",
+          "unit": "10^4 Ohm^-1 m^-1",
+          "temperature_value": "318",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 4"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "5",
+          "unit": "10^4 Ohm^-1 m^-1",
+          "temperature_value": "551",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 4"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.4",
+          "unit": "W W^-1 K^-1 m^-1",
+          "temperature_value": "318",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5a"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.3",
+          "unit": "W W^-1 K^-1 m^-1",
+          "temperature_value": "551",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5a"
+        },
+        {
+          "property": "ZT",
+          "value": "0.15",
+          "unit": "dimensionless",
+          "temperature_value": "318",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 6"
+        },
+        {
+          "property": "ZT",
+          "value": "0.69",
+          "unit": "dimensionless",
+          "temperature_value": "551",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 6"
+        }
+      ]
+    },
+    {
+      "sample_id": "GeTe-added (Ag0.365Sb0.558Te)0.975(GeTe)0.025",
+      "full_formula": "(Ag0.365Sb0.558Te)0.975(GeTe)0.025",
+      "dopant_or_codopant": [
+        {
+          "element": "GeTe",
+          "ratio_or_percentage": "0.025",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.69",
+          "unit": "dimensionless",
+          "temperature_value": "551",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The article focuses on the pseudobinary alloy (Ag0.365Sb0.558Te)0.975(GeTe)0.025. The parent ternary alloy Ag0.365Sb0.558Te and Sb2Te3 were also measured for comparison. Data points for properties were extracted from the text and figures as explicitly stated. [figure-pass p1-5] The sample is a pseudobinary alloy of Ag-Sb-Te and GeTe. Doping sites were identified based on the text description of Rietveld refinement results. Thermoelectric properties were extracted from the provided figures. [figure-pass p6-6] The provided page contains only text references and a brief mention of a ZT value for a specific alloy in the acknowledgements/conclusions section. No plots or tables with temperature-dependent data were present. ",
+  "status": "ok",
+  "n_pages": 6
+}

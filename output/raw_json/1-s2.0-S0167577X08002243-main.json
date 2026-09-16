@@ -1,0 +1,252 @@
+{
+  "source_pdf": "1-s2.0-S0167577X08002243-main.pdf",
+  "doi": "10.1016/j.matlet.2008.02.039",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "AgSbTe2 (x=0)",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "172.4",
+          "unit": "S/cm",
+          "temperature_value": "room temperature",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Calculated from resistivity 5.8x10^-3 Ohm cm at 2.0 GPa",
+          "notes": "Resistivity of 5.8x10^-3 Ohm cm reported at 2.0 GPa"
+        }
+      ]
+    },
+    {
+      "sample_id": "(AgSbTe2)1-x(Ag2Te)x (x=0.05)",
+      "full_formula": "(AgSbTe2)0.95(Ag2Te)0.05",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag2Te",
+          "ratio_or_percentage": "x=0.05",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "(AgSbTe2)1-x(Ag2Te)x (x=0.1)",
+      "full_formula": "(AgSbTe2)0.9(Ag2Te)0.1",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag2Te",
+          "ratio_or_percentage": "x=0.1",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "(AgSbTe2)1-x(Ag2Te)x (x=0.2)",
+      "full_formula": "(AgSbTe2)0.8(Ag2Te)0.2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag2Te",
+          "ratio_or_percentage": "x=0.2",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "(AgSbTe2)1-x(Ag2Te)x, x=0",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag2Te",
+          "ratio_or_percentage": "x=0",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "140",
+          "unit": "uV/K",
+          "temperature_value": "room temperature",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 2",
+          "notes": "Visually estimated from Fig. 2 at 2.0 GPa"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "80",
+          "unit": "uV/K",
+          "temperature_value": "room temperature",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 2",
+          "notes": "Visually estimated from Fig. 2 at 4.5 GPa"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "1.72",
+          "unit": "mOhm*cm (resistivity)",
+          "temperature_value": "room temperature",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3",
+          "notes": "Visually estimated from Fig. 3 at 2.0 GPa (resistivity value 5.8 mOhm*cm mentioned in text for 2.0 GPa, plot shows ~5.8)"
+        },
+        {
+          "property": "power factor",
+          "value": "3.5",
+          "unit": "10^-4 W/mK^2",
+          "temperature_value": "room temperature",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4",
+          "notes": "Visually estimated from Fig. 4 at 2.0 GPa"
+        }
+      ]
+    },
+    {
+      "sample_id": "(AgSbTe2)1-x(Ag2Te)x, x=0.05",
+      "full_formula": "(AgSbTe2)0.95(Ag2Te)0.05",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag2Te",
+          "ratio_or_percentage": "x=0.05",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "132",
+          "unit": "uV/K",
+          "temperature_value": "room temperature",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 2",
+          "notes": "Visually estimated from Fig. 2 at 2.0 GPa"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "75",
+          "unit": "uV/K",
+          "temperature_value": "room temperature",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 2",
+          "notes": "Visually estimated from Fig. 2 at 4.5 GPa"
+        },
+        {
+          "property": "power factor",
+          "value": "4.2",
+          "unit": "10^-4 W/mK^2",
+          "temperature_value": "room temperature",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4",
+          "notes": "Visually estimated from Fig. 4 at 2.0 GPa"
+        }
+      ]
+    },
+    {
+      "sample_id": "(AgSbTe2)1-x(Ag2Te)x, x=0.1",
+      "full_formula": "(AgSbTe2)0.9(Ag2Te)0.1",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag2Te",
+          "ratio_or_percentage": "x=0.1",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "120",
+          "unit": "uV/K",
+          "temperature_value": "room temperature",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 2",
+          "notes": "Visually estimated from Fig. 2 at 2.0 GPa"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "65",
+          "unit": "uV/K",
+          "temperature_value": "room temperature",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 2",
+          "notes": "Visually estimated from Fig. 2 at 4.5 GPa"
+        },
+        {
+          "property": "power factor",
+          "value": "3.8",
+          "unit": "10^-4 W/mK^2",
+          "temperature_value": "room temperature",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4",
+          "notes": "Visually estimated from Fig. 4 at 2.0 GPa"
+        }
+      ]
+    },
+    {
+      "sample_id": "(AgSbTe2)1-x(Ag2Te)x, x=0.2",
+      "full_formula": "(AgSbTe2)0.8(Ag2Te)0.2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag2Te",
+          "ratio_or_percentage": "x=0.2",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "110",
+          "unit": "uV/K",
+          "temperature_value": "room temperature",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 2",
+          "notes": "Visually estimated from Fig. 2 at 2.0 GPa"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "60",
+          "unit": "uV/K",
+          "temperature_value": "room temperature",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 2",
+          "notes": "Visually estimated from Fig. 2 at 4.5 GPa"
+        },
+        {
+          "property": "power factor",
+          "value": "3.2",
+          "unit": "10^-4 W/mK^2",
+          "temperature_value": "room temperature",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4",
+          "notes": "Visually estimated from Fig. 4 at 2.0 GPa"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The paper discusses (AgSbTe2)1-x(Ag2Te)x alloys. While Seebeck coefficient, electrical resistivity, and power factor are plotted in figures (Fig 2, 3, 4), no specific numerical values are provided in the text or tables for these properties other than the resistivity of the x=0 sample at 2.0 GPa. [figure-pass p1-3] The paper reports room temperature thermoelectric properties as a function of synthetic pressure (2.0-4.5 GPa) for AgSbTe2-Ag2Te alloys. Values were visually estimated from the provided figures. ",
+  "status": "ok",
+  "n_pages": 3
+}

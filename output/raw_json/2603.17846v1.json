@@ -1,0 +1,35 @@
+{
+  "source_pdf": "2603.17846v1.pdf",
+  "doi": "",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "Ag0.9Sb1.1Te2.1",
+      "full_formula": "Ag0.9Sb1.1Te2.1",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.9",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "1.1",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Te",
+          "ratio_or_percentage": "2.1",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    }
+  ],
+  "extraction_notes": "[text-pass] The article focuses on pressure-induced superconductivity in non-stoichiometric Ag0.9Sb1.1Te2.1. While the paper mentions AgSbTe2 is a thermoelectric material, it does not report thermoelectric property values (Seebeck, electrical conductivity, thermal conductivity, power factor, or ZT) for the specific sample Ag0.9Sb1.1Te2.1; it only reports superconducting transition temperatures (Tc) and upper critical field data. [figure-pass p1-5] The provided document focuses on pressure-induced superconductivity in Ag0.9Sb1.1Te2.1. While it mentions AgSbTe2 as a thermoelectric material in the introduction, it does not provide any thermoelectric property-vs-temperature plots or tables for AgSbTe2 or its doped variants. Therefore, no thermoelectric data could be extracted. [figure-pass p6-10] The provided pages discuss the superconducting properties of Ag0.9Sb1.1Te2.1 under pressure and its electronic structure. No thermoelectric property-vs-temperature plots or tables (Seebeck coefficient, electrical conductivity, thermal conductivity, power factor, or ZT) are present in the provided document. [figure-pass p11-14] The provided pages contain data on the superconducting properties (resistance vs temperature, superconducting transition temperature vs pressure) and structural properties (XRD patterns, band structure) of Ag0.9Sb1.1Te2.1. No thermoelectric properties (Seebeck coefficient, electrical conductivity, thermal conductivity, power factor, or ZT) are reported in the provided figures or text. ",
+  "status": "ok",
+  "n_pages": 28
+}

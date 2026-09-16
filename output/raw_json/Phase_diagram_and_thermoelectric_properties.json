@@ -1,0 +1,210 @@
+{
+  "source_pdf": "Phase diagram and thermoelectric properties.pdf",
+  "doi": "",
+  "base_composition": "Ag3-xSb1+xTe4",
+  "materials": [
+    {
+      "sample_id": "x=0.2",
+      "full_formula": "Ag2.8Sb1.2Te4",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "variable",
+          "unit": "mV/K",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "conduction changed from p- to n-type with temperature variation"
+        }
+      ]
+    },
+    {
+      "sample_id": "x=0.4",
+      "full_formula": "Ag2.6Sb1.4Te4",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "3.5\u00d710^-3",
+          "unit": "ohm-cm",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "Table I",
+          "source_detail": "",
+          "notes": "Reported as electrical resistivity"
+        }
+      ]
+    },
+    {
+      "sample_id": "x=0.6",
+      "full_formula": "Ag2.4Sb1.6Te4",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "3.5\u00d710^-3",
+          "unit": "ohm-cm",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "Table I",
+          "source_detail": "",
+          "notes": "Reported as electrical resistivity"
+        }
+      ]
+    },
+    {
+      "sample_id": "x=0.8",
+      "full_formula": "Ag2.2Sb1.8Te4",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "0.45",
+          "unit": "mV/K",
+          "temperature_value": "650",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "6.3\u00d710^-3",
+          "unit": "ohm-cm",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "Table I",
+          "source_detail": "",
+          "notes": "Reported as electrical resistivity"
+        }
+      ]
+    },
+    {
+      "sample_id": "x=1.0",
+      "full_formula": "Ag2Sb2Te4 (AgSbTe2)",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "0.73",
+          "unit": "mV/K",
+          "temperature_value": "680",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "1.8\u00d710^-2",
+          "unit": "ohm-cm",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "Table I",
+          "source_detail": "",
+          "notes": "Reported as electrical resistivity"
+        }
+      ]
+    },
+    {
+      "sample_id": "x=1.25",
+      "full_formula": "Ag1.75Sb2.25Te4",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "0.20",
+          "unit": "mV/K",
+          "temperature_value": "450",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "2.7\u00d710^-2",
+          "unit": "ohm-cm",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "Table I",
+          "source_detail": "",
+          "notes": "Reported as electrical resistivity"
+        }
+      ]
+    },
+    {
+      "sample_id": "x=1.5",
+      "full_formula": "Ag1.5Sb2.5Te4",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "8.7\u00d710^-3",
+          "unit": "ohm-cm",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "Table I",
+          "source_detail": "",
+          "notes": "Reported as electrical resistivity"
+        }
+      ]
+    },
+    {
+      "sample_id": "x=1",
+      "full_formula": "Ag2Sb2Te4",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "0.73",
+          "unit": "mV/K",
+          "temperature_value": "680",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "x=0.8",
+      "full_formula": "Ag2.2Sb1.8Te4",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "0.45",
+          "unit": "mV/K",
+          "temperature_value": "650",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "x=1.25",
+      "full_formula": "Ag1.75Sb2.25Te4",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "0.20",
+          "unit": "mV/K",
+          "temperature_value": "450",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The paper investigates the Ag3-xSb1+xTe4 system. The samples are treated as variations of the AgSbTe2 stoichiometry. Electrical resistivity values were extracted from Table I as proxies for electrical conductivity data. [figure-pass p1-3] The paper discusses the Ag3-xSb1+xTe4 system. While Figure 4 shows Seebeck coefficient vs temperature for various x values, the text provides specific peak values for x=1, x=0.8, and x=1.25. No other thermoelectric properties vs temperature were provided in the plots. ",
+  "status": "ok",
+  "n_pages": 3
+}

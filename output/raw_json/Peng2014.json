@@ -1,0 +1,492 @@
+{
+  "source_pdf": "Peng2014.pdf",
+  "doi": "10.1039/c3ta13729e",
+  "base_composition": "Yb0.2Co4Sb12",
+  "materials": [
+    {
+      "sample_id": "Matrix",
+      "full_formula": "Yb0.2Co4Sb12",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "-152",
+          "unit": "mV K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "34.2",
+          "unit": "S cm-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": "Calculated from resistivity 29.2 mOhm m"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "2.94",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "2.74",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.08",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Matrix-2 wt% AgSbTe2",
+      "full_formula": "Yb0.2Co4Sb12-2 wt% AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Te",
+          "ratio_or_percentage": "less than y = 0.02",
+          "doped_site": "Sb",
+          "site_evidence": "body text"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "-167",
+          "unit": "mV K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "3.25",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "2.72",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.23",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Matrix-4 wt% AgSbTe2",
+      "full_formula": "Yb0.2Co4Sb12-4 wt% AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Te",
+          "ratio_or_percentage": "less than y = 0.02",
+          "doped_site": "Sb",
+          "site_evidence": "body text"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "-202",
+          "unit": "mV K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "2.62",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "1.99",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.49",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Matrix-6 wt% AgSbTe2",
+      "full_formula": "Yb0.2Co4Sb12-6 wt% AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Te",
+          "ratio_or_percentage": "less than y = 0.02",
+          "doped_site": "Sb",
+          "site_evidence": "body text"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "-228",
+          "unit": "mV K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "3.31",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "2.65",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.51",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Matrix-8 wt% AgSbTe2",
+      "full_formula": "Yb0.2Co4Sb12-8 wt% AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Te",
+          "ratio_or_percentage": "less than y = 0.02",
+          "doped_site": "Sb",
+          "site_evidence": "body text"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "-176",
+          "unit": "mV K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "2.41",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "1.93",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.31",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "matrix-2 wt% AgSbTe2",
+      "full_formula": "Yb0.2Co4Sb12-2 wt% AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Te",
+          "ratio_or_percentage": "y < 0.02",
+          "doped_site": "Sb",
+          "site_evidence": "body text"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "-180",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6",
+          "notes": "Visually estimated from Fig. 6"
+        }
+      ]
+    },
+    {
+      "sample_id": "matrix-4 wt% AgSbTe2",
+      "full_formula": "Yb0.2Co4Sb12-4 wt% AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Te",
+          "ratio_or_percentage": "y < 0.02",
+          "doped_site": "Sb",
+          "site_evidence": "body text"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "-200",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6",
+          "notes": "Visually estimated from Fig. 6"
+        }
+      ]
+    },
+    {
+      "sample_id": "matrix-6 wt% AgSbTe2",
+      "full_formula": "Yb0.2Co4Sb12-6 wt% AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Te",
+          "ratio_or_percentage": "y < 0.02",
+          "doped_site": "Sb",
+          "site_evidence": "body text"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "-228",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "page 77",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "matrix-8 wt% AgSbTe2",
+      "full_formula": "Yb0.2Co4Sb12-8 wt% AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Te",
+          "ratio_or_percentage": "y < 0.02",
+          "doped_site": "Sb",
+          "site_evidence": "body text"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "-170",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6",
+          "notes": "Visually estimated from Fig. 6"
+        }
+      ]
+    },
+    {
+      "sample_id": "Matrix",
+      "full_formula": "Yb0.2Co4Sb12",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.08",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Matrix-2 wt% AgSbTe2",
+      "full_formula": "Yb0.2Co4Sb12-2 wt% AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "AgSbTe2",
+          "ratio_or_percentage": "2 wt%",
+          "doped_site": "interstitial",
+          "site_evidence": "The paper describes these as composites where AgSbTe2 nanoparticles are dispersed on the grain boundaries of the Yb0.2Co4Sb12 matrix."
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.23",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Matrix-4 wt% AgSbTe2",
+      "full_formula": "Yb0.2Co4Sb12-4 wt% AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "AgSbTe2",
+          "ratio_or_percentage": "4 wt%",
+          "doped_site": "interstitial",
+          "site_evidence": "The paper describes these as composites where AgSbTe2 nanoparticles are dispersed on the grain boundaries of the Yb0.2Co4Sb12 matrix."
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.49",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Matrix-6 wt% AgSbTe2",
+      "full_formula": "Yb0.2Co4Sb12-6 wt% AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "AgSbTe2",
+          "ratio_or_percentage": "6 wt%",
+          "doped_site": "interstitial",
+          "site_evidence": "The paper describes these as composites where AgSbTe2 nanoparticles are dispersed on the grain boundaries of the Yb0.2Co4Sb12 matrix."
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.51",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Matrix-8 wt% AgSbTe2",
+      "full_formula": "Yb0.2Co4Sb12-8 wt% AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "AgSbTe2",
+          "ratio_or_percentage": "8 wt%",
+          "doped_site": "interstitial",
+          "site_evidence": "The paper describes these as composites where AgSbTe2 nanoparticles are dispersed on the grain boundaries of the Yb0.2Co4Sb12 matrix."
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.31",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The AgSbTe2 is added as nanoinclusions to the Yb0.2Co4Sb12 matrix. The doping of the matrix by Te is inferred from carrier concentration changes. [figure-pass p1-5] The paper describes nanocomposites of Yb0.2Co4Sb12 with AgSbTe2 inclusions. The AgSbTe2 inclusions act as a source of Te doping into the skutterudite matrix. Seebeck coefficient values at 300 K were extracted from Fig. 6 and the body text. [figure-pass p6-7] The samples are composites of Yb0.2Co4Sb12 matrix with AgSbTe2 nanoparticles. The AgSbTe2 is treated as a secondary phase/nanoinclusion rather than a traditional dopant substituting into the lattice sites of the matrix. ",
+  "status": "ok",
+  "n_pages": 7
+}

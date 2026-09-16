@@ -1,0 +1,29 @@
+{
+  "source_pdf": "PhysRevLett.101.155704.pdf",
+  "doi": "10.1103/PhysRevLett.101.155704",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "Ag0.45Sb0.44Pb0.11Te",
+      "full_formula": "Ag0.45Sb0.44Pb0.11Te",
+      "dopant_or_codopant": [
+        {
+          "element": "Pb",
+          "ratio_or_percentage": "11%",
+          "doped_site": "Sb",
+          "site_evidence": "body text"
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "11%",
+          "doped_site": "Ag",
+          "site_evidence": "body text"
+        }
+      ],
+      "thermoelectric_properties": []
+    }
+  ],
+  "extraction_notes": "[text-pass] The article is a theoretical study using first-principles cluster expansion and Monte Carlo simulations. It discusses the AgSbTe2-PbTe system but does not report experimental thermoelectric property values (Seebeck, conductivity, etc.) for specific samples. The only composition mentioned with specific site occupancy data is Ag0.45Sb0.44Pb0.11Te, which was analyzed in the context of atomic ordering simulations. [figure-pass p1-4] The provided pages contain theoretical first-principles calculations regarding the phase stability, thermodynamics, and phonon spectra of AgSbTe2 and Pb-Ag-Sb-Te alloys. There are no plots or tables showing thermoelectric properties (Seebeck coefficient, electrical conductivity, thermal conductivity, power factor, or ZT) as a function of temperature for any AgSbTe2-family compounds. ",
+  "status": "ok",
+  "n_pages": 4
+}

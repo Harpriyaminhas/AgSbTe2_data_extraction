@@ -1,0 +1,185 @@
+{
+  "source_pdf": "Band convergence strategy to improve thermoelectric performance in Ti-Doped AgSbTe2.pdf",
+  "doi": "10.1088/1402-4896/ad3c74",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "Ag1.05SbTe2",
+      "full_formula": "Ag1.05SbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "245",
+          "unit": "\u03bcV/K",
+          "temperature_value": "473",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "246",
+          "unit": "\u03bcV/K",
+          "temperature_value": "473",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag1.05Sb0.99Ti0.01Te2",
+      "full_formula": "Ag1.05Sb0.99Ti0.01Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ti",
+          "ratio_or_percentage": "0.01",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.28",
+          "unit": "dimensionless",
+          "temperature_value": "523",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.97",
+          "unit": "dimensionless",
+          "temperature_value": "323-548",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "average ZT value"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.48",
+          "unit": "W/mK",
+          "temperature_value": "498",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag1.05Sb0.98Ti0.02Te2",
+      "full_formula": "Ag1.05Sb0.98Ti0.02Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ti",
+          "ratio_or_percentage": "0.02",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "270",
+          "unit": "\u03bcV/K",
+          "temperature_value": "473",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag1.05SbTe2",
+      "full_formula": "Ag1.05SbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.05",
+          "unit": "dimensionless",
+          "temperature_value": "523",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6",
+          "notes": "Visually estimated from Fig. 6"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag1.05Sb0.995Ti0.005Te2",
+      "full_formula": "Ag1.05Sb0.995Ti0.005Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ti",
+          "ratio_or_percentage": "x=0.005",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "Ag1.05Sb0.99Ti0.01Te2",
+      "full_formula": "Ag1.05Sb0.99Ti0.01Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ti",
+          "ratio_or_percentage": "x=0.01",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.28",
+          "unit": "dimensionless",
+          "temperature_value": "523",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "body text",
+          "notes": "Explicitly stated in text"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag1.05Sb0.98Ti0.02Te2",
+      "full_formula": "Ag1.05Sb0.98Ti0.02Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ti",
+          "ratio_or_percentage": "x=0.02",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "Ag1.05Sb0.97Ti0.03Te2",
+      "full_formula": "Ag1.05Sb0.97Ti0.03Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ti",
+          "ratio_or_percentage": "x=0.03",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    }
+  ],
+  "extraction_notes": "[text-pass] The paper reports properties for Ag1.05Sb1-xTixTe2 (x = 0, 0.005, 0.01, 0.02, 0.03). Specific numerical values for properties were extracted from the body text where explicitly stated. Other values were presented in plots (Figure 4 and 6) without explicit numerical tables, so only text-referenced values were included. [figure-pass p1-5] The provided pages contain information about the synthesis and characterization (XRD, SEM, HRTEM) of Ti-doped Ag1.05Sb1-xTixTe2 samples, but they do not contain any plots or tables showing thermoelectric properties (Seebeck coefficient, electrical conductivity, thermal conductivity, power factor, or ZT) as a function of temperature. [figure-pass p6-9] The samples are Ag1.05Sb1-xTixTe2. Doping site is inferred as Sb based on the formula notation Ag1.05Sb1-xTixTe2. ZT values were extracted from Fig 6 and text. ",
+  "status": "ok",
+  "n_pages": 9
+}

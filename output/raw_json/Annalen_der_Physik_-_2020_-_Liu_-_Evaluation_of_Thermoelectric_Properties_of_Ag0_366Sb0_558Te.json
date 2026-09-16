@@ -1,0 +1,229 @@
+{
+  "source_pdf": "Annalen der Physik - 2020 - Liu - Evaluation of Thermoelectric Properties of Ag0 366Sb0 558Te.pdf",
+  "doi": "10.1002/andp.201900561",
+  "base_composition": "Ag0.366SbTe2",
+  "materials": [
+    {
+      "sample_id": "Ag0.366(Sb1-xSnx)0.558Te (x=0)",
+      "full_formula": "Ag0.366Sb0.558Te",
+      "dopant_or_codopant": [
+        {
+          "element": "none",
+          "ratio_or_percentage": "0",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.3",
+          "unit": "dimensionless",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "text",
+          "source_detail": "body text",
+          "notes": "Peak zT value for Sn-doped samples"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.4",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "body text",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.3",
+          "unit": "W m-1 K-1",
+          "temperature_value": "700",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "body text",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag0.366(Sb1-xSnx)0.558Te (x=0.1)",
+      "full_formula": "Ag0.366(Sb0.9Sn0.1)0.558Te",
+      "dopant_or_codopant": [
+        {
+          "element": "Sn",
+          "ratio_or_percentage": "10%",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "Ag0.366(Sb1-xSnx)0.558Te",
+      "full_formula": "Ag0.366(Sb1-xSnx)0.558Te",
+      "dopant_or_codopant": [
+        {
+          "element": "Sn",
+          "ratio_or_percentage": "x=0 to 0.16",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "250",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5a",
+          "notes": "Visually estimated for x=0 at 300K"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "150",
+          "unit": "uV/K",
+          "temperature_value": "700",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5a",
+          "notes": "Visually estimated for x=0 at 700K"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "10",
+          "unit": "mOhm*cm",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5b",
+          "notes": "Visually estimated for x=0 at 300K (resistivity plotted)"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "18",
+          "unit": "mOhm*cm",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5b",
+          "notes": "Visually estimated for x=0 at 500K (resistivity plotted)"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.9",
+          "unit": "W/m-K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6a",
+          "notes": "Visually estimated for x=0 at 300K"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.7",
+          "unit": "W/m-K",
+          "temperature_value": "700",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6a",
+          "notes": "Visually estimated for x=0 at 700K"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.5",
+          "unit": "W/m-K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6a",
+          "notes": "Visually estimated for x=0 at 300K"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.4",
+          "unit": "W/m-K",
+          "temperature_value": "700",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6a",
+          "notes": "Visually estimated for x=0 at 700K"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag0.366(Sb1-xSnx)0.558Te, x=0",
+      "full_formula": "Ag0.366Sb0.558Te",
+      "dopant_or_codopant": [
+        {
+          "element": "Sn",
+          "ratio_or_percentage": "x=0",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.4",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7a",
+          "notes": "Visually estimated from Fig. 7a"
+        },
+        {
+          "property": "ZT",
+          "value": "0.45",
+          "unit": "dimensionless",
+          "temperature_value": "700",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7a",
+          "notes": "Visually estimated from Fig. 7a"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag0.366(Sb1-xSnx)0.558Te, x=0.09",
+      "full_formula": "Ag0.366(Sb0.91Sn0.09)0.558Te",
+      "dopant_or_codopant": [
+        {
+          "element": "Sn",
+          "ratio_or_percentage": "x=0.09",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.25",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7a",
+          "notes": "Visually estimated from Fig. 7a"
+        },
+        {
+          "property": "ZT",
+          "value": "1.25",
+          "unit": "dimensionless",
+          "temperature_value": "650",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7a",
+          "notes": "Visually estimated from Fig. 7a"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The article focuses on Ag0.366Sb0.558Te and its Sn-doped variants. Specific thermoelectric property values (Seebeck, electrical conductivity, etc.) are provided in figures (Fig 5, Fig 6, Fig 7) but the exact numerical data points for each temperature were not provided in a table format, so only the peak ZT and lattice thermal conductivity values explicitly mentioned in the text were extracted. [figure-pass p1-5] Data extracted from Fig 5 and 6. Note that Fig 5b plots resistivity (rho) in mOhm*cm, not electrical conductivity. Lattice thermal conductivity is plotted in the lower panel of Fig 6a. [figure-pass p6-7] The provided images contain a figure (Fig. 7a) showing ZT vs Temperature for Ag0.366(Sb1-xSnx)0.558Te samples with varying x. Data points were visually estimated for the parent compound (x=0) and the sample with the highest ZT (x=0.09). ",
+  "status": "ok",
+  "n_pages": 7
+}

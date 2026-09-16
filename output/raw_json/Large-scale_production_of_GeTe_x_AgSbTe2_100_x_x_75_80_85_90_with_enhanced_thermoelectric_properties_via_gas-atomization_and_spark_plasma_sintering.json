@@ -1,0 +1,294 @@
+{
+  "source_pdf": "Large-scale production of (GeTe)x(AgSbTe2)100\u2212x (x=75, 80, 85, 90) with enhanced thermoelectric properties via gas-atomization and spark plasma sintering.pdf",
+  "doi": "10.1016/j.actamat.2017.01.053",
+  "base_composition": "(GeTe)x(AgSbTe2)100-x",
+  "materials": [
+    {
+      "sample_id": "TAGS-75",
+      "full_formula": "(GeTe)75(AgSbTe2)25",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.93",
+          "unit": "dimensionless",
+          "temperature_value": "623-723",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Section 3.2",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "TAGS-80",
+      "full_formula": "(GeTe)80(AgSbTe2)20",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.48",
+          "unit": "dimensionless",
+          "temperature_value": "623-723",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Section 3.2",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "241",
+          "unit": "uV/K",
+          "temperature_value": "598",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Section 3.2",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "1.22-1.54",
+          "unit": "W/mK",
+          "temperature_value": "323-723",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Section 3.2",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "TAGS-85",
+      "full_formula": "(GeTe)85(AgSbTe2)15",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.86",
+          "unit": "dimensionless",
+          "temperature_value": "623-723",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Section 3.2",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "TAGS-90",
+      "full_formula": "(GeTe)90(AgSbTe2)10",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.56",
+          "unit": "dimensionless",
+          "temperature_value": "623",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Abstract and Section 3.2",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "22.91",
+          "unit": "10^4 U^-1m^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Section 3.2",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "14.68",
+          "unit": "10^4 U^-1m^-1",
+          "temperature_value": "723",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Section 3.2",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "4.176",
+          "unit": "10^-3 Wm^-1K^-2",
+          "temperature_value": "698",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Section 3.2",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "1.58-1.94",
+          "unit": "W/mK",
+          "temperature_value": "323-723",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Section 3.2",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "TAGS-75",
+      "full_formula": "(GeTe)75(AgSbTe2)25",
+      "dopant_or_codopant": [
+        {
+          "element": "Ge",
+          "ratio_or_percentage": "75 mol%",
+          "doped_site": "multiple sites",
+          "site_evidence": "text mentions substitution of Ag, Sb in GeTe"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "18",
+          "unit": "10^4 \u03a9^-1m^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7a",
+          "notes": "visually estimated from figure"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "80",
+          "unit": "\u03bcVK^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7b",
+          "notes": "visually estimated from figure"
+        },
+        {
+          "property": "power factor",
+          "value": "1.2",
+          "unit": "10^-3 Wm^-1K^-2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7c",
+          "notes": "visually estimated from figure"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "2.0",
+          "unit": "Wm^-1K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7d",
+          "notes": "visually estimated from figure"
+        },
+        {
+          "property": "ZT",
+          "value": "0.3",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 8a",
+          "notes": "visually estimated from figure"
+        }
+      ]
+    },
+    {
+      "sample_id": "TAGS-80",
+      "full_formula": "(GeTe)80(AgSbTe2)20",
+      "dopant_or_codopant": [
+        {
+          "element": "Ge",
+          "ratio_or_percentage": "80 mol%",
+          "doped_site": "multiple sites",
+          "site_evidence": "text mentions substitution of Ag, Sb in GeTe"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "22.91",
+          "unit": "10^4 \u03a9^-1m^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "page 50",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "241",
+          "unit": "\u03bcVK^-1",
+          "temperature_value": "598",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "page 51",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.48",
+          "unit": "dimensionless",
+          "temperature_value": "623-723",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "page 51",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "TAGS-85",
+      "full_formula": "(GeTe)85(AgSbTe2)15",
+      "dopant_or_codopant": [
+        {
+          "element": "Ge",
+          "ratio_or_percentage": "85 mol%",
+          "doped_site": "multiple sites",
+          "site_evidence": "text mentions substitution of Ag, Sb in GeTe"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.93",
+          "unit": "dimensionless",
+          "temperature_value": "623-723",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "page 51",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "TAGS-90",
+      "full_formula": "(GeTe)90(AgSbTe2)10",
+      "dopant_or_codopant": [
+        {
+          "element": "Ge",
+          "ratio_or_percentage": "90 mol%",
+          "doped_site": "multiple sites",
+          "site_evidence": "text mentions substitution of Ag, Sb in GeTe"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.56",
+          "unit": "dimensionless",
+          "temperature_value": "623-723",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "page 51",
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The samples are solid solutions of GeTe and AgSbTe2. No specific dopants were added; the composition variation is defined by the x value in (GeTe)x(AgSbTe2)100-x. Thermoelectric properties were extracted from the text in Section 3.2. [figure-pass p1-5] The provided pages contain information about the synthesis, microstructure, and XRD analysis of (GeTe)x(AgSbTe2)100-x (TAGS-x) samples. However, there are no plots or tables showing thermoelectric properties (Seebeck coefficient, electrical conductivity, thermal conductivity, power factor, or ZT) as a function of temperature. [figure-pass p6-10] Values for TAGS-75 were visually estimated from Fig 7 and 8. Specific values for TAGS-80, 85, 90 were extracted from the body text on page 51. [figure-pass p11-11] The provided page contains only the end of a paper, acknowledgements, and a list of references. There are no plots, tables, or data regarding thermoelectric properties of AgSbTe2-family compounds. ",
+  "status": "ok",
+  "n_pages": 11
+}

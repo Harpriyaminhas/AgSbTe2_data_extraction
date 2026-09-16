@@ -1,0 +1,387 @@
+{
+  "source_pdf": "Thermoelectric properties of (GeTe)1-x[(Ag2Te)0.4(Sb2Te3)0.6]x alloys.pdf",
+  "doi": "10.1007/s12598-",
+  "base_composition": "AgSbTe2-family (GeTe-Ag2Te-Sb2Te3 alloys)",
+  "materials": [
+    {
+      "sample_id": "x = 0",
+      "full_formula": "(GeTe)1-x[(Ag2Te)0.4(Sb2Te3)0.6]x where x=0",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "See Fig. 5b",
+          "unit": "uV/K",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "Fig. 5b",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "See Fig. 5a",
+          "unit": "S/cm",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "Fig. 5a",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "See Fig. 5d",
+          "unit": "W/mK",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "Fig. 5d",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "See Fig. 5e",
+          "unit": "W/mK",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "Fig. 5e",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "See Fig. 5c",
+          "unit": "uW/cmK^2",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "Fig. 5c",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "See Fig. 6a",
+          "unit": "dimensionless",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "Fig. 6a",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "x = 0.03",
+      "full_formula": "(GeTe)0.97[(Ag2Te)0.4(Sb2Te3)0.6]0.03",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "See Fig. 5b",
+          "unit": "uV/K",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "Fig. 5b",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "x = 0.10",
+      "full_formula": "(GeTe)0.9[(Ag2Te)0.4(Sb2Te3)0.6]0.1",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.8",
+          "unit": "dimensionless",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "text",
+          "source_detail": "body text",
+          "notes": "Peak zT"
+        }
+      ]
+    },
+    {
+      "sample_id": "x = 0.20",
+      "full_formula": "(GeTe)0.8[(Ag2Te)0.4(Sb2Te3)0.6]0.2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.8",
+          "unit": "dimensionless",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "text",
+          "source_detail": "body text",
+          "notes": "Peak zT"
+        }
+      ]
+    },
+    {
+      "sample_id": "x=0",
+      "full_formula": "GeTe",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "x=0.03",
+      "full_formula": "(GeTe)0.97[(Ag2Te)0.4(Sb2Te3)0.6]0.03",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.03",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "0.03",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "x=0.04",
+      "full_formula": "(GeTe)0.96[(Ag2Te)0.4(Sb2Te3)0.6]0.04",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.04",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "0.04",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "x=0.05",
+      "full_formula": "(GeTe)0.95[(Ag2Te)0.4(Sb2Te3)0.6]0.05",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "x=0.10",
+      "full_formula": "(GeTe)0.90[(Ag2Te)0.4(Sb2Te3)0.6]0.10",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.10",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "0.10",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "x=0.15",
+      "full_formula": "(GeTe)0.85[(Ag2Te)0.4(Sb2Te3)0.6]0.15",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.15",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "0.15",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "x=0.20",
+      "full_formula": "(GeTe)0.80[(Ag2Te)0.4(Sb2Te3)0.6]0.20",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.20",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "0.20",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "x=0.25",
+      "full_formula": "(GeTe)0.75[(Ag2Te)0.4(Sb2Te3)0.6]0.25",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.25",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "0.25",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "(GeTe)1-x[(Ag2Te)0.4(Sb2Te3)0.6]x, x=0.03",
+      "full_formula": "(GeTe)0.97(Ag0.8Sb1.2Te3)0.03",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "x=0.03",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "x=0.03",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.4",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6a",
+          "notes": "Visually estimated from Fig. 6a"
+        },
+        {
+          "property": "ZT",
+          "value": "1.2",
+          "unit": "dimensionless",
+          "temperature_value": "750",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6a",
+          "notes": "Visually estimated from Fig. 6a"
+        }
+      ]
+    },
+    {
+      "sample_id": "(GeTe)1-x[(Ag2Te)0.4(Sb2Te3)0.6]x, x=0.10",
+      "full_formula": "(GeTe)0.9(Ag0.8Sb1.2Te3)0.1",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "x=0.10",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "x=0.10",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.6",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6a",
+          "notes": "Visually estimated from Fig. 6a"
+        },
+        {
+          "property": "ZT",
+          "value": "1.6",
+          "unit": "dimensionless",
+          "temperature_value": "750",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6a",
+          "notes": "Visually estimated from Fig. 6a"
+        }
+      ]
+    },
+    {
+      "sample_id": "(GeTe)1-x[(Ag2Te)0.4(Sb2Te3)0.6]x, x=0.20",
+      "full_formula": "(GeTe)0.8(Ag0.8Sb1.2Te3)0.2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "x=0.20",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "x=0.20",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.8",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6a",
+          "notes": "Visually estimated from Fig. 6a"
+        },
+        {
+          "property": "ZT",
+          "value": "1.8",
+          "unit": "dimensionless",
+          "temperature_value": "750",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6a",
+          "notes": "Visually estimated from Fig. 6a"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The paper investigates (GeTe)1-x[(Ag2Te)0.4(Sb2Te3)0.6]x alloys. Doping is described as alloying with (Ag2Te)0.4(Sb2Te3)0.6, which introduces cation vacancies. Specific dopant sites for Ag/Sb are not explicitly listed as individual dopants but as part of the solid solution alloying. Data points are primarily presented in figures; specific numerical values for properties at specific temperatures are not provided in tables, except for room temperature Hall parameters. [figure-pass p1-5] The paper investigates (GeTe)1-x[(Ag2Te)0.4(Sb2Te3)0.6]x alloys. While the paper mentions temperature-dependent resistivity and Seebeck coefficient are shown in Fig. 5a, b, these figures were not provided in the image set. Only room temperature Hall data is provided in Table 1. No temperature-dependent thermoelectric property plots were available for extraction. [figure-pass p6-10] Data extracted for AgSbTe2-family alloys (TAGS-type) from Figs 5 and 6. Only representative samples (x=0.03, 0.10, 0.20) were extracted from Fig 6a for ZT. Values are visual estimates. ",
+  "status": "ok",
+  "n_pages": 10
+}

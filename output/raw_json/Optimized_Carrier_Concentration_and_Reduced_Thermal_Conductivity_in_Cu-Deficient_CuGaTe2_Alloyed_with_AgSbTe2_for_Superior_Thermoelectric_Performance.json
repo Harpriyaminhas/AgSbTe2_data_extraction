@@ -1,0 +1,642 @@
+{
+  "source_pdf": "Optimized Carrier Concentration and Reduced Thermal Conductivity in Cu-Deficient CuGaTe2 Alloyed with AgSbTe2 for Superior Thermoelectric Performance.pdf",
+  "doi": "10.1021/acsami.6c05111",
+  "base_composition": "Cu0.96GaTe2-AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "Cu0.96GaTe2",
+      "full_formula": "Cu0.96GaTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Cu vacancy",
+          "ratio_or_percentage": "0.04",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "26.85",
+          "unit": "S cm-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "5.57",
+          "unit": "W m-1 K-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "(Cu0.96GaTe2)0.9(AgSbTe2)0.1",
+      "full_formula": "(Cu0.96GaTe2)0.9(AgSbTe2)0.1",
+      "dopant_or_codopant": [
+        {
+          "element": "AgSbTe2",
+          "ratio_or_percentage": "0.1",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.29",
+          "unit": "W m-1 K-1",
+          "temperature_value": "743",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.39",
+          "unit": "dimensionless",
+          "temperature_value": "743",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "(Cu0.96GaTe2)0.89(AgSbTe2)0.11",
+      "full_formula": "(Cu0.96GaTe2)0.89(AgSbTe2)0.11",
+      "dopant_or_codopant": [
+        {
+          "element": "AgSbTe2",
+          "ratio_or_percentage": "0.11",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "65.63",
+          "unit": "S cm-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "3.37",
+          "unit": "W m-1 K-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "(Cu0.96GaTe2)1-x(AgSbTe2)x, x=0",
+      "full_formula": "(Cu0.96GaTe2)1-x(AgSbTe2)x",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "x=0",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "x=0",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "50",
+          "unit": "S/cm",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "100",
+          "unit": "\u00b5V/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5b"
+        },
+        {
+          "property": "power factor",
+          "value": "0.05",
+          "unit": "mW/mK^2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5c"
+        }
+      ]
+    },
+    {
+      "sample_id": "(Cu0.96GaTe2)1-x(AgSbTe2)x, x=0.02",
+      "full_formula": "(Cu0.96GaTe2)0.98(AgSbTe2)0.02",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "x=0.02",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "x=0.02",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "60",
+          "unit": "S/cm",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "120",
+          "unit": "\u00b5V/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5b"
+        },
+        {
+          "property": "power factor",
+          "value": "0.1",
+          "unit": "mW/mK^2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5c"
+        }
+      ]
+    },
+    {
+      "sample_id": "(Cu0.96GaTe2)1-x(AgSbTe2)x, x=0.04",
+      "full_formula": "(Cu0.96GaTe2)0.96(AgSbTe2)0.04",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "x=0.04",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "x=0.04",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "70",
+          "unit": "S/cm",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "130",
+          "unit": "\u00b5V/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5b"
+        },
+        {
+          "property": "power factor",
+          "value": "0.15",
+          "unit": "mW/mK^2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5c"
+        }
+      ]
+    },
+    {
+      "sample_id": "(Cu0.96GaTe2)1-x(AgSbTe2)x, x=0.06",
+      "full_formula": "(Cu0.96GaTe2)0.94(AgSbTe2)0.06",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "x=0.06",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "x=0.06",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "80",
+          "unit": "S/cm",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "140",
+          "unit": "\u00b5V/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5b"
+        },
+        {
+          "property": "power factor",
+          "value": "0.2",
+          "unit": "mW/mK^2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5c"
+        }
+      ]
+    },
+    {
+      "sample_id": "(Cu0.96GaTe2)1-x(AgSbTe2)x, x=0.08",
+      "full_formula": "(Cu0.96GaTe2)0.92(AgSbTe2)0.08",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "x=0.08",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "x=0.08",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "90",
+          "unit": "S/cm",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "150",
+          "unit": "\u00b5V/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5b"
+        },
+        {
+          "property": "power factor",
+          "value": "0.25",
+          "unit": "mW/mK^2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5c"
+        }
+      ]
+    },
+    {
+      "sample_id": "(Cu0.96GaTe2)1-x(AgSbTe2)x, x=0.10",
+      "full_formula": "(Cu0.96GaTe2)0.9(AgSbTe2)0.1",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "x=0.10",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "x=0.10",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "100",
+          "unit": "S/cm",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "160",
+          "unit": "\u00b5V/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5b"
+        },
+        {
+          "property": "power factor",
+          "value": "0.3",
+          "unit": "mW/mK^2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5c"
+        }
+      ]
+    },
+    {
+      "sample_id": "(Cu0.96GaTe2)1-x(AgSbTe2)x, x=0.11",
+      "full_formula": "(Cu0.96GaTe2)0.89(AgSbTe2)0.11",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "x=0.11",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "x=0.11",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "110",
+          "unit": "S/cm",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "170",
+          "unit": "\u00b5V/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5b"
+        },
+        {
+          "property": "power factor",
+          "value": "0.35",
+          "unit": "mW/mK^2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 5c"
+        }
+      ]
+    },
+    {
+      "sample_id": "(Cu0.96GaTe2)0.98(AgSbTe2)0.02",
+      "full_formula": "(Cu0.96GaTe2)0.98(AgSbTe2)0.02",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "x=0.02",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "x=0.02",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.82",
+          "unit": "dimensionless",
+          "temperature_value": "723",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 10a"
+        }
+      ]
+    },
+    {
+      "sample_id": "(Cu0.96GaTe2)0.96(AgSbTe2)0.04",
+      "full_formula": "(Cu0.96GaTe2)0.96(AgSbTe2)0.04",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "x=0.04",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "x=0.04",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.99",
+          "unit": "dimensionless",
+          "temperature_value": "723",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 10a"
+        }
+      ]
+    },
+    {
+      "sample_id": "(Cu0.96GaTe2)0.94(AgSbTe2)0.06",
+      "full_formula": "(Cu0.96GaTe2)0.94(AgSbTe2)0.06",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "x=0.06",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "x=0.06",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.12",
+          "unit": "dimensionless",
+          "temperature_value": "723",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 10a"
+        }
+      ]
+    },
+    {
+      "sample_id": "(Cu0.96GaTe2)0.92(AgSbTe2)0.08",
+      "full_formula": "(Cu0.96GaTe2)0.92(AgSbTe2)0.08",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "x=0.08",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "x=0.08",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.18",
+          "unit": "dimensionless",
+          "temperature_value": "723",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 10a"
+        }
+      ]
+    },
+    {
+      "sample_id": "(Cu0.96GaTe2)0.90(AgSbTe2)0.10",
+      "full_formula": "(Cu0.96GaTe2)0.90(AgSbTe2)0.10",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "x=0.10",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "x=0.10",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.39",
+          "unit": "dimensionless",
+          "temperature_value": "743",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 10a"
+        }
+      ]
+    },
+    {
+      "sample_id": "(Cu0.96GaTe2)0.89(AgSbTe2)0.11",
+      "full_formula": "(Cu0.96GaTe2)0.89(AgSbTe2)0.11",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "x=0.11",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "x=0.11",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.26",
+          "unit": "dimensionless",
+          "temperature_value": "723",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 10a"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The paper focuses on CuGaTe2 alloyed with AgSbTe2. The samples are described as (Cu0.96GaTe2)1-x(AgSbTe2)x. Doping sites for AgSbTe2 are considered 'multiple sites' as it involves alloying the matrix. Electrical and thermal properties were extracted from the body text. [figure-pass p1-5] The paper investigates Cu-deficient CuGaTe2 alloyed with AgSbTe2. Thermoelectric properties (electrical conductivity, Seebeck coefficient, power factor) are plotted as a function of temperature in Figure 5. Values were visually estimated from these plots at 300 K. [figure-pass p6-10] The samples are alloys of Cu0.96GaTe2 and AgSbTe2. The dopant/codopant elements Ag and Sb are introduced via the AgSbTe2 alloy component. ZT values were visually estimated from Figure 10a. [figure-pass p11-11] The provided page contains only a list of references and no thermoelectric property plots or data tables for AgSbTe2-family compounds. ",
+  "status": "ok",
+  "n_pages": 11
+}

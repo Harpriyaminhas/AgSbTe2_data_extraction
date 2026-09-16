@@ -1,0 +1,93 @@
+{
+  "source_pdf": "Adv Funct Materials - 2026 - Abdellaoui - Stacking Fault Complexions in AgSbTe2 Thermoelectrics With Enhanced Electrical.pdf",
+  "doi": "10.1002/adfm.77083",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "Ag16.7Sb30Te53.3",
+      "full_formula": "Ag16.7Sb30Te53.3",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "depleted",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "enriched",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        },
+        {
+          "element": "Te",
+          "ratio_or_percentage": "enriched",
+          "doped_site": "Te",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "105.1",
+          "unit": "S/cm",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Measured across LAGBs (containing stacking faults)"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "87.2",
+          "unit": "S/cm",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Measured in grain interior"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "88.4",
+          "unit": "S/cm",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Bulk electrical conductivity measured by Van der Pauw"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag16.7Sb30Te53.3",
+      "full_formula": "Ag16.7Sb30Te53.3",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "88.4",
+          "unit": "S/cm",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "text",
+          "source_detail": "body text",
+          "notes": "Bulk electrical conductivity measured by Van der Pauw method."
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "105.1",
+          "unit": "S/cm",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "Figure 4d",
+          "notes": "Visually estimated/reported value for electrical conductivity across the stacking faults (SFs)."
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The paper reports on AgSbTe2 with stacking faults (SFs) acting as complexions. The composition Ag16.7Sb30Te53.3 is the nominal synthesis composition. Electrical conductivity values are reported for grain interiors and across LAGBs (containing SFs) at room temperature. [figure-pass p1-5] The provided document discusses the atomic structure, chemical composition, and phonon scattering mechanisms of stacking faults in AgSbTe2. While it mentions thermoelectric properties in the introduction and abstract, it does not contain any plots or tables showing Seebeck coefficient, electrical conductivity, thermal conductivity, lattice thermal conductivity, power factor, or ZT as a function of temperature for any specific samples. [figure-pass p6-10] The provided pages discuss the effect of stacking faults on the electrical conductivity of AgSbTe2. No temperature-dependent thermoelectric property plots were found. The electrical conductivity values provided are room-temperature measurements. ",
+  "status": "ok",
+  "n_pages": 10
+}

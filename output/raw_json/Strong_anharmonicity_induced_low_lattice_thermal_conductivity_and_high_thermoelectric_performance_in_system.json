@@ -1,0 +1,662 @@
+{
+  "source_pdf": "Strong anharmonicity induced low lattice thermal conductivity and high thermoelectric performance in system.pdf",
+  "doi": "10.1063/5.0095121",
+  "base_composition": "(Cu1-yInTe2)0.95(AgSbTe2)0.05",
+  "materials": [
+    {
+      "sample_id": "(CuInTe2)0.95(AgSbTe2)0.05",
+      "full_formula": "(CuInTe2)0.95(AgSbTe2)0.05",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "multiple sites",
+          "site_evidence": "XRD results indicate Ag and Sb atoms entered the lattice"
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "multiple sites",
+          "site_evidence": "XRD results indicate Ag and Sb atoms entered the lattice"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.62",
+          "unit": "W m-1 K-1",
+          "temperature_value": "823",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.3",
+          "unit": "dimensionless",
+          "temperature_value": "823",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "(Cu0.95InTe2)0.95(AgSbTe2)0.05",
+      "full_formula": "(Cu0.95InTe2)0.95(AgSbTe2)0.05",
+      "dopant_or_codopant": [
+        {
+          "element": "Cu vacancy",
+          "ratio_or_percentage": "y=0.05",
+          "doped_site": "Ag",
+          "site_evidence": "intentionally created copper vacancies"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "1.0 * 10^4",
+          "unit": "S m-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "1.24",
+          "unit": "mW m-1 K-2",
+          "temperature_value": "723",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.47",
+          "unit": "W m-1 K-1",
+          "temperature_value": "823",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.3",
+          "unit": "dimensionless",
+          "temperature_value": "823",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "(CuInTe2)0.99(AgSbTe2)0.01",
+      "full_formula": "(CuInTe2)0.99(AgSbTe2)0.01",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.01",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "0.01",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "approx 2.5",
+          "unit": "10^3 S m^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 1(a)"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "approx 380",
+          "unit": "uV K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 1(b)"
+        },
+        {
+          "property": "power factor",
+          "value": "approx 0.15",
+          "unit": "mW m^-1 K^-2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 1(c)"
+        },
+        {
+          "property": "total thermal conductivity",
+          "value": "approx 4.5",
+          "unit": "W m^-1 K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 2(a)"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "approx 4.5",
+          "unit": "W m^-1 K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 2(b)"
+        },
+        {
+          "property": "ZT",
+          "value": "approx 0.1",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 2(d)"
+        }
+      ]
+    },
+    {
+      "sample_id": "(CuInTe2)0.97(AgSbTe2)0.03",
+      "full_formula": "(CuInTe2)0.97(AgSbTe2)0.03",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.03",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "0.03",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "approx 3.5",
+          "unit": "10^3 S m^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 1(a)"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "approx 320",
+          "unit": "uV K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 1(b)"
+        },
+        {
+          "property": "power factor",
+          "value": "approx 0.2",
+          "unit": "mW m^-1 K^-2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 1(c)"
+        },
+        {
+          "property": "total thermal conductivity",
+          "value": "approx 4.0",
+          "unit": "W m^-1 K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 2(a)"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "approx 4.0",
+          "unit": "W m^-1 K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 2(b)"
+        },
+        {
+          "property": "ZT",
+          "value": "approx 0.1",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 2(d)"
+        }
+      ]
+    },
+    {
+      "sample_id": "(CuInTe2)0.95(AgSbTe2)0.05",
+      "full_formula": "(CuInTe2)0.95(AgSbTe2)0.05",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "approx 4.5",
+          "unit": "10^3 S m^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 1(a)"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "approx 280",
+          "unit": "uV K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 1(b)"
+        },
+        {
+          "property": "power factor",
+          "value": "approx 0.25",
+          "unit": "mW m^-1 K^-2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 1(c)"
+        },
+        {
+          "property": "total thermal conductivity",
+          "value": "approx 3.5",
+          "unit": "W m^-1 K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 2(a)"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "approx 3.5",
+          "unit": "W m^-1 K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 2(b)"
+        },
+        {
+          "property": "ZT",
+          "value": "approx 0.1",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 2(d)"
+        }
+      ]
+    },
+    {
+      "sample_id": "(CuInTe2)0.93(AgSbTe2)0.07",
+      "full_formula": "(CuInTe2)0.93(AgSbTe2)0.07",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.07",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "0.07",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "approx 5.5",
+          "unit": "10^3 S m^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 1(a)"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "approx 240",
+          "unit": "uV K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 1(b)"
+        },
+        {
+          "property": "power factor",
+          "value": "approx 0.25",
+          "unit": "mW m^-1 K^-2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 1(c)"
+        },
+        {
+          "property": "total thermal conductivity",
+          "value": "approx 3.2",
+          "unit": "W m^-1 K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 2(a)"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "approx 3.2",
+          "unit": "W m^-1 K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 2(b)"
+        },
+        {
+          "property": "ZT",
+          "value": "approx 0.1",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 2(d)"
+        }
+      ]
+    },
+    {
+      "sample_id": "y=0",
+      "full_formula": "(Cu1-yInTe2)0.95(AgSbTe2)0.05, y=0",
+      "dopant_or_codopant": [
+        {
+          "element": "AgSbTe2",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "1.32",
+          "unit": "10^3 S m^-1",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table II",
+          "notes": "Room temperature value"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "218",
+          "unit": "uV K^-1",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table II",
+          "notes": "Room temperature value"
+        }
+      ]
+    },
+    {
+      "sample_id": "y=0.01",
+      "full_formula": "(Cu1-yInTe2)0.95(AgSbTe2)0.05, y=0.01",
+      "dopant_or_codopant": [
+        {
+          "element": "AgSbTe2",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "0.93",
+          "unit": "10^3 S m^-1",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table II",
+          "notes": "Room temperature value"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "262",
+          "unit": "uV K^-1",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table II",
+          "notes": "Room temperature value"
+        }
+      ]
+    },
+    {
+      "sample_id": "y=0.02",
+      "full_formula": "(Cu1-yInTe2)0.95(AgSbTe2)0.05, y=0.02",
+      "dopant_or_codopant": [
+        {
+          "element": "AgSbTe2",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "0.52",
+          "unit": "10^3 S m^-1",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table II",
+          "notes": "Room temperature value"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "317",
+          "unit": "uV K^-1",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table II",
+          "notes": "Room temperature value"
+        }
+      ]
+    },
+    {
+      "sample_id": "y=0.03",
+      "full_formula": "(Cu1-yInTe2)0.95(AgSbTe2)0.05, y=0.03",
+      "dopant_or_codopant": [
+        {
+          "element": "AgSbTe2",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "0.53",
+          "unit": "10^3 S m^-1",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table II",
+          "notes": "Room temperature value"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "297",
+          "unit": "uV K^-1",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table II",
+          "notes": "Room temperature value"
+        }
+      ]
+    },
+    {
+      "sample_id": "y=0.04",
+      "full_formula": "(Cu1-yInTe2)0.95(AgSbTe2)0.05, y=0.04",
+      "dopant_or_codopant": [
+        {
+          "element": "AgSbTe2",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "4.41",
+          "unit": "10^3 S m^-1",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table II",
+          "notes": "Room temperature value"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "279",
+          "unit": "uV K^-1",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table II",
+          "notes": "Room temperature value"
+        }
+      ]
+    },
+    {
+      "sample_id": "y=0.05",
+      "full_formula": "(Cu1-yInTe2)0.95(AgSbTe2)0.05, y=0.05",
+      "dopant_or_codopant": [
+        {
+          "element": "AgSbTe2",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "10.29",
+          "unit": "10^3 S m^-1",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table II",
+          "notes": "Room temperature value"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "236",
+          "unit": "uV K^-1",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table II",
+          "notes": "Room temperature value"
+        }
+      ]
+    },
+    {
+      "sample_id": "y=0.06",
+      "full_formula": "(Cu1-yInTe2)0.95(AgSbTe2)0.05, y=0.06",
+      "dopant_or_codopant": [
+        {
+          "element": "AgSbTe2",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "8.43",
+          "unit": "10^3 S m^-1",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table II",
+          "notes": "Room temperature value"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "241",
+          "unit": "uV K^-1",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table II",
+          "notes": "Room temperature value"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The paper investigates (CuInTe2)1-x(AgSbTe2)x and (Cu1-yInTe2)0.95(AgSbTe2)0.05. Data extracted for key samples mentioned in the text. Table I provides lattice thermal conductivity values for various x at 300K and 823K. [figure-pass p1-5] Data extracted from figures 1 and 2 for the (CuInTe2)1-x(AgSbTe2)x system. Values at 300K were visually estimated from the plots. [figure-pass p6-8] The paper investigates (Cu1-yInTe2)0.95(AgSbTe2)0.05 alloys. Thermoelectric properties are provided in Table II and Figures 3 and 4. Only room temperature values from Table II are explicitly extracted here for clarity. ",
+  "status": "ok",
+  "n_pages": 8
+}

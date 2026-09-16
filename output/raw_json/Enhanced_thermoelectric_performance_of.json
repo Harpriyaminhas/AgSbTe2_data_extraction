@@ -1,0 +1,144 @@
+{
+  "source_pdf": "Enhanced thermoelectric performance of.pdf",
+  "doi": "10.1063/1.3106102",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "HPHT synthesized AgSbTe2",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "thermal conductivity",
+          "value": "0.76",
+          "unit": "W/mK",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 4, Section III",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.48",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 4, Section III",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.07",
+          "unit": "dimensionless",
+          "temperature_value": "513",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 4, Section III",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbTe2 synthesized by HPHT",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "155",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3",
+          "notes": "Visually estimated from Fig. 3"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "215",
+          "unit": "uV/K",
+          "temperature_value": "513",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3",
+          "notes": "Visually estimated from Fig. 3"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "34000",
+          "unit": "ohm^-1 m^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3",
+          "notes": "Visually estimated from Fig. 3"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "44000",
+          "unit": "ohm^-1 m^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 3",
+          "notes": "Visually estimated from Fig. 3"
+        },
+        {
+          "property": "power factor",
+          "value": "0.0008",
+          "unit": "W/mK^2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4",
+          "notes": "Visually estimated from Fig. 4"
+        },
+        {
+          "property": "power factor",
+          "value": "0.00155",
+          "unit": "W/mK^2",
+          "temperature_value": "513",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4",
+          "notes": "Visually estimated from Fig. 4"
+        },
+        {
+          "property": "ZT",
+          "value": "0.35",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6",
+          "notes": "Visually estimated from Fig. 6"
+        },
+        {
+          "property": "ZT",
+          "value": "1.07",
+          "unit": "dimensionless",
+          "temperature_value": "513",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6",
+          "notes": "Visually estimated from Fig. 6"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.76",
+          "unit": "W/mK",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "body text",
+          "notes": "Explicitly stated in text"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The paper reports on the synthesis of AgSbTe2 using a high pressure and high temperature (HPHT) method. No intentional chemical doping was performed; the study focuses on the effect of the synthesis method on the properties of the stoichiometric compound. [figure-pass p1-5] The AgSbTe2 sample was synthesized by HPHT. No dopants were added; it is the parent compound. Thermoelectric properties were extracted from the provided figures and text. ",
+  "status": "ok",
+  "n_pages": 5
+}

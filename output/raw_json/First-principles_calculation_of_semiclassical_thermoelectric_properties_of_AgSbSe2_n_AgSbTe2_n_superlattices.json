@@ -1,0 +1,113 @@
+{
+  "source_pdf": "First-principles calculation of semiclassical thermoelectric properties of (AgSbSe2)n(AgSbTe2)n superlattices.pdf",
+  "doi": "10.1016/j.jallcom.2015.07.290",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "bulk AgSbTe2",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "hole",
+          "ratio_or_percentage": "70 * 10^19 cm^-3",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "1.3",
+          "unit": "ZT",
+          "temperature_value": "720",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Section 1, citing Ref [4]",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "bulk AgSbSe2",
+      "full_formula": "AgSbSe2",
+      "dopant_or_codopant": [
+        {
+          "element": "hole",
+          "ratio_or_percentage": "2 * 10^19 cm^-3",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "AgSbTe2_bulk",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "hole",
+          "ratio_or_percentage": "2 x 10^19 cm^-3",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "hole",
+          "ratio_or_percentage": "70 x 10^19 cm^-3",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "hole",
+          "ratio_or_percentage": "1 x 10^19 cm^-3",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "100",
+          "unit": "uV/K",
+          "temperature_value": "400",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 2",
+          "notes": "Visually estimated from Fig. 2, AgSbTe2 PBE+sc plot, 10x10^19 cm^-3 doping curve"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "150",
+          "unit": "uV/K",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 2",
+          "notes": "Visually estimated from Fig. 2, AgSbTe2 PBE+sc plot, 10x10^19 cm^-3 doping curve"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "1.2",
+          "unit": "10^19 /Ohmms",
+          "temperature_value": "400",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 2",
+          "notes": "Visually estimated from Fig. 2, AgSbTe2 PBE+sc plot, 10x10^19 cm^-3 doping curve"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "2.4",
+          "unit": "10^19 /Ohmms",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 2",
+          "notes": "Visually estimated from Fig. 2, AgSbTe2 PBE+sc plot, 10x10^19 cm^-3 doping curve"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The article is a theoretical study using first-principles calculations. No experimental thermoelectric property tables or plots with specific numerical values were provided in the text; the plots (Fig 2, 4, 5) show trends but do not provide readable numerical data points. The only explicit numerical thermoelectric value provided is for the ZT of bulk AgSbTe2 from a cited reference. [figure-pass p1-5] The paper focuses on first-principles calculations of thermoelectric properties for AgSbTe2 and AgSbSe2 bulk and superlattices. Doping is represented as hole concentration (cm^-3). Data extracted from Fig. 2 for AgSbTe2. [figure-pass p6-6] The provided page contains theoretical discussion and conclusions regarding AgSbTe2-based superlattices but does not contain any plots or tables showing thermoelectric properties as a function of temperature for specific samples. ",
+  "status": "ok",
+  "n_pages": 6
+}

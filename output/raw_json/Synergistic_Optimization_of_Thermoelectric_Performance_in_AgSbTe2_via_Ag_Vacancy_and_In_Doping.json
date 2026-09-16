@@ -1,0 +1,416 @@
+{
+  "source_pdf": "Synergistic Optimization of Thermoelectric Performance in AgSbTe2 via Ag Vacancy and In Doping.pdf",
+  "doi": "10.1021/acsaem.6c00054",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "Ag0.97SbTe2",
+      "full_formula": "Ag0.97SbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag vacancy",
+          "ratio_or_percentage": "x = 0.03",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "304.38",
+          "unit": "S cm-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Section 3.2",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "150.68",
+          "unit": "\u03bcV K-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Section 3.2",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "0.99",
+          "unit": "mW m-1 K-2",
+          "temperature_value": "573",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Section 3.2",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.46",
+          "unit": "W m-1 K-1",
+          "temperature_value": "573",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Section 3.2",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.81",
+          "unit": "dimensionless",
+          "temperature_value": "573",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Section 3.2",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag0.97Sb0.96In0.04Te2",
+      "full_formula": "Ag0.97Sb0.96In0.04Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag vacancy",
+          "ratio_or_percentage": "x = 0.03",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        },
+        {
+          "element": "In",
+          "ratio_or_percentage": "y = 0.04",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "185",
+          "unit": "\u03bcV K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "1.14",
+          "unit": "mW m-1 K-2",
+          "temperature_value": "573",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Section 3.4",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.38",
+          "unit": "W m-1 K-1",
+          "temperature_value": "573",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Section 3.4",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.12",
+          "unit": "dimensionless",
+          "temperature_value": "573",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Abstract",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag1-xSbTe2 (x=0.00)",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag vacancy",
+          "ratio_or_percentage": "x=0.00",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.35",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Figure on page 1",
+          "notes": "Visually estimated from Figure on page 1"
+        },
+        {
+          "property": "ZT",
+          "value": "0.75",
+          "unit": "dimensionless",
+          "temperature_value": "573",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Figure on page 1",
+          "notes": "Visually estimated from Figure on page 1"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag0.97SbTe2",
+      "full_formula": "Ag0.97SbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag vacancy",
+          "ratio_or_percentage": "x=0.03",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.45",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Figure on page 1",
+          "notes": "Visually estimated from Figure on page 1"
+        },
+        {
+          "property": "ZT",
+          "value": "0.81",
+          "unit": "dimensionless",
+          "temperature_value": "573",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Figure on page 1",
+          "notes": "Visually estimated from Figure on page 1"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag0.97Sb0.96In0.04Te2",
+      "full_formula": "Ag0.97Sb0.96In0.04Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag vacancy",
+          "ratio_or_percentage": "x=0.03",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        },
+        {
+          "element": "In",
+          "ratio_or_percentage": "y=0.04",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.52",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Figure on page 1",
+          "notes": "Visually estimated from Figure on page 1"
+        },
+        {
+          "property": "ZT",
+          "value": "1.12",
+          "unit": "dimensionless",
+          "temperature_value": "573",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Figure on page 1",
+          "notes": "Visually estimated from Figure on page 1"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag0.97Sb1-yInyTe2 (y=0.00)",
+      "full_formula": "Ag0.97SbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.03 deficiency",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.81",
+          "unit": "dimensionless",
+          "temperature_value": "573",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 11b",
+          "notes": "Visually estimated from Fig. 11b"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag0.97Sb1-yInyTe2 (y=0.01)",
+      "full_formula": "Ag0.97Sb0.99In0.01Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.03 deficiency",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        },
+        {
+          "element": "In",
+          "ratio_or_percentage": "0.01",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.95",
+          "unit": "dimensionless",
+          "temperature_value": "573",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 11a",
+          "notes": "Visually estimated from Fig. 11a"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag0.97Sb1-yInyTe2 (y=0.02)",
+      "full_formula": "Ag0.97Sb0.98In0.02Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.03 deficiency",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        },
+        {
+          "element": "In",
+          "ratio_or_percentage": "0.02",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.02",
+          "unit": "dimensionless",
+          "temperature_value": "573",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 11a",
+          "notes": "Visually estimated from Fig. 11a"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag0.97Sb1-yInyTe2 (y=0.03)",
+      "full_formula": "Ag0.97Sb0.97In0.03Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.03 deficiency",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        },
+        {
+          "element": "In",
+          "ratio_or_percentage": "0.03",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.08",
+          "unit": "dimensionless",
+          "temperature_value": "573",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 11a",
+          "notes": "Visually estimated from Fig. 11a"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag0.97Sb1-yInyTe2 (y=0.04)",
+      "full_formula": "Ag0.97Sb0.96In0.04Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.03 deficiency",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        },
+        {
+          "element": "In",
+          "ratio_or_percentage": "0.04",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.12",
+          "unit": "dimensionless",
+          "temperature_value": "573",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 11a",
+          "notes": "Visually estimated from Fig. 11a"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag0.97Sb1-yInyTe2 (y=0.05)",
+      "full_formula": "Ag0.97Sb0.95In0.05Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.03 deficiency",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        },
+        {
+          "element": "In",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.05",
+          "unit": "dimensionless",
+          "temperature_value": "573",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 11a",
+          "notes": "Visually estimated from Fig. 11a"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] Data extracted from the article text and Table 1. Ag vacancies were introduced by varying x in Ag1-xSbTe2, and In doping was introduced by varying y in Ag0.97Sb1-yInyTe2. [figure-pass p1-5] Data for ZT vs T was extracted from the figure on the first page. Other properties were available in plots but ZT was prioritized as the primary metric. Doping sites for Ag vacancy and In were identified based on the text description of the synergistic strategy. ",
+  "status": "ok",
+  "n_pages": 10
+}

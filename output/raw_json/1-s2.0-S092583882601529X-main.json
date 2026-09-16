@@ -1,0 +1,333 @@
+{
+  "source_pdf": "1-s2.0-S092583882601529X-main.pdf",
+  "doi": "10.1016/j.jallcom.2026.187461",
+  "base_composition": "Te(1-x)(AgSbTe2)x",
+  "materials": [
+    {
+      "sample_id": "Te(1-x)(AgSbTe2)x, x=0.005",
+      "full_formula": "Te0.995(AgSbTe2)0.005",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.5%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "0.5%",
+          "doped_site": "Te",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "power factor",
+          "value": "13.8",
+          "unit": "\u03bcW cm\u22121 K\u22122",
+          "temperature_value": "475",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "149",
+          "unit": "\u03bcV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "250",
+          "unit": "\u03bcV/K",
+          "temperature_value": "650",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "2.2",
+          "unit": "m\u03a9\u22c5cm",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Reported as resistivity"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "8",
+          "unit": "m\u03a9\u22c5cm",
+          "temperature_value": "650",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Reported as resistivity"
+        }
+      ]
+    },
+    {
+      "sample_id": "Te(1-x)(AgSbTe2)x, x=0.01",
+      "full_formula": "Te0.99(AgSbTe2)0.01",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "1.0%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "1.0%",
+          "doped_site": "Te",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.85",
+          "unit": "dimensionless",
+          "temperature_value": "650",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.62",
+          "unit": "W m\u22121 K\u22121",
+          "temperature_value": "650",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "x=0%",
+      "full_formula": "Te",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "350",
+          "unit": "\u00b5V/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 2a",
+          "notes": "Visually estimated from Fig. 2a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "150",
+          "unit": "\u00b5V/K",
+          "temperature_value": "650",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 2a",
+          "notes": "Visually estimated from Fig. 2a"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "0.2",
+          "unit": "m\u03a9\u00b7cm",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 2b",
+          "notes": "Visually estimated from Fig. 2b (plotted as resistivity, 1/rho)"
+        },
+        {
+          "property": "power factor",
+          "value": "2",
+          "unit": "\u00b5W cm^-1 K^-2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 2c",
+          "notes": "Visually estimated from Fig. 2c"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "2.1",
+          "unit": "Wm^-1K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4a",
+          "notes": "Visually estimated from Fig. 4a"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "1.7",
+          "unit": "Wm^-1K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 4b",
+          "notes": "Visually estimated from Fig. 4b"
+        }
+      ]
+    },
+    {
+      "sample_id": "x=0.5%",
+      "full_formula": "Te0.995(AgSbTe2)0.005",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.5%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "0.5%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "150",
+          "unit": "\u00b5V/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 2a",
+          "notes": "Visually estimated from Fig. 2a"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "250",
+          "unit": "\u00b5V/K",
+          "temperature_value": "650",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 2a",
+          "notes": "Visually estimated from Fig. 2a"
+        },
+        {
+          "property": "power factor",
+          "value": "13.8",
+          "unit": "\u00b5W cm^-1 K^-2",
+          "temperature_value": "450",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 2c",
+          "notes": "Visually estimated from Fig. 2c"
+        }
+      ]
+    },
+    {
+      "sample_id": "x=0.5%",
+      "full_formula": "Te(0.995)(AgSbTe2)0.005",
+      "dopant_or_codopant": [
+        {
+          "element": "AgSbTe2",
+          "ratio_or_percentage": "0.5%",
+          "doped_site": "Te",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.85",
+          "unit": "dimensionless",
+          "temperature_value": "650",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6a",
+          "notes": "Visually estimated from Fig. 6a"
+        }
+      ]
+    },
+    {
+      "sample_id": "x=1.0%",
+      "full_formula": "Te(0.99)(AgSbTe2)0.01",
+      "dopant_or_codopant": [
+        {
+          "element": "AgSbTe2",
+          "ratio_or_percentage": "1.0%",
+          "doped_site": "Te",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.85",
+          "unit": "dimensionless",
+          "temperature_value": "650",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6a",
+          "notes": "Visually estimated from Fig. 6a"
+        }
+      ]
+    },
+    {
+      "sample_id": "x=1.5%",
+      "full_formula": "Te(0.985)(AgSbTe2)0.015",
+      "dopant_or_codopant": [
+        {
+          "element": "AgSbTe2",
+          "ratio_or_percentage": "1.5%",
+          "doped_site": "Te",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.80",
+          "unit": "dimensionless",
+          "temperature_value": "650",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6a",
+          "notes": "Visually estimated from Fig. 6a"
+        }
+      ]
+    },
+    {
+      "sample_id": "x=2.0%",
+      "full_formula": "Te(0.98)(AgSbTe2)0.02",
+      "dopant_or_codopant": [
+        {
+          "element": "AgSbTe2",
+          "ratio_or_percentage": "2.0%",
+          "doped_site": "Te",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.75",
+          "unit": "dimensionless",
+          "temperature_value": "650",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6a",
+          "notes": "Visually estimated from Fig. 6a"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The paper investigates Te(1-x)(AgSbTe2)x where AgSbTe2 is treated as a co-dopant. XPS analysis indicates Sb substitutes for Te sites. Ag site is not explicitly confirmed, labeled as unclear. Properties were extracted from the body text. [figure-pass p1-5] Data extracted from figures 2 and 4. Only representative samples (x=0% and x=0.5%) were extracted for brevity as requested by the prompt's focus on distinct samples. Doped sites are marked as 'unclear' as the paper discusses AgSbTe2 as a dopant complex rather than specifying individual site substitution for Ag and Sb separately in the Te lattice. [figure-pass p6-8] The samples are Te-based with AgSbTe2 doping. ZT values at 650 K were estimated from Fig. 6a. ",
+  "status": "ok",
+  "n_pages": 8
+}

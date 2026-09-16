@@ -1,0 +1,174 @@
+{
+  "source_pdf": "Entropy engineering enhances the thermoelectric performance and microhardness of (GeTe)1\u2212x(AgSb0.5Bi0.5Te2)x.pdf",
+  "doi": "10.1007/s40843-022-2211-8",
+  "base_composition": "GeTe-AgSbTe2-AgBiTe2 system",
+  "materials": [
+    {
+      "sample_id": "(GeTe)0.80(AgSb0.5Bi0.5Te2)0.20",
+      "full_formula": "(GeTe)0.80(AgSb0.5Bi0.5Te2)0.20",
+      "dopant_or_codopant": [
+        {
+          "element": "Bi",
+          "ratio_or_percentage": "50% of Sb",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.60",
+          "unit": "dimensionless",
+          "temperature_value": "723",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Maximum zT"
+        },
+        {
+          "property": "ZT",
+          "value": "1.23",
+          "unit": "dimensionless",
+          "temperature_value": "300-773",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Average zTave"
+        }
+      ]
+    },
+    {
+      "sample_id": "(GeTe)0.70(AgSb0.5Bi0.5Te2)0.30",
+      "full_formula": "(GeTe)0.70(AgSb0.5Bi0.5Te2)0.30",
+      "dopant_or_codopant": [
+        {
+          "element": "Bi",
+          "ratio_or_percentage": "50% of Sb",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "27.4",
+          "unit": "10^3 S m^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "245.6",
+          "unit": "\u03bcV K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.72",
+          "unit": "W m^-1 K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.82",
+          "unit": "W m^-1 K^-1",
+          "temperature_value": "573",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "(GeTe)0.80(AgSb0.5Bi0.5Te2)0.20",
+      "full_formula": "(GeTe)0.80(AgSb0.5Bi0.5Te2)0.20",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.10",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        },
+        {
+          "element": "Bi",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.60",
+          "unit": "dimensionless",
+          "temperature_value": "723",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 8a",
+          "notes": "Visually estimated from Fig. 8a"
+        }
+      ]
+    },
+    {
+      "sample_id": "(GeTe)0.80(AgSb0.5Bi0.5Te2)0.20",
+      "full_formula": "(GeTe)0.80(AgSb0.5Bi0.5Te2)0.20",
+      "dopant_or_codopant": [
+        {
+          "element": "Ge",
+          "ratio_or_percentage": "0.80",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        },
+        {
+          "element": "Bi",
+          "ratio_or_percentage": "0.5",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.60",
+          "unit": "dimensionless",
+          "temperature_value": "723",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.23",
+          "unit": "dimensionless",
+          "temperature_value": "300-773",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Average ZT value"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The article focuses on (GeTe)1-x(AgSb0.5Bi0.5Te2)x alloys. Data for specific samples were extracted from the body text. Other samples (x=0.10, 0.15, 0.25, 0.35, 0.40) were mentioned as prepared but specific thermoelectric values were not explicitly listed in the text for all of them. [figure-pass p1-5] The provided pages discuss the (GeTe)1-x(AgSb0.5Bi0.5Te2)x system (TABGS alloys). While this system incorporates AgSbTe2-family components, the thermoelectric property-vs-temperature plots (Seebeck, electrical conductivity, thermal conductivity, power factor, ZT) are not present in the provided images. The figures provided (Fig 1, 2, 3, 4) focus on crystal structure, configurational entropy, XRD, lattice constants, phase transition temperatures, and carrier transport properties (carrier concentration, mobility, mean free path) at room temperature or as a function of composition x, rather than as a function of temperature for specific thermoelectric properties. [figure-pass p6-10] The paper focuses on GeTe-based alloys doped with AgSbTe2 and AgBiTe2. The specific sample (GeTe)0.80(AgSb0.5Bi0.5Te2)0.20 is the primary focus. Data points were extracted from the provided figures. [figure-pass p11-11] The provided page contains text describing the thermoelectric properties of (GeTe)0.80(AgSb0.5Bi0.5Te2)0.20, but does not contain any plots or graphs of thermoelectric properties versus temperature. ",
+  "status": "ok",
+  "n_pages": 11
+}

@@ -1,0 +1,316 @@
+{
+  "source_pdf": "Electron transport properties of La-doped AgSbTe2 thermoelectric compounds.pdf",
+  "doi": "10.1007/s13391-011-0914-0",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "x=0",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "85.72",
+          "unit": "\u00b5V/K",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "Table 2",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "22.6",
+          "unit": "\u00b5\u2126m",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "Table 2",
+          "source_detail": "",
+          "notes": "Reported as electrical resistivity"
+        }
+      ]
+    },
+    {
+      "sample_id": "x=0.01",
+      "full_formula": "Ag(Sb0.99La0.01)Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "La",
+          "ratio_or_percentage": "0.01",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "227.57",
+          "unit": "\u00b5V/K",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "Table 2",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "51.64",
+          "unit": "\u00b5\u2126m",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "Table 2",
+          "source_detail": "",
+          "notes": "Reported as electrical resistivity"
+        }
+      ]
+    },
+    {
+      "sample_id": "x=0.02",
+      "full_formula": "Ag(Sb0.98La0.02)Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "La",
+          "ratio_or_percentage": "0.02",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "358",
+          "unit": "\u00b5V/K",
+          "temperature_value": "150",
+          "temperature_unit": "\u00b0C",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "278.77",
+          "unit": "\u00b5V/K",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "Table 2",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "261.05",
+          "unit": "\u00b5\u2126m",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "Table 2",
+          "source_detail": "",
+          "notes": "Reported as electrical resistivity"
+        }
+      ]
+    },
+    {
+      "sample_id": "x=0.03",
+      "full_formula": "Ag(Sb0.97La0.03)Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "La",
+          "ratio_or_percentage": "0.03",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "214.9",
+          "unit": "\u00b5V/K",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "Table 2",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "164.95",
+          "unit": "\u00b5\u2126m",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "Table 2",
+          "source_detail": "",
+          "notes": "Reported as electrical resistivity"
+        }
+      ]
+    },
+    {
+      "sample_id": "x=0.05",
+      "full_formula": "Ag(Sb0.95La0.05)Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "La",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "240.91",
+          "unit": "\u00b5V/K",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "Table 2",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "162.87",
+          "unit": "\u00b5\u2126m",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "Table 2",
+          "source_detail": "",
+          "notes": "Reported as electrical resistivity"
+        }
+      ]
+    },
+    {
+      "sample_id": "x=0",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "85.72",
+          "unit": "uV/K",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 2",
+          "notes": "Room temperature"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "44.25",
+          "unit": "S/cm",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 2",
+          "notes": "Calculated from resistivity 22.6 uOhm m (1/22.6e-8 Ohm m = 4424778 S/m = 44247 S/cm). Wait, unit is uOhm m. 1/22.6e-8 = 4.42e6 S/m = 44247 S/cm. Actually, table says 22.6 uOhm m. Room temperature."
+        }
+      ]
+    },
+    {
+      "sample_id": "x=0.01",
+      "full_formula": "Ag(Sb0.99La0.01)Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "La",
+          "ratio_or_percentage": "0.01",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "227.57",
+          "unit": "uV/K",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 2",
+          "notes": "Room temperature"
+        }
+      ]
+    },
+    {
+      "sample_id": "x=0.02",
+      "full_formula": "Ag(Sb0.98La0.02)Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "La",
+          "ratio_or_percentage": "0.02",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "278.77",
+          "unit": "uV/K",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 2",
+          "notes": "Room temperature"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "358",
+          "unit": "uV/K",
+          "temperature_value": "150",
+          "temperature_unit": "C",
+          "source_type": "body text",
+          "source_detail": "Page 255, 258",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "x=0.03",
+      "full_formula": "Ag(Sb0.97La0.03)Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "La",
+          "ratio_or_percentage": "0.03",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "214.9",
+          "unit": "uV/K",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 2",
+          "notes": "Room temperature"
+        }
+      ]
+    },
+    {
+      "sample_id": "x=0.05",
+      "full_formula": "Ag(Sb0.95La0.05)Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "La",
+          "ratio_or_percentage": "0.05",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "240.91",
+          "unit": "uV/K",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 2",
+          "notes": "Room temperature"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[figure-pass p1-5] The paper provides Seebeck coefficient and electrical resistivity data in Table 2 at room temperature and in Figures 4 and 5 as a function of temperature. Power factor is shown in Figure 6. Values for Seebeck coefficient at 150C for x=0.02 are mentioned in the text. [figure-pass p6-6] The provided page contains only a list of references and no thermoelectric property data or plots for AgSbTe2-family compounds. ",
+  "status": "ok",
+  "n_pages": 6
+}

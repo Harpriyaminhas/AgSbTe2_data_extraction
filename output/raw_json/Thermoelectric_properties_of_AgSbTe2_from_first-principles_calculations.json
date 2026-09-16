@@ -1,0 +1,47 @@
+{
+  "source_pdf": "Thermoelectric properties of AgSbTe2 from first-principles calculations.pdf",
+  "doi": "10.1063/1.4895062",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "pure AgSbTe2",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "100",
+          "unit": "uV/K",
+          "temperature_value": "200",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 2",
+          "notes": "Visually estimated from Fig. 2, Fd3m structure, Eg=0.008eV, carrier concentration 2.5x10^19 h/cm^3"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "200",
+          "unit": "uV/K",
+          "temperature_value": "400",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 2",
+          "notes": "Visually estimated from Fig. 2, Fd3m structure, Eg=0.008eV, carrier concentration 2.5x10^19 h/cm^3"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "250",
+          "unit": "uV/K",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 2",
+          "notes": "Visually estimated from Fig. 2, Fd3m structure, Eg=0.008eV, carrier concentration 2.5x10^19 h/cm^3"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The provided article is a theoretical study using first-principles calculations to investigate the properties of pure AgSbTe2. It does not report experimental doping data or measured thermoelectric properties for doped AgSbTe2 samples; it only references experimental data from other literature (Jovovic et al., Mohanraman et al., and Su et al.) for comparison with theoretical calculations. [figure-pass p1-5] The paper presents first-principles calculations for pure AgSbTe2. No doped samples were experimentally characterized in the provided pages. Thermoelectric properties shown in Fig. 2 are theoretical calculations based on different band gaps and carrier concentrations. [figure-pass p6-6] The provided text discusses theoretical calculations for AgSbTe2 but does not contain experimental thermoelectric property data for doped or co-doped AgSbTe2 samples, nor does it contain any plots of thermoelectric properties versus temperature. ",
+  "status": "ok",
+  "n_pages": 6
+}

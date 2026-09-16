@@ -1,0 +1,147 @@
+{
+  "source_pdf": "Drymiotis_2011_J._Phys.__Condens._Matter_23_135305.pdf",
+  "doi": "10.1088/0953-8984/23/13/135305",
+  "base_composition": "Cu0.2Ag2.8SbSeTe2",
+  "materials": [
+    {
+      "sample_id": "slow-cooled Cu0.2Ag2.8SbSeTe2",
+      "full_formula": "Cu0.2Ag2.8SbSeTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "230",
+          "unit": "\u03bcV K-1",
+          "temperature_value": "700",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.6",
+          "unit": "W m-1 K-1",
+          "temperature_value": "700",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "3.3",
+          "unit": "m\u03a9 cm",
+          "temperature_value": "680",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Reported as resistivity of 3.3 m\u03a9 cm"
+        },
+        {
+          "property": "ZT",
+          "value": "1.75",
+          "unit": "dimensionless",
+          "temperature_value": "680",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "quenched Cu0.2Ag2.8SbSeTe2",
+      "full_formula": "Cu0.2Ag2.8SbSeTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.5",
+          "unit": "dimensionless",
+          "temperature_value": "680",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "3.8",
+          "unit": "m\u03a9 cm",
+          "temperature_value": "680",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Reported as resistivity of 3.8 m\u03a9 cm"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.57",
+          "unit": "W m-1 K-1",
+          "temperature_value": "680",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Cu0.2Ag2.8SbSeTe2",
+      "full_formula": "Cu0.2Ag2.8SbSeTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Cu",
+          "ratio_or_percentage": "0.2",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Se",
+          "ratio_or_percentage": "1",
+          "doped_site": "Te",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "Cu0.2Ag2.8SbSeTe2",
+      "full_formula": "Cu0.2Ag2.8SbSeTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Cu",
+          "ratio_or_percentage": "0.2",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.75",
+          "unit": "dimensionless",
+          "temperature_value": "680",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "page 6, section 4",
+          "notes": "Highest thermoelectric figure of merit measured for slow-cooled sample"
+        },
+        {
+          "property": "ZT",
+          "value": "1.5",
+          "unit": "dimensionless",
+          "temperature_value": "680",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "page 6, section 4",
+          "notes": "Value for quenched sample"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The paper discusses Cu0.2Ag2.8SbSeTe2 as a two-phase alloy (Ag2Te and AgSbTe2). Electrical resistivity values were reported in m\u03a9 cm; these were extracted as electrical conductivity properties per the schema requirements. [figure-pass p1-5] The provided pages contain information about the synthesis and characterization of Cu0.2Ag2.8SbSeTe2, but do not contain any plots of thermoelectric properties (Seebeck coefficient, electrical conductivity, thermal conductivity, power factor, or ZT) as a function of temperature. Figure 1 shows specific heat as a function of temperature, which is not a thermoelectric property. [figure-pass p6-8] The paper discusses Cu0.2Ag2.8SbSeTe2, which is an AgSbTe2-family derivative. Thermoelectric properties were extracted from the text. While figures 4-8 show temperature-dependent data, the specific values are visually estimated from curves and the text provides key summary points. ",
+  "status": "ok",
+  "n_pages": 8
+}

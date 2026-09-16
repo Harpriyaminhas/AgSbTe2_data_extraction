@@ -1,0 +1,277 @@
+{
+  "source_pdf": "Structural Characterization and Thermoelectric Properties of Br-Doped AgSnm[Sb0.8Bi0.2]Te2+m Systems.pdf",
+  "doi": "10.3390/ma16155213",
+  "base_composition": "AgSnm[Sb0.8Bi0.2]Te2+m",
+  "materials": [
+    {
+      "sample_id": "AgSn4[Sb0.8Bi0.2]Te6",
+      "full_formula": "AgSn4[Sb0.8Bi0.2]Te6",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "+40",
+          "unit": "\u00b5V\u00b7K\u22121",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 2",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "1429",
+          "unit": "S cm\u22121",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 2",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSn4[Sb0.8Bi0.2]Te5.97Br0.03",
+      "full_formula": "AgSn4[Sb0.8Bi0.2]Te5.97Br0.03",
+      "dopant_or_codopant": [
+        {
+          "element": "Br",
+          "ratio_or_percentage": "0.03",
+          "doped_site": "Te",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "+57",
+          "unit": "\u00b5V\u00b7K\u22121",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 2",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "1443",
+          "unit": "S cm\u22121",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 2",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "~0.07",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSn2[Sb0.8Bi0.2]Te3.97Br0.03",
+      "full_formula": "AgSn2[Sb0.8Bi0.2]Te3.97Br0.03",
+      "dopant_or_codopant": [
+        {
+          "element": "Br",
+          "ratio_or_percentage": "0.03",
+          "doped_site": "Te",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "+74",
+          "unit": "\u00b5V\u00b7K\u22121",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 2",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "685",
+          "unit": "S cm\u22121",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 2",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSn2[Sb0.8Bi0.2]Te4",
+      "full_formula": "AgSn2[Sb0.8Bi0.2]Te4",
+      "dopant_or_codopant": [
+        {
+          "element": "Sn",
+          "ratio_or_percentage": "m=2",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Bi",
+          "ratio_or_percentage": "0.2",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "57",
+          "unit": "uV K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 2",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSn4[Sb0.8Bi0.2]Te6",
+      "full_formula": "AgSn4[Sb0.8Bi0.2]Te6",
+      "dopant_or_codopant": [
+        {
+          "element": "Sn",
+          "ratio_or_percentage": "m=4",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Bi",
+          "ratio_or_percentage": "0.2",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "40",
+          "unit": "uV K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 2",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "1429",
+          "unit": "S cm-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 2",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSn4[Sb0.8Bi0.2]Te5.97Br0.03",
+      "full_formula": "AgSn4[Sb0.8Bi0.2]Te5.97Br0.03",
+      "dopant_or_codopant": [
+        {
+          "element": "Sn",
+          "ratio_or_percentage": "m=4",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Bi",
+          "ratio_or_percentage": "0.2",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        },
+        {
+          "element": "Br",
+          "ratio_or_percentage": "0.03",
+          "doped_site": "Te",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "57",
+          "unit": "uV K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 2",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "1443",
+          "unit": "S cm-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 2",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSn2[Sb0.8Bi0.2]Te3.97Br0.03",
+      "full_formula": "AgSn2[Sb0.8Bi0.2]Te3.97Br0.03",
+      "dopant_or_codopant": [
+        {
+          "element": "Sn",
+          "ratio_or_percentage": "m=2",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Bi",
+          "ratio_or_percentage": "0.2",
+          "doped_site": "Sb",
+          "site_evidence": ""
+        },
+        {
+          "element": "Br",
+          "ratio_or_percentage": "0.03",
+          "doped_site": "Te",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "74",
+          "unit": "uV K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 2",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "685",
+          "unit": "S cm-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 2",
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[figure-pass p1-5] The provided pages contain structural characterization and general descriptions of thermoelectric properties for AgSnm[Sb0.8Bi0.2]Te2+m and Br-doped variants, but they do not contain any plots or tables showing Seebeck coefficient, electrical conductivity, thermal conductivity, lattice thermal conductivity, power factor, or ZT as a function of temperature. [figure-pass p6-10] Data extracted from Table 2 and text descriptions. Figures 4 and 5 show trends but specific values were primarily sourced from Table 2 for room temperature. ",
+  "status": "ok",
+  "n_pages": 10
+}

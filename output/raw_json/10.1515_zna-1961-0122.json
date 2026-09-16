@@ -1,0 +1,9 @@
+{
+  "source_pdf": "10.1515_zna-1961-0122.pdf",
+  "doi": "",
+  "base_composition": "Ag-Sb-Te",
+  "materials": [],
+  "extraction_notes": "[text-pass] The provided text discusses the phase diagram and crystallographic properties of the Ag-Sb-Te system, specifically identifying a ternary phase with a rock-salt structure. However, the text does not contain any thermoelectric property data (such as Seebeck coefficient, electrical conductivity, thermal conductivity, power factor, or ZT) or specific doping experiments for AgSbTe2-family compounds. [figure-pass p1-2] The provided pages discuss the phase boundaries and structural properties of the Ag-Sb-Te system, specifically mentioning the composition AgSbTe2 and its related phases. However, there is no thermoelectric property data (Seebeck coefficient, electrical conductivity, thermal conductivity, power factor, or ZT) reported for any AgSbTe2-family compounds in the provided text or figures. ",
+  "status": "ok",
+  "n_pages": 2
+}

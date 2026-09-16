@@ -1,0 +1,415 @@
+{
+  "source_pdf": "1-s2.0-S1359645421008223-main.pdf",
+  "doi": "10.1016/j.actamat.2021.117443",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "as-sintered",
+      "full_formula": "AgSb0.998Ce0.002Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ce",
+          "ratio_or_percentage": "0.2 mol%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "127",
+          "unit": "\u03bcV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "3.02e4",
+          "unit": "S/cm",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": "Calculated from resistivity 3.31e-5 Ohm*m"
+        },
+        {
+          "property": "ZT",
+          "value": "1.5",
+          "unit": "dimensionless",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "HT523",
+      "full_formula": "AgSb0.998Ce0.002Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ce",
+          "ratio_or_percentage": "0.2 mol%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "88.4",
+          "unit": "\u03bcV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "3.73e4",
+          "unit": "S/cm",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": "Calculated from resistivity 2.68e-5 Ohm*m"
+        },
+        {
+          "property": "ZT",
+          "value": "1.31",
+          "unit": "dimensionless",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "HT573",
+      "full_formula": "AgSb0.998Ce0.002Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ce",
+          "ratio_or_percentage": "0.2 mol%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "85.5",
+          "unit": "\u03bcV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "3.58e4",
+          "unit": "S/cm",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": "Calculated from resistivity 2.79e-5 Ohm*m"
+        },
+        {
+          "property": "ZT",
+          "value": "1.27",
+          "unit": "dimensionless",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "HT673",
+      "full_formula": "AgSb0.998Ce0.002Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ce",
+          "ratio_or_percentage": "0.2 mol%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "274",
+          "unit": "\u03bcV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "1.33e4",
+          "unit": "S/cm",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": "Calculated from resistivity 7.54e-5 Ohm*m"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.63",
+          "unit": "W/m\u00b7K",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.49",
+          "unit": "dimensionless",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "0.96",
+          "unit": "mW/m\u00b7K2",
+          "temperature_value": "298",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "1.39",
+          "unit": "mW/m\u00b7K2",
+          "temperature_value": "573",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "1.41",
+          "unit": "mW/m\u00b7K2",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Ce-doped AgSbTe2 (Ag0.998Ce0.002Te2)",
+      "full_formula": "Ag0.998Ce0.002Te2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ce",
+          "ratio_or_percentage": "0.002",
+          "doped_site": "Ag",
+          "site_evidence": "The paper mentions Ce-doped AgSbTe2 (Ag0.998Ce0.002Te2) and discusses cationic-site occupancies for Ag and Sb."
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "as-sintered",
+      "full_formula": "0.2 mol% Ce-doped AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ce",
+          "ratio_or_percentage": "0.2 mol%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "127",
+          "unit": "uV/K",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": "at 300 K"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "3.02e4",
+          "unit": "S/m",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": "Calculated from rho = 3.31e-5 Ohm.m at 300 K"
+        },
+        {
+          "property": "ZT",
+          "value": "0.5",
+          "unit": "dimensionless",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7c",
+          "notes": "Visually estimated from figure"
+        }
+      ]
+    },
+    {
+      "sample_id": "HT523",
+      "full_formula": "0.2 mol% Ce-doped AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ce",
+          "ratio_or_percentage": "0.2 mol%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "88.4",
+          "unit": "uV/K",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": "at 300 K"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "3.73e4",
+          "unit": "S/m",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": "Calculated from rho = 2.68e-5 Ohm.m at 300 K"
+        },
+        {
+          "property": "ZT",
+          "value": "1.31",
+          "unit": "dimensionless",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7c",
+          "notes": "Visually estimated from figure"
+        }
+      ]
+    },
+    {
+      "sample_id": "HT573",
+      "full_formula": "0.2 mol% Ce-doped AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ce",
+          "ratio_or_percentage": "0.2 mol%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "85.5",
+          "unit": "uV/K",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": "at 300 K"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "3.58e4",
+          "unit": "S/m",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": "Calculated from rho = 2.79e-5 Ohm.m at 300 K"
+        },
+        {
+          "property": "ZT",
+          "value": "1.27",
+          "unit": "dimensionless",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7c",
+          "notes": "Visually estimated from figure"
+        }
+      ]
+    },
+    {
+      "sample_id": "HT673",
+      "full_formula": "0.2 mol% Ce-doped AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ce",
+          "ratio_or_percentage": "0.2 mol%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "274",
+          "unit": "uV/K",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": "at 300 K"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "1.33e4",
+          "unit": "S/m",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": "Calculated from rho = 7.54e-5 Ohm.m at 300 K"
+        },
+        {
+          "property": "ZT",
+          "value": "1.49",
+          "unit": "dimensionless",
+          "temperature_value": "673",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7c",
+          "notes": "Visually estimated from figure"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The paper investigates Ce-doped AgSbTe2 (AgSb0.998Ce0.002Te2) subjected to different heat treatments (HT523, HT573, HT673). Electrical conductivity values were derived from the reported resistivity values in Table 1 using sigma = 1/rho. [figure-pass p1-5] The provided pages contain information about Ce-doped AgSbTe2 (Ag0.998Ce0.002Te2) and its microstructure, but do not provide any plots or tables of thermoelectric properties (Seebeck coefficient, electrical conductivity, thermal conductivity, power factor, or ZT) as a function of temperature. Figure 5 is mentioned in the text as presenting electrical resistivities and Seebeck coefficients, but the figure itself is not included in the provided image set. [figure-pass p6-10] The samples are Ce-doped AgSbTe2 with different heat treatments. Thermoelectric properties were extracted from Table 1 and Fig 7. Electrical conductivity was calculated from the provided resistivity values in Table 1. [figure-pass p11-12] The provided pages contain only a list of references and author contribution statements. There are no plots, tables, or text describing thermoelectric properties or doping data for AgSbTe2-family compounds. ",
+  "status": "ok",
+  "n_pages": 12
+}

@@ -1,0 +1,9 @@
+{
+  "source_pdf": "1-s2.0-S092583880802029X-main.pdf",
+  "doi": "10.1016/j.jallcom.2008.11.054",
+  "base_composition": "AgSbTe2",
+  "materials": [],
+  "extraction_notes": "[text-pass] The provided article focuses on the microstructural characterization (TEM, electron diffraction, and composition analysis) of stoichiometric AgSbTe2. It does not report any thermoelectric property measurements (Seebeck coefficient, electrical conductivity, thermal conductivity, power factor, or ZT) for the material. [figure-pass p1-5] The provided pages focus on the microstructural characterization (TEM, diffraction, phase diagram) of stoichiometric AgSbTe2. No thermoelectric property-vs-temperature plots or tables are present in the provided document. [figure-pass p6-8] The provided pages discuss the structural characterization, phase separation, and orientation relationships of AgSbTe2 and Ag2Te precipitates. No thermoelectric property-vs-temperature plots or tables are present in the provided images. ",
+  "status": "ok",
+  "n_pages": 8
+}

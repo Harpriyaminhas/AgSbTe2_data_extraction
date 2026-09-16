@@ -1,0 +1,78 @@
+{
+  "source_pdf": "Advanced Energy Materials - 2011 - Chen - SnTe AgSbTe2 Thermoelectric Alloys.pdf",
+  "doi": "10.1002/aenm.201100460",
+  "base_composition": "Ag0.366Sb0.558Te",
+  "materials": [
+    {
+      "sample_id": "(Ag0.366Sb0.558Te)1-x(SnTe)x",
+      "full_formula": "(Ag0.366Sb0.558Te)1-x(SnTe)x",
+      "dopant_or_codopant": [
+        {
+          "element": "Sn",
+          "ratio_or_percentage": "x",
+          "doped_site": "multiple sites",
+          "site_evidence": "solid solution"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.9",
+          "unit": "dimensionless",
+          "temperature_value": "> 500",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 4, column 2",
+          "notes": "at x ~ 20-25%"
+        },
+        {
+          "property": "ZT",
+          "value": "0.8",
+          "unit": "dimensionless",
+          "temperature_value": "> 500",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 4, column 2",
+          "notes": "at x ~ 50-60%"
+        }
+      ]
+    },
+    {
+      "sample_id": "(Ag0.366Sb0.558Te)1-x(SnTe)x",
+      "full_formula": "(Ag0.366Sb0.558Te)1-x(SnTe)x",
+      "dopant_or_codopant": [
+        {
+          "element": "Sn",
+          "ratio_or_percentage": "x",
+          "doped_site": "multiple sites",
+          "site_evidence": "The paper describes these as solid solutions of (Ag0.366Sb0.558Te) and (SnTe)."
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.9",
+          "unit": "dimensionless",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig 3c",
+          "notes": "Visually estimated from Fig 3c for x=0.20-0.25 composition."
+        },
+        {
+          "property": "ZT",
+          "value": "0.8",
+          "unit": "dimensionless",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig 3c",
+          "notes": "Visually estimated from Fig 3c for x=0.50-0.60 composition."
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The paper reports on (Ag0.366Sb0.558Te)1-x(SnTe)x solid solutions. While temperature-dependent plots (Fig 1 and Fig 3) are provided, they are graphical representations without explicit numerical values for specific data points in the text, except for the peak ZT values mentioned in the body text. [figure-pass p1-5] The paper investigates (Ag0.366Sb0.558Te)1-x(SnTe)x solid solutions. Thermoelectric properties (Seebeck, resistivity, power factor, thermal conductivity, ZT) are plotted as a function of temperature for various x values (0, 5, 10, 15, 20, 25, 30, 40, 50, 60, 70, 80, 90, 100 SnTe%). ZT values were extracted from the text description of Fig 3c. ",
+  "status": "ok",
+  "n_pages": 5
+}

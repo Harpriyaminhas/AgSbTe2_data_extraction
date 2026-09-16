@@ -1,0 +1,176 @@
+{
+  "source_pdf": "Glassy thermal conductivity in the two-phase CuxAg3\u2212xSbSeTe2 alloy and high temperature thermoelectric behavior.pdf",
+  "doi": "10.1088/0953-8984/22/3/035801",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "x=0",
+      "full_formula": "Ag3SbSeTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Se",
+          "ratio_or_percentage": "stoichiometric",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "thermal conductivity",
+          "value": "0.67",
+          "unit": "W m-1 K-1",
+          "temperature_value": "700",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Section 3",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "x=0.1",
+      "full_formula": "Cu0.1Ag2.9SbSeTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Cu",
+          "ratio_or_percentage": "x=0.1",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        },
+        {
+          "element": "Se",
+          "ratio_or_percentage": "stoichiometric",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "thermal conductivity",
+          "value": "0.67",
+          "unit": "W m-1 K-1",
+          "temperature_value": "700",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Section 3",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "x=0.2",
+      "full_formula": "Cu0.2Ag2.8SbSeTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Cu",
+          "ratio_or_percentage": "x=0.2",
+          "doped_site": "Ag",
+          "site_evidence": ""
+        },
+        {
+          "element": "Se",
+          "ratio_or_percentage": "stoichiometric",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "thermal conductivity",
+          "value": "0.56-0.61",
+          "unit": "W m-1 K-1",
+          "temperature_value": "700",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Section 3",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "CuxAg3-xSbSeTe2 (x=0)",
+      "full_formula": "Ag3SbSeTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Cu",
+          "ratio_or_percentage": "x=0",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "2.5e-4",
+          "unit": "V/K",
+          "temperature_value": "700",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5",
+          "notes": "Visually estimated from Fig. 5"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.67",
+          "unit": "W/m-K",
+          "temperature_value": "700",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "page 4",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "CuxAg3-xSbSeTe2 (x=0.1)",
+      "full_formula": "Cu0.1Ag2.9SbSeTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Cu",
+          "ratio_or_percentage": "x=0.1",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "thermal conductivity",
+          "value": "0.5",
+          "unit": "W/m-K",
+          "temperature_value": "700",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6",
+          "notes": "Visually estimated from Fig. 6"
+        }
+      ]
+    },
+    {
+      "sample_id": "CuxAg3-xSbSeTe2 (x=0.2)",
+      "full_formula": "Cu0.2Ag2.8SbSeTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Cu",
+          "ratio_or_percentage": "x=0.2",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "thermal conductivity",
+          "value": "0.6",
+          "unit": "W/m-K",
+          "temperature_value": "700",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "page 4",
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The samples are described as Ag3SbSeTe2 (or CuxAg3-xSbSeTe2) formed by reacting AgSbTe2 and Ag2Se. The dopant site for Cu is inferred as Ag based on the formula Ag3-x. The Seebeck coefficient (thermopower) is reported as approximately 230 uV K-1 at 700 K for all samples, but no specific values for electrical conductivity or ZT were provided in the text beyond general ranges or qualitative statements. [figure-pass p1-5] The paper discusses Cu-doped AgSbTe2-family alloys (specifically Cu_xAg_{3-x}SbSeTe_2). Thermoelectric properties were extracted from figures and text as specified. Note that the formula in the paper is written as Cu_xAg_{3-x}SbSeTe_2. [figure-pass p6-6] The provided page contains only a list of references and no thermoelectric property data or plots for AgSbTe2-family compounds. ",
+  "status": "ok",
+  "n_pages": 6
+}

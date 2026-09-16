@@ -1,0 +1,690 @@
+{
+  "source_pdf": "ae5c01674.pdf",
+  "doi": "10.1021/acsaem.5c01674",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "pristine AgSbTe2",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "224.42",
+          "unit": "\u03bcV/K",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "229.18",
+          "unit": "\u03bcV/K",
+          "temperature_value": "525",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical resistivity",
+          "value": "8.91",
+          "unit": "m\u03a9\u00b7cm",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical resistivity",
+          "value": "7.25",
+          "unit": "m\u03a9\u00b7cm",
+          "temperature_value": "525",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.37",
+          "unit": "dimensionless",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.70",
+          "unit": "dimensionless",
+          "temperature_value": "525",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbTe2/20 wt % HNO3-treated PEDOT:PSS",
+      "full_formula": "AgSbTe2/20 wt % PEDOT:PSS",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "241.18",
+          "unit": "\u03bcV/K",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "238",
+          "unit": "\u03bcV/K",
+          "temperature_value": "525",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical resistivity",
+          "value": "8.92",
+          "unit": "m\u03a9\u00b7cm",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical resistivity",
+          "value": "6.54",
+          "unit": "m\u03a9\u00b7cm",
+          "temperature_value": "525",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.43",
+          "unit": "dimensionless",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.88",
+          "unit": "dimensionless",
+          "temperature_value": "525",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbTe2/40 wt % HNO3-treated PEDOT:PSS",
+      "full_formula": "AgSbTe2/40 wt % PEDOT:PSS",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "252.06",
+          "unit": "\u03bcV/K",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "224.25",
+          "unit": "\u03bcV/K",
+          "temperature_value": "525",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical resistivity",
+          "value": "13.22",
+          "unit": "m\u03a9\u00b7cm",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical resistivity",
+          "value": "6.98",
+          "unit": "m\u03a9\u00b7cm",
+          "temperature_value": "525",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.34",
+          "unit": "dimensionless",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.78",
+          "unit": "dimensionless",
+          "temperature_value": "525",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbTe2/60 wt % HNO3-treated PEDOT:PSS",
+      "full_formula": "AgSbTe2/60 wt % PEDOT:PSS",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "238.56",
+          "unit": "\u03bcV/K",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "224",
+          "unit": "\u03bcV/K",
+          "temperature_value": "525",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical resistivity",
+          "value": "15.80",
+          "unit": "m\u03a9\u00b7cm",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "electrical resistivity",
+          "value": "8.50",
+          "unit": "m\u03a9\u00b7cm",
+          "temperature_value": "525",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.23",
+          "unit": "dimensionless",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.71",
+          "unit": "dimensionless",
+          "temperature_value": "525",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbTe2/20 wt % HNO3-treated PEDOT:PSS",
+      "full_formula": "AgSbTe2/20 wt % HNO3-treated PEDOT:PSS",
+      "dopant_or_codopant": [
+        {
+          "element": "PEDOT:PSS",
+          "ratio_or_percentage": "20 wt %",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.88",
+          "unit": "dimensionless",
+          "temperature_value": "525",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Peak zT value reported in text."
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "153.8",
+          "unit": "S/cm",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Calculated from reported electrical resistivity of 6.5 mOhm-cm."
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "238.9",
+          "unit": "uV/K",
+          "temperature_value": "525",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.52",
+          "unit": "W/m-K",
+          "temperature_value": "525",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "pristine AgSbTe2",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "224.4",
+          "unit": "\u03bcV/K",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 2",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "224",
+          "unit": "\u03bcV/K",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 8c",
+          "notes": "Visually estimated from figure"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "229.18",
+          "unit": "\u03bcV/K",
+          "temperature_value": "525",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "565.5",
+          "unit": "\u03bcW/m\u00b7K^2",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "724.2",
+          "unit": "\u03bcW/m\u00b7K^2",
+          "temperature_value": "525",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.3",
+          "unit": "dimensionless",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 11d",
+          "notes": "Visually estimated from figure"
+        },
+        {
+          "property": "ZT",
+          "value": "0.6",
+          "unit": "dimensionless",
+          "temperature_value": "525",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 11d",
+          "notes": "Visually estimated from figure"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbTe2/20 wt % HNO3-treated PEDOT:PSS",
+      "full_formula": "AgSbTe2/20 wt % HNO3-treated PEDOT:PSS",
+      "dopant_or_codopant": [
+        {
+          "element": "PEDOT:PSS",
+          "ratio_or_percentage": "20 wt %",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "241.2",
+          "unit": "\u03bcV/K",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 2",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "654.5",
+          "unit": "\u03bcW/m\u00b7K^2",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "872.8",
+          "unit": "\u03bcW/m\u00b7K^2",
+          "temperature_value": "525",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.35",
+          "unit": "dimensionless",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 11d",
+          "notes": "Visually estimated from figure"
+        },
+        {
+          "property": "ZT",
+          "value": "0.75",
+          "unit": "dimensionless",
+          "temperature_value": "525",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 11d",
+          "notes": "Visually estimated from figure"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbTe2/40 wt % HNO3-treated PEDOT:PSS",
+      "full_formula": "AgSbTe2/40 wt % HNO3-treated PEDOT:PSS",
+      "dopant_or_codopant": [
+        {
+          "element": "PEDOT:PSS",
+          "ratio_or_percentage": "40 wt %",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "252.1",
+          "unit": "\u03bcV/K",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 2",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "480.3",
+          "unit": "\u03bcW/m\u00b7K^2",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "720.6",
+          "unit": "\u03bcW/m\u00b7K^2",
+          "temperature_value": "525",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.32",
+          "unit": "dimensionless",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 11d",
+          "notes": "Visually estimated from figure"
+        },
+        {
+          "property": "ZT",
+          "value": "0.8",
+          "unit": "dimensionless",
+          "temperature_value": "525",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 11d",
+          "notes": "Visually estimated from figure"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbTe2/60 wt % HNO3-treated PEDOT:PSS",
+      "full_formula": "AgSbTe2/60 wt % HNO3-treated PEDOT:PSS",
+      "dopant_or_codopant": [
+        {
+          "element": "PEDOT:PSS",
+          "ratio_or_percentage": "60 wt %",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "235.6",
+          "unit": "\u03bcV/K",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 2",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "360.3",
+          "unit": "\u03bcW/m\u00b7K^2",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "591.0",
+          "unit": "\u03bcW/m\u00b7K^2",
+          "temperature_value": "525",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.28",
+          "unit": "dimensionless",
+          "temperature_value": "325",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 11d",
+          "notes": "Visually estimated from figure"
+        },
+        {
+          "property": "ZT",
+          "value": "0.7",
+          "unit": "dimensionless",
+          "temperature_value": "525",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 11d",
+          "notes": "Visually estimated from figure"
+        }
+      ]
+    },
+    {
+      "sample_id": "Pristine AgSbTe2",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.84",
+          "unit": "dimensionless",
+          "temperature_value": "325-525",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "body text",
+          "notes": "Efficiency calculation range"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbTe2/20 wt % HNO3-treated PEDOT:PSS",
+      "full_formula": "AgSbTe2/20 wt % HNO3-treated PEDOT:PSS",
+      "dopant_or_codopant": [
+        {
+          "element": "PEDOT:PSS",
+          "ratio_or_percentage": "20 wt %",
+          "doped_site": "interstitial",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.99",
+          "unit": "dimensionless",
+          "temperature_value": "325-525",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "body text",
+          "notes": "Efficiency calculation range"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbTe2/40 wt % HNO3-treated PEDOT:PSS",
+      "full_formula": "AgSbTe2/40 wt % HNO3-treated PEDOT:PSS",
+      "dopant_or_codopant": [
+        {
+          "element": "PEDOT:PSS",
+          "ratio_or_percentage": "40 wt %",
+          "doped_site": "interstitial",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.85",
+          "unit": "dimensionless",
+          "temperature_value": "325-525",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "body text",
+          "notes": "Efficiency calculation range"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbTe2/60 wt % HNO3-treated PEDOT:PSS",
+      "full_formula": "AgSbTe2/60 wt % HNO3-treated PEDOT:PSS",
+      "dopant_or_codopant": [
+        {
+          "element": "PEDOT:PSS",
+          "ratio_or_percentage": "60 wt %",
+          "doped_site": "interstitial",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.75",
+          "unit": "dimensionless",
+          "temperature_value": "325-525",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "body text",
+          "notes": "Efficiency calculation range"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The study focuses on AgSbTe2/PEDOT:PSS hybrid composites. The PEDOT:PSS is treated with HNO3. The samples are composites, not doped in the traditional sense of atomic substitution, but the PEDOT:PSS acts as a secondary phase/additive. The properties were extracted from the body text and Table 2. [figure-pass p1-5] The provided pages do not contain any plots of thermoelectric properties versus temperature. The reported thermoelectric values were extracted from the body text. [figure-pass p6-10] Data extracted from figures 8, 9, 10, 11 and Table 2. [figure-pass p11-13] The provided pages contain data on AgSbTe2 composites with HNO3-treated PEDOT:PSS. The values for efficiency (eta) are provided in the text, and ZT values are discussed in the text and shown in Figure 12. The dopant site is considered interstitial as it is a composite/hybrid material. ",
+  "status": "ok",
+  "n_pages": 13
+}

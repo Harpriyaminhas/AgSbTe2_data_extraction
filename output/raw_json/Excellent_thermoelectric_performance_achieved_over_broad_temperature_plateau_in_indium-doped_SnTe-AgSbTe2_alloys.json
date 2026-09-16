@@ -1,0 +1,252 @@
+{
+  "source_pdf": "Excellent thermoelectric performance achieved over broad temperature plateau in indium-doped SnTe-AgSbTe2 alloys.pdf",
+  "doi": "10.1063/1.5018477",
+  "base_composition": "SnTe-AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "Sn0.995In0.005Te",
+      "full_formula": "Sn0.995In0.005Te",
+      "dopant_or_codopant": [
+        {
+          "element": "In",
+          "ratio_or_percentage": "0.5%",
+          "doped_site": "Sn",
+          "site_evidence": "body text"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.89",
+          "unit": "dimensionless",
+          "temperature_value": "873",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "page 3",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "(Sn0.995In0.005Te)0.8(Ag0.366Sb0.558Te)0.2",
+      "full_formula": "(Sn0.995In0.005Te)0.8(Ag0.366Sb0.558Te)0.2",
+      "dopant_or_codopant": [
+        {
+          "element": "In",
+          "ratio_or_percentage": "0.5%",
+          "doped_site": "Sn",
+          "site_evidence": "body text"
+        },
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "alloyed",
+          "doped_site": "Sn",
+          "site_evidence": "body text"
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "alloyed",
+          "doped_site": "Sn",
+          "site_evidence": "body text"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.43",
+          "unit": "Wm-1K-1",
+          "temperature_value": "873",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "page 4",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.3",
+          "unit": "dimensionless",
+          "temperature_value": "873",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "page 4",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "(Sn0.995In0.005Te)1-x(Ag0.366Sb0.558Te)x, x=0.05",
+      "full_formula": "(Sn0.995In0.005Te)0.95(Ag0.366Sb0.558Te)0.05",
+      "dopant_or_codopant": [
+        {
+          "element": "In",
+          "ratio_or_percentage": "0.005",
+          "doped_site": "Sn",
+          "site_evidence": ""
+        },
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.05 * 0.366",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "0.05 * 0.558",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "160",
+          "unit": "uV K^-1",
+          "temperature_value": "873",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 4a"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "1.5",
+          "unit": "10^3 S cm^-1",
+          "temperature_value": "873",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 4b"
+        },
+        {
+          "property": "power factor",
+          "value": "22",
+          "unit": "uW cm^-1 K^-2",
+          "temperature_value": "873",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 4c"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "1.8",
+          "unit": "W m^-1 K^-1",
+          "temperature_value": "873",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 4d"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.8",
+          "unit": "W m^-1 K^-1",
+          "temperature_value": "873",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 4e"
+        },
+        {
+          "property": "ZT",
+          "value": "0.9",
+          "unit": "dimensionless",
+          "temperature_value": "873",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 4f"
+        }
+      ]
+    },
+    {
+      "sample_id": "(Sn0.995In0.005Te)1-x(Ag0.366Sb0.558Te)x, x=0.20",
+      "full_formula": "(Sn0.995In0.005Te)0.8(Ag0.366Sb0.558Te)0.2",
+      "dopant_or_codopant": [
+        {
+          "element": "In",
+          "ratio_or_percentage": "0.005",
+          "doped_site": "Sn",
+          "site_evidence": ""
+        },
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.2 * 0.366",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "0.2 * 0.558",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "175",
+          "unit": "uV K^-1",
+          "temperature_value": "873",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 4a"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "0.8",
+          "unit": "10^3 S cm^-1",
+          "temperature_value": "873",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 4b"
+        },
+        {
+          "property": "power factor",
+          "value": "28",
+          "unit": "uW cm^-1 K^-2",
+          "temperature_value": "873",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 4c"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "1.2",
+          "unit": "W m^-1 K^-1",
+          "temperature_value": "873",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 4d"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.43",
+          "unit": "W m^-1 K^-1",
+          "temperature_value": "873",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 4e"
+        },
+        {
+          "property": "ZT",
+          "value": "1.3",
+          "unit": "dimensionless",
+          "temperature_value": "873",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 4f"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The paper focuses on SnTe-based alloys. AgSbTe2 is used as an alloying agent to form (Sn0.995In0.005Te)1-x(Ag0.366Sb0.558Te)x. The Ag and Sb atoms are described as substituting for Sn sites in the SnTe matrix. [figure-pass p1-5] The paper investigates SnTe-AgSbTe2 alloys doped with Indium. The AgSbTe2 component is represented as Ag0.366Sb0.558Te. Data for x=0.05 and x=0.20 were extracted from Fig. 4. ",
+  "status": "ok",
+  "n_pages": 5
+}

@@ -1,0 +1,195 @@
+{
+  "source_pdf": "Influence of mechanochemical syntheses and compacting methods on the thermoelectric properties of nanostructured AgSnmSbTe2+m (TAST-m).pdf",
+  "doi": "10.1088/0268-1242/29/12/124009",
+  "base_composition": "AgSbTe2-doped SnTe",
+  "materials": [
+    {
+      "sample_id": "TAST-10",
+      "full_formula": "(SnTe)10(AgSbTe2)",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "10 mol% AgSbTe2",
+          "doped_site": "multiple sites",
+          "site_evidence": "The paper states Ag and Sb atoms statistically occupy the cation position in the cubic structure."
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "10 mol% AgSbTe2",
+          "doped_site": "multiple sites",
+          "site_evidence": "The paper states Ag and Sb atoms statistically occupy the cation position in the cubic structure."
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "TAST-12",
+      "full_formula": "(SnTe)12(AgSbTe2)",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "12 mol% AgSbTe2",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "12 mol% AgSbTe2",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "TAST-16",
+      "full_formula": "(SnTe)16(AgSbTe2)",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "16 mol% AgSbTe2",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "16 mol% AgSbTe2",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "TAST-20",
+      "full_formula": "(SnTe)20(AgSbTe2)",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "20 mol% AgSbTe2",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "20 mol% AgSbTe2",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "TAST-25",
+      "full_formula": "(SnTe)25(AgSbTe2)",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "25 mol% AgSbTe2",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "25 mol% AgSbTe2",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "TAST-10",
+      "full_formula": "SnTe doped with AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "10 mol%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "10 mol%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "thermal conductivity",
+          "value": "2.0",
+          "unit": "W m^-1 K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig 8, TAST-10, CPA"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "1500",
+          "unit": "S cm^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig 10, TAST-10, CPA"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "60",
+          "unit": "uV K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig 12, TAST-10, CPA"
+        },
+        {
+          "property": "ZT",
+          "value": "0.1",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig 14, TAST-10, CPA"
+        }
+      ]
+    },
+    {
+      "sample_id": "TAST-20",
+      "full_formula": "SnTe doped with AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "20 mol%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "20 mol%",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.6",
+          "unit": "dimensionless",
+          "temperature_value": "700",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig 14, TAST-20, STS"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The article reports thermoelectric properties (Seebeck coefficient, electrical conductivity, thermal conductivity, ZT) for TAST-m series (m=10, 12, 16, 20, 25) via plots (Fig 8-15). Specific numerical values for these properties at specific temperatures were not provided in tables, only plotted curves. The dopant site is identified as 'multiple sites' because Ag and Sb substitute into the SnTe cation sublattice. [figure-pass p1-5] The provided pages contain structural characterization (XRD, TEM) and experimental methodology for AgSnmSbTe2+m (TAST-m) compounds, but do not contain any plots or tables showing thermoelectric properties (Seebeck coefficient, electrical conductivity, thermal conductivity, power factor, or ZT) as a function of temperature. [figure-pass p6-10] The samples are SnTe doped with AgSbTe2, referred to as TAST-m where m is the mol% of AgSbTe2. Data points were visually estimated from the provided figures. Only representative samples and properties are included. ",
+  "status": "ok",
+  "n_pages": 10
+}

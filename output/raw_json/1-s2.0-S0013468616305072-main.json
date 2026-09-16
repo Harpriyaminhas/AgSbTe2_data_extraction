@@ -1,0 +1,155 @@
+{
+  "source_pdf": "1-s2.0-S0013468616305072-main.pdf",
+  "base_composition": "AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "Ag25Sb25Te50 (stoichiometric nanocrystalline thin film)",
+      "full_formula": "Ag25Sb25Te50",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "power factor",
+          "value": "553",
+          "unit": "mW/mK2",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "text",
+          "source_detail": "Abstract, Section 3, Section 4",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag15Sb27Te58 (amorphous thin film)",
+      "full_formula": "Ag15Sb27Te58",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "1270",
+          "unit": "mV/K",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "text",
+          "source_detail": "body text Section 3",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgxSbyTez (nanocrystalline thin films range)",
+      "full_formula": "AgxSbyTez",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "power factor",
+          "value": "90\u2013553",
+          "unit": "mW/mK2",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "text",
+          "source_detail": "Abstract",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "170 to 405",
+          "unit": "mV/K",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "text",
+          "source_detail": "body text Section 3",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Bulk AgSbTe2 [Table 1, Ref 12]",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "133.33",
+          "unit": "S/cm",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "170",
+          "unit": "mV/K",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "385.33",
+          "unit": "mW/m.K2",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Bulk Ag20.2Sb27.9Te51.9 [Table 1, Ref 17]",
+      "full_formula": "Ag20.2Sb27.9Te51.9",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "269",
+          "unit": "S/cm",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "295",
+          "unit": "mV/K",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "2340.97",
+          "unit": "mW/m.K2",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.87",
+          "unit": "W/mK",
+          "temperature_value": "room temperature",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 1",
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] Data extracted for synthesized electrodeposited AgxSbyTez thin films as well as literature comparison values for bulk AgSbTe2 compositions listed in Table 1. All compositions are undoped stoichiometric/non-stoichiometric Ag-Sb-Te materials. [figure-pass p1-3] No relevant thermoelectric property-vs-temperature plots or tables appear on the provided pages. [figure-pass p4-6] No relevant property-vs-temperature plots appear on these pages. The provided figures only present room-temperature measurements as a function of the Ag/Sb ratio (Fig. 4) or carrier concentration (Fig. 5). [figure-pass p7-8] No property-vs-temperature plots for AgSbTe2-family compounds appear on the provided pages. ",
+  "status": "ok",
+  "n_pages": 8,
+  "doi": "10.1016/j.electacta.2016.02.206"
+}

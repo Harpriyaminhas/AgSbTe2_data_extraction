@@ -1,0 +1,272 @@
+{
+  "source_pdf": "Synergistic Suppression of Bipolar Effect and Lattice Thermal Conductivity Leading to High Average Figure of Merit in Bi0.4Sb1.6Te3 Materials through Alloying with AgSbTe2.pdf",
+  "doi": "10.1021/acsami.4c12307",
+  "base_composition": "Bi0.4Sb1.6Te3 alloyed with AgSbTe2",
+  "materials": [
+    {
+      "sample_id": "Bi0.4Sb1.6Te3 - 0.15 wt % AgSbTe2",
+      "full_formula": "Bi0.4Sb1.6Te3 - 0.15 wt % AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.15 wt %",
+          "doped_site": "multiple sites",
+          "site_evidence": "substitution of Ag on Bi/Sb sublattice"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.35",
+          "unit": "dimensionless",
+          "temperature_value": "393",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "page 1, abstract",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.25",
+          "unit": "dimensionless",
+          "temperature_value": "303-483",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "page 1, abstract (average zT)",
+          "notes": "average zT"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "14.1",
+          "unit": "10^4 S m^-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "page 5",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "4.91",
+          "unit": "mW m^-1 K^-2",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "page 6",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "commercial",
+      "full_formula": "Bi0.4Sb1.6Te3",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.0",
+          "unit": "dimensionless",
+          "temperature_value": "393",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 1 (left)",
+          "notes": "Visually estimated from Fig. 1 (left)"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.6",
+          "unit": "W m-1 K-1",
+          "temperature_value": "480",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 1 (right)",
+          "notes": "Visually estimated from Fig. 1 (right)"
+        }
+      ]
+    },
+    {
+      "sample_id": "x=0",
+      "full_formula": "Bi0.4Sb1.6Te3",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.2",
+          "unit": "dimensionless",
+          "temperature_value": "393",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 1 (left)",
+          "notes": "Visually estimated from Fig. 1 (left)"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "9.3",
+          "unit": "10^4 S m-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "page 62351",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "x=0.15",
+      "full_formula": "Bi0.4Sb1.6Te3 + 0.15 wt % AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "AgSbTe2",
+          "ratio_or_percentage": "0.15 wt %",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.35",
+          "unit": "dimensionless",
+          "temperature_value": "393",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "page 62347",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "14.1",
+          "unit": "10^4 S m-1",
+          "temperature_value": "303",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "page 62351",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "x = 0",
+      "full_formula": "Bi0.4Sb1.6Te3",
+      "dopant_or_codopant": [
+        {
+          "element": "AgSbTe2",
+          "ratio_or_percentage": "0 wt %",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.12",
+          "unit": "dimensionless",
+          "temperature_value": "363",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 10a",
+          "notes": "Visually estimated from Fig. 10a"
+        }
+      ]
+    },
+    {
+      "sample_id": "x = 0.10",
+      "full_formula": "Bi0.4Sb1.6Te3 - 0.10 wt % AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "AgSbTe2",
+          "ratio_or_percentage": "0.10 wt %",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.22",
+          "unit": "dimensionless",
+          "temperature_value": "363",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 10a",
+          "notes": "Visually estimated from Fig. 10a"
+        }
+      ]
+    },
+    {
+      "sample_id": "x = 0.15",
+      "full_formula": "Bi0.4Sb1.6Te3 - 0.15 wt % AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "AgSbTe2",
+          "ratio_or_percentage": "0.15 wt %",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.35",
+          "unit": "dimensionless",
+          "temperature_value": "393",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 10a",
+          "notes": "Visually estimated from Fig. 10a"
+        }
+      ]
+    },
+    {
+      "sample_id": "x = 0.20",
+      "full_formula": "Bi0.4Sb1.6Te3 - 0.20 wt % AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "AgSbTe2",
+          "ratio_or_percentage": "0.20 wt %",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.20",
+          "unit": "dimensionless",
+          "temperature_value": "393",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 10a",
+          "notes": "Visually estimated from Fig. 10a"
+        }
+      ]
+    },
+    {
+      "sample_id": "x = 0.25",
+      "full_formula": "Bi0.4Sb1.6Te3 - 0.25 wt % AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "AgSbTe2",
+          "ratio_or_percentage": "0.25 wt %",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.25",
+          "unit": "dimensionless",
+          "temperature_value": "393",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 10a",
+          "notes": "Visually estimated from Fig. 10a"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The paper focuses on Bi0.4Sb1.6Te3 alloyed with AgSbTe2. The AgSbTe2 is treated as an alloying component rather than a simple dopant, but the substitution of Ag on the Bi/Sb site is explicitly mentioned. Data for the x=0.15 sample is highlighted as the optimal composition. [figure-pass p1-5] Data extracted from the provided figures and text. ZT and thermal conductivity values were visually estimated from the plots in Figure 1. Electrical conductivity values at 303 K were extracted from the body text on page 62351. [figure-pass p6-10] The paper discusses Bi0.4Sb1.6Te3 alloyed with AgSbTe2. ZT values were extracted from Figure 10a. Other properties like thermal conductivity are plotted in Figure 8, but specific numerical values are difficult to extract precisely from the curves, so only ZT values are provided. [figure-pass p11-11] The provided page contains only a list of references and no thermoelectric property data or plots for AgSbTe2-family compounds. ",
+  "status": "ok",
+  "n_pages": 11
+}
