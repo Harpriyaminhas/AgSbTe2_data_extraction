@@ -23,12 +23,9 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-### Deploy the viewer on Streamlit Community Cloud
+### Deploy the viewer Community Cloud
 
-1. Go to https://share.streamlit.io and sign in with GitHub.
-2. "New app" → select this repo → branch `main` → main file `app.py`.
-3. Deploy. No secrets/API key needed — the app only reads the CSV files
-   already committed in `output/`.
+https://agsbte2.streamlit.app/
 
 ## Re-running the extraction pipeline yourself
 
