@@ -2,8 +2,216 @@
   "source_pdf": "d4cp01171f.pdf",
   "doi": "10.1039/d4cp01171f",
   "base_composition": "AgSbTe2",
-  "materials": [],
-  "extraction_notes": "[text-pass ERROR: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 500, model: gemini-3.1-flash-lite\\nPlease retry in 35.326558842s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.1-flash-lite'}, 'quotaValue': '500'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '35s'}]}}] [figure-pass p1-5 ERROR: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 500, model: gemini-3.1-flash-lite\\nPlease retry in 8.313098873s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.1-flash-lite', 'location': 'global'}, 'quotaValue': '500'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '8s'}]}}] [figure-pass p6-10 ERROR: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 500, model: gemini-3.1-flash-lite\\nPlease retry in 41.572477461s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.1-flash-lite'}, 'quotaValue': '500'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '41s'}]}}] [figure-pass p11-12 ERROR: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 500, model: gemini-3.1-flash-lite\\nPlease retry in 15.563154203s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.1-flash-lite'}, 'quotaValue': '500'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '15s'}]}}] ",
-  "status": "partial-error",
+  "materials": [
+    {
+      "sample_id": "Ag0.927Sb1.07Te2.005",
+      "full_formula": "Ag0.927Sb1.07Te2.005",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.927",
+          "doped_site": "Ag",
+          "site_evidence": "Ag-deficient"
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "1.07",
+          "doped_site": "Sb",
+          "site_evidence": "Sb-rich"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "251",
+          "unit": "mV K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "741",
+          "unit": "mW m-1 K-2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.2",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.1",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "251",
+          "unit": "mV K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 2",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag0.927Sb1.07Te2.005",
+      "full_formula": "Ag0.927Sb1.07Te2.005",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.927",
+          "doped_site": "Ag",
+          "site_evidence": "Ag-deficient"
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "1.07",
+          "doped_site": "Sb",
+          "site_evidence": "Sb-rich"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "251",
+          "unit": "\u00b5V K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "0",
+          "unit": "\u00b5V K-1",
+          "temperature_value": "0",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5c",
+          "notes": "Visually estimated from Fig. 5c"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "50",
+          "unit": "\u00b5V K-1",
+          "temperature_value": "50",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5c",
+          "notes": "Visually estimated from Fig. 5c"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "100",
+          "unit": "\u00b5V K-1",
+          "temperature_value": "100",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5c",
+          "notes": "Visually estimated from Fig. 5c"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "150",
+          "unit": "\u00b5V K-1",
+          "temperature_value": "150",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5c",
+          "notes": "Visually estimated from Fig. 5c"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "200",
+          "unit": "\u00b5V K-1",
+          "temperature_value": "200",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5c",
+          "notes": "Visually estimated from Fig. 5c"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "250",
+          "unit": "\u00b5V K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5c",
+          "notes": "Visually estimated from Fig. 5c"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "4.17",
+          "unit": "S/m",
+          "temperature_value": "0",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5b",
+          "notes": "Visually estimated from Fig. 5b (ln sigma vs 1/T^1/4 plot)"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "4.05",
+          "unit": "S/m",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 5b",
+          "notes": "Visually estimated from Fig. 5b (ln sigma vs 1/T^1/4 plot)"
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag0.927Sb1.07Te2.005",
+      "full_formula": "Ag0.927Sb1.07Te2.005",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "power factor",
+          "value": "747",
+          "unit": "\u03bcW m^-1 K^-2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Reported as room temperature value."
+        },
+        {
+          "property": "ZT",
+          "value": "1.1",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Reported as room temperature value."
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The sample Ag0.927Sb1.07Te2.005 is described as a non-stoichiometric AgSbTe2 compound with Ag-deficient and Sb-rich characteristics. The paper also provides a comparison table (Table 3) of room temperature Seebeck coefficient and ZT values for various previously reported AgSbTe2-family compositions. [figure-pass p1-5] The sample is identified as non-stoichiometric Ag0.927Sb1.07Te2.005. Thermoelectric properties were extracted from Fig. 5 and body text. Electrical conductivity in Fig. 5b is plotted as ln(sigma) vs 1/T^1/4. [figure-pass p6-10] The paper focuses on the AgSbTe2-family compound Ag0.927Sb1.07Te2.005. While several plots (Fig 7, Fig 9) show temperature-dependent properties, they are presented as continuous curves without explicit data points provided in tables, and the prompt asks for values at visually distinguishable points. Given the complexity of reading precise values from these specific plots, only the explicitly stated room temperature values from the text are included. [figure-pass p11-12] The provided pages contain a bibliography of research papers related to thermoelectric materials, including AgSbTe2-family compounds. However, these pages do not contain any data tables, plots, or specific thermoelectric property values for these materials. Therefore, no data could be extracted. ",
+  "status": "ok",
   "n_pages": 12
 }

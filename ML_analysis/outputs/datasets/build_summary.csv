@@ -1,0 +1,6 @@
+property,raw_rows_matched,rows_with_numeric_value_and_formula,rows_with_convertible_unit,rows_dropped_implausible,rows_after_dedup,output_file
+seebeck_coefficient,810,799,798,56,694,/Users/harpriyaminhas/Claude_work/ML_run/outputs/datasets/seebeck_coefficient_raw.csv
+electrical_conductivity,701,691,619,0,580,/Users/harpriyaminhas/Claude_work/ML_run/outputs/datasets/electrical_conductivity_raw.csv
+thermal_conductivity,402,394,394,4,379,/Users/harpriyaminhas/Claude_work/ML_run/outputs/datasets/thermal_conductivity_raw.csv
+power_factor,436,428,428,38,367,/Users/harpriyaminhas/Claude_work/ML_run/outputs/datasets/power_factor_raw.csv
+ZT,993,985,985,2,929,/Users/harpriyaminhas/Claude_work/ML_run/outputs/datasets/ZT_raw.csv

@@ -6,3 +6,5 @@ __pycache__/
 PDFs/
 output/page_images/
 *.log
+*.pkl
+ML_analysis/outputs/models/*/*.pkl

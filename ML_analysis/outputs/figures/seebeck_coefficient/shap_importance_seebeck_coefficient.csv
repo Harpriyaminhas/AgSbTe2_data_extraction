@@ -1,0 +1,13 @@
+,mean_abs_shap
+MagpieData mean MendeleevNumber,25.846219598707922
+MagpieData mean NpValence,17.32340071061453
+temperature_K,15.036884284273237
+frac p valence electrons,14.054057069215315
+MagpieData avg_dev NUnfilled,10.375553843782185
+frac s valence electrons,9.384922284300943
+dopant_host_charge_mismatch,8.74916826567304
+dopant_host_radius_mismatch,7.290065696570525
+MagpieData range MeltingT,5.927430011125639
+MagpieData avg_dev NpValence,5.767711933053141
+MagpieData maximum MeltingT,4.9180495441619465
+MagpieData mean NpUnfilled,2.162658420131992

@@ -2,8 +2,258 @@
   "source_pdf": "s10854-025-15118-x.pdf",
   "doi": "10.1007/s10854-025-15118-x",
   "base_composition": "AgSbTe2",
-  "materials": [],
-  "extraction_notes": "[text-pass ERROR: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 500, model: gemini-3.1-flash-lite\\nPlease retry in 7.894425034s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.1-flash-lite'}, 'quotaValue': '500'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '7s'}]}}] [figure-pass p1-5 ERROR: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 500, model: gemini-3.1-flash-lite\\nPlease retry in 45.226177297s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.1-flash-lite', 'location': 'global'}, 'quotaValue': '500'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '45s'}]}}] [figure-pass p6-10 ERROR: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 500, model: gemini-3.1-flash-lite\\nPlease retry in 34.903982217s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.1-flash-lite', 'location': 'global'}, 'quotaValue': '500'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '34s'}]}}] [figure-pass p11-12 ERROR: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 500, model: gemini-3.1-flash-lite\\nPlease retry in 34.386767597s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.1-flash-lite'}, 'quotaValue': '500'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '34s'}]}}] ",
-  "status": "partial-error",
+  "materials": [
+    {
+      "sample_id": "MQ-450",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "235",
+          "unit": "\u03bcV\u00b7K\u207b1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 1",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "13.16",
+          "unit": "\u03bcW\u00b7cm\u207b1\u00b7K\u207b2",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 1",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.40",
+          "unit": "W\u00b7m\u207b1\u00b7K\u207b1",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 1",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.20\u20130.46",
+          "unit": "W\u00b7m\u207b1\u00b7K\u207b1",
+          "temperature_value": "not specified",
+          "temperature_unit": "",
+          "source_type": "body text",
+          "source_detail": "Page 1",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.67",
+          "unit": "dimensionless",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 1",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "1.79 \u00d7 10^4",
+          "unit": "S\u00b7m\u207b1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 5",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "295",
+          "unit": "\u03bcV\u00b7K\u207b1",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 5",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "9.52",
+          "unit": "\u03bcW\u00b7cm\u207b1\u00b7K\u207b2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 5",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.54",
+          "unit": "W\u00b7m\u207b1\u00b7K\u207b1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 7",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.46",
+          "unit": "W\u00b7m\u207b1\u00b7K\u207b1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 7",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "MQ-350",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "power factor",
+          "value": "2.79",
+          "unit": "\u03bcW\u00b7cm\u207b1\u00b7K\u207b2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 5",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.20",
+          "unit": "W\u00b7m\u207b1\u00b7K\u207b1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 8",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "BM-400",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "37.80",
+          "unit": "cm\u00b2\u00b7V\u207b1\u00b7s\u207b1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "Page 7",
+          "notes": "Reported as weighted mobility"
+        }
+      ]
+    },
+    {
+      "sample_id": "MQ-450",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "235",
+          "unit": "\u03bcV\u00b7K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Value explicitly stated in text."
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "295",
+          "unit": "\u03bcV\u00b7K-1",
+          "temperature_value": "500",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Value explicitly stated in text."
+        },
+        {
+          "property": "power factor",
+          "value": "9.52",
+          "unit": "\u03bcW\u00b7cm-1\u00b7K-2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Value explicitly stated in text."
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "1.79 x 10^4",
+          "unit": "S\u00b7m-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Value explicitly stated in text."
+        }
+      ]
+    },
+    {
+      "sample_id": "MQ-350",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "power factor",
+          "value": "2.79",
+          "unit": "\u03bcW\u00b7cm-1\u00b7K-2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Value explicitly stated in text."
+        }
+      ]
+    },
+    {
+      "sample_id": "MQ-450",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.67",
+          "unit": "dimensionless",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 6",
+          "notes": "Visually estimated from Fig. 6"
+        }
+      ]
+    },
+    {
+      "sample_id": "BM-450",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "1.38",
+          "unit": "dimensionless",
+          "temperature_value": "600",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 7d",
+          "notes": "Visually estimated from Fig. 7d"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The article focuses on the effect of preparation methods (melt-quenching vs ball milling) and hot-pressing temperatures on undoped AgSbTe2. No extrinsic dopants were added to the samples. [figure-pass p1-5] The paper discusses AgSbTe2 prepared by different methods (MQ and BM) and hot-pressing temperatures. No dopants were added; these are pure AgSbTe2 samples. Only text-based values were extracted as the relevant figures (4a, 4b, 4c) were not provided in the image set. [figure-pass p6-10] The paper discusses AgSbTe2 samples prepared by different methods (MQ and BM) and hot-pressing temperatures. No specific dopants are mentioned; the variations are due to processing methods (melting/ball milling and hot-pressing temperature). Data extracted for ZT at 600K from Fig 6 and Fig 7d. [figure-pass p11-12] The provided pages contain only acknowledgments, author contributions, funding information, data availability, declarations, and a list of references. There are no plots, tables, or text describing thermoelectric properties or doping data for AgSbTe2-family compounds. ",
+  "status": "ok",
   "n_pages": 12
 }

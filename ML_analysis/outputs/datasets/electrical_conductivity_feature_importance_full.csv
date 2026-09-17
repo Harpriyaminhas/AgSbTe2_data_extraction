@@ -1,0 +1,72 @@
+,importance
+dopant_host_charge_mismatch,0.6756070280193318
+dopant_concentration,0.051964884557806366
+temperature_K,0.04915877838812414
+MagpieData avg_dev NUnfilled,0.046947435509687094
+MagpieData mean GSvolume_pa,0.04570674254598052
+MagpieData maximum MendeleevNumber,0.04255865414624621
+MagpieData maximum Electronegativity,0.038147992115497464
+MagpieData mean SpaceGroupNumber,0.034815276885114356
+frac_Sb,0.03478562978191816
+frac s valence electrons,0.030030604037901077
+mixing_entropy,0.03002505853272618
+MagpieData avg_dev NpUnfilled,0.028482428586920662
+MagpieData mean Electronegativity,0.024356483566942276
+MagpieData mean MeltingT,0.02300993117337883
+MagpieData mean CovalentRadius,0.018272265957113364
+frac p valence electrons,0.016594054380645817
+MagpieData avg_dev CovalentRadius,0.01603745661145679
+num_dopants,0.01599770506536108
+MagpieData avg_dev GSvolume_pa,0.015012616393116452
+MagpieData avg_dev SpaceGroupNumber,0.01168230012216408
+MagpieData mean Number,0.011379566919160278
+MagpieData mean NpUnfilled,0.011026851006884119
+MagpieData mean MendeleevNumber,0.009323270755428704
+MagpieData minimum Electronegativity,0.008583001933946444
+MagpieData avg_dev Electronegativity,0.008355650776330858
+MagpieData mean NsValence,0.00825634350020309
+MagpieData avg_dev Number,0.008040111250312797
+MagpieData avg_dev MeltingT,0.007578984146781298
+MagpieData avg_dev NpValence,0.006024577623219207
+dopant_host_radius_mismatch,0.005692905884914423
+MagpieData mean NpValence,0.0044713518870006744
+MagpieData avg_dev GSbandgap,0.004208347611545371
+MagpieData mean GSmagmom,0.0032880474686341034
+MagpieData mean NdValence,0.0032043641583482827
+MagpieData minimum GSvolume_pa,0.0032020571583029067
+MagpieData mean GSbandgap,0.00280512171227848
+frac_Te,0.0025182999575341426
+MagpieData avg_dev Row,0.0016705274408738591
+is_codoped,0.0013907298147751712
+MagpieData range CovalentRadius,0.0011866477060874625
+MagpieData range Electronegativity,0.0011269772047186489
+MagpieData range GSvolume_pa,0.0010988872939821427
+MagpieData range MeltingT,0.0010638919917963729
+MagpieData range Number,0.00081589789187545
+MagpieData mean NfValence,0.0008004898947217342
+MagpieData minimum MeltingT,0.0007758443949548721
+MagpieData mean NdUnfilled,0.0006548856802013004
+MagpieData range NValence,0.0005804241649851715
+MagpieData minimum MendeleevNumber,0.0005604444787953744
+MagpieData minimum Number,0.0005531143460123178
+MagpieData range Row,0.00047430430597015236
+MagpieData maximum CovalentRadius,0.0004607926585393107
+MagpieData maximum SpaceGroupNumber,0.0003731826150443318
+MagpieData minimum CovalentRadius,0.0003281029695375359
+MagpieData minimum NdValence,0.0003232332113249359
+MagpieData maximum NUnfilled,0.00032045876428871134
+MagpieData minimum NValence,0.00031694281254334155
+MagpieData minimum Column,0.00027633235649211497
+MagpieData maximum NpUnfilled,0.00017385440398522966
+MagpieData maximum NdUnfilled,0.00015092654552373297
+MagpieData minimum SpaceGroupNumber,0.00014428067247000963
+MagpieData maximum Number,0.00011368910740549021
+MagpieData maximum MeltingT,6.906374353159439e-05
+MagpieData minimum NUnfilled,6.562917829088244e-05
+MagpieData maximum GSbandgap,3.1249822574730415e-05
+MagpieData maximum Row,2.6020911574231587e-05
+MagpieData maximum GSmagmom,2.469117936197973e-05
+MagpieData maximum NfUnfilled,5.786148913944356e-06
+MagpieData mode Number,4.851195500188421e-06
+MagpieData mean NfUnfilled,4.566094618874139e-06
+MagpieData minimum NsValence,1.9432840410615883e-06

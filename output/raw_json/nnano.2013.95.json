@@ -2,8 +2,163 @@
   "source_pdf": "nnano.2013.95.pdf",
   "doi": "10.1038/NNANO.2013.95",
   "base_composition": "AgSbTe2",
-  "materials": [],
-  "extraction_notes": "[text-pass ERROR: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 500, model: gemini-3.1-flash-lite\\nPlease retry in 35.152103202s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.1-flash-lite'}, 'quotaValue': '500'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '35s'}]}}] [figure-pass p1-5 ERROR: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 500, model: gemini-3.1-flash-lite\\nPlease retry in 9.299436006s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.1-flash-lite', 'location': 'global'}, 'quotaValue': '500'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '9s'}]}}] [figure-pass p6-7 ERROR: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 500, model: gemini-3.1-flash-lite\\nPlease retry in 57.292350293s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.1-flash-lite', 'location': 'global'}, 'quotaValue': '500'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '57s'}]}}] ",
-  "status": "partial-error",
+  "materials": [
+    {
+      "sample_id": "AgSbTe2 (x=0)",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "deviation x=0",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "AgSbTe2 (x=0.1)",
+      "full_formula": "Ag1-xSb1+xTe2+x (x=0.1)",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag/Sb",
+          "ratio_or_percentage": "x=0.1",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": []
+    },
+    {
+      "sample_id": "AgSbTe2 (x=0.2)",
+      "full_formula": "Ag0.8Sb1.2Te2.2",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag/Sb",
+          "ratio_or_percentage": "x=0.2",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.24",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": "TA [001] branch"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.53",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": "TA [110] branch"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.20",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": "TA [111] branch"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.13",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": "LA [001] branch"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.21",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": "LA [110] branch"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.12",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "Table 1",
+          "source_detail": "",
+          "notes": "LA [111] branch"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgSbTe2 (x=0)",
+      "full_formula": "AgSbTe2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "thermal conductivity",
+          "value": "0.7",
+          "unit": "W m^-1 K^-1",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": "Value stated as approximately 0.7 W m^-1 K^-1 for AgSbTe2."
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag0.8Sb1.2Te2.2",
+      "full_formula": "Ag0.8Sb1.2Te2.2",
+      "dopant_or_codopant": [],
+      "thermoelectric_properties": [
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.6",
+          "unit": "W m^-1 K^-1",
+          "temperature_value": "100",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 4b at 100 K."
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.55",
+          "unit": "W m^-1 K^-1",
+          "temperature_value": "200",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 4b at 200 K."
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.5",
+          "unit": "W m^-1 K^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 4b at 300 K."
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The paper focuses on the phonon properties and nanostructure of AgSbTe2-family compounds. While it mentions zT values (zT ~ 1.3 at 720 K for pure AgSbTe2 and zT > 2 for LAST alloys) in the body text, these are cited from other literature (refs 15-17) rather than being experimental results from the current study. The only explicit thermoelectric property data extracted from the study's own measurements is the calculated lattice thermal conductivity contribution of phonon branches in Table 1. [figure-pass p1-5] The provided pages focus on phonon scattering and lattice thermal conductivity of AgSbTe2-family compounds. Thermoelectric property data (Seebeck, electrical conductivity, power factor, ZT) as a function of temperature were not found in the provided figures or tables. Lattice thermal conductivity data for Ag0.8Sb1.2Te2.2 was extracted from Figure 4b. [figure-pass p6-7] The provided pages contain a list of references and acknowledgements related to AgSbTe2 and other thermoelectric materials, but they do not contain any plots or tables showing thermoelectric properties (Seebeck coefficient, electrical conductivity, thermal conductivity, lattice thermal conductivity, power factor, or ZT) as a function of temperature for any AgSbTe2-family compounds. ",
+  "status": "ok",
   "n_pages": 7
 }

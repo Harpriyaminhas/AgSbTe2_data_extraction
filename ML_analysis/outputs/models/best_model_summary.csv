@@ -1,0 +1,6 @@
+property,best_model,best_params,cv_r2_mean,train_r2,test_r2,test_rmse,test_mae,test_r2_log10,test_rmse_log10
+seebeck_coefficient,CatBoost,"{'learning_rate': 0.2, 'l2_leaf_reg': 3, 'iterations': 100, 'depth': 4}",0.7259,0.9395,0.7746,48.2452,37.2374,,
+electrical_conductivity,CatBoost,"{'learning_rate': 0.2, 'l2_leaf_reg': 3, 'iterations': 500, 'depth': 4}",0.5419,0.9887,0.302,79.8003,50.5642,0.9337,0.1566
+thermal_conductivity,CatBoost,"{'learning_rate': 0.03, 'l2_leaf_reg': 3, 'iterations': 300, 'depth': 10}",0.5851,0.9642,0.8419,0.2505,0.1784,0.6351,0.1395
+power_factor,CatBoost,"{'learning_rate': 0.05, 'l2_leaf_reg': 3, 'iterations': 500, 'depth': 4}",0.5546,0.9709,0.5385,4.2182,2.5689,0.919,0.1576
+ZT,CatBoost,"{'learning_rate': 0.2, 'l2_leaf_reg': 3, 'iterations': 200, 'depth': 5}",0.8139,0.9905,0.8267,0.2669,0.1668,,

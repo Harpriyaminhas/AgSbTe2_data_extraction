@@ -1347,20 +1347,326 @@ doi,source_pdf,base_composition,sample_id,full_formula,num_dopants,is_codoped,pr
 10.1021/cm101503y,cm101503y.pdf,AgSbTe2,x=0,AgSbTe2,0,No,,,,,,,250 uV/K,1.5 10^4 S/m,,300 K
 10.1021/cm101503y,cm101503y.pdf,AgSbTe2,x=0,AgSbTe2,0,No,,,,,,,300 uV/K,1.2 10^4 S/m,,500 K
 10.1021/cm101503y,cm101503y.pdf,AgSbTe2,x=0,AgSbTe2,0,No,,,,,,,240 uV/K,1.8 10^4 S/m,,700 K
-10.1021/cm101503y,cm101503y.pdf,AgSbTe2,x=0.02,AgSbSe0.02Te1.98,1,No,Se,x=0.02,Te,,Se (x=0.02) @ Te site,,260 uV/K,1.6 10^4 S/m,,300 K
+10.1021/cm101503y,cm101503y.pdf,AgSbTe2,x=0.00,AgSbTe2,0,No,,,,,,,,,0.6 dimensionless,300 K
+10.1021/cm101503y,cm101503y.pdf,AgSbTe2,x=0.00,AgSbTe2,0,No,,,,,,,,,1.1 dimensionless,650 K
+10.1021/cm101503y,cm101503y.pdf,AgSbTe2,x=0.01,AgSbSe0.01Te1.99,1,No,Se,x=0.01,Te,,Se (x=0.01) @ Te site,,,,0.6 dimensionless,300 K
+10.1021/cm101503y,cm101503y.pdf,AgSbTe2,x=0.01,AgSbSe0.01Te1.99,1,No,Se,x=0.01,Te,,Se (x=0.01) @ Te site,,,,1.2 dimensionless,650 K
+10.1021/cm101503y,cm101503y.pdf,AgSbTe2,x=0.02,AgSbSe0.02Te1.98,1,No,Se,x=0.02,Te,,Se (x=0.02) @ Te site,,260 uV/K,1.6 10^4 S/m,0.6 dimensionless,300 K
 10.1021/cm101503y,cm101503y.pdf,AgSbTe2,x=0.02,AgSbSe0.02Te1.98,1,No,Se,x=0.02,Te,,Se (x=0.02) @ Te site,,230 uV/K,,,500 K
 10.1021/cm101503y,cm101503y.pdf,AgSbTe2,x=0.02,AgSbSe0.02Te1.98,1,No,Se,x=0.02,Te,,Se (x=0.02) @ Te site,,,2.4 10^4 S/m,,550 K
+10.1021/cm101503y,cm101503y.pdf,AgSbTe2,x=0.02,AgSbSe0.02Te1.98,1,No,Se,x=0.02,Te,,Se (x=0.02) @ Te site,,,,1.37 dimensionless,565 K
 10.1021/cm101503y,cm101503y.pdf,AgSbTe2,x=0.02,AgSbSe0.02Te1.98,1,No,Se,x=0.02,Te,,Se (x=0.02) @ Te site,,235 uV/K,2.1 10^4 S/m,,700 K
+10.1021/cm101503y,cm101503y.pdf,AgSbTe2,x=0.04,AgSbSe0.04Te1.96,1,No,Se,x=0.04,Te,,Se (x=0.04) @ Te site,,,,0.55 dimensionless,300 K
+10.1021/cm101503y,cm101503y.pdf,AgSbTe2,x=0.04,AgSbSe0.04Te1.96,1,No,Se,x=0.04,Te,,Se (x=0.04) @ Te site,,,,1.25 dimensionless,600 K
 10.1021/acs.chemmater.5c01646,cm5c01646.pdf,AgSbTe2,AST,AgSbTe2,0,No,,,,,,0.69 Wm-1K-2,267 uV/K | 267 μVK-1,96.72 S cm-1 | 96.72 S/cm,,300 K
+10.1021/acs.chemmater.5c01646,cm5c01646.pdf,AgSbTe2,AST,AgSbTe2,0,No,,,,,,,,,0.6 dimensionless,600 K
 10.1021/acs.chemmater.5c01646,cm5c01646.pdf,AgSbTe2,AST,AgSbTe2,0,No,,,,,,,,,0.56 dimensionless | 0.61 dimensionless,not reported
 10.1021/acs.chemmater.5c01646,cm5c01646.pdf,AgSbTe2,AST + 0.02,AgSbTe2 + 0.02 wt % B,1,No,B,0.02 wt %,unclear,,B (0.02 wt %) @ unclear site,,238 uV/K | 238 μVK-1,159.10 S cm-1 | 159.10 S/cm,,300 K
+10.1021/acs.chemmater.5c01646,cm5c01646.pdf,AgSbTe2,AST + 0.02,AgSbTe2 + 0.02 wt % B,1,No,B,0.02 wt %,unclear,,B (0.02 wt %) @ unclear site,,,,0.8 dimensionless,600 K
 10.1021/acs.chemmater.5c01646,cm5c01646.pdf,AgSbTe2,AST + 0.025,AgSbTe2 + 0.025 wt % B,1,No,B,0.025 wt %,unclear,,B (0.025 wt %) @ unclear site,1.05 Wm-1K-2,248 uV/K | 248 μVK-1,170.75 S cm-1 | 170.75 S/cm,,300 K
+10.1021/acs.chemmater.5c01646,cm5c01646.pdf,AgSbTe2,AST + 0.025,AgSbTe2 + 0.025 wt % B,1,No,B,0.025 wt %,unclear,,B (0.025 wt %) @ unclear site,,,,0.9 dimensionless,600 K
 10.1021/acs.chemmater.5c01646,cm5c01646.pdf,AgSbTe2,AST + 0.03,AgSbTe2 + 0.03 wt % B,1,No,B,0.03 wt %,unclear,,B (0.03 wt %) @ unclear site,,245 uV/K | 245 μVK-1,123.77 S cm-1 | 123.77 S/cm,,300 K
+10.1021/acs.chemmater.5c01646,cm5c01646.pdf,AgSbTe2,AST + 0.03,AgSbTe2 + 0.03 wt % B,1,No,B,0.03 wt %,unclear,,B (0.03 wt %) @ unclear site,,,,0.95 dimensionless,600 K
 10.1021/acs.chemmater.5c01646,cm5c01646.pdf,AgSbTe2,NS-AST + 0.025,Ag0.91Sb1.09Te2.09 + 0.025 wt % B,1,No,B,0.025 wt %,unclear,,B (0.025 wt %) @ unclear site,,273 uV/K | 273 μVK-1,163.60 S cm-1 | 163.60 S/cm,,300 K
 10.1021/acs.chemmater.5c01646,cm5c01646.pdf,AgSbTe2,NS-AST + 0.025,Ag0.91Sb1.09Te2.09 + 0.025 wt % B,1,No,B,0.025 wt %,unclear,,B (0.025 wt %) @ unclear site,,,,1.35 dimensionless,573 K
+10.1021/acs.chemmater.5c01646,cm5c01646.pdf,AgSbTe2,NS-AST + 0.025,Ag0.91Sb1.09Te2.09 + 0.025 wt % B,1,No,B,0.025 wt %,unclear,,B (0.025 wt %) @ unclear site,,,,1.35 dimensionless,600 K
 10.1021/acs.chemmater.5c01646,cm5c01646.pdf,AgSbTe2,NS-AST + 0.025,Ag0.91Sb1.09Te2.09 + 0.025 wt % B,1,No,B,0.025 wt %,unclear,,B (0.025 wt %) @ unclear site,1.22 Wm-1K-2,,,,300-625 K
 10.1021/acs.chemmater.5c01646,cm5c01646.pdf,AgSbTe2,NS-AST + 0.025,Ag0.91Sb1.09Te2.09 + 0.025 wt % B,1,No,B,0.025 wt %,unclear,,B (0.025 wt %) @ unclear site,,,,1.03 dimensionless,not reported
+10.1039/d3ee01033c,d3ee01033c.pdf,AgSbTe2,Ag0.97SbTe2,Ag0.97SbTe2,1,No,Ag vacancy,0.03,Ag,,Ag vacancy (0.03) @ Ag site,,210 uV/K,250 S/cm,0.7 dimensionless,300 K
+10.1039/d3ee01033c,d3ee01033c.pdf,AgSbTe2,Ag0.98SbTe2,Ag0.98SbTe2,1,No,Ag vacancy,0.02,Ag,,Ag vacancy (0.02) @ Ag site,,25 µV/K,,,0 K
+10.1039/d3ee01033c,d3ee01033c.pdf,AgSbTe2,Ag0.98SbTe2,Ag0.98SbTe2,1,No,Ag vacancy,2 mol%,Ag,,Ag vacancy (2 mol%) @ Ag site,13 mW cm-1 K-2,235 mV K-1,235 S cm-1,,300 K
+10.1039/d3ee01033c,d3ee01033c.pdf,AgSbTe2,Ag0.98SbTe2,Ag0.98SbTe2,1,No,Ag vacancy,0.02,Ag,,Ag vacancy (0.02) @ Ag site,,175 µV/K | 235 uV/K,235 S/cm,0.8 dimensionless,300 K
+10.1039/d3ee01033c,d3ee01033c.pdf,AgSbTe2,Ag0.98SbTe2,Ag0.98SbTe2,1,No,Ag vacancy,2 mol%,Ag,,Ag vacancy (2 mol%) @ Ag site,16 mW cm-1 K-2,,186 S cm-1,2.3 dimensionless,573 K
+10.1039/d3ee01033c,d3ee01033c.pdf,AgSbTe2,Ag0.99SbTe2,Ag0.99SbTe2,1,No,Ag vacancy,0.01,Ag,,Ag vacancy (0.01) @ Ag site,,250 uV/K,150 S/cm,0.7 dimensionless,300 K
+10.1039/d3ee01033c,d3ee01033c.pdf,AgSbTe2,AgSbTe2,AgSbTe2,1,No,Ag vacancy,0,Ag,,Ag vacancy (0) @ Ag site,,25 µV/K,,,0 K
+10.1039/d3ee01033c,d3ee01033c.pdf,AgSbTe2,AgSbTe2,AgSbTe2,0,No,,,,,,8 mW cm-1 K-2,275 mV K-1,104 S cm-1,0.5 dimensionless,300 K
+10.1039/d3ee01033c,d3ee01033c.pdf,AgSbTe2,AgSbTe2,AgSbTe2,1,No,Ag vacancy,0,Ag,,Ag vacancy (0) @ Ag site,,225 µV/K,,,300 K
+10.1039/d3nr04584f,d3nr04584f.pdf,AgSbTe2,Ag0.91Sb1.09Te2.09,Ag0.91Sb1.09Te2.09,3,Yes,Ag,0.91,Ag,Sb (1.09) @ Sb; Te (2.09) @ Te,Ag (0.91) @ Ag site; Sb (1.09) @ Sb site; Te (2.09) @ Te site,1600 uW/mK^2,300 uV/K,,,500 K
 10.1039/d3nr04584f,d3nr04584f.pdf,AgSbTe2,Ag0.91Sb1.09Te2.09,Ag0.91Sb1.09Te2.09,1,No,Ag deficiency,0.09,Ag,,Ag deficiency (0.09) @ Ag site,,,,1.7 dimensionless,573 K
+10.1039/d3nr04584f,d3nr04584f.pdf,AgSbTe2,Ag0.91Sb1.09Te2.09,Ag0.91Sb1.09Te2.09,3,Yes,Ag,0.91,Ag,Sb (1.09) @ Sb; Te (2.09) @ Te,Ag (0.91) @ Ag site; Sb (1.09) @ Sb site; Te (2.09) @ Te site,,,,1.7 dimensionless,573 K
 10.1039/d3nr04584f,d3nr04584f.pdf,AgSbTe2,Ag0.91Sb1.09Te2.09,Ag0.91Sb1.09Te2.09,1,No,Ag deficiency,0.09,Ag,,Ag deficiency (0.09) @ Ag site,,,,0.75 dimensionless,room temperature K
 10.1039/d3nr04584f,d3nr04584f.pdf,AgSbTe2,Ag0.91Sb1.09Te2.09,Ag0.91Sb1.09Te2.09,1,No,Ag deficiency,0.09,Ag,,Ag deficiency (0.09) @ Ag site,1600 μW m-1 K-2,,,,300-623 K
-10.1039/d4cp01171f,d4cp01171f.pdf,AgSbTe2,Ag0.927Sb1.07Te2.005,Ag0.927Sb1.07Te2.005,2,Yes,Ag,0.927,Ag,Sb (1.07) @ Sb,Ag (0.927) @ Ag site; Sb (1.07) @ Sb site,741 mW m-1 K-2,251 mV K-1,,1.1 dimensionless,300 K
+10.1039/d3nr04584f,d3nr04584f.pdf,AgSbTe2,AgSbTe2,AgSbTe2,0,No,,,,,,800 uW/mK^2,250 uV/K,,,500 K
+10.1039/d4ce00915k,d4ce00915k.pdf,AgSbTe2,(Ag2Se)0.98(2AgSbSe2)0.02,(Ag2Se)0.98(2AgSbSe2)0.02,1,No,Sb,0.02,unclear,,Sb (0.02) @ unclear site,,,,0.93 dimensionless,375 K
+10.1039/d4ce00915k,d4ce00915k.pdf,AgSbTe2,(Ag2Se)0.98(2AgSbSe2)0.02,(Ag2Se)0.98(2AgSbSe2)0.02,1,No,Sb,0.02,unclear,,Sb (0.02) @ unclear site,,-150 uV K-1,,,not reported
+10.1039/d4ce00915k,d4ce00915k.pdf,AgSbTe2,Ag0.98(2AgSbSe2)0.02,Ag0.98(2AgSbSe2)0.02,3,Yes,Ag,0.98,multiple sites,Sb (0.02) @ multiple sites; Se (0.02) @ multiple sites,Ag (0.98) @ multiple sites site; Sb (0.02) @ multiple sites site; Se (0.02) @ multiple sites site,,,,0.8 dimensionless,300-375 K
+10.1039/d4ce00915k,d4ce00915k.pdf,AgSbTe2,Ag2Se/AgSbSe2 nanocomposite,(Ag2Se)0.98(2AgSbSe2)0.02,1,No,AgSbSe2,2 mol%,interstitial,,AgSbSe2 (2 mol%) @ interstitial site,,-150 μV K-1,,0.93 dimensionless,375 K
+10.1039/d4cp01171f,d4cp01171f.pdf,AgSbTe2,Ag0.927Sb1.07Te2.005,Ag0.927Sb1.07Te2.005,2,Yes,Ag,0.927,Ag,Sb (1.07) @ Sb,Ag (0.927) @ Ag site; Sb (1.07) @ Sb site,,0 µV K-1,4.17 S/m,,0 K
+10.1039/d4cp01171f,d4cp01171f.pdf,AgSbTe2,Ag0.927Sb1.07Te2.005,Ag0.927Sb1.07Te2.005,2,Yes,Ag,0.927,Ag,Sb (1.07) @ Sb,Ag (0.927) @ Ag site; Sb (1.07) @ Sb site,,50 µV K-1,,,50 K
+10.1039/d4cp01171f,d4cp01171f.pdf,AgSbTe2,Ag0.927Sb1.07Te2.005,Ag0.927Sb1.07Te2.005,2,Yes,Ag,0.927,Ag,Sb (1.07) @ Sb,Ag (0.927) @ Ag site; Sb (1.07) @ Sb site,,100 µV K-1,,,100 K
+10.1039/d4cp01171f,d4cp01171f.pdf,AgSbTe2,Ag0.927Sb1.07Te2.005,Ag0.927Sb1.07Te2.005,2,Yes,Ag,0.927,Ag,Sb (1.07) @ Sb,Ag (0.927) @ Ag site; Sb (1.07) @ Sb site,,150 µV K-1,,,150 K
+10.1039/d4cp01171f,d4cp01171f.pdf,AgSbTe2,Ag0.927Sb1.07Te2.005,Ag0.927Sb1.07Te2.005,2,Yes,Ag,0.927,Ag,Sb (1.07) @ Sb,Ag (0.927) @ Ag site; Sb (1.07) @ Sb site,,200 µV K-1,,,200 K
+10.1039/d4cp01171f,d4cp01171f.pdf,AgSbTe2,Ag0.927Sb1.07Te2.005,Ag0.927Sb1.07Te2.005,2,Yes,Ag,0.927,Ag,Sb (1.07) @ Sb,Ag (0.927) @ Ag site; Sb (1.07) @ Sb site,741 mW m-1 K-2,251 mV K-1 | 251 µV K-1,4.05 S/m,1.1 dimensionless,300 K
+10.1039/d4cp01171f,d4cp01171f.pdf,AgSbTe2,Ag0.927Sb1.07Te2.005,Ag0.927Sb1.07Te2.005,0,No,,,,,,747 μW m^-1 K^-2,,,1.1 dimensionless,300 K
+10.1039/d5dt01185j,d5dt01185j.pdf,Ba2.75Pb1.1Sb4.1Se10-deltaTe_delta,Ba2.75Pb1.1Sb4.1Se6Te4,Ba2.75Pb1.1Sb4.1Se6Te4,1,No,Te,δ = 4,Te,,Te (δ = 4) @ Te site,4.85 μW m−1 K−2,,,,300 K
+10.1039/d5dt01185j,d5dt01185j.pdf,Ba2.75Pb1.1Sb4.1Se10-deltaTe_delta,Ba2.75Pb1.1Sb4.1Se6Te4,Ba2.75Pb1.1Sb4.1Se6Te4,1,No,Te,delta=4,Te,,Te (delta=4) @ Te site,4.85 uW m-1 K-2,,,,300 K
+10.1039/d5dt01185j,d5dt01185j.pdf,Ba2.75Pb1.1Sb4.1Se10-deltaTe_delta,Ba2.75Pb1.1Sb4.1Se6Te4,Ba2.75Pb1.1Sb4.1Se6Te4,1,No,Te,δ = 4,Te,,Te (δ = 4) @ Te site,34.42 μW m−1 K−2,,,0.09 dimensionless,773 K
+10.1039/d5dt01185j,d5dt01185j.pdf,Ba2.75Pb1.1Sb4.1Se10-deltaTe_delta,Ba2.75Pb1.1Sb4.1Se6Te4,Ba2.75Pb1.1Sb4.1Se6Te4,1,No,Te,delta=4,Te,,Te (delta=4) @ Te site,34.42 uW m-1 K-2,,,,773 K
+10.1039/d5dt01185j,d5dt01185j.pdf,Ba2.75Pb1.1Sb4.1Se10-deltaTe_delta,Ba2.75Pb1.1Sb4.1Se7Te3,Ba2.75Pb1.1Sb4.1Se7Te3,1,No,Te,δ = 3,Te,,Te (δ = 3) @ Te site,4.65 μW m−1 K−2,,,,300 K
+10.1039/d5dt01185j,d5dt01185j.pdf,Ba2.75Pb1.1Sb4.1Se10-deltaTe_delta,Ba2.75Pb1.1Sb4.1Se7Te3,Ba2.75Pb1.1Sb4.1Se7Te3,1,No,Te,delta=3,Te,,Te (delta=3) @ Te site,4.65 uW m-1 K-2,,,,300 K
+10.1039/d5dt01185j,d5dt01185j.pdf,Ba2.75Pb1.1Sb4.1Se10-deltaTe_delta,Ba2.75Pb1.1Sb4.1Se7Te3,Ba2.75Pb1.1Sb4.1Se7Te3,1,No,Te,δ = 3,Te,,Te (δ = 3) @ Te site,32.44 μW m−1 K−2,,,,773 K
+10.1039/d5dt01185j,d5dt01185j.pdf,Ba2.75Pb1.1Sb4.1Se10-deltaTe_delta,Ba2.75Pb1.1Sb4.1Se7Te3,Ba2.75Pb1.1Sb4.1Se7Te3,1,No,Te,delta=3,Te,,Te (delta=3) @ Te site,32.44 uW m-1 K-2,,,,773 K
+10.1039/d5dt01185j,d5dt01185j.pdf,Ba2.75Pb1.1Sb4.1Se10-deltaTe_delta,Ba2.75Pb1.1Sb4.1Se8Te2,Ba2.75Pb1.1Sb4.1Se8Te2,1,No,Te,δ = 2,Te,,Te (δ = 2) @ Te site,0.012 μW m−1 K−2,69.6 μV K−1,,,300 K
+10.1039/d5dt01185j,d5dt01185j.pdf,Ba2.75Pb1.1Sb4.1Se10-deltaTe_delta,Ba2.75Pb1.1Sb4.1Se8Te2,Ba2.75Pb1.1Sb4.1Se8Te2,1,No,Te,delta=2,Te,,Te (delta=2) @ Te site,0.012 uW m-1 K-2,69.6 uV K-1,40.1 Ohm cm,,300 K
+10.1039/d5dt01185j,d5dt01185j.pdf,Ba2.75Pb1.1Sb4.1Se10-deltaTe_delta,Ba2.75Pb1.1Sb4.1Se8Te2,Ba2.75Pb1.1Sb4.1Se8Te2,1,No,Te,δ = 2,Te,,Te (δ = 2) @ Te site,0.44 μW m−1 K−2,104 μV K−1,,,773 K
+10.1039/d5dt01185j,d5dt01185j.pdf,Ba2.75Pb1.1Sb4.1Se10-deltaTe_delta,Ba2.75Pb1.1Sb4.1Se8Te2,Ba2.75Pb1.1Sb4.1Se8Te2,1,No,Te,delta=2,Te,,Te (delta=2) @ Te site,0.44 uW m-1 K-2,104 uV K-1,2.5 Ohm cm,,773 K
+10.30546/209501.2024.1.3.077,ed81045f677092e8679784819bd15f32.pdf,AgSbTe2-PbTe,(AgSbTe2)0.8(PbTe)0.2,(AgSbTe2)0.8(PbTe)0.2,1,No,Pb,0.2,multiple sites,,Pb (0.2) @ multiple sites site,,55 uV/K,50 Ohm^-1 cm^-1,,80 K
+10.30546/209501.2024.1.3.077,ed81045f677092e8679784819bd15f32.pdf,AgSbTe2-PbTe,(AgSbTe2)0.8(PbTe)0.2,(AgSbTe2)0.8(PbTe)0.2,1,No,Pb,0.2,multiple sites,,Pb (0.2) @ multiple sites site,,60 uV/K,58 Ohm^-1 cm^-1,,200 K
+10.30546/209501.2024.1.3.077,ed81045f677092e8679784819bd15f32.pdf,AgSbTe2-PbTe,(AgSbTe2)0.8(PbTe)0.2,(AgSbTe2)0.8(PbTe)0.2,1,No,Pb,0.2,multiple sites,,Pb (0.2) @ multiple sites site,,65 uV/K,52 Ohm^-1 cm^-1,,300 K
+10.30546/209501.2024.1.3.077,ed81045f677092e8679784819bd15f32.pdf,AgSbTe2-PbTe,(AgSbTe2)0.8(PbTe)0.2,(AgSbTe2)0.8(PbTe)0.2,1,No,Pb,0.2,multiple sites,,Pb (0.2) @ multiple sites site,,122 uV/K,,,410 K
+10.30546/209501.2024.1.3.077,ed81045f677092e8679784819bd15f32.pdf,AgSbTe2-PbTe,(AgSbTe2)0.8(PbTe)0.2,(AgSbTe2)0.8(PbTe)0.2,1,No,Pb,0.2,multiple sites,,Pb (0.2) @ multiple sites site,,,35 Ohm^-1 cm^-1,,450 K
+10.30546/209501.2024.1.3.077,ed81045f677092e8679784819bd15f32.pdf,AgSbTe2-PbTe,(AgSbTe2)0.8(PbTe)0.2,(AgSbTe2)0.8(PbTe)0.2,1,No,Pb,0.2,multiple sites,,Pb (0.2) @ multiple sites site,,105 uV/K,44 Ohm^-1 cm^-1,,530 K
+10.30546/209501.2024.1.3.077,ed81045f677092e8679784819bd15f32.pdf,AgSbTe2-PbTe,(AgSbTe2)0.8(PbTe)0.2,(AgSbTe2)0.8(PbTe)0.2,1,No,Pb,0.2,unclear,,Pb (0.2) @ unclear site,,variable uV/K,variable (Ohm.cm)-1,,not reported
+10.1021/acsaelm.3c01653,el3c01653.pdf,AgSbTe2,Ag0.7Sb1.12Te1.95Se0.05,Ag0.7Sb1.12Te1.95Se0.05,3,Yes,Ag,0.7,Ag,Sb (1.12) @ Sb; Se (0.05) @ Te,Ag (0.7) @ Ag site; Sb (1.12) @ Sb site; Se (0.05) @ Te site,0.4 mW/mK^2,100 uV/K,,,300 K
+10.1021/acsaelm.3c01653,el3c01653.pdf,AgSbTe2,Ag0.7Sb1.12Te1.95Se0.05,Ag0.7Sb1.12Te1.95Se0.05,2,Yes,Ag,0.7,Ag,Se (0.05) @ Te,Ag (0.7) @ Ag site; Se (0.05) @ Te site,,,,0.20 dimensionless,300 K
+10.1021/acsaelm.3c01653,el3c01653.pdf,AgSbTe2,Ag0.7Sb1.12Te1.95Se0.05,Ag0.7Sb1.12Te1.95Se0.05,2,Yes,Ag,0.7,Ag,Se (0.05) @ Te,Ag (0.7) @ Ag site; Se (0.05) @ Te site,,,,0.60 dimensionless,500 K
+10.1021/acsaelm.3c01653,el3c01653.pdf,AgSbTe2,Ag0.7Sb1.12Te1.95Se0.05,Ag0.7Sb1.12Te1.95Se0.05,3,Yes,Ag vacancy,0.3,Ag,Sb (0.12) @ Ag; Se (0.05) @ Te,Ag vacancy (0.3) @ Ag site; Sb (0.12) @ Ag site; Se (0.05) @ Te site,0.9 mW m-1 K-2,209 μV K-1,,1.01 dimensionless,750 K
+10.1021/acsaelm.3c01653,el3c01653.pdf,AgSbTe2,Ag0.7Sb1.12Te1.95Se0.05,Ag0.7Sb1.12Te1.95Se0.05,3,Yes,Ag,0.7,Ag,Sb (1.12) @ Sb; Se (0.05) @ Te,Ag (0.7) @ Ag site; Sb (1.12) @ Sb site; Se (0.05) @ Te site,0.8 mW/mK^2,180 uV/K,,,750 K
+10.1021/acsaelm.3c01653,el3c01653.pdf,AgSbTe2,Ag0.7Sb1.12Te1.95Se0.05,Ag0.7Sb1.12Te1.95Se0.05,2,Yes,Ag,0.7,Ag,Se (0.05) @ Te,Ag (0.7) @ Ag site; Se (0.05) @ Te site,,,,1.01 dimensionless,750 K
+10.1021/acsaelm.3c01653,el3c01653.pdf,AgSbTe2,Ag0.7Sb1.12Te2,Ag0.7Sb1.12Te2,2,Yes,Ag,0.7,Ag,Sb (1.12) @ Sb,Ag (0.7) @ Ag site; Sb (1.12) @ Sb site,0.6 mW/mK^2,150 uV/K,,,300 K
+10.1021/acsaelm.3c01653,el3c01653.pdf,AgSbTe2,Ag0.7Sb1.12Te2,Ag0.7Sb1.12Te2,1,No,Ag,0.7,Ag,,Ag (0.7) @ Ag site,,,,0.25 dimensionless,300 K
+10.1021/acsaelm.3c01653,el3c01653.pdf,AgSbTe2,Ag0.7Sb1.12Te2,Ag0.7Sb1.12Te2,1,No,Ag,0.7,Ag,,Ag (0.7) @ Ag site,,,,0.70 dimensionless,500 K
+10.1021/acsaelm.3c01653,el3c01653.pdf,AgSbTe2,Ag0.7Sb1.12Te2,Ag0.7Sb1.12Te2,2,Yes,Ag vacancy,0.3,Ag,Sb (0.12) @ Ag,Ag vacancy (0.3) @ Ag site; Sb (0.12) @ Ag site,0.9 mW m-1 K-2,157 μV K-1,,1.25 dimensionless,750 K
+10.1021/acsaelm.3c01653,el3c01653.pdf,AgSbTe2,Ag0.7Sb1.12Te2,Ag0.7Sb1.12Te2,2,Yes,Ag,0.7,Ag,Sb (1.12) @ Sb,Ag (0.7) @ Ag site; Sb (1.12) @ Sb site,0.9 mW/mK^2,250 uV/K,,,750 K
+10.1021/acsaelm.3c01653,el3c01653.pdf,AgSbTe2,Ag0.7Sb1.12Te2,Ag0.7Sb1.12Te2,1,No,Ag,0.7,Ag,,Ag (0.7) @ Ag site,,,,1.25 dimensionless,750 K
+10.1021/acsaelm.3c01653,el3c01653.pdf,AgSbTe2,AgSbTe2,AgSbTe2,0,No,,,,,,,,,0.15 dimensionless,300 K
+10.1021/acsaelm.3c01653,el3c01653.pdf,AgSbTe2,AgSbTe2,AgSbTe2,0,No,,,,,,,,,0.40 dimensionless,500 K
+10.1021/acsaelm.3c01653,el3c01653.pdf,AgSbTe2,AgSbTe2,AgSbTe2,0,No,,,,,,,,,0.55 dimensionless,773 K
+10.1021/jacs.1c07522,ja1c07522.pdf,AgSbTe2,ATMS,AgMnSbTe3,1,No,Mn,equimolar ratio,multiple sites,,Mn (equimolar ratio) @ multiple sites site,6.1 μW cm-1 K-2,197 μV/K,158.4 S/cm,0.27 dimensionless,300 K
+10.1021/jacs.1c07522,ja1c07522.pdf,AgSbTe2,ATMS,AgMnSbTe3,1,No,Mn,equimolar ratio,multiple sites,,Mn (equimolar ratio) @ multiple sites site,,289 μV/K,,,573 K
+10.1021/jacs.1c07522,ja1c07522.pdf,AgSbTe2,ATMS,AgMnSbTe3,1,No,Mn,equimolar ratio,multiple sites,,Mn (equimolar ratio) @ multiple sites site,,,91.1 S/cm,,623 K
+10.1021/jacs.1c07522,ja1c07522.pdf,AgSbTe2,ATMS,AgMnSbTe3,1,No,Mn,equimolar ratio,multiple sites,,Mn (equimolar ratio) @ multiple sites site,12.2 μW cm-1 K-2,225 μV/K,242 S/cm,1.46 dimensionless,823 K
+10.1021/jacs.1c07522,ja1c07522.pdf,AgSbTe2,ATMS,AgMnSbTe3,1,No,Mn,equimolar ratio,multiple sites,,Mn (equimolar ratio) @ multiple sites site,,,,0.87 dimensionless,400-823 K
+10.1021/jacs.1c07522,ja1c07522.pdf,AgSbTe2,AgMnSbTe2 (m=1),AgMnSbTe2,1,No,Mn,equimolar,multiple sites,,Mn (equimolar) @ multiple sites site,6.1 uW cm-1 K-2,197 uV/K,,0.27 dimensionless,300 K
+10.1021/jacs.1c07522,ja1c07522.pdf,AgSbTe2,AgMnSbTe2 (m=1),AgMnSbTe2,1,No,Mn,equimolar,multiple sites,,Mn (equimolar) @ multiple sites site,,289 uV/K,,,573 K
+10.1021/jacs.1c07522,ja1c07522.pdf,AgSbTe2,AgMnSbTe2 (m=1),AgMnSbTe2,1,No,Mn,equimolar,multiple sites,,Mn (equimolar) @ multiple sites site,12.2 uW cm-1 K-2,225 uV/K,,0.87 dimensionless,823 K
+10.1021/jacs.1c07522,ja1c07522.pdf,AgSbTe2,AgMnSbTe3 (m=1),AgMnSbTe3,1,No,Mn,equimolar ratio,multiple sites,,Mn (equimolar ratio) @ multiple sites site,12.2 uW cm^-1 K^-2,240 uVK^-1,120 Scm^-1,1.46 dimensionless,823 K
+10.1021/jacs.1c08931,ja1c08931.pdf,(SnSe)0.5(AgSbTe2)0.5,(SnSe)0.5(AgSb1-xGexSe2)0.5 (x = 0.06),(SnSe)0.5(AgSb0.94Ge0.06Se2)0.5,1,No,Ge,6 mol %,Sb,,Ge (6 mol %) @ Sb site,7.88 μW/cm·K2,,,1.05 dimensionless,706 K
+10.1021/jacs.1c08931,ja1c08931.pdf,(SnSe)0.5(AgSbTe2)0.5,(SnSe)0.5(AgSb1-xGexSe2)0.5 (x = 0.08),(SnSe)0.5(AgSb0.92Ge0.08Se2)0.5,1,No,Ge,x = 0.08,Sb,,Ge (x = 0.08) @ Sb site,,78 μV/K,361 S/cm,,room temperature K
+10.1021/jacs.1c08931,ja1c08931.pdf,(SnSe)0.5(AgSbTe2)0.5,"(SnSe)0.5(AgSb1-xGexTe2)0.5, x=0.0",(SnSe)0.5(AgSbTe2)0.5,1,No,Ge,x=0.0,Sb,,Ge (x=0.0) @ Sb site,,194 uV/K,,,295 K
+10.1021/jacs.1c08931,ja1c08931.pdf,(SnSe)0.5(AgSbTe2)0.5,"(SnSe)0.5(AgSb1-xGexTe2)0.5, x=0.0",(SnSe)0.5(AgSbTe2)0.5,1,No,Ge,x=0.0,Sb,,Ge (x=0.0) @ Sb site,5.27 uW/cmK2,242 uV/K,,0.77 dimensionless,725 K
+10.1021/jacs.1c08931,ja1c08931.pdf,(SnSe)0.5(AgSbTe2)0.5,"(SnSe)0.5(AgSb1-xGexTe2)0.5, x=0.0",(SnSe)0.5(AgSbTe2)0.5,1,No,Ge,x=0.0,Sb,,Ge (x=0.0) @ Sb site,,,66 S/cm,,not reported
+10.1021/jacs.1c08931,ja1c08931.pdf,(SnSe)0.5(AgSbTe2)0.5,"(SnSe)0.5(AgSb1-xGexTe2)0.5, x=0.06",(SnSe)0.5(AgSb0.94Ge0.06Te2)0.5,1,No,Ge,x=0.06,Sb,,Ge (x=0.06) @ Sb site,7.88 uW/cmK2,,,1.05 dimensionless,706 K
+10.1021/jacs.1c08931,ja1c08931.pdf,(SnSe)0.5(AgSbTe2)0.5,"(SnSe)0.5(AgSb1-xGexTe2)0.5, x=0.08",(SnSe)0.5(AgSb0.92Ge0.08Te2)0.5,1,No,Ge,x=0.08,Sb,,Ge (x=0.08) @ Sb site,,78 uV/K,361 S/cm,,not reported
+10.1021/jacs.1c08931,ja1c08931.pdf,(SnSe)0.5(AgSbTe2)0.5,pristine (SnSe)0.5(AgSbSe2)0.5,(SnSe)0.5(AgSbSe2)0.5,0,No,,,,,,,194 μV/K,66 S/cm,,295 K
+10.1021/jacs.1c08931,ja1c08931.pdf,(SnSe)0.5(AgSbTe2)0.5,pristine (SnSe)0.5(AgSbSe2)0.5,(SnSe)0.5(AgSbSe2)0.5,0,No,,,,,,5.27 μW/cm·K2,242 μV/K,90 S/cm,0.77 dimensionless,725 K
+10.1021/jacs.3c09643,ja3c09643.pdf,AgSbTe2,AgSb0.94Hg0.06Te2,AgSb0.94Hg0.06Te2,1,No,Hg,6 mol %,Sb,,Hg (6 mol %) @ Sb site,11 uW cm-1 K-2,245 uV K-1,180 S cm-1,,300 K
+10.1021/jacs.3c09643,ja3c09643.pdf,AgSbTe2,AgSb0.94Hg0.06Te2,AgSb0.94Hg0.06Te2,1,No,Hg,0.06,Sb,,Hg (0.06) @ Sb site,,,,2.0 dimensionless,570 K
+10.1021/jacs.3c09643,ja3c09643.pdf,AgSbTe2,AgSb0.96Hg0.04Te2,AgSb0.96Hg0.04Te2,1,No,Hg,4 mol %,Sb,,Hg (4 mol %) @ Sb site,12.2 μW cm-1 K-2,240 μV K-1,212 S cm-1,,297 K
+10.1021/jacs.3c09643,ja3c09643.pdf,AgSbTe2,AgSb0.96Hg0.04Te2,AgSb0.96Hg0.04Te2,1,No,Hg,4 mol %,Sb,,Hg (4 mol %) @ Sb site,12 uW cm-1 K-2,240 uV K-1,212 S cm-1,,300 K
+10.1021/jacs.3c09643,ja3c09643.pdf,AgSbTe2,AgSb0.96Hg0.04Te2,AgSb0.96Hg0.04Te2,1,No,Hg,4 mol %,Sb,,Hg (4 mol %) @ Sb site,18.6 μW cm-1 K-2,,,2.4 dimensionless,570 K
+10.1021/jacs.3c09643,ja3c09643.pdf,AgSbTe2,AgSb0.96Hg0.04Te2,AgSb0.96Hg0.04Te2,1,No,Hg,0.04,Sb,,Hg (0.04) @ Sb site,,,,2.4 dimensionless,570 K
+10.1021/jacs.3c09643,ja3c09643.pdf,AgSbTe2,AgSb0.98Hg0.02Te2,AgSb0.98Hg0.02Te2,1,No,Hg,2 mol %,Sb,,Hg (2 mol %) @ Sb site,10 uW cm-1 K-2,250 uV K-1,160 S cm-1,,300 K
+10.1021/jacs.3c09643,ja3c09643.pdf,AgSbTe2,AgSb0.98Hg0.02Te2,AgSb0.98Hg0.02Te2,1,No,Hg,0.02,Sb,,Hg (0.02) @ Sb site,,,,1.6 dimensionless,570 K
+10.1021/jacs.3c09643,ja3c09643.pdf,AgSbTe2,AgSbTe2,AgSbTe2,0,No,,,,,,8 uW cm-1 K-2,273 uV K-1,104 S cm-1,,300 K
+10.1021/jacs.3c09643,ja3c09643.pdf,AgSbTe2,AgSbTe2,AgSbTe2,0,No,,,,,,,,,0.9 dimensionless,570 K
+10.1021/jacs.6c00040,ja6c00040.pdf,AgSbTe2,bulk Ag0.8Sb1.2Te2.2,Ag0.8Sb1.2Te2.2,0,No,,,,,,,180 μV/K,210 S/cm,,300 K
+10.1021/jacs.6c00040,ja6c00040.pdf,AgSbTe2,bulk Ag0.8Sb1.2Te2.2,Ag0.8Sb1.2Te2.2,3,Yes,Ag,0.8,Ag,Sb (1.2) @ Sb; Te (2.2) @ Te,Ag (0.8) @ Ag site; Sb (1.2) @ Sb site; Te (2.2) @ Te site,,180 uV/K,210 S/cm,0.2 dimensionless,300 K
+10.1021/jacs.6c00040,ja6c00040.pdf,AgSbTe2,bulk Ag0.8Sb1.2Te2.2,Ag0.8Sb1.2Te2.2,0,No,,,,,,,,110 S/cm,0.66 dimensionless,575 K
+10.1021/jacs.6c00040,ja6c00040.pdf,AgSbTe2,bulk Ag0.8Sb1.2Te2.2,Ag0.8Sb1.2Te2.2,3,Yes,Ag,0.8,Ag,Sb (1.2) @ Sb; Te (2.2) @ Te,Ag (0.8) @ Ag site; Sb (1.2) @ Sb site; Te (2.2) @ Te site,,240 uV/K,110 S/cm,0.6 dimensionless,575 K
+10.1021/jacs.6c00040,ja6c00040.pdf,AgSbTe2,nanocrystalline Ag0.8Sb1.2Te2.2,Ag0.8Sb1.2Te2.2,0,No,,,,,,,330 μV/K,25 S/cm,,300 K
+10.1021/jacs.6c00040,ja6c00040.pdf,AgSbTe2,nanocrystalline Ag0.8Sb1.2Te2.2,Ag0.8Sb1.2Te2.2,3,Yes,Ag,0.8,Ag,Sb (1.2) @ Sb; Te (2.2) @ Te,Ag (0.8) @ Ag site; Sb (1.2) @ Sb site; Te (2.2) @ Te site,,330 uV/K,25 S/cm,0.4 dimensionless,300 K
+10.1021/jacs.6c00040,ja6c00040.pdf,AgSbTe2,nanocrystalline Ag0.8Sb1.2Te2.2,Ag0.8Sb1.2Te2.2,0,No,,,,,,,300 μV/K,50 S/cm,1.2 dimensionless,575 K
+10.1021/jacs.6c00040,ja6c00040.pdf,AgSbTe2,nanocrystalline Ag0.8Sb1.2Te2.2,Ag0.8Sb1.2Te2.2,3,Yes,Ag,0.8,Ag,Sb (1.2) @ Sb; Te (2.2) @ Te,Ag (0.8) @ Ag site; Sb (1.2) @ Sb site; Te (2.2) @ Te site,,280 uV/K,50 S/cm,1.2 dimensionless,575 K
+10.1021/acs.jpcc.4c04467,jp4c04467.pdf,AgSbTe2,AgSbTe1.92S0.08,AgSbTe1.92S0.08,1,No,S,x=0.08,Te,,S (x=0.08) @ Te site,,,,0.35 dimensionless,300 K
+10.1021/acs.jpcc.4c04467,jp4c04467.pdf,AgSbTe2,AgSbTe1.92S0.08,AgSbTe1.92S0.08,1,No,S,x = 0.08,Te,,S (x = 0.08) @ Te site,10.73 μW cm-1 K-1,,,1.31 dimensionless,573 K
+10.1021/acs.jpcc.4c04467,jp4c04467.pdf,AgSbTe2,AgSbTe1.92S0.08,AgSbTe1.92S0.08,1,No,S,x=0.08,Te,,S (x=0.08) @ Te site,,,,1.3 dimensionless,600 K
+10.1021/acs.jpcc.4c04467,jp4c04467.pdf,AgSbTe2,AgSbTe1.94S0.06,AgSbTe1.94S0.06,1,No,S,x = 0.06,Te,,S (x = 0.06) @ Te site,,189 μV K-1,192 S cm-1,,300 K
+10.1021/acs.jpcc.4c04467,jp4c04467.pdf,AgSbTe2,AgSbTe1.94S0.06,AgSbTe1.94S0.06,1,No,S,0.06,Te,,S (0.06) @ Te site,,,192 S cm-1,,300 K
+10.1021/acs.jpcc.4c04467,jp4c04467.pdf,AgSbTe2,AgSbTe1.94S0.06,AgSbTe1.94S0.06,1,No,S,x=0.06,Te,,S (x=0.06) @ Te site,,,,0.3 dimensionless,300 K
+10.1021/acs.jpcc.4c04467,jp4c04467.pdf,AgSbTe2,AgSbTe1.94S0.06,AgSbTe1.94S0.06,1,No,S,x=0.06,Te,,S (x=0.06) @ Te site,,,,1.2 dimensionless,600 K
+10.1021/acs.jpcc.4c04467,jp4c04467.pdf,AgSbTe2,AgSbTe1.96S0.04,AgSbTe1.96S0.04,1,No,S,x=0.04,Te,,S (x=0.04) @ Te site,,,,0.3 dimensionless,300 K
+10.1021/acs.jpcc.4c04467,jp4c04467.pdf,AgSbTe2,AgSbTe1.96S0.04,AgSbTe1.96S0.04,1,No,S,x=0.04,Te,,S (x=0.04) @ Te site,,,,1.15 dimensionless,600 K
+10.1021/acs.jpcc.4c04467,jp4c04467.pdf,AgSbTe2,AgSbTe1.9S0.1,AgSbTe1.9S0.1,1,No,S,x=0.1,Te,,S (x=0.1) @ Te site,,,,0.3 dimensionless,300 K
+10.1021/acs.jpcc.4c04467,jp4c04467.pdf,AgSbTe2,AgSbTe1.9S0.1,AgSbTe1.9S0.1,1,No,S,x=0.1,Te,,S (x=0.1) @ Te site,,,,1.25 dimensionless,600 K
+10.1021/acs.jpcc.4c04467,jp4c04467.pdf,AgSbTe2,AgSbTe2,AgSbTe2,0,No,,,,,,,197 μV K-1,164 S cm-1,0.3 dimensionless,300 K
+10.1021/acs.jpcc.4c04467,jp4c04467.pdf,AgSbTe2,AgSbTe2,AgSbTe2,0,No,,,,,,,,,1.05 dimensionless,600 K
+10.3390/ma15082843,materials-15-02843.pdf,AgSbTe2-family,9-AgSbTe2,AgSbTe2,1,No,carrier concentration,10^20 e-/cm^3,unclear,,carrier concentration (10^20 e-/cm^3) @ unclear site,,150 uV/K,,,300 K
+10.3390/ma15082843,materials-15-02843.pdf,AgSbTe2-family,9-AgSbTe2,AgSbTe2,1,No,carrier concentration,10^20 e-/cm^3,unclear,,carrier concentration (10^20 e-/cm^3) @ unclear site,,250 uV/K,,,600 K
+10.3390/ma15082843,materials-15-02843.pdf,AgSbTe2-family,9-AgSbTe2,AgSbTe2,1,No,carrier concentration,10^20 e-/cm^3,unclear,,carrier concentration (10^20 e-/cm^3) @ unclear site,,300 uV/K,,,900 K
+10.3390/ma15082843,materials-15-02843.pdf,AgSbTe2-family,AgSb0.94Cd0.06Te2,AgSb0.94Cd0.06Te2,1,No,Cd,6 mol%,Sb,,Cd (6 mol%) @ Sb site,1.5 10^11 W/cm.K^2.s,250 uV/K,4.5 10^18 1/ohm.cm.s,,300 K
+10.3390/ma15082843,materials-15-02843.pdf,AgSbTe2-family,AgSb0.94Cd0.06Te2,AgSb0.94Cd0.06Te2,1,No,Cd,0.06,Sb,,Cd (0.06) @ Sb site,,,,2.36 dimensionless,700 K
+10.3390/ma15082843,materials-15-02843.pdf,AgSbTe2-family,AgSb0.94Cd0.06Te2,AgSb0.94Cd0.06Te2,1,No,Cd,6 mol%,Sb,,Cd (6 mol%) @ Sb site,,,,2.36 dimensionless,700 K
+10.3390/ma15082843,materials-15-02843.pdf,AgSbTe2-family,AgSb0.94Cd0.06Te2,AgSb0.94Cd0.06Te2,1,No,Cd,6 mol%,Sb,,Cd (6 mol%) @ Sb site,4.5 10^11 W/cm.K^2.s,350 uV/K,5.0 10^18 1/ohm.cm.s,,900 K
+10.3390/ma15082843,materials-15-02843.pdf,AgSbTe2-family,AgSbTe1.85Se0.15,AgSbTe1.85Se0.15,1,No,Se,0.15,Te,,Se (0.15) @ Te site,2.5 10^11 W/cm.K^2.s,200 uV/K,8.5 10^18 1/ohm.cm.s,,300 K
+10.3390/ma15082843,materials-15-02843.pdf,AgSbTe2-family,AgSbTe1.85Se0.15,AgSbTe1.85Se0.15,1,No,Se,0.15,Te,,Se (0.15) @ Te site,,,,2.39 dimensionless,700 K
+10.3390/ma15082843,materials-15-02843.pdf,AgSbTe2-family,AgSbTe1.85Se0.15,AgSbTe1.85Se0.15,1,No,Se,0.15,Te,,Se (0.15) @ Te site,5.5 10^11 W/cm.K^2.s,300 uV/K,4.5 10^18 1/ohm.cm.s,,900 K
+10.3390/nano12213910,nanomaterials-12-03910.pdf,AgSbTe2,AgSbTe2 (arc-melted),AgSbTe2,0,No,,,,,,,,,0.6 dimensionless,680 K
+10.3390/nano12213910,nanomaterials-12-03910.pdf,AgSbTe2,AgSbTe2 (arc-melted),AgSbTe2,0,No,,,,,,,,3.57e3 to 3.85e3 S/cm,,300-770 K
+10.3390/nano12213910,nanomaterials-12-03910.pdf,AgSbTe2,AgSbTe2 (arc-melted),AgSbTe2,0,No,,,,,,,200 to 340 uV/K,,,300-700 K
+10.3390/nano12213910,nanomaterials-12-03910.pdf,AgSbTe2,AgSbTe2 (arc-melted),AgSbTe2,0,No,,,,,,0.4 mW/m*K^2,,,,540-640 K
+10.3390/nano12213910,nanomaterials-12-03910.pdf,AgSbTe2,arc-melted AgSbTe2,AgSbTe2,0,No,,,,,,0.15 mW m-1 K-2,200 uV K-1,,0.1 dimensionless,300 K
+10.3390/nano12213910,nanomaterials-12-03910.pdf,AgSbTe2,arc-melted AgSbTe2,AgSbTe2,0,No,,,,,,,340 uV K-1,,,540 K
+10.3390/nano12213910,nanomaterials-12-03910.pdf,AgSbTe2,arc-melted AgSbTe2,AgSbTe2,0,No,,,,,,0.38 mW m-1 K-2,,,,550 K
+10.3390/nano12213910,nanomaterials-12-03910.pdf,AgSbTe2,arc-melted AgSbTe2,AgSbTe2,0,No,,,,,,,,,0.6 dimensionless,680 K
+10.1021/acsenergylett.1c01184,nz1c01184.pdf,AgSbTe2,6 mol % Cd-doped AgSbTe2,AgSb1-xCdxTe2 (x=0.06),1,No,Cd,6 mol %,Sb,,Cd (6 mol %) @ Sb site,,,222 S cm-1,,300 K
+10.1021/acsenergylett.1c01184,nz1c01184.pdf,AgSbTe2,6 mol % Cd-doped AgSbTe2,AgSb1-xCdxTe2 (x=0.06),1,No,Cd,6 mol %,Sb,,Cd (6 mol %) @ Sb site,18.3 μW cm-1 K-2,,,,543 K
+10.1021/acsenergylett.1c01184,nz1c01184.pdf,AgSbTe2,6 mol % Cd-doped AgSbTe2,AgSb1-xCdxTe2 (x=0.06),1,No,Cd,6 mol %,Sb,,Cd (6 mol %) @ Sb site,,,,2.6 dimensionless,573 K
+10.1021/acsenergylett.1c01184,nz1c01184.pdf,AgSbTe2,Ag0.94Cd0.06Te2,Ag0.94Cd0.06Te2,1,No,Cd,6 mol %,Sb,,Cd (6 mol %) @ Sb site,,,,1.2 dimensionless,300 K
+10.1021/acsenergylett.1c01184,nz1c01184.pdf,AgSbTe2,Ag0.94Cd0.06Te2,Ag0.94Cd0.06Te2,1,No,Cd,6 mol %,Sb,,Cd (6 mol %) @ Sb site,,,,1.8 dimensionless,400 K
+10.1021/acsenergylett.1c01184,nz1c01184.pdf,AgSbTe2,Ag0.94Cd0.06Te2,Ag0.94Cd0.06Te2,1,No,Cd,6 mol %,Sb,,Cd (6 mol %) @ Sb site,,,,2.3 dimensionless,500 K
+10.1021/acsenergylett.1c01184,nz1c01184.pdf,AgSbTe2,Ag0.94Cd0.06Te2,Ag0.94Cd0.06Te2,1,No,Cd,6 mol %,Sb,,Cd (6 mol %) @ Sb site,,,,2.6 dimensionless,573 K
+10.1021/acsenergylett.1c01184,nz1c01184.pdf,AgSbTe2,Ag0.95Sb0.95Mn0.10Te2,Ag0.95Sb0.95Mn0.10Te2,1,No,Mn,0.10,multiple sites,,Mn (0.10) @ multiple sites site,,,,0.74 dimensionless,550 K
+10.1021/acsenergylett.1c01184,nz1c01184.pdf,AgSbTe2,Ag0.96Zn0.04Te2,Ag0.96Zn0.04Te2,1,No,Zn,4 mol %,Sb,,Zn (4 mol %) @ Sb site,,,,0.8 dimensionless,300 K
+10.1021/acsenergylett.1c01184,nz1c01184.pdf,AgSbTe2,Ag0.96Zn0.04Te2,Ag0.96Zn0.04Te2,1,No,Zn,4 mol %,Sb,,Zn (4 mol %) @ Sb site,,,,1.2 dimensionless,400 K
+10.1021/acsenergylett.1c01184,nz1c01184.pdf,AgSbTe2,Ag0.96Zn0.04Te2,Ag0.96Zn0.04Te2,1,No,Zn,4 mol %,Sb,,Zn (4 mol %) @ Sb site,,,,1.5 dimensionless,500 K
+10.1021/acsenergylett.1c01184,nz1c01184.pdf,AgSbTe2,Ag0.96Zn0.04Te2,Ag0.96Zn0.04Te2,1,No,Zn,4 mol %,Sb,,Zn (4 mol %) @ Sb site,,,,1.6 dimensionless,600 K
+10.1021/acsenergylett.1c01184,nz1c01184.pdf,AgSbTe2,AgSb0.93In0.07Te2,AgSb0.93In0.07Te2,1,No,In,0.07,Sb,,In (0.07) @ Sb site,,,,1.35 dimensionless,650 K
+10.1021/acsenergylett.1c01184,nz1c01184.pdf,AgSbTe2,AgSb0.95Bi0.05Te2,AgSb0.95Bi0.05Te2,1,No,Bi,0.05,Sb,,Bi (0.05) @ Sb site,,,,1.04 dimensionless,570 K
+10.1021/acsenergylett.1c01184,nz1c01184.pdf,AgSbTe2,AgSb0.96Zn0.04Te2,AgSb0.96Zn0.04Te2,1,No,Zn,0.04,Sb,,Zn (0.04) @ Sb site,,,160 S cm-1,,300 K
+10.1021/acsenergylett.1c01184,nz1c01184.pdf,AgSbTe2,AgSb0.96Zn0.04Te2,AgSb0.96Zn0.04Te2,1,No,Zn,0.04,Sb,,Zn (0.04) @ Sb site,17.3 μW cm-1 K-2,,,1.9 dimensionless,585 K
+10.1021/acsenergylett.1c01184,nz1c01184.pdf,AgSbTe2,AgSb0.99La0.01Te2,AgSb0.99La0.01Te2,1,No,La,0.01,Sb,,La (0.01) @ Sb site,,,,1.50 dimensionless,573 K
+10.1021/acsenergylett.1c01184,nz1c01184.pdf,AgSbTe2,AgSb1-xCd xTe2 (x=0.02),AgSb0.98Cd0.02Te2,1,No,Cd,2 mol %,Sb,,Cd (2 mol %) @ Sb site,10 uW cm-1 K-2,240 uV/K,150 S cm-1,1.1 dimensionless,300 K
+10.1021/acsenergylett.1c01184,nz1c01184.pdf,AgSbTe2,AgSb1-xCd xTe2 (x=0.06),AgSb0.94Cd0.06Te2,1,No,Cd,6 mol %,Sb,,Cd (6 mol %) @ Sb site,,,222 S cm-1,,300 K
+10.1021/acsenergylett.1c01184,nz1c01184.pdf,AgSbTe2,AgSb1-xCd xTe2 (x=0.06),AgSb0.94Cd0.06Te2,1,No,Cd,6 mol %,Sb,,Cd (6 mol %) @ Sb site,18.3 uW cm-1 K-2,,,,543 K
+10.1021/acsenergylett.1c01184,nz1c01184.pdf,AgSbTe2,AgSb1-xCd xTe2 (x=0.06),AgSb0.94Cd0.06Te2,1,No,Cd,6 mol %,Sb,,Cd (6 mol %) @ Sb site,,,,2.6 dimensionless,573 K
+10.1021/acsenergylett.1c01184,nz1c01184.pdf,AgSbTe2,AgSbTe1.85Se0.15,AgSbTe1.85Se0.15,1,No,Se,0.15,Te,,Se (0.15) @ Te site,14.5 μW cm-1 K-2,,,2.1 dimensionless,550 K
+10.1021/acsenergylett.1c01184,nz1c01184.pdf,AgSbTe2,AgSbTe1.98Se0.02,AgSbTe1.98Se0.02,1,No,Se,0.02,Te,,Se (0.02) @ Te site,,,,1.35 dimensionless,600 K
+10.1021/acsenergylett.1c01184,nz1c01184.pdf,AgSbTe2,AgSbTe2,AgSbTe2,0,No,,,,,,,,130 S cm-1,,300 K
+10.1021/acsenergylett.1c01184,nz1c01184.pdf,AgSbTe2,AgSbTe2,AgSbTe2,0,No,,,,,,,,,1 dimensionless,450 K
+10.1021/acsenergylett.1c01184,nz1c01184.pdf,AgSbTe2,Na0.02Ag0.98SbTe2.02,Na0.02Ag0.98SbTe2.02,1,No,Na,0.02,Ag,,Na (0.02) @ Ag site,,,,1.5 dimensionless,570 K
+10.1021/acsenergylett.6b00639,nz6b00639.pdf,AgSbTe2,Ag0.96Zn0.04Te2,Ag0.96Zn0.04Te2,1,No,Zn,0.04,Sb,,Zn (0.04) @ Sb site,11.5 µW cm-1 K-2,275 µV/K,145 S/cm,,300 K
+10.1021/acsenergylett.6b00639,nz6b00639.pdf,AgSbTe2,Ag0.96Zn0.04Te2,Ag0.96Zn0.04Te2,1,No,Zn,0.04,Sb,,Zn (0.04) @ Sb site,,,145 S/cm,,475 K
+10.1021/acsenergylett.6b00639,nz6b00639.pdf,AgSbTe2,Ag0.96Zn0.04Te2,Ag0.96Zn0.04Te2,1,No,Zn,0.04,Sb,,Zn (0.04) @ Sb site,17.3 µW cm-1 K-2,,,1.9 dimensionless,585 K
+10.1021/acsenergylett.6b00639,nz6b00639.pdf,AgSbTe2,Ag0.96Zn0.04Te2,Ag0.96Zn0.04Te2,1,No,Zn,0.04,Sb,,Zn (0.04) @ Sb site,,235 µV/K,,,610 K
+10.1021/acsenergylett.6b00639,nz6b00639.pdf,AgSbTe2,Ag0.96Zn0.04Te2,Ag0.96Zn0.04Te2,1,No,Zn,0.04,Sb,,Zn (0.04) @ Sb site,,,227 S/cm,,632 K
+10.1021/acsenergylett.6b00639,nz6b00639.pdf,AgSbTe2,AgSb0.96Zn0.04Te2,AgSb0.96Zn0.04Te2,1,No,Zn,0.04,Sb,,Zn (0.04) @ Sb site,11.5 μW cm-1 K-2,235 μV/K,160 S/cm,,300 K
+10.1021/acsenergylett.6b00639,nz6b00639.pdf,AgSbTe2,AgSb0.96Zn0.04Te2,AgSb0.96Zn0.04Te2,1,No,Zn,0.04,Sb,,Zn (0.04) @ Sb site,,,145 S/cm,,475 K
+10.1021/acsenergylett.6b00639,nz6b00639.pdf,AgSbTe2,AgSb0.96Zn0.04Te2,AgSb0.96Zn0.04Te2,1,No,Zn,0.04,Sb,,Zn (0.04) @ Sb site,17.3 μW cm-1 K-2,,,1.9 dimensionless,585 K
+10.1021/acsenergylett.6b00639,nz6b00639.pdf,AgSbTe2,AgSb0.96Zn0.04Te2,AgSb0.96Zn0.04Te2,1,No,Zn,0.04,Sb,,Zn (0.04) @ Sb site,,275 μV/K,,,610 K
+10.1021/acsenergylett.6b00639,nz6b00639.pdf,AgSbTe2,AgSb0.96Zn0.04Te2,AgSb0.96Zn0.04Te2,1,No,Zn,0.04,Sb,,Zn (0.04) @ Sb site,,,227 S/cm,,632 K
+10.1021/acsenergylett.6b00639,nz6b00639.pdf,AgSbTe2,AgSb1-xZnxTe2 (x=0.04),AgSb0.96Zn0.04Te2,1,No,Zn,0.04,Sb,,Zn (0.04) @ Sb site,,,,1.9 dimensionless,585 K
+10.1021/acsenergylett.6b00639,nz6b00639.pdf,AgSbTe2,AgSbTe2,AgSbTe2,0,No,,,,,,9.6 μW cm-1 K-2,264 μV/K,136 S/cm,,300 K
+10.1021/acsenergylett.6b00639,nz6b00639.pdf,AgSbTe2,AgSbTe2,AgSbTe2,0,No,,,,,,,360 μV/K,,,438 K
+10.1021/acsenergylett.6b00639,nz6b00639.pdf,AgSbTe2,AgSbTe2,AgSbTe2,0,No,,,,,,7.9 μW cm-1 K-2,,,,610 K
+10.1021/acsenergylett.8b00137,nz8b00137.pdf,AgSnmSbTe2+m,AgSn5SbTe7,AgSn5SbTe7,1,No,I,0.6 atom %,Te,,I (0.6 atom %) @ Te site,,,,1.2 dimensionless,800 K
+10.1021/acsenergylett.8b00137,nz8b00137.pdf,AgSnmSbTe2+m,AgSnmSbTe2+m (m=5),AgSn5SbTe7,2,Yes,Ag,m=5,Sn,Sb (m=5) @ Sn,Ag (m=5) @ Sn site; Sb (m=5) @ Sn site,,110 uV/K,2500 S/cm,0.4 dimensionless,300 K
+10.1021/acsenergylett.8b00137,nz8b00137.pdf,AgSnmSbTe2+m,AgSnmSbTe2+m (m=5),AgSn5SbTe7,2,Yes,Ag,m=5,Sn,Sb (m=5) @ Sn,Ag (m=5) @ Sn site; Sb (m=5) @ Sn site,,,,1.2 dimensionless,800 K
+10.1021/acsenergylett.8b00137,nz8b00137.pdf,AgSnmSbTe2+m,AgSnmSbTe2+m (m=50),AgSn50SbTe52,2,Yes,Ag,m=50,Sn,Sb (m=50) @ Sn,Ag (m=50) @ Sn site; Sb (m=50) @ Sn site,,45 uV/K,6500 S/cm,0.2 dimensionless,300 K
+10.1021/acsenergylett.8b00137,nz8b00137.pdf,AgSnmSbTe2+m,m=15,AgSn15SbTe17,0,No,,,,,,,,26 cm2 V-1 s-1 | 9.1 10^20 cm-3,,room temperature K
+10.1021/acsenergylett.8b00137,nz8b00137.pdf,AgSnmSbTe2+m,m=20,AgSn20SbTe22,0,No,,,,,,,,32 cm2 V-1 s-1 | 8.3 10^20 cm-3,,room temperature K
+10.1021/acsenergylett.8b00137,nz8b00137.pdf,AgSnmSbTe2+m,m=25,AgSn25SbTe27,0,No,,,,,,,,35 cm2 V-1 s-1 | 7.8 10^20 cm-3,,room temperature K
+10.1021/acsenergylett.8b00137,nz8b00137.pdf,AgSnmSbTe2+m,m=5,AgSn5SbTe7,0,No,,,,,,,,10 cm2 V-1 s-1 | 14.5 10^20 cm-3,,room temperature K
+10.1021/acsenergylett.8b00137,nz8b00137.pdf,AgSnmSbTe2+m,m=50,AgSn50SbTe52,0,No,,,,,,,,5.4 10^20 cm-3 | 62 cm2 V-1 s-1,,room temperature K
+10.1007/s10854-025-15118-x,s10854-025-15118-x.pdf,AgSbTe2,BM-400,AgSbTe2,0,No,,,,,,,,37.80 cm²·V⁻1·s⁻1,,300 K
+10.1007/s10854-025-15118-x,s10854-025-15118-x.pdf,AgSbTe2,BM-450,AgSbTe2,0,No,,,,,,,,,1.38 dimensionless,600 K
+10.1007/s10854-025-15118-x,s10854-025-15118-x.pdf,AgSbTe2,MQ-350,AgSbTe2,0,No,,,,,,2.79 μW·cm-1·K-2 | 2.79 μW·cm⁻1·K⁻2,,,,300 K
+10.1007/s10854-025-15118-x,s10854-025-15118-x.pdf,AgSbTe2,MQ-450,AgSbTe2,0,No,,,,,,9.52 μW·cm-1·K-2 | 9.52 μW·cm⁻1·K⁻2,235 μV·K-1 | 235 μV·K⁻1,1.79 x 10^4 S·m-1 | 1.79 × 10^4 S·m⁻1,,300 K
+10.1007/s10854-025-15118-x,s10854-025-15118-x.pdf,AgSbTe2,MQ-450,AgSbTe2,0,No,,,,,,,295 μV·K-1 | 295 μV·K⁻1,,,500 K
+10.1007/s10854-025-15118-x,s10854-025-15118-x.pdf,AgSbTe2,MQ-450,AgSbTe2,0,No,,,,,,13.16 μW·cm⁻1·K⁻2,,,1.67 dimensionless,600 K
+10.1007/s10854-026-17196-x,s10854-026-17196-x.pdf,AgSbTe2,AST-110,AgSbTe2,0,No,,,,,,460.3 µW m−1 K−2,122.0 µVK−1,3.09 × 104 S m−1,,300 K
+10.1007/s10854-026-17196-x,s10854-026-17196-x.pdf,AgSbTe2,AST-50,AgSbTe2,0,No,,,,,,171.5 µW m−1 K−2,303.0 µVK−1,0.19 × 104 S m−1,,300 K
+10.1007/s10854-026-17196-x,s10854-026-17196-x.pdf,AgSbTe2,AST-70,AgSbTe2,0,No,,,,,,1179.2 µW m−1 K−2,200.2 µVK−1,2.95 × 104 S m−1,,300 K
+10.1007/s10854-026-17196-x,s10854-026-17196-x.pdf,AgSbTe2,AST-90,AgSbTe2,0,No,,,,,,1264.6 µW m−1 K−2,175.2 µVK−1,4.12 * 10^4 S m^-1 | 4.12 × 104 S m−1,,300 K
+10.1007/s10854-026-17196-x,s10854-026-17196-x.pdf,AgSbTe2,AST-AS,AgSbTe2,0,No,,,,,,106.6 µW m−1 K−2,404.5 µVK−1,0.06 × 104 S m−1,,300 K
+10.1007/s11664-009-0669-7,s11664-009-0669-7.pdf,AgSbTe2,1% BiTe doped AgSbTe2,AgSbTe2 + 1% BiTe,2,Yes,Bi,1%,Sb,Te (1%) @ unclear,Bi (1%) @ Sb site; Te (1%) @ unclear site,,,,0.45 dimensionless,400 K
+10.1007/s11664-009-0669-7,s11664-009-0669-7.pdf,AgSbTe2,1% NaSe0.5Te0.5 doped AgSbTe2,AgSbTe2 + 1% NaSe0.5Te0.5,3,Yes,Na,1%,unclear,Se (0.5%) @ unclear; Te (0.5%) @ unclear,Na (1%) @ unclear site; Se (0.5%) @ unclear site; Te (0.5%) @ unclear site,,,,1.2 dimensionless,400 K
+10.1007/s11664-009-0669-7,s11664-009-0669-7.pdf,AgSbTe2,1% NaTe doped AgSbTe2,AgSbTe2 + 1% NaTe,2,Yes,Na,1%,unclear,Te (1%) @ unclear,Na (1%) @ unclear site; Te (1%) @ unclear site,,,,0.87 dimensionless,400 K
+10.1007/s11664-009-0669-7,s11664-009-0669-7.pdf,AgSbTe2,1% excess Pb doped AgSbTe2,AgSbTe2 + 1% Pb,1,No,Pb,1%,Ag,,Pb (1%) @ Ag site,,,,0.45 dimensionless,400 K
+10.1007/s11664-009-0669-7,s11664-009-0669-7.pdf,AgSbTe2,1.5% TlTe doped AgSbTe2,AgSbTe2 + 1.5% TlTe,2,Yes,Tl,1.5%,Sb,Te (1.5%) @ unclear,Tl (1.5%) @ Sb site; Te (1.5%) @ unclear site,,,,1.05 dimensionless,400 K
+10.1007/s11664-009-0669-7,s11664-009-0669-7.pdf,AgSbTe2,2% AgTe doped AgSbTe2,AgSbTe2 + 2% AgTe,2,Yes,Ag,2%,unclear,Te (2%) @ unclear,Ag (2%) @ unclear site; Te (2%) @ unclear site,,,,0.55 dimensionless,400 K
+10.1007/s11664-009-0669-7,s11664-009-0669-7.pdf,AgSbTe2,AgSbTe2:2% AgTe,AgSbTe2 doped with 2 at.% excess AgTe,1,No,Ag,2 at.%,unclear,,Ag (2 at.%) @ unclear site,,,,0.87 dimensionless | 1.05 dimensionless | 1.2 dimensionless,400 K
+10.1007/s11664-009-0669-7,s11664-009-0669-7.pdf,AgSbTe2,AgSbTe2:2% AgTe,AgSbTe2 doped with 2 at.% excess AgTe,1,No,Ag,2 at.%,unclear,,Ag (2 at.%) @ unclear site,,,,0.5 dimensionless,not reported
+10.1007/s11664-009-0669-7,s11664-009-0669-7.pdf,AgSbTe2,undoped AgSbTe2,AgSbTe2,0,No,,,,,,,,,0.5 dimensionless,400 K
+10.1007/s11664-015-4102-0,s11664-015-4102-0.pdf,AgSbTe2,AgSbTe1.98Se0.02,AgSbTe1.98Se0.02,1,No,Se,0.02,Te,,Se (0.02) @ Te site,,,1.6 * 10^4 S m-1 | 16000 Sm^-1,,323 K
+10.1007/s11664-015-4102-0,s11664-015-4102-0.pdf,AgSbTe2,AgSbTe1.98Se0.02,AgSbTe1.98Se0.02,1,No,Se,0.02,Te,,Se (0.02) @ Te site,,278 uV K-1,,1.07 dimensionless,563 K
+10.1007/s11664-015-4102-0,s11664-015-4102-0.pdf,AgSbTe2,AgSbTe2,AgSbTe2,0,No,,,,,,,220 uV K^-1,4000 S m^-1,0.2 dimensionless,300 K
+10.1007/s11664-015-4102-0,s11664-015-4102-0.pdf,AgSbTe2,AgSbTe2,AgSbTe2,0,No,,,,,,,,1.5 * 10^4 S m-1,,323 K
+10.1007/s11664-015-4102-0,s11664-015-4102-0.pdf,AgSbTe2,AgSbTe2,AgSbTe2,0,No,,,,,,,340 uV K^-1,6000 S m^-1,0.4 dimensionless,400 K
+10.1007/s11664-015-4102-0,s11664-015-4102-0.pdf,AgSbTe2,AgSbTe2,AgSbTe2,0,No,,,,,,,270 uV K-1,,,574 K
+10.1007/s11664-015-4102-0,s11664-015-4102-0.pdf,AgSbTe2,AgSbTe2,AgSbTe2,0,No,,,,,,,,,0.65 dimensionless,575 K
+10.1007/s11664-015-4102-0,s11664-015-4102-0.pdf,AgSbTe2,AgSbTe2,AgSbTe2,0,No,,,,,,,280 uV K^-1,7000 S m^-1,0.5 dimensionless,600 K
+10.1007/s11664-024-11310-7,s11664-024-11310-7.pdf,AgSbTe2,Ag0.7Sb1.12Te2,Ag0.7Sb1.12Te2,2,Yes,Ag,0.7,Ag,Sb (1.12) @ Sb,Ag (0.7) @ Ag site; Sb (1.12) @ Sb site,0.6 W m-1 K-2,,,0.61 dimensionless,750 K
+10.1007/s11664-024-11310-7,s11664-024-11310-7.pdf,AgSbTe2,Ag0.7Sb1.12Te2,Ag0.7Sb1.12Te2,1,No,Sb,1.12,unclear,,Sb (1.12) @ unclear site,0.6 W m^-1 K^-2,,,0.61 dimensionless,750 K
+10.1007/s11664-024-11310-7,s11664-024-11310-7.pdf,AgSbTe2,AgSbTe2,AgSbTe2,1,No,Hg,not specified,unclear,,Hg (not specified) @ unclear site,,,,not specified dimensionless,570 K
+10.1007/s11664-024-11310-7,s11664-024-11310-7.pdf,AgSbTe2,AgSbTe2 (Hg doped),AgSbTe2,1,No,Hg,unspecified,unclear,,Hg (unspecified) @ unclear site,,,,unspecified dimensionless,570 K
+10.1007/s11664-024-11310-7,s11664-024-11310-7.pdf,AgSbTe2,Cu2-yAgxTe0.6S0.2Se0.2,Cu2-yAgxTe0.6S0.2Se0.2,2,Yes,Ag,y,unclear,Ag (x) @ unclear,Ag (y) @ unclear site; Ag (x) @ unclear site,visually estimated from Fig. 8d uW/cmK^2,visually estimated from Fig. 8d uV/K,visually estimated from Fig. 8d S/cm,visually estimated from Fig. 8d dimensionless,not reported
+10.1007/s12613-011-0446-5,s12613-011-0446-5.pdf,Ag0.84Sb1.15Te2.16,Ag0.84Sb1.15Ce0.01Te2.16,Ag0.84Sb1.15Ce0.01Te2.16,1,No,Ce,0.01,Sb,,Ce (0.01) @ Sb site,,,2.5×10^4 S·m−1,,673 K
+10.1007/s12613-011-0446-5,s12613-011-0446-5.pdf,Ag0.84Sb1.15Te2.16,Ag0.84Sb1.15Yb0.01Te2.16,Ag0.84Sb1.15Yb0.01Te2.16,1,No,Yb,0.01,Sb,,Yb (0.01) @ Sb site,,,2.3×10^4 S·m−1,,673 K
+10.1007/s12613-011-0446-5,s12613-011-0446-5.pdf,Ag0.84Sb1.15Te2.16,AgSbTe2,Ag0.84Sb1.15Te2.16,0,No,,,,,,2.1 10^-3 W/mK^2,290 uV/K,2.6 10^4 S/m,0.8 dimensionless,300 K
+10.1007/s12613-011-0446-5,s12613-011-0446-5.pdf,Ag0.84Sb1.15Te2.16,AgSbTe2-Ce,Ag0.84Sb1.15Ce0.01Te2.16,1,No,Ce,0.01,Sb,,Ce (0.01) @ Sb site,1.8 10^-3 W/mK^2,285 uV/K,2.2 10^4 S/m,0.6 dimensionless,300 K
+10.1007/s12613-011-0446-5,s12613-011-0446-5.pdf,Ag0.84Sb1.15Te2.16,AgSbTe2-Cu,Ag0.84Sb1.15Cu0.01Te2.16,1,No,Cu,0.01,Sb,,Cu (0.01) @ Sb site,1.3 10^-3 W/mK^2,230 uV/K,2.0 10^4 S/m,0.45 dimensionless,300 K
+10.1007/s12613-011-0446-5,s12613-011-0446-5.pdf,Ag0.84Sb1.15Te2.16,AgSbTe2-Yb,Ag0.84Sb1.15Yb0.01Te2.16,1,No,Yb,0.01,Sb,,Yb (0.01) @ Sb site,1.7 10^-3 W/mK^2,280 uV/K,2.1 10^4 S/m,0.55 dimensionless,300 K
+10.1007/s40843-024-3152-0,s40843-024-3152-0.pdf,AgSbTe2,Ag0.9Sb1.1Te2.1,Ag0.9Sb1.1Te2.1,3,Yes,Ag,0.9,Ag,Sb (1.1) @ Sb; Te (2.1) @ Te,Ag (0.9) @ Ag site; Sb (1.1) @ Sb site; Te (2.1) @ Te site,,250 uV K^-1,8 10^4 S m^-1,,300 K
+10.1007/s40843-024-3152-0,s40843-024-3152-0.pdf,AgSbTe2,Ag0.9Sb1.1Te2.1,Ag0.9Sb1.1Te2.1,3,Yes,Ag,0.9,Ag,Sb (1.1) @ Sb; Te (2.1) @ Te,Ag (0.9) @ Ag site; Sb (1.1) @ Sb site; Te (2.1) @ Te site,,,,1.0 dimensionless | 1.5 dimensionless,600 K
+10.1007/s40843-024-3152-0,s40843-024-3152-0.pdf,AgSbTe2,Ag0.9Sb1.1Te2.1,Ag0.9Sb1.1Te2.1,3,Yes,Ag,0.9,Ag,Sb (1.1) @ Sb; Te (2.1) @ Te,Ag (0.9) @ Ag site; Sb (1.1) @ Sb site; Te (2.1) @ Te site,,not explicitly stated not explicitly stated,not explicitly stated not explicitly stated,,not reported
+10.1038/s41467-024-55280-0,s41467-024-55280-0.pdf,AgSbTe2,Ag0.94Sn0.06Te2,AgSb0.94Sn0.06Te2,1,No,Sn,6 mol%,Sb,,Sn (6 mol%) @ Sb site,,,231 S/cm,,300 K
+10.1038/s41467-024-55280-0,s41467-024-55280-0.pdf,AgSbTe2,AgSb0.94Sn0.06Te2,AgSb0.94Sn0.06Te2,1,No,Sn,6 mol%,Sb,,Sn (6 mol%) @ Sb site,,,231 S/cm,,300 K
+10.1038/s41467-024-55280-0,s41467-024-55280-0.pdf,AgSbTe2,AgSb0.94Sn0.06Te2,AgSb0.94Sn0.06Te2,1,No,Sn,0.06,Sb,,Sn (0.06) @ Sb site,,200 uV/K,,0.6 dimensionless,300 K
+10.1038/s41467-024-55280-0,s41467-024-55280-0.pdf,AgSbTe2,AgSb0.94Sn0.06Te2,AgSb0.94Sn0.06Te2,1,No,Sn,6 mol%,Sb,,Sn (6 mol%) @ Sb site,27 µWcm−1K−2,,,2.5 dimensionless,673 K
+10.1038/s41467-024-55280-0,s41467-024-55280-0.pdf,AgSbTe2,AgSb0.94Sn0.06Te2,AgSb0.94Sn0.06Te2,1,No,Sn,0.06,Sb,,Sn (0.06) @ Sb site,,310 uV/K,,2.5 dimensionless,673 K
+10.1038/s41467-024-55280-0,s41467-024-55280-0.pdf,AgSbTe2,AgSb0.97Sn0.03Te2,AgSb0.97Sn0.03Te2,1,No,Sn,0.03,Sb,,Sn (0.03) @ Sb site,,230 uV/K,,0.5 dimensionless,300 K
+10.1038/s41467-024-55280-0,s41467-024-55280-0.pdf,AgSbTe2,AgSb0.97Sn0.03Te2,AgSb0.97Sn0.03Te2,1,No,Sn,0.03,Sb,,Sn (0.03) @ Sb site,,310 uV/K,,2.1 dimensionless,673 K
+10.1038/s41467-024-55280-0,s41467-024-55280-0.pdf,AgSbTe2,AgSb0.9Sn0.1Te2,AgSb0.9Sn0.1Te2,1,No,Sn,0.1,Sb,,Sn (0.1) @ Sb site,,180 uV/K,,0.5 dimensionless,300 K
+10.1038/s41467-024-55280-0,s41467-024-55280-0.pdf,AgSbTe2,AgSb0.9Sn0.1Te2,AgSb0.9Sn0.1Te2,1,No,Sn,0.1,Sb,,Sn (0.1) @ Sb site,,300 uV/K,,1.5 dimensionless,673 K
+10.1038/s41467-024-55280-0,s41467-024-55280-0.pdf,AgSbTe2,AgSbTe2,AgSbTe2,0,No,,,,,,,270 µV/K,89 S/cm,0.4 dimensionless,300 K
+10.1038/s41467-024-55280-0,s41467-024-55280-0.pdf,AgSbTe2,AgSbTe2,AgSbTe2,0,No,,,,,,,389 µV/K,,,465 K
+10.1038/s41467-024-55280-0,s41467-024-55280-0.pdf,AgSbTe2,AgSbTe2,AgSbTe2,0,No,,,,,,,380 uV/K,,,500 K
+10.1038/s41467-024-55280-0,s41467-024-55280-0.pdf,AgSbTe2,AgSbTe2,AgSbTe2,0,No,,,,,,,300 uV/K,,0.7 dimensionless,673 K
+10.1038/s41467-024-55280-0,s41467-024-55280-0.pdf,AgSbTe2,Pristine AgSbTe2,AgSbTe2,0,No,,,,,,,270 μV/K,89 S/cm,,300 K
+10.1038/s41467-024-55280-0,s41467-024-55280-0.pdf,AgSbTe2,Pristine AgSbTe2,AgSbTe2,0,No,,,,,,,389 μV/K,,,465 K
+10.1557/s43578-025-01619-2,s43578-025-01619-2.pdf,AgSbTe2,GeSe-15%AgSbTe2,GeSe-15%AgSbTe2,1,No,AgSbTe2,15%,unclear,,AgSbTe2 (15%) @ unclear site,,,,0.05 dimensionless,300 K
+10.1557/s43578-025-01619-2,s43578-025-01619-2.pdf,AgSbTe2,GeSe-15%AgSbTe2,GeSe-15%AgSbTe2,1,No,AgSbTe2,15%,unclear,,AgSbTe2 (15%) @ unclear site,,,,0.15 dimensionless,350 K
+10.1557/s43578-025-01619-2,s43578-025-01619-2.pdf,AgSbTe2,GeSe-15%AgSbTe2,GeSe-15%AgSbTe2,1,No,AgSbTe2,15%,unclear,,AgSbTe2 (15%) @ unclear site,,,,0.25 dimensionless,400 K
+10.1557/s43578-025-01619-2,s43578-025-01619-2.pdf,AgSbTe2,GeSe-15%AgSbTe2,GeSe-15%AgSbTe2,1,No,AgSbTe2,15%,unclear,,AgSbTe2 (15%) @ unclear site,,,,0.35 dimensionless,450 K
+10.1557/s43578-025-01619-2,s43578-025-01619-2.pdf,AgSbTe2,GeSe-15%AgSbTe2,GeSe-15%AgSbTe2,1,No,AgSbTe2,15%,unclear,,AgSbTe2 (15%) @ unclear site,,,,0.45 dimensionless,500 K
+10.1557/s43578-025-01619-2,s43578-025-01619-2.pdf,AgSbTe2,GeSe-15%AgSbTe2,GeSe-15%AgSbTe2,1,No,AgSbTe2,15%,unclear,,AgSbTe2 (15%) @ unclear site,,,,0.55 dimensionless,550 K
+10.1557/s43578-025-01619-2,s43578-025-01619-2.pdf,AgSbTe2,GeSe-15%AgSbTe2,GeSe-15%AgSbTe2,1,No,AgSbTe2,15%,unclear,,AgSbTe2 (15%) @ unclear site,,,,0.65 dimensionless,600 K
+10.1557/s43578-025-01619-2,s43578-025-01619-2.pdf,AgSbTe2,GeSe-15%AgSbTe2,GeSe-15%AgSbTe2,1,No,AgSbTe2,15%,unclear,,AgSbTe2 (15%) @ unclear site,,,,0.75 dimensionless,650 K
+10.1557/s43578-025-01619-2,s43578-025-01619-2.pdf,AgSbTe2,GeSe-15%AgSbTe2,GeSe-15%AgSbTe2,1,No,AgSbTe2,15%,unclear,,AgSbTe2 (15%) @ unclear site,,,,0.85 dimensionless,700 K
+,science.1092963.pdf,AgPb_mSbTe_2+m,Ag1-xPb10Sb(Bi)Te12,Ag1-xPb10Sb(Bi)Te12,1,No,Ag,1-x,Ag,,Ag (1-x) @ Ag site,17.0 uW/cm K2,,740 S/cm,,300 K
+,science.1092963.pdf,AgPb_mSbTe_2+m,Ag1-xPb18SbTe20,Ag1-xPb18SbTe20,1,No,Ag,1-x,Ag,,Ag (1-x) @ Ag site,,-135 uV/K,1850 S/cm,,300 K
+,science.1092963.pdf,AgPb_mSbTe_2+m,Ag1-xPb18SbTe20,Ag1-xPb18SbTe20,1,No,Ag,1-x,Ag,,Ag (1-x) @ Ag site,28.0 uW/cm K2,-335 uV/K,,,700 K
+,science.1092963.pdf,AgPb_mSbTe_2+m,Ag1-xPb18SbTe20,Ag1-xPb18SbTe20,1,No,Ag,1-x,Ag,,Ag (1-x) @ Ag site,,,,2.1 dimensionless,800 K
+,science.1092963.pdf,AgPb_mSbTe_2+m,AgPb10SbTe12,AgPb10SbTe12,2,Yes,Ag,nominal,Ag,Sb (nominal) @ Sb,Ag (nominal) @ Ag site; Sb (nominal) @ Sb site,12.3 uW/cm K2,-154 uV/K,520 S/cm,,300 K
+,science.1092963.pdf,AgPb_mSbTe_2+m,AgPb10SbTe12,AgPb10SbTe12,1,No,Pb,m=10,multiple sites,,Pb (m=10) @ multiple sites site,,-50 uV/K,2000 S/cm,0.4 dimensionless,300 K
+,science.1092963.pdf,AgPb_mSbTe_2+m,AgPb10SbTe12,AgPb10SbTe12,2,Yes,Ag,nominal,Ag,Sb (nominal) @ Sb,Ag (nominal) @ Ag site; Sb (nominal) @ Sb site,11.4 uW/cm K2,-290 uV/K,135 S/cm,1 dimensionless,700 K
+,science.1092963.pdf,AgPb_mSbTe_2+m,AgPb10SbTe12,AgPb10SbTe12,1,No,Pb,m=10,multiple sites,,Pb (m=10) @ multiple sites site,,-250 uV/K,500 S/cm,1.1 dimensionless,700 K
+,science.1092963.pdf,AgPb_mSbTe_2+m,AgPb18SbTe20,AgPb18SbTe20,1,No,Pb,m=18,multiple sites,,Pb (m=18) @ multiple sites site,,-135 uV/K,1850 S/cm,0.5 dimensionless,300 K
+,science.1092963.pdf,AgPb_mSbTe_2+m,AgPb18SbTe20,AgPb18SbTe20,1,No,Pb,m=18,multiple sites,,Pb (m=18) @ multiple sites site,,-335 uV/K,,,700 K
+,science.1092963.pdf,AgPb_mSbTe_2+m,AgPb18SbTe20,AgPb18SbTe20,1,No,Pb,m=18,multiple sites,,Pb (m=18) @ multiple sites site,,,400 S/cm,2.1 dimensionless,800 K
+,science.abb3517.pdf,AgSbTe2,6 mol % Cd-doped AgSbTe2,AgSb0.94Cd0.06Te2,1,No,Cd,6 mol %,Sb,,Cd (6 mol %) @ Sb site,13.6 mW cm-1 K-2,248 mV K-1,222 S cm-1,1.5 dimensionless,300 K
+,science.abb3517.pdf,AgSbTe2,6 mol % Cd-doped AgSbTe2,AgSb0.94Cd0.06Te2,1,No,Cd,6 mol %,Sb,,Cd (6 mol %) @ Sb site,18.3 mW cm-1 K-2,,,,543 K
+,science.abb3517.pdf,AgSbTe2,6 mol % Cd-doped AgSbTe2,AgSb0.94Cd0.06Te2,1,No,Cd,6 mol %,Sb,,Cd (6 mol %) @ Sb site,,,,2.6 dimensionless,573 K
+,science.abb3517.pdf,AgSbTe2,6 mol % Cd-doped AgSbTe2,AgSbTe2:Cd,1,No,Cd,6 mol %,unclear,,Cd (6 mol %) @ unclear site,,,,2.6 dimensionless,573 K
+,science.abb3517.pdf,AgSbTe2,6 mol % Cd-doped AgSbTe2,AgSbTe2:Cd,1,No,Cd,6 mol %,unclear,,Cd (6 mol %) @ unclear site,,,,0.6 dimensionless,room temperature
+,science.abb3517.pdf,AgSbTe2,AgSb0.94Cd0.06Te2,AgSb0.94Cd0.06Te2,1,No,Cd,6 mol %,Sb,,Cd (6 mol %) @ Sb site,14 uW/cmK2,250 uV/K,220 S/cm,1.5 dimensionless,300 K
+,science.abb3517.pdf,AgSbTe2,AgSb0.98Cd0.02Te2,AgSb0.98Cd0.02Te2,1,No,Cd,2 mol %,Sb,,Cd (2 mol %) @ Sb site,12 uW/cmK2,260 uV/K,180 S/cm,1.1 dimensionless,300 K
+,science.abb3517.pdf,AgSbTe2,AgSbTe2,AgSbTe2,0,No,,,,,,9 uW/cmK2,280 uV/K,120 S/cm,0.7 dimensionless,300 K
+,science.abb3517.pdf,AgSbTe2,Pristine AgSbTe2,AgSbTe2,0,No,,,,,,9.5 mW cm-1 K-2,260 mV K-1 | 279 mV K-1,121 S cm-1,0.6 dimensionless,300 K
+10.1142/S0217979226502358,sectional-analysis-of-thermoelectric-performance-in-agsbte2-ingots-processed-by-horizontal-zone-melting.pdf,AgSbTe2,Part I,AgSbTe2,0,No,,,,,,,90 µV/K,310 S cm-1,0.05 dimensionless,80 K
+10.1142/S0217979226502358,sectional-analysis-of-thermoelectric-performance-in-agsbte2-ingots-processed-by-horizontal-zone-melting.pdf,AgSbTe2,Part I,AgSbTe2,0,No,,,,,,,220 µV/K,180 S cm-1,0.4 dimensionless,300 K
+10.1142/S0217979226502358,sectional-analysis-of-thermoelectric-performance-in-agsbte2-ingots-processed-by-horizontal-zone-melting.pdf,AgSbTe2,Part I (Front section),AgSbTe2,0,No,,,,,,,,,0.82 dimensionless,307.8 K
+10.1142/S0217979226502358,sectional-analysis-of-thermoelectric-performance-in-agsbte2-ingots-processed-by-horizontal-zone-melting.pdf,AgSbTe2,Part II,AgSbTe2,0,No,,,,,,,135 µV/K,220 S cm-1,0.08 dimensionless,80 K
+10.1142/S0217979226502358,sectional-analysis-of-thermoelectric-performance-in-agsbte2-ingots-processed-by-horizontal-zone-melting.pdf,AgSbTe2,Part II,AgSbTe2,0,No,,,,,,,300 µV/K,165 S cm-1,0.6 dimensionless,300 K
+10.1142/S0217979226502358,sectional-analysis-of-thermoelectric-performance-in-agsbte2-ingots-processed-by-horizontal-zone-melting.pdf,AgSbTe2,Part III,AgSbTe2,0,No,,,,,,,190 µV/K,180 S cm-1,0.1 dimensionless,80 K
+10.1142/S0217979226502358,sectional-analysis-of-thermoelectric-performance-in-agsbte2-ingots-processed-by-horizontal-zone-melting.pdf,AgSbTe2,Part III,AgSbTe2,0,No,,,,,,,330 µV/K,155 S cm-1,,300 K
+10.1142/S0217979226502358,sectional-analysis-of-thermoelectric-performance-in-agsbte2-ingots-processed-by-horizontal-zone-melting.pdf,AgSbTe2,Part III,AgSbTe2,0,No,,,,,,,,,0.82 dimensionless,307.8 K
+10.1142/S0217979226502358,sectional-analysis-of-thermoelectric-performance-in-agsbte2-ingots-processed-by-horizontal-zone-melting.pdf,AgSbTe2,Part III (Terminal section),AgSbTe2,0,No,,,,,,,,,0.82 dimensionless,307.8 K
+,ssrn-4526442.pdf,AgSbTe2,AgSb0.94Ti0.05Te2,AgSb0.94Ti0.05Te2,2,Yes,Ti,0.05,Sb,Sb vacancy (0.01) @ Sb,Ti (0.05) @ Sb site; Sb vacancy (0.01) @ Sb site,,,2.3 * 10^4 S m-1,,300 K
+,ssrn-4526442.pdf,AgSbTe2,AgSb0.94Ti0.05Te2,AgSb0.94Ti0.05Te2,1,No,Ti,0.05,Sb,,Ti (0.05) @ Sb site,,,2.3 10^4 S m^-1,,300 K
+,ssrn-4526442.pdf,AgSbTe2,AgSb0.94Ti0.05Te2,AgSb0.94Ti0.05Te2,2,Yes,Ti,0.05,Sb,Sb vacancy (0.01) @ Sb,Ti (0.05) @ Sb site; Sb vacancy (0.01) @ Sb site,1.5 W m-1 K-1,,,,573 K
+,ssrn-4526442.pdf,AgSbTe2,AgSb0.94Ti0.05Te2,AgSb0.94Ti0.05Te2,1,No,Ti,0.05,Sb,,Ti (0.05) @ Sb site,1.5 W m^-1 K^-1,,,,573 K
+,ssrn-4526442.pdf,AgSbTe2,AgSb0.94Ti0.05Te2,AgSb0.94Ti0.05Te2,2,Yes,Ti,0.05,Sb,Sb vacancy (0.01) @ Sb,Ti (0.05) @ Sb site; Sb vacancy (0.01) @ Sb site,,,,1.8 dimensionless,673 K
+,ssrn-4526442.pdf,AgSbTe2,AgSb0.94Ti0.05Te2,AgSb0.94Ti0.05Te2,2,Yes,Ti,0.05,Sb,Sb vacancy (0.01) @ Sb,Ti (0.05) @ Sb site; Sb vacancy (0.01) @ Sb site,1.42 mW m-1 K-2,,,,323-623 K
+,ssrn-4526442.pdf,AgSbTe2,AgSb0.95Ti0.05Te2,AgSb0.95Ti0.05Te2,1,No,Ti,0.05,Sb,,Ti (0.05) @ Sb site,,,1.6 * 10^4 S m-1,,300 K
+,ssrn-4526442.pdf,AgSbTe2,AgSb0.95Ti0.05Te2,AgSb0.95Ti0.05Te2,1,No,Ti,0.05,Sb,,Ti (0.05) @ Sb site,1.0 mW m-1 K-2,260 uV K-1,1.5 10^4 S m-1,,323 K
+,ssrn-4526442.pdf,AgSbTe2,AgSb0.95Ti0.05Te2,AgSb0.95Ti0.05Te2,1,No,Ti,0.05,Sb,,Ti (0.05) @ Sb site,1.2 mW m-1 K-2,,,,523 K
+,ssrn-4526442.pdf,AgSbTe2,AgSb0.95Ti0.05Te2,AgSb0.95Ti0.05Te2,1,No,Ti,0.05,Sb,,Ti (0.05) @ Sb site,,,,1.4 dimensionless,573 K
+,ssrn-4526442.pdf,AgSbTe2,AgSb0.95Ti0.05Te2,AgSb0.95Ti0.05Te2,1,No,Ti,0.05,Sb,,Ti (0.05) @ Sb site,,,,1.8 dimensionless,623 K
+,ssrn-4526442.pdf,AgSbTe2,AgSb1-xTixTe2 (x=0),AgSbTe2,1,No,Ti,0,Sb,,Ti (0) @ Sb site,0.81 mW m^-1 K^-2,,1.2 10^4 S m^-1,,300 K
+,ssrn-4526442.pdf,AgSbTe2,AgSb1-xTixTe2 (x=0.05),AgSb0.95Ti0.05Te2,1,No,Ti,0.05,Sb,,Ti (0.05) @ Sb site,,,1.6 10^4 S m^-1,,300 K
+,ssrn-4526442.pdf,AgSbTe2,AgSb1-xTixTe2 (x=0.05),AgSb0.95Ti0.05Te2,1,No,Ti,0.05,Sb,,Ti (0.05) @ Sb site,1.2 mW m^-1 K^-2,,,,523 K
+,ssrn-4526442.pdf,AgSbTe2,AgSb1-xTixTe2 (x=0.05),AgSb0.95Ti0.05Te2,1,No,Ti,0.05,Sb,,Ti (0.05) @ Sb site,,,,1.4 dimensionless,573 K
+,ssrn-4526442.pdf,AgSbTe2,AgSbTe2 (pristine),AgSbTe2,0,No,,,,,,0.81 mW m-1 K-2,260 uV K-1,1.2 * 10^4 S m-1,,300 K
+,ssrn-6617408.pdf,SnTe-AgSbTe2 (s-AST),SnTe-3% s-AST,SnTe-3% AgSbTe2,1,No,AgSbTe2,3%,unclear,,AgSbTe2 (3%) @ unclear site,0.5 mW m^-1 K^-2,50 uV K^-1,3.0 10^5 S m^-1,0.05 dimensionless,300 K
+,ssrn-6617408.pdf,SnTe-AgSbTe2 (s-AST),SnTe-8% s-AST,SnTe-8% AgSbTe2,2,Yes,Ag,8%,Ag,Sb (8%) @ Sb,Ag (8%) @ Ag site; Sb (8%) @ Sb site,2.79 mW m-1K-2,172.3 μV K-1,,1.28 dimensionless,823 K
+,ssrn-6617408.pdf,SnTe-AgSbTe2 (s-AST),SnTe-8% s-AST,SnTe-8% AgSbTe2,1,No,AgSbTe2,8%,unclear,,AgSbTe2 (8%) @ unclear site,,,,1.28 dimensionless,823 K
+,ssrn-6617408.pdf,SnTe-AgSbTe2 (s-AST),s-AST,AgSbTe2,2,Yes,Ag,1,multiple sites,Sb (1) @ multiple sites,Ag (1) @ multiple sites site; Sb (1) @ multiple sites site,,,121.9 S cm-1,,317 K
+,ssrn-6617408.pdf,SnTe-AgSbTe2 (s-AST),s-AST,AgSbTe2 containing Sb2O3 impurities,1,No,Sb2O3,minor,unclear,,Sb2O3 (minor) @ unclear site,,,121.9 S cm-1,,317 K
+,ssrn-6617408.pdf,SnTe-AgSbTe2 (s-AST),s-AST,AgSbTe2,2,Yes,Ag,1,multiple sites,Sb (1) @ multiple sites,Ag (1) @ multiple sites site; Sb (1) @ multiple sites site,,231.2 μV K-1,,,537 K
+,ssrn-6617408.pdf,SnTe-AgSbTe2 (s-AST),s-AST,AgSbTe2 containing Sb2O3 impurities,1,No,Sb2O3,minor,unclear,,Sb2O3 (minor) @ unclear site,,231.2 uV K-1,,,537 K
+,ssrn-6617408.pdf,SnTe-AgSbTe2 (s-AST),s-AST,AgSbTe2,2,Yes,Ag,1,multiple sites,Sb (1) @ multiple sites,Ag (1) @ multiple sites site; Sb (1) @ multiple sites site,,,78.2 S cm-1,0.86 dimensionless,614 K
+,ssrn-6617408.pdf,SnTe-AgSbTe2 (s-AST),s-AST,AgSbTe2 containing Sb2O3 impurities,1,No,Sb2O3,minor,unclear,,Sb2O3 (minor) @ unclear site,,,78.2 S cm-1,0.86 dimensionless,614 K
+,ssrn-6617408.pdf,SnTe-AgSbTe2 (s-AST),s-AST pellet,AgSbTe2,0,No,,,,,,,150 uV K^-1,125 S cm^-1,0.1 dimensionless,300 K
+,ssrn-6617408.pdf,SnTe-AgSbTe2 (s-AST),s-AST pellet,AgSbTe2,0,No,,,,,,,230 uV K^-1,80 S cm^-1,0.85 dimensionless,600 K

@@ -1,0 +1,26 @@
+model,best_params,cv_r2_mean,train_r2,test_r2,test_rmse,test_mae,property,test_r2_log10,test_rmse_log10
+DTR,"{""min_samples_split"": 4, ""min_samples_leaf"": 1, ""max_depth"": null}",0.6964,0.9751,0.6357,61.342,42.8078,seebeck_coefficient,,
+RandomForest,"{""n_estimators"": 300, ""min_samples_leaf"": 1, ""max_features"": 1.0, ""max_depth"": null}",0.6765,0.9627,0.7361,52.205,39.1024,seebeck_coefficient,,
+GBR,"{""subsample"": 1.0, ""n_estimators"": 100, ""min_samples_leaf"": 1, ""max_depth"": 6, ""learning_rate"": 0.2}",0.6979,0.9982,0.5513,68.0722,45.9381,seebeck_coefficient,,
+XGBR,"{""subsample"": 1.0, ""reg_lambda"": 1, ""n_estimators"": 300, ""min_child_weight"": 5, ""max_depth"": 8, ""learning_rate"": 0.2, ""colsample_bytree"": 0.85}",0.655,0.9906,0.7018,55.4992,39.1903,seebeck_coefficient,,
+CatBoost,"{""learning_rate"": 0.2, ""l2_leaf_reg"": 3, ""iterations"": 100, ""depth"": 4}",0.7259,0.9395,0.7746,48.2452,37.2374,seebeck_coefficient,,
+DTR,"{""min_samples_split"": 4, ""min_samples_leaf"": 1, ""max_depth"": 6}",0.3182,0.6803,0.2347,83.5579,52.6951,electrical_conductivity,0.9044,0.188
+RandomForest,"{""n_estimators"": 500, ""min_samples_leaf"": 1, ""max_features"": 0.7, ""max_depth"": 12}",0.4699,0.8322,-0.0057,95.7857,61.864,electrical_conductivity,0.7457,0.3067
+GBR,"{""subsample"": 0.85, ""n_estimators"": 200, ""min_samples_leaf"": 1, ""max_depth"": 3, ""learning_rate"": 0.1}",0.5419,0.966,0.2218,84.2601,54.6255,electrical_conductivity,0.9184,0.1737
+XGBR,"{""subsample"": 1.0, ""reg_lambda"": 0.1, ""n_estimators"": 500, ""min_child_weight"": 1, ""max_depth"": 8, ""learning_rate"": 0.01, ""colsample_bytree"": 0.6}",0.5217,0.9832,0.3143,79.0927,51.0411,electrical_conductivity,0.9207,0.1712
+CatBoost,"{""learning_rate"": 0.2, ""l2_leaf_reg"": 3, ""iterations"": 500, ""depth"": 4}",0.5419,0.9887,0.302,79.8003,50.5642,electrical_conductivity,0.9337,0.1566
+DTR,"{""min_samples_split"": 4, ""min_samples_leaf"": 4, ""max_depth"": 6}",0.3369,0.7193,0.2391,0.5496,0.3145,thermal_conductivity,0.118,0.2168
+RandomForest,"{""n_estimators"": 800, ""min_samples_leaf"": 1, ""max_features"": ""log2"", ""max_depth"": null}",0.5083,0.9409,0.8192,0.2679,0.1839,thermal_conductivity,0.635,0.1395
+GBR,"{""subsample"": 1.0, ""n_estimators"": 50, ""min_samples_leaf"": 4, ""max_depth"": 5, ""learning_rate"": 0.05}",0.4999,0.893,0.5591,0.4184,0.2572,thermal_conductivity,0.3767,0.1823
+XGBR,"{""subsample"": 0.85, ""reg_lambda"": 0.1, ""n_estimators"": 50, ""min_child_weight"": 5, ""max_depth"": 5, ""learning_rate"": 0.2, ""colsample_bytree"": 0.85}",0.5037,0.9681,0.7806,0.2951,0.2142,thermal_conductivity,0.4805,0.1664
+CatBoost,"{""learning_rate"": 0.03, ""l2_leaf_reg"": 3, ""iterations"": 300, ""depth"": 10}",0.5851,0.9642,0.8419,0.2505,0.1784,thermal_conductivity,0.6351,0.1395
+DTR,"{""min_samples_split"": 8, ""min_samples_leaf"": 1, ""max_depth"": 4}",0.4466,0.6838,0.5278,4.2668,3.0083,power_factor,0.8467,0.2168
+RandomForest,"{""n_estimators"": 300, ""min_samples_leaf"": 1, ""max_features"": 1.0, ""max_depth"": null}",0.5138,0.9068,0.4552,4.5831,2.9144,power_factor,0.8684,0.2009
+GBR,"{""subsample"": 0.7, ""n_estimators"": 300, ""min_samples_leaf"": 8, ""max_depth"": 2, ""learning_rate"": 0.1}",0.5915,0.9254,0.3989,4.814,3.0935,power_factor,0.894,0.1803
+XGBR,"{""subsample"": 0.6, ""reg_lambda"": 3, ""n_estimators"": 200, ""min_child_weight"": 3, ""max_depth"": 2, ""learning_rate"": 0.2, ""colsample_bytree"": 1.0}",0.5489,0.9484,0.145,5.7417,3.4807,power_factor,0.8743,0.1964
+CatBoost,"{""learning_rate"": 0.05, ""l2_leaf_reg"": 3, ""iterations"": 500, ""depth"": 4}",0.5546,0.9709,0.5385,4.2182,2.5689,power_factor,0.919,0.1576
+DTR,"{""min_samples_split"": 8, ""min_samples_leaf"": 1, ""max_depth"": 6}",0.753,0.918,0.7055,0.3479,0.235,ZT,,
+RandomForest,"{""n_estimators"": 300, ""min_samples_leaf"": 1, ""max_features"": 1.0, ""max_depth"": null}",0.8037,0.9754,0.7717,0.3063,0.2085,ZT,,
+GBR,"{""subsample"": 0.7, ""n_estimators"": 300, ""min_samples_leaf"": 2, ""max_depth"": 6, ""learning_rate"": 0.01}",0.8122,0.9758,0.7921,0.2923,0.2102,ZT,,
+XGBR,"{""subsample"": 0.6, ""reg_lambda"": 1, ""n_estimators"": 200, ""min_child_weight"": 5, ""max_depth"": 4, ""learning_rate"": 0.05, ""colsample_bytree"": 0.6}",0.799,0.9671,0.808,0.2809,0.1934,ZT,,
+CatBoost,"{""learning_rate"": 0.2, ""l2_leaf_reg"": 3, ""iterations"": 200, ""depth"": 5}",0.8139,0.9905,0.8267,0.2669,0.1668,ZT,,

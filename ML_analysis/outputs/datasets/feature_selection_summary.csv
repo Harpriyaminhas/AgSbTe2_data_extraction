@@ -1,0 +1,6 @@
+property,n_features_before,n_after_variance_corr,n_dropped_correlated,n_selected,cv_r2_full_features,cv_r2_selected_features
+seebeck_coefficient,151,,58,12,0.687,0.673
+electrical_conductivity,151,,58,11,-0.263,-0.177
+thermal_conductivity,151,,62,11,0.6,0.61
+power_factor,151,,60,11,0.505,0.542
+ZT,151,,56,12,0.804,0.807

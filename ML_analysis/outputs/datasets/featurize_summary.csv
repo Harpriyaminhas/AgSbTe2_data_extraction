@@ -1,0 +1,6 @@
+property,input_rows,parse_failures,output_rows,n_reconstructed_from_fields,n_features
+seebeck_coefficient,694,74,620,13,151
+electrical_conductivity,580,62,518,8,151
+thermal_conductivity,379,60,319,6,151
+power_factor,367,40,327,9,151
+ZT,929,137,792,12,151

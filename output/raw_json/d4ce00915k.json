@@ -2,8 +2,113 @@
   "source_pdf": "d4ce00915k.pdf",
   "doi": "10.1039/d4ce00915k",
   "base_composition": "AgSbTe2",
-  "materials": [],
-  "extraction_notes": "[text-pass ERROR: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 500, model: gemini-3.1-flash-lite\\nPlease retry in 35.116714389s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.1-flash-lite'}, 'quotaValue': '500'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '35s'}]}}] [figure-pass p1-5 ERROR: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 500, model: gemini-3.1-flash-lite\\nPlease retry in 8.313730001s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.1-flash-lite'}, 'quotaValue': '500'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '8s'}]}}] [figure-pass p6-10 ERROR: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 500, model: gemini-3.1-flash-lite\\nPlease retry in 41.364819519s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.1-flash-lite'}, 'quotaValue': '500'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '41s'}]}}] [figure-pass p11-14 ERROR: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 500, model: gemini-3.1-flash-lite\\nPlease retry in 15.356010358s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.1-flash-lite'}, 'quotaValue': '500'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '15s'}]}}] ",
-  "status": "partial-error",
+  "materials": [
+    {
+      "sample_id": "Ag2Se/AgSbSe2 nanocomposite",
+      "full_formula": "(Ag2Se)0.98(2AgSbSe2)0.02",
+      "dopant_or_codopant": [
+        {
+          "element": "AgSbSe2",
+          "ratio_or_percentage": "2 mol%",
+          "doped_site": "interstitial",
+          "site_evidence": "nano-inclusions"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.93",
+          "unit": "dimensionless",
+          "temperature_value": "375",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Table 2",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "-150",
+          "unit": "\u03bcV K-1",
+          "temperature_value": "375",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Table 2",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "Ag0.98(2AgSbSe2)0.02",
+      "full_formula": "Ag0.98(2AgSbSe2)0.02",
+      "dopant_or_codopant": [
+        {
+          "element": "Ag",
+          "ratio_or_percentage": "0.98",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        },
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "0.02",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        },
+        {
+          "element": "Se",
+          "ratio_or_percentage": "0.02",
+          "doped_site": "multiple sites",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "ZT",
+          "value": "0.8",
+          "unit": "dimensionless",
+          "temperature_value": "300-375",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "",
+          "notes": "Visually estimated from Fig. 4(c) top right inset plot"
+        }
+      ]
+    },
+    {
+      "sample_id": "(Ag2Se)0.98(2AgSbSe2)0.02",
+      "full_formula": "(Ag2Se)0.98(2AgSbSe2)0.02",
+      "dopant_or_codopant": [
+        {
+          "element": "Sb",
+          "ratio_or_percentage": "0.02",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "-150",
+          "unit": "uV K-1",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "table",
+          "source_detail": "Table 2",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.93",
+          "unit": "dimensionless",
+          "temperature_value": "375",
+          "temperature_unit": "K",
+          "source_type": "table",
+          "source_detail": "Table 2",
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The article focuses on Ag2Q (Q=S, Se, Te) and AgCuQ systems. While AgSbTe2 is mentioned in the context of Ag2Se/AgSbSe2 nanocomposites (Ref 77), no specific AgSbTe2-family compounds (e.g., AgSbTe2-GeTe alloys) were reported with thermoelectric data in the provided text. [figure-pass p1-5] The provided pages discuss silver-based chalcogenide thermoelectric materials, specifically focusing on Ag2S, Ag2Se, and Ag2Te systems. While AgSbTe2 is mentioned in the prompt as a target family, the provided text and figures do not contain any thermoelectric property data (Seebeck coefficient, electrical conductivity, thermal conductivity, power factor, or ZT) for AgSbTe2 or its doped/alloyed derivatives. The figures provided (Fig. 1 and Fig. 2) focus on Ag2S, Ag2Se, and Ag2Te systems and their mechanical/flexibility properties, not AgSbTe2. [figure-pass p6-10] The paper discusses AgSbTe2-family compounds in the context of Ag2Se/AgSbSe2 composite synthesis shown in Fig. 4(c). The sample (Ag0.98(2AgSbSe2)0.02) is explicitly mentioned in the caption of Fig. 4. [figure-pass p11-14] The provided pages focus primarily on Ag2Se-based materials. The only AgSbTe2-family compound mentioned is (Ag2Se)0.98(2AgSbSe2)0.02, which appears in Table 2. No property-vs-temperature plots for AgSbTe2-family compounds were found. ",
+  "status": "ok",
   "n_pages": 23
 }

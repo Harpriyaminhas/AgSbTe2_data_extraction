@@ -1,9 +1,158 @@
 {
   "source_pdf": "ed81045f677092e8679784819bd15f32.pdf",
   "doi": "10.30546/209501.2024.1.3.077",
-  "base_composition": "AgSbTe2",
-  "materials": [],
-  "extraction_notes": "[text-pass ERROR: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 500, model: gemini-3.1-flash-lite\\nPlease retry in 24.917458824s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.1-flash-lite'}, 'quotaValue': '500'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '24s'}]}}] [figure-pass p1-5 ERROR: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 500, model: gemini-3.1-flash-lite\\nPlease retry in 8.094536106s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.1-flash-lite'}, 'quotaValue': '500'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '8s'}]}}] [figure-pass p6-6 ERROR: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 500, model: gemini-3.1-flash-lite\\nPlease retry in 28.610785524s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.1-flash-lite'}, 'quotaValue': '500'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '28s'}]}}] ",
-  "status": "partial-error",
+  "base_composition": "AgSbTe2-PbTe",
+  "materials": [
+    {
+      "sample_id": "(AgSbTe2)0.8(PbTe)0.2",
+      "full_formula": "(AgSbTe2)0.8(PbTe)0.2",
+      "dopant_or_codopant": [
+        {
+          "element": "Pb",
+          "ratio_or_percentage": "0.2",
+          "doped_site": "unclear",
+          "site_evidence": ""
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "variable",
+          "unit": "(Ohm.cm)-1",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "Fig. 1",
+          "notes": "Temperature range 80-550 K"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "variable",
+          "unit": "uV/K",
+          "temperature_value": "",
+          "temperature_unit": "",
+          "source_type": "figure",
+          "source_detail": "Fig. 2",
+          "notes": "Temperature range 80-550 K"
+        }
+      ]
+    },
+    {
+      "sample_id": "(AgSbTe2)0.8(PbTe)0.2",
+      "full_formula": "(AgSbTe2)0.8(PbTe)0.2",
+      "dopant_or_codopant": [
+        {
+          "element": "Pb",
+          "ratio_or_percentage": "0.2",
+          "doped_site": "multiple sites",
+          "site_evidence": "solid solution formation"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "50",
+          "unit": "Ohm^-1 cm^-1",
+          "temperature_value": "80",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 1",
+          "notes": "Visually estimated from Fig. 1"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "58",
+          "unit": "Ohm^-1 cm^-1",
+          "temperature_value": "200",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 1",
+          "notes": "Visually estimated from Fig. 1"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "52",
+          "unit": "Ohm^-1 cm^-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 1",
+          "notes": "Visually estimated from Fig. 1"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "35",
+          "unit": "Ohm^-1 cm^-1",
+          "temperature_value": "450",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 1",
+          "notes": "Visually estimated from Fig. 1"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "44",
+          "unit": "Ohm^-1 cm^-1",
+          "temperature_value": "530",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 1",
+          "notes": "Visually estimated from Fig. 1"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "55",
+          "unit": "uV/K",
+          "temperature_value": "80",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 2",
+          "notes": "Visually estimated from Fig. 2"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "60",
+          "unit": "uV/K",
+          "temperature_value": "200",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 2",
+          "notes": "Visually estimated from Fig. 2"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "65",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 2",
+          "notes": "Visually estimated from Fig. 2"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "122",
+          "unit": "uV/K",
+          "temperature_value": "410",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 2",
+          "notes": "Visually estimated from Fig. 2"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "105",
+          "unit": "uV/K",
+          "temperature_value": "530",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Fig. 2",
+          "notes": "Visually estimated from Fig. 2"
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[text-pass] The article focuses on the band gap determination of (AgSbTe2)0.8(PbTe)0.2. While electrical conductivity and Seebeck coefficient are plotted against temperature, no specific numerical values are provided in the text or tables for these properties at specific temperatures, only the band gap values derived from them. [figure-pass p6-6] The provided page contains only a list of references and no plots or tables showing thermoelectric properties as a function of temperature for AgSbTe2-family compounds. ",
+  "status": "ok",
   "n_pages": 6
 }

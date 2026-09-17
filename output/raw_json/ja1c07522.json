@@ -2,8 +2,371 @@
   "source_pdf": "ja1c07522.pdf",
   "doi": "10.1021/jacs.1c07522",
   "base_composition": "AgSbTe2",
-  "materials": [],
-  "extraction_notes": "[text-pass ERROR: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 500, model: gemini-3.1-flash-lite\\nPlease retry in 46.179602368s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.1-flash-lite', 'location': 'global'}, 'quotaValue': '500'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '46s'}]}}] [figure-pass p1-5 ERROR: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 500, model: gemini-3.1-flash-lite\\nPlease retry in 10.048646201s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.1-flash-lite'}, 'quotaValue': '500'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '10s'}]}}] [figure-pass p6-9 ERROR: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 500, model: gemini-3.1-flash-lite\\nPlease retry in 9.716496126s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.1-flash-lite'}, 'quotaValue': '500'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '9s'}]}}] ",
-  "status": "partial-error",
+  "materials": [
+    {
+      "sample_id": "ATMS",
+      "full_formula": "AgMnSbTe3",
+      "dopant_or_codopant": [
+        {
+          "element": "Mn",
+          "ratio_or_percentage": "equimolar ratio",
+          "doped_site": "multiple sites",
+          "site_evidence": "Ag, Mn, and Sb cations statistically occupying the Na sites"
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "power factor",
+          "value": "12.2",
+          "unit": "\u03bcW cm-1 K-2",
+          "temperature_value": "823",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Abstract",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.34",
+          "unit": "W m-1 K-1",
+          "temperature_value": "823",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Abstract",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "1.46",
+          "unit": "dimensionless",
+          "temperature_value": "823",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Abstract",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.87",
+          "unit": "dimensionless",
+          "temperature_value": "400-823",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Abstract",
+          "notes": "average ZT"
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "158.4",
+          "unit": "S/cm",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Results and Discussion, Section 3",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "91.1",
+          "unit": "S/cm",
+          "temperature_value": "623",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Results and Discussion, Section 3",
+          "notes": ""
+        },
+        {
+          "property": "electrical conductivity",
+          "value": "242",
+          "unit": "S/cm",
+          "temperature_value": "823",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Results and Discussion, Section 3",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "197",
+          "unit": "\u03bcV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Results and Discussion, Section 3",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "289",
+          "unit": "\u03bcV/K",
+          "temperature_value": "573",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Results and Discussion, Section 3",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "225",
+          "unit": "\u03bcV/K",
+          "temperature_value": "823",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Results and Discussion, Section 3",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "6.1",
+          "unit": "\u03bcW cm-1 K-2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Results and Discussion, Section 3",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.7",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Results and Discussion, Section 3",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.57",
+          "unit": "W m-1 K-1",
+          "temperature_value": "623",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Results and Discussion, Section 3",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.62",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Results and Discussion, Section 3",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.27",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "text",
+          "source_detail": "Results and Discussion, Section 3",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_id": "AgMnSbTe3 (m=1)",
+      "full_formula": "AgMnSbTe3",
+      "dopant_or_codopant": [
+        {
+          "element": "Mn",
+          "ratio_or_percentage": "equimolar ratio",
+          "doped_site": "multiple sites",
+          "site_evidence": "The paper states Ag, Mn, and Sb cations statistically occupy the Na sites in the rock-salt structure."
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "electrical conductivity",
+          "value": "120",
+          "unit": "Scm^-1",
+          "temperature_value": "823",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Figure 4A",
+          "notes": "Visually estimated from Figure 4A"
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "240",
+          "unit": "uVK^-1",
+          "temperature_value": "823",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Figure 4B",
+          "notes": "Visually estimated from Figure 4B"
+        },
+        {
+          "property": "power factor",
+          "value": "12.2",
+          "unit": "uW cm^-1 K^-2",
+          "temperature_value": "823",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Figure 4C",
+          "notes": "Visually estimated from Figure 4C"
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.7",
+          "unit": "Wm^-1K^-1",
+          "temperature_value": "823",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Figure 4D",
+          "notes": "Visually estimated from Figure 4D"
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.34",
+          "unit": "Wm^-1K^-1",
+          "temperature_value": "823",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Figure 4E",
+          "notes": "Visually estimated from Figure 4E"
+        },
+        {
+          "property": "ZT",
+          "value": "1.46",
+          "unit": "dimensionless",
+          "temperature_value": "823",
+          "temperature_unit": "K",
+          "source_type": "figure",
+          "source_detail": "Figure 4F",
+          "notes": "Visually estimated from Figure 4F"
+        }
+      ]
+    },
+    {
+      "sample_id": "AgMnSbTe2 (m=1)",
+      "full_formula": "AgMnSbTe2",
+      "dopant_or_codopant": [
+        {
+          "element": "Mn",
+          "ratio_or_percentage": "equimolar",
+          "doped_site": "multiple sites",
+          "site_evidence": "The paper states Ag, Mn, and Sb occupy the Na sites."
+        }
+      ],
+      "thermoelectric_properties": [
+        {
+          "property": "Seebeck coefficient",
+          "value": "197",
+          "unit": "uV/K",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "289",
+          "unit": "uV/K",
+          "temperature_value": "573",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "Seebeck coefficient",
+          "value": "225",
+          "unit": "uV/K",
+          "temperature_value": "823",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "6.1",
+          "unit": "uW cm-1 K-2",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "power factor",
+          "value": "12.2",
+          "unit": "uW cm-1 K-2",
+          "temperature_value": "823",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.7",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "thermal conductivity",
+          "value": "0.57",
+          "unit": "W m-1 K-1",
+          "temperature_value": "623",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.62",
+          "unit": "W m-1 K-1",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "lattice thermal conductivity",
+          "value": "0.34",
+          "unit": "W m-1 K-1",
+          "temperature_value": "823",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.27",
+          "unit": "dimensionless",
+          "temperature_value": "300",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        },
+        {
+          "property": "ZT",
+          "value": "0.87",
+          "unit": "dimensionless",
+          "temperature_value": "823",
+          "temperature_unit": "K",
+          "source_type": "body text",
+          "source_detail": "",
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "extraction_notes": "[figure-pass p1-5] The paper investigates AgMnSbTe3 (m=1) as an alloy of AgSbTe2 and MnTe. Thermoelectric properties were extracted from Figure 4 for the m=1 sample. [figure-pass p6-9] The paper discusses AgMnSbTe2 (ATMS) as an alloy of AgSbTe2 and MnTe. Data for AgMnSbTe2 (m=1) was extracted from the body text. Other compositions (m=2, 4, 6, 10) are mentioned as mixtures of MnTe and AgMnSbTe2. ",
+  "status": "ok",
   "n_pages": 9
 }

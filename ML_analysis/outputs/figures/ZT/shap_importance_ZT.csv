@@ -1,0 +1,13 @@
+,mean_abs_shap
+temperature_K,0.36771056163926397
+MagpieData minimum NUnfilled,0.1042779877790068
+MagpieData avg_dev GSvolume_pa,0.08632105012688583
+MagpieData mean SpaceGroupNumber,0.04684956604526168
+MagpieData avg_dev Electronegativity,0.045883298323458714
+dopant_host_radius_mismatch,0.036479743670365515
+MagpieData mean MeltingT,0.03522342487014466
+frac p valence electrons,0.033881179508814696
+MagpieData mean MendeleevNumber,0.03143373691380995
+MagpieData range CovalentRadius,0.024416765612759184
+frac d valence electrons,0.023061225553398446
+dopant_host_charge_mismatch,0.016042111795150134

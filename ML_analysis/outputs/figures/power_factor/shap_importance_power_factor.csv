@@ -1,0 +1,12 @@
+,mean_abs_shap
+temperature_K,0.08391992275085133
+MagpieData mean MendeleevNumber,0.02973179533419948
+MagpieData mean GSvolume_pa,0.02767170633008737
+MagpieData mean MeltingT,0.027669887351535017
+MagpieData avg_dev CovalentRadius,0.02601110493690078
+MagpieData mean NUnfilled,0.022293961837154028
+MagpieData mean NpUnfilled,0.020771509934115227
+MagpieData mean Number,0.019077566173277268
+dopant_concentration,0.013404468292915467
+dopant_host_radius_mismatch,0.012949044026033397
+dopant_host_charge_mismatch,0.01117316058591878

@@ -73,4 +73,30 @@ converted/normalized) — always check the `unit` column before comparing
 rows. Rows with `source_type = figure` are visually estimated from a plot,
 not read from exact text/table values.
 
-This is a snapshot as of the last `git push`.
+This is a snapshot as of the last `git push` (currently: all 173/173 papers
+successfully extracted).
+
+## ML analysis (`ML_analysis/`)
+
+A separate pipeline that takes the extracted dataset above and trains/
+benchmarks 5 regression models (Decision Tree, Random Forest, Gradient
+Boosting, XGBoost, CatBoost) per thermoelectric property, runs SHAP
+interpretability analysis, and screens dopant/site/ratio/temperature
+combinations for an inverse-design recommendation. See
+`ML_analysis/README.md` for full details.
+
+```bash
+cd ML_analysis
+pip install -r requirements.txt
+streamlit run ml_app.py
+```
+
+### Deploy the ML viewer on Streamlit Community Cloud
+
+Same process as above, but set the main file path to `ML_analysis/ml_app.py`
+when creating the app (same repo, different entry point).
+
+Note: this folder does **not** include the trained model `.pkl` files
+(~64MB, git-ignored) since the static viewer only needs the exported CSVs
+and figures — re-run `ML_analysis/src/train_models.py` locally if you need
+the actual model objects.
